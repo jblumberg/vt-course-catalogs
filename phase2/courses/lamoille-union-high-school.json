@@ -9,7 +9,7 @@
  "source_retrieved_on": "2026-11-14",
  "extracted_on": "2026-11-14",
  "extraction_status": "complete",
- "extraction_notes": "",
+ "extraction_notes": "Extracted from the 2026-27 Course Description Book (all 51 pages; p.1 cover only has artwork). 106 distinct catalog course entries; History & Science of Mummification appears in both Science (p.36) and Social Studies (p.42) with a single record (department Science). Two combined year entries split per consistency rules into semester records sharing one description: Accelerated Geometry Advanced / Accelerated Algebra II Advanced (HS445 & HS446) and AP Calculus AB / BC (HS443 & HS444; catalog says the pair is worth two credits). Catalog prints course # HS746 for both Jazz Band and Sound Mixing 101. No general credit rule is stated for courses, so credits are null (only EPIC: Rewild states 1.0 science credit, p.6). 'Advanced'-suffixed courses (e.g. Biology Advanced) are separate records with level honors. Added 7 Flexible Pathways program records (p.3-4; descriptions are the bullet text) and 13 GMTCC CTE program records listed by name only (p.4, description null, level CTE, credit statement in fulfills_text). Graduation requirements taken from catalog p.3; grade-level minimum credits (10th 4, 11th 12, 12th 16) come from the saved graduation-requirements web page. The 2016 PBGR policy PDF was not extracted. Grades 8-12 world language courses recorded as 9-12 with a note. Course lengths/grades otherwise as printed.",
  "graduation_requirements": {
   "total_credits": 24,
   "by_area": [
@@ -904,10 +904,10 @@
    "offering_note": null,
    "source_page": 21,
    "source_file": "catalogs/lamoille-union-high-school/catalog_2026-27.pdf",
-   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, exams, and other appropriate assessment tools; Catalog lists one course (HS445 & HS446, year-long): first semester Accelerated Geometry Advanced, second semester Accelerated Algebra II Advanced; one shared description"
+   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, exams, and other appropriate assessment tools; Catalog lists one year course (HS445 & HS446): first semester Accelerated Geometry Advanced, second semester Accelerated Algebra II Advanced; one shared description"
   },
   {
-   "course_name": "Algebra II Advanced",
+   "course_name": "Accelerated Algebra II Advanced",
    "course_code": "HS446",
    "department": "Mathematics",
    "description": "This class meets daily for the school year – first semester will be Accelerated Geometry Advanced, and second semester will be Accelerated Algebra II Advanced. This course will cover the eight essential standards in the Common Core Geometry curriculum: basic assumptions and definitions, triangles, parallelograms, circles, trigonometry, modeling and measurement. Emphasis will be placed on deductive reasoning. Algebra II content will include: number sets, axioms, open sentences in one variable, systems of linear equations and inequalities, quadratics, polynomials, factoring, rational numbers and expressions, complex equations, trigonometric functions, logarithmic and exponential functions.",
@@ -927,7 +927,7 @@
    "offering_note": null,
    "source_page": 21,
    "source_file": "catalogs/lamoille-union-high-school/catalog_2026-27.pdf",
-   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, exams, and other appropriate assessment tools; Catalog heading: Accelerated Geometry Advanced and Algebra II Advanced; described as \"second semester will be Accelerated Algebra II Advanced\"; one shared description"
+   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, exams, and other appropriate assessment tools; Catalog lists one year course (HS445 & HS446): first semester Accelerated Geometry Advanced, second semester Accelerated Algebra II Advanced; one shared description"
   },
   {
    "course_name": "Advanced Placement (AP) Calculus AB",
@@ -949,7 +949,7 @@
    "offering_note": null,
    "source_page": 21,
    "source_file": "catalogs/lamoille-union-high-school/catalog_2026-27.pdf",
-   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, portfolio exercises, exams and other appropriate assessment tools; Catalog lists one year course (HS443 & HS444): AB first semester, BC second semester; \"worth two credits upon successful completion\"; one shared description"
+   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, portfolio exercises, exams and other appropriate assessment tools; Catalog lists one year course (HS443 & HS444): AB first semester, BC second semester, \"worth two credits upon successful completion\"; one shared description"
   },
   {
    "course_name": "Advanced Placement (AP) Calculus BC",
@@ -971,7 +971,7 @@
    "offering_note": null,
    "source_page": 21,
    "source_file": "catalogs/lamoille-union-high-school/catalog_2026-27.pdf",
-   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, portfolio exercises, exams and other appropriate assessment tools; Catalog lists one year course (HS443 & HS444): AB first semester, BC second semester; \"worth two credits upon successful completion\"; one shared description"
+   "notes": "Formative & Summative Evaluation Methods: tests, quizzes, homework, classwork, class projects, notebooks, portfolio exercises, exams and other appropriate assessment tools; Catalog lists one year course (HS443 & HS444): AB first semester, BC second semester, \"worth two credits upon successful completion\"; one shared description"
   },
   {
    "course_name": "Advanced Placement (AP) Pre-Calculus",
@@ -1853,7 +1853,7 @@
    "offering_note": null,
    "source_page": 35,
    "source_file": "catalogs/lamoille-union-high-school/catalog_2026-27.pdf",
-   "notes": "Formative & Summative Evaluation Methods: students will be able to build key survival skills including plant, fungus and animal identification; water sourcing, filtration, and purification, shelter construction, field first aid, fire making, and food preparation; Course credit statement from EPIC: Rewild program page (p. 6); half-day, two consecutive blocks on blue or gold days"
+   "notes": "Formative & Summative Evaluation Methods: students will be able to build key survival skills including plant, fungus and animal identification; water sourcing, filtration, and purification, shelter construction, field first aid, fire making, and food preparation; Credit statement from EPIC: Rewild program page (p. 6); half-day, two consecutive blocks on blue or gold days"
   },
   {
    "course_name": "EPIC: Rewilder",
