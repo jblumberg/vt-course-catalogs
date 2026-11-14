@@ -1,5 +1,5 @@
 requirement_id,subject_area,requirement,complete_2033,transitional_2031_32,benchmark_2025_survey,notes
-ELA-INTRO,ELA,English/Language Arts - Introductory,2.0,2.0,,"Memo: 4.0 credits (2 Intro, 2 Mastery). SBE v8 places '(2 introductory and 2 mastery)' between the Math and ELA rows - confirm it belongs to ELA."
+ELA-INTRO,ELA,English/Language Arts - Introductory,2.0,2.0,4.0,"Benchmark 4.0 is ELA total (no split), entered here. Memo: 4.0 credits (2 Intro, 2 Mastery). SBE v8 places '(2 introductory and 2 mastery)' between the Math and ELA rows - confirm it belongs to ELA."
 ELA-MASTERY,ELA,English/Language Arts - Mastery,2.0,2.0,,"Benchmark total ELA 4.0 (no intro/mastery split)."
 MATH-ALG1,Mathematics,Algebra I,1.0,1.0,1.0,
 MATH-GEOM,Mathematics,Geometry,1.0,1.0,1.0,
@@ -18,4 +18,4 @@ PE,Physical Education,Physical Education,1.5,,1.5,"Transitional: 1.5 PE/Health c
 HEALTH,Health,Health,1.0,,1.0,
 PE-HEALTH-COMBINED,Physical Education,PE/Health combined allocation,,1.5,,"Transitional model only."
 ELECTIVE,Electives,Open electives,3.0,6.0,4.0,
-TOTAL,,Total credits,22.5,22.5,24.0,"Source: AOE memo (Dr. Erin Davis) to SBE, 2026-10-20; SBE draft v8 Exhibit 1 matches the complete model. Current VT range 16.5-28.5."
+TOTAL,,Total credits,22.5,22.5,24.0,"Benchmark subject rows sum to 22.5 but the memo states 24.0 - discrepancy is in the memo. Source: AOE memo (Dr. Erin Davis) to SBE, 2026-10-20; SBE draft v8 Exhibit 1 matches the complete model. Current VT range 16.5-28.5."
