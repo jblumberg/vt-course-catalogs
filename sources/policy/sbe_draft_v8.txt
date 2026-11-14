@@ -1,0 +1,586 @@
+           Vermont Statewide Graduation Requirements
+                                               Draft (V.8)
+
+                                           October 20, 2026
+
+I. Purpose
+The purpose of Vermont’s graduation requirements is to establish common statewide requirements
+for earning a high school diploma, while preserving multiple pathways through which students may
+acquire and demonstrate the required learning. The statewide graduation requirements operate in
+conjunction with the applicable standards adopted by the Vermont State Board of Education (SBE)
+pursuant to 16 V.S.A. § 164(9), which establish what students are expected to know and be able to
+do.
+
+The statewide graduation requirements are intended to ensure that a Vermont high school diploma:
+
+    •   Promotes substantially equal educational opportunities for all Vermont public school
+        students.
+    •   Represents a consistent and rigorous level of learning regardless of the school or
+        supervisory union/district.
+    •   Aligns graduation expectations with Vermont’s Education Quality Standards (EQS) and
+        Portrait of a Graduate, and prepares graduates for postsecondary education, careers, civic
+        participation, and continued learning.
+    •   Reﬂects Vermont’s commitment to proﬁciency-based education, personalized learning,
+        ﬂexible pathways, and transferable skills.
+
+II. Guiding Principles
+The following principles provide the framework for interpreting and implementing the statewide
+graduation requirements. They clarify how statewide expectations should operate in practice,
+including the relationship among common requirements, proﬁciency in standards adopted by the
+SBE pursuant to 16 V.S.A. § 164(9), local ﬂexibility, assessment, and multiple pathways to
+demonstrating learning.
+
+Principle 1: Common expectations, multiple pathways
+All Vermont public school students are subject to the same statewide graduation requirements
+established in this document. These requirements specify the areas and amount of learning,
+expressed in credits, that students must successfully demonstrate to earn a Vermont high school
+diploma. The knowledge, skills, and level of proﬁciency required to earn credit are established
+through priority standards identiﬁed by the Vermont Agency of Education (AOE) and aligned with
+the applicable standards adopted by the SBE pursuant to 16 V.S.A. § 164(9), and through
+
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                    1
+associated performance indicators used to determine whether students have demonstrated
+proﬁciency.
+
+While the statewide graduation requirements are common, the pathways through which students
+acquire and demonstrate the learning required to earn those credits may vary. Students may meet
+graduation requirements through a range of flexible pathways, including traditional high school
+coursework, Career and Technical Education (CTE), dual enrollment, Early College, virtual learning,
+work-based learning, internships, community-based learning, independent study, or other
+approved learning experiences.
+
+Principle 2: Learning, not time
+Graduation requirements are based on demonstrated learning rather than time spent in
+instruction. A credit is earned by demonstrating the academic content and proﬁciency in the SBE
+adopted student standards identiﬁed for that credit. A credit may not be awarded solely based on
+seat time, course completion, or completion of a prescribed number of instructional hours.
+
+Principle 3: Consistent expectations, ﬂexible learning and assessment
+Statewide consistency requires that students demonstrate proﬁciency in the applicable priority
+standards identiﬁed for each credit, regardless of where or how the learning occurs. It does not
+require uniform courses, instructional methods, schedules, learning experiences, or assessments
+across schools and districts.
+
+Districts may determine how students are provided opportunities to acquire and demonstrate the
+learning required for graduation, provided that local approaches are consistent with standards
+adopted by the SBE and with frameworks established by the AOE to support consistent and
+comparable application of the statewide graduation requirements across educational settings and
+pathways.
+
+Regardless of the educational setting or pathway, the evidence used to award a credit must
+demonstrate proficiency in the applicable priority standards, as determined using the applicable
+performance indicators.
+
+
+III. Key Deﬁnitions
+This section deﬁnes key terms that are used in describing Vermont’s statewide graduation
+requirements.
+
+Credit
+Credit means a measurement unit that certiﬁes that a student has demonstrated proﬁciency in a
+deﬁned body of applicable student learning standards adopted by the SBE, associated with a
+statewide graduation requirement, as established through the applicable priority standards and
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                  2
+performance indicators. A credit is awarded based on demonstrated learning and is not based on a
+prescribed amount of instructional or seat time. One credit represents a body of essential and
+enduring knowledge and skills comparable in scope to the standards typically addressed through a
+traditional high-school course or equivalent learning experience.                                          Commented [TK1]: Revise to be clearer about priority
+                                                                                                           standards.
+Flexible Pathways to Graduation                                                                            We have graduation requirements by number of credits -
+Flexible pathways to graduation mean any combination of high-quality academic and experiential             they typically have a relationship to a typical high school
+                                                                                                           course load that a student would carry; in a proﬁciency-
+components leading to secondary school completion and postsecondary readiness, which may                   based system, we will have to set out which and how
+include assessments that allow students to apply their knowledge and skills to tasks of interest to        many priority standards are equal to a credit.
+them, consistent with 16 V.S.A. § 942(9).                                                                  Commented [TK1R2]: the goal would be that the number
+                                                                                                           and breadth of priority standards would be what would
+Flexible pathways may include regular high school coursework, Career and Technical Education               typically be expected of a student who completed a year-
+                                                                                                           long course
+(CTE), dual enrollment, Early College, work-based learning, virtual learning, internships,
+community-based learning, independent study, interdisciplinary learning, and other approved
+learning experiences. These pathways provide students with opportunities to acquire and
+demonstrate learning in ways that reﬂect their individual goals, knowledge, skills, and abilities as
+part of their personalized learning plans, consistent with 16 V.S.A. § 941.
+
+Regardless of pathway, students must demonstrate proﬁciency in the applicable priority standards
+and meet the requirements for awarding credit established in Section V to satisfy statewide
+graduation requirements.
+
+Graduation Requirement
+Graduation requirement means an area and amount of learning, expressed in credits, that a
+student must successfully demonstrate to earn a Vermont high school diploma. Statewide
+graduation requirements establish the credits students must earn within speciﬁed areas of
+learning. The knowledge and skills students must demonstrate to earn those credits are
+established through the applicable learning aligned with the applicable priority standards and
+performance indicators.
+
+Performance Indicators
+Performance indicators mean descriptions of observable and measurable knowledge, skills, and
+student performance that specify what students must demonstrate to establish proﬁciency in the
+applicable priority standards. Performance indicators may be speciﬁed within State Board-adopted
+standards or identiﬁed by the AOE, as necessary, to support consistent determination of
+proﬁciency for purposes of awarding credit toward statewide graduation requirements.
+
+Proﬁciency
+Proﬁciency means a student’s demonstrated ability to meet the knowledge, skills, and level of
+performance required by the applicable priority standards. A student demonstrates proﬁciency for
+purposes of earning credit when the student provides suicient evidence, evaluated using the
+applicable performance indicators, to demonstrate proﬁciency in the applicable priority standards.
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                      3
+Evidence may be generated through multiple forms of assessment and through multiple learning
+settings, including: (a) locally developed or common assessments; (b) performance tasks, projects,
+demonstrations, or portfolios; and (c) industry-recognized assessments or demonstrations.
+
+Standards
+Standards means the academic content and performance expectations adopted by the SBE
+pursuant to 16 V.S.A. §164(9) that establish what students are expected to know and be able to do
+within speciﬁed content areas and transferable skills. State Board-adopted standards guide
+curriculum and instruction and provide the foundation from which the learning required for
+graduation is identiﬁed.
+
+Priority standards mean the essential knowledge and skills, identiﬁed by the AOE from within the
+applicable standards adopted by the SBE, that students must demonstrate for purposes of
+satisfying statewide graduation requirements. Priority standards identify the learning required for
+graduation within a content area and do not replace or limit the broader body of State Board-
+adopted standards that guide curriculum and instruction.
+
+IV. Statewide Graduation Requirements
+All Vermont public school students must satisfy the statewide graduation requirements established
+in Exhibit 1 (below) to earn a Vermont high school diploma. The requirements are expressed in
+credits. Credits may be earned through courses or other approved learning experiences and
+pathways, consistent with the requirements for awarding credit established in this document.
+
+The statewide graduation requirements identify the areas and amounts of learning students must
+successfully demonstrate for graduation. They do not replace or supersede the academic content
+standards adopted by the SBE pursuant to 16 V.S.A. § 164(9). The learning students must
+demonstrate to earn credit within each graduation requirement is established through the
+applicable priority standards and performance indicators.
+
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                     4
+Exhibit 1: Credits Required to Satisfy Vermont’s Statewide Graduation Requirements                          Commented [TK2]: NOTE: This table reﬂects AOE's initial
+                                                                                                            recommendations, and has not yet been considered by
+                                                                                                            the Standards Committee (per 10/13/26 mtg).
+
+                       Area                                         Credits Required                        Commented [TK3]: NOTE: Timeline for implementation
+                                                                                                            for graduation cohorts may need to be speciﬁed (per
+                                                                                                            10/13/26 mtg)
+ Mathematics                                                                                     4.0
+
+                                                                       (2 introductory and 2 mastery)
+
+ English Language Arts                                                                           4.0
+
+ Social Studies                                                                                  3.0
+
+ Science                                                                                         3.0
+
+ Arts                                                                                            1.5
+
+ World Language / ASL                                                                            1.0
+
+ Financial Literacy                                                                              0.5
+
+ Physical Education / Health                                                                     2.5
+
+ Electives                                                                                       3.0
+
+                                             Total                                              22.5
+
+
+V. Awarding Credit Toward Statewide Graduation Requirements
+This section establishes the requirements for determining when a student’s demonstrated learning
+may be recognized and awarded as credit toward statewide graduation requirements. These
+requirements apply regardless of where or how the learning occurs and are intended to ensure that
+credits awarded across schools, educational settings, and pathways are aligned with SBE-adopted
+standards while preserving ﬂexibility in how students acquire and demonstrate the required
+learning.
+
+Requirements
+A credit may be awarded toward the statewide graduation requirements when the following
+requirements are met.
+
+    1. The knowledge, skills, and proﬁciency required for the credit are established through
+       applicable priority standards and performance indicators.
+
+        The priority standards applicable to a credit must be identiﬁed from within and aligned with
+        the applicable standards adopted by the SBE pursuant to 16 V.S.A. § 164(9). Applicable
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                       5
+        performance indicators shall specify the knowledge, skills, and performance students must
+        demonstrate to establish proﬁciency in those priority standards. This requirement applies
+        regardless of the educational setting, learning experience, or pathway through which the
+        student acquires or demonstrates the learning required for the credit.
+
+        For credit earned through regular high school coursework, supervisory unions and school
+        districts may determine the curriculum, learning experiences, assessments, and evidence
+        through which students demonstrate proﬁciency, consistent with the applicable State
+        Board-adopted standards and statewide graduation requirements.
+
+        For credit earned through Career and Technical Education (CTE), dual enrollment, Early
+        College, work-based learning, virtual learning, internships, community-based learning,
+        independent study, interdisciplinary learning, or other approved learning experiences, the
+        learning demonstrated must be aligned with the academic content and proﬁciency in the
+        SBE adopted student standards required for the applicable credit. The AOE shall develop
+        frameworks, crosswalks, or other mechanisms, as necessary, to support consistent
+        alignment of learning across educational settings and pathways with the applicable State
+        Board-adopted standards.
+
+    2. A student has demonstrated proﬁciency.
+
+        A student earns credit by demonstrating proﬁciency in the applicable priority standards, as
+        determined using the applicable performance indicators. Credit may not be awarded solely
+        based on seat time, course completion, or completion of a prescribed number of
+        instructional hours.
+
+        Evidence used to award credit must be suicient to demonstrate that the student has met
+        the applicable academic content and proﬁciency in the SBE adopted student standards.
+        The form of the evidence and the assessment used to evaluate it may vary, consistent with
+        the standards and any applicable statewide requirements or frameworks.
+
+Additional Considerations
+When awarding a credit toward the statewide graduation requirements, schools and districts shall
+recognize demonstrated learning in ways that allow students to apply evidence across learning
+experiences and pathways, consistent with the following provisions.
+
+    •   Learning may satisfy more than one statewide graduation requirement.
+
+        A course, program, project, CTE experience, work-based learning experience,
+        interdisciplinary experience, or other approved learning experience may provide evidence
+        toward more than one statewide graduation requirement when the student demonstrates
+        the academic content and proﬁciency in the SBE adopted student standards required for
+        each credit awarded. Credit shall be awarded based on the learning demonstrated rather
+        than the title, organizational structure, instructional setting, or duration of the learning
+        experience.
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                      6
+    •   A student may accumulate evidence toward meeting a graduation requirement across
+        learning experiences.
+
+        Evidence used to demonstrate the academic content and proﬁciency in the SBE adopted
+        student standards required for a credit may be developed through more than one course,
+        program, educational setting, or learning experience. A student shall not be required to
+        demonstrate the same learning more than once when suicient evidence of proﬁciency has
+        already been established.
+
+    •   Partial credit toward a graduation requirement may be awarded for demonstrated
+        learning.
+
+        When a student demonstrates an identiﬁed portion of the academic content and
+        proﬁciency in the SBE adopted student standards required for a credit, partial credit may be
+        awarded consistent with applicable State Board standards and frameworks or guidance
+        established by the AOE. The amount of credit awarded must correspond to the scope of the
+        academic content and proﬁciency in the SBE adopted student standards demonstrated.
+
+    •   Evidence may contribute toward more than one credit for a graduation requirement.
+
+        The same body of evidence may be used to demonstrate academic content or proﬁciency in
+        the SBE adopted student standards associated with more than one credit when the
+        evidence is suicient to meet the requirements associated with each credit. Awarding
+        credit shall be based on what the evidence demonstrates, rather than on the number or
+        type of learning experiences in which the student participated.
+
+VI.Application of Statewide Graduation Requirements Across
+   Educational Pathways
+The statewide graduation requirements are intended to provide students with multiple pathways
+through which to acquire and demonstrate the learning required for graduation. The requirements
+for awarding credit established in Section V apply regardless of the educational setting or pathway
+through which the learning occurs.
+
+This section addresses the application of statewide graduation requirements to CTE, work-based
+learning, dual enrollment, Early College, and other approved educational pathways. Where
+necessary, the AOE shall develop and maintain frameworks, crosswalks, guidance, or other
+mechanisms to ensure that learning demonstrated through these pathways is aligned with the
+applicable standards adopted by the SBE and is recognized consistently toward the statewide
+graduation requirements.
+
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                     7
+A. Career and Technical Education                                                                      Commented [TK4]: Add regular high school pathway.
+                                                                                                       here.
+Students participating in approved CTE programs shall have equitable opportunities to satisfy          Commented [TK4R2]: Need to clarify the coverage of the
+statewide graduation requirements aligned with the applicable priority standards and performance       standards, and the priorities within those standards.
+indicators acquired and demonstrated as part of learning in their CTE programs.                        Commented [TK4R3]: AOE deﬁnes the priority standards
+                                                                                                       require demonstrated proﬁciency, within the broader
+Credit toward a statewide graduation requirement may be awarded through a CTE program when             content of the SBE standards
+the student demonstrates the academic content and proﬁciency in the SBE adopted student                Commented [TK4R4]: Where undeﬁned by the standads,
+                                                                                                       AOE deﬁnes the performance indicators
+standards required for the applicable credit. A student shall not be required to complete a separate
+course solely because the required academic content and proﬁciency in the SBE adopted student          Commented [TK4R5]: We will need to address the
+                                                                                                       standards are in a year-long course?
+standards were acquired or demonstrated through an approved CTE program rather than through
+regular high school coursework.
+
+The AOE shall develop and maintain frameworks, crosswalks, or other mechanisms, as necessary,
+to support consistent recognition of academic content and proﬁciency in the SBE adopted student
+standards demonstrated through approved CTE programs. Such frameworks will address:
+
+    •   Alignment of CTE program content and learning experiences with the priority standards and
+        performance indicators applicable to the statewide graduation requirement;
+    •   Identiﬁcation of academic content and proﬁciency in the SBE adopted student standards
+        that may be demonstrated through speciﬁc CTE programs;
+    •   Acceptable forms of evidence of proﬁciency;
+    •   Criteria and responsibility for assessing and verifying proﬁciency;
+    •   Recognition of credit by sending schools and districts; and
+    •   Documentation, transcript, and reporting practices.
+
+B. Work-Based Learning
+Students may demonstrate academic content and proﬁciency in the SBE adopted student
+standards required for statewide graduation credit through approved work-based learning
+experiences when those experiences provide opportunities to acquire and demonstrate learning
+associated with the applicable graduation requirement.
+
+Participation in or completion of a work-based learning experience does not, by itself, constitute
+demonstration of proﬁciency or result in the awarding of credit. Credit may be awarded when
+evidence generated through the experience demonstrates the academic content and proﬁciency in
+the SBE adopted student standards required for the applicable credit, consistent with Section V.
+
+The AOE shall develop and maintain frameworks, crosswalks, or guidance, as necessary, to support
+consistent recognition of learning demonstrated through work-based learning. Such frameworks
+will address:
+
+    •   Alignment of work-based learning experiences with applicable State Board-adopted
+        standards;
+
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                  8
+    •   Identiﬁcation of the academic content and proﬁciency in the SBE adopted student
+        standards that may be demonstrated through the experience;
+    •   Development of learning objectives aligned with the applicable standards;
+    •   Acceptable forms of evidence of proﬁciency;
+    •   Criteria for assessing and verifying proﬁciency;
+    •   Roles and responsibilities of educators, work-based learning coordinators, employers, and
+        other partners; and
+    •   Documentation and recognition of credit.
+
+C. Dual Enrollment and Early College
+Students may apply learning demonstrated through approved dual enrollment and Early College
+coursework toward statewide graduation requirements when the coursework provides evidence
+that the student has demonstrated the academic content and proﬁciency in the SBE adopted
+student standards required for the applicable credit.
+
+Successful completion of a postsecondary course does not necessarily determine the speciﬁc
+statewide graduation requirement toward which the credit shall be applied. The relationship
+between the postsecondary course and the applicable statewide graduation requirement shall be
+determined based on the academic content and proﬁciency in the SBE adopted student standards
+demonstrated through the course.
+
+The AOE shall develop and maintain frameworks, crosswalks, guidance, or other mechanisms, as
+necessary, to support consistent recognition of dual enrollment and Early College coursework
+toward statewide graduation requirements across supervisory unions and school districts. Such
+frameworks will address:
+
+    •   Alignment of postsecondary coursework with statewide graduation requirements;
+    •   Determination of which graduation requirement or requirements a postsecondary course
+        may satisfy;
+    •   Conversion or application of postsecondary credit toward high school graduation credit;
+    •   Documentation and transfer of credit; and
+    •   Consistent recognition of coursework across supervisory unions and school districts.
+
+D. Other Approved Educational Pathways and Learning Experiences
+Students may acquire and demonstrate the learning required for statewide graduation credit
+through other approved educational pathways and learning experiences, including virtual learning,
+internships, community-based learning, independent study, interdisciplinary learning, service
+learning, apprenticeships, and other ﬂexible learning opportunities.
+
+Credit toward a statewide graduation requirement may be awarded when the student demonstrates
+the academic content and proﬁciency in the SBE adopted student standards required for the
+applicable credit, consistent with Section V.
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                   9
+Where necessary to ensure consistent recognition of learning across schools and districts, the AOE
+shall develop and maintain frameworks, crosswalks, guidance, or other mechanisms for
+determining how learning demonstrated through these pathways aligns with the applicable State
+Board-adopted standards and statewide graduation requirements. Such frameworks shall preserve
+ﬂexibility in the design of learning experiences and the forms of evidence through which students
+demonstrate proﬁciency while providing suicient consistency to ensure that credit earned through
+dierent pathways is recognized comparably toward statewide graduation requirements.
+
+VII. Recognition and Transfer of Credit
+Credit awarded toward a statewide graduation requirement in accordance with these standards
+shall be recognized toward the same statewide graduation requirement by Vermont public schools
+and supervisory unions or districts.
+
+The AOE shall establish and maintain requirements or guidance for the documentation, transfer,
+and recognition of credits, including partial credits and credits earned through CTE, work-based
+learning, dual enrollment, Early College, and other approved educational pathways. Such
+requirements or guidance shall support consistent transcript and reporting practices and ensure
+that students are not required to repeat learning for which they have already demonstrated
+proﬁciency and received credit in accordance with these standards.
+
+VIII. Transferable Skills                                                                               Commented [TK5]: For committee discussion:
+
+Transferable skills are an essential component of the learning students must develop and                This section makes it clear that transferable skills are
+                                                                                                        integrated across graduation requirements and not
+demonstrate in preparation for postsecondary education, careers, civic participation, and               credit-bearing unless otherwise speciﬁed.
+continued learning. Transferable skills shall be integrated across the educational experiences and
+pathways through which students satisfy the statewide graduation requirements.                          Commented [TK5R2]: Do we see that this demonstrated
+                                                                                                        in student work?
+Students shall have multiple opportunities throughout their secondary education to develop and
+demonstrate the transferable skills established in Vermont’s Education Quality Standards (EQS).
+These opportunities may occur through regular high school coursework, Career and Technical
+Education, work-based learning, dual enrollment, Early College, interdisciplinary learning, and
+other approved educational pathways and learning experiences.
+
+Supervisory unions and school districts shall ensure that students have opportunities to develop
+and demonstrate transferable skills and shall identify how those skills are embedded throughout
+curriculum, instruction, assessment, and other learning experiences, aligned with the SBE adopted
+student learning standards.
+
+Demonstration of transferable skills does not, by itself, constitute a separate credit requirement
+unless otherwise speciﬁed in the statewide graduation requirements. Rather, transferable skills are
+intended to be developed and demonstrated through the learning experiences and pathways by
+which students satisfy those requirements.
+
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                  10
+The AOE shall provide and maintain guidance or frameworks, as necessary, to support consistent
+implementation of the transferable skills requirements across supervisory unions and school
+districts and across educational settings and pathways. Such guidance or frameworks may
+address:
+
+    •   The relationship between the transferable skills required by the EQS and the statewide
+        graduation requirements;
+    •   Opportunities for students to develop and demonstrate transferable skills across academic
+        content areas and educational pathways;
+    •   Acceptable forms of evidence through which students may demonstrate transferable skills;
+    •   Approaches for documenting student demonstration of transferable skills; and
+    •   The relationship between transferable skills and the evidence used to demonstrate
+        proﬁciency toward statewide graduation requirements.
+
+IX.Accessibility and Application to Students with Disabilities
+The statewide graduation requirements shall be implemented in accordance with applicable
+federal and state law governing students with disabilities and with accessibility requirements
+established in Vermont's Education Quality Standards.
+
+Students with disabilities shall have access to the accommodations, supports, services, and
+accessible instructional and assessment practices necessary to provide equitable opportunities to
+acquire and demonstrate the learning required for graduation.
+
+Accommodations may aect how a student accesses instruction or demonstrates proﬁciency but
+do not, by themselves, modify the academic content and proﬁciency in the SBE adopted student
+standards required to earn credit toward the statewide graduation requirements.
+
+The AOE shall develop and maintain guidance regarding the application of statewide graduation
+requirements to students with disabilities, including guidance concerning accommodations,
+accessible forms of assessment and evidence, individualized education programs, and the
+requirements applicable to the awarding of a regular high school diploma.                             Commented [TK6]: For committee discussion:
+                                                                                                      Do we feel that this section is required? If so, I suggest
+X. State and Local Responsibilities                                                                   that legal counsel review, and that we seek input from
+                                                                                                      AOE.
+Implementing the statewide graduation requirements is a shared responsibility of the SBE, the AOE,
+and supervisory unions and school districts. Statewide requirements establish common
+expectations for graduation while preserving local responsibility for curriculum, instruction,
+assessment, and the design of learning experiences, consistent with State Board-adopted
+standards and any applicable statewide frameworks.
+
+A. Vermont State Board of Education
+The SBE shall:
+
+    •   Adopt statewide graduation requirements;
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                11
+    •   Adopt the academic and other standards pursuant to 16 V.S.A. § 164(9) from which the
+        academic content and proﬁciency in the SBE adopted student standards required for
+        graduation credits are derived; and
+    •   Establish the statewide requirements governing awarding credit toward graduation.
+
+B. Vermont Agency of Education
+The AOE shall develop and maintain the frameworks, crosswalks, guidance, and other mechanisms
+necessary to support implementation of the statewide graduation requirements and the consistent
+recognition of credit across educational settings and pathways.
+
+Consistent with the statewide graduation requirements, the AOE shall, as necessary:
+
+    •   Identify and maintain the priority standards within applicable State Board-adopted
+        standards that establish the knowledge and skills students must demonstrate for purposes
+        of satisfying statewide graduation requirements;
+    •   Identify and maintain performance indicators, where they are not already speciﬁed within
+        applicable State Board-adopted standards, for determining whether students have
+        demonstrated proﬁciency in the applicable priority standards;
+    •   Develop frameworks and crosswalks to support alignment of learning demonstrated
+        through CTE, work-based learning, dual enrollment, Early College, and other approved
+        educational pathways with applicable State Board-adopted standards and statewide
+        graduation requirements;
+    •   Establish guidance and criteria to support consistent and comparable recognition of
+        learning and evidence of proﬁciency across educational settings and pathways;
+    •   Establish guidance for the documentation, transfer, and recognition of credits, including
+        partial credits and credits earned through multiple educational settings or learning
+        experiences;
+    •   Provide guidance regarding the application of transferable skills within the statewide
+        graduation requirements;
+    •   Provide technical assistance and professional learning to support implementation; and
+    •   Monitor implementation of the statewide graduation requirements and identify areas in
+        which additional guidance, frameworks, or support are needed.
+
+C. Supervisory Unions and School Districts
+Supervisory unions and school districts retain responsibility for curriculum, instruction, learning
+experiences, and assessment within regular high school coursework, consistent with applicable
+State Board-adopted standards and statewide graduation requirements.
+
+Supervisory unions and school districts shall:
+
+    •   Provide students with opportunities to acquire and demonstrate the academic content and
+        proﬁciency in the SBE adopted student standards necessary to satisfy the statewide
+        graduation requirements;
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)                     12
+    •   Develop or select curriculum, courses, learning experiences, assessments, and evidence of
+        proﬁciency consistent with applicable State Board-adopted standards;
+    •   Award credit based on demonstrated proﬁciency and in accordance with the requirements
+        established in Section V;
+    •   Provide students access to multiple educational pathways through which they may satisfy
+        statewide graduation requirements, consistent with applicable law and rule;
+    •   Recognize and apply credit earned through CTE, work-based learning, dual enrollment,
+        Early College, and other approved educational pathways in accordance with these
+        standards and applicable AOE frameworks;
+    •   Maintain procedures for documenting student progress, evidence of proﬁciency, and
+        credits earned toward statewide graduation requirements; and
+    •   Provide students and families with clear information about statewide and local graduation
+        requirements and the pathways available to satisfy them.
+
+Supervisory unions and school districts may establish graduation requirements in addition to the
+statewide graduation requirements, provided that additional local requirements are consistent with
+applicable law and rule and do not modify or reduce the statewide requirements.
+
+XI.Review and Continuous Improvement                                                                 Commented [TK7]: For committee discussion:
+
+The AOE shall periodically review the statewide graduation requirements and report to the SBE on     This section creates the impetus (requirement) that the
+                                                                                                     standards are evaluated, and that there is an ongoing
+implementation, including the consistency and comparability of credit-awarding practices, student    conversation between the AOE and SBE about the
+access to multiple educational pathways, recognition and transfer of credits, and any barriers to    standards.
+equitable student access to the opportunities necessary to satisfy statewide graduation
+requirements.
+
+Based on implementation experience, the AOE may recommend revisions to statewide
+requirements, frameworks, guidance, or other implementation supports for consideration by the
+State Board.
+
+
+
+
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)               13
+Vermont Statewide Graduation Requirements – Working Draft (v.8, October 20, 2026)   14
+

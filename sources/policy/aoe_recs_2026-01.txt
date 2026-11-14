@@ -1,0 +1,1838 @@
+STATE BOARD OF EDUCATION REPORT
+
+AOE STATEWIDE GRADUATION
+REQUIREMENTS RECOMMENDATIONS
+
+
+
+
+December 31, 2025
+
+Issued by the Vermont Agency of Education
+
+
+
+
+LEADERSHIP                    SUPPORT       OVERSIGHT
+                                                                         LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+
+Table of Contents
+Executive Summary ........................................................................................................ 3
+Background ..................................................................................................................... 3
+Project Phases in the Recommendations Process.......................................................... 8
+Recommendations & Rationale..................................................................................... 17
+Future Decision Points and Support.............................................................................. 24
+AOE Next Steps ............................................................................................................ 28
+Appendix A. Vermont Institutions of Higher Education Entrance Requirements ........... 29
+Appendix B. Graduation Requirements Survey............................................................. 30
+Appendix C. State Board-Approved Student Standards by Content Area ..................... 33
+Appendix D. Example Student Profiles.......................................................................... 34
+Appendix E. Additional Resources ................................................................................ 43
+
+
+
+
+ AOE Statewide Graduation                                  Page 2 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+
+Executive Summary
+Section 9a of Act 73 requires the Agency of Education (AOE) to recommend statewide
+graduation requirements to the State Board of Education (SBE). Per section 8a1B the
+SBE must finalize decisions by July 1, 2027, and the new statewide graduation
+requirements will go into effect beginning in the 2027–2028 school year for the
+graduating class of 2031.
+In accordance with Section 9a of Act 73, the Agency of Education (AOE) submits this
+report recommending statewide graduation requirements. These recommendations are
+the result of extensive research, analysis of current supervisory union/supervisory district
+(SU/SD) graduation requirements, and significant stakeholder engagement conducted
+throughout the fall of 2025.
+The primary objective of these recommendations is to ensure all Vermont graduates are
+set up for success in college, career, and civic life by promoting equity and consistency
+of rigor across the state. The recommendations also aim to set the standard for
+excellence for graduates throughout Vermont, support vertical alignment and integration
+across the PreK-12 system, and align to the attributes of the Vermont Portrait of a
+Graduate.
+
+Background
+The purpose of this report is to present the Vermont Agency of Education’s proposed set
+of statewide graduation requirements to the Vermont State Board of Education, as
+outlined in Act 73 section 9a. Additionally, this report describes the processes in which
+the Agency of Education engaged education leaders and content experts from across
+the state to arrive at these recommendations. Lastly, the report contains additional areas
+of inquiry for the State Board of Education to consider before making its decision, along
+with a plan for how the Agency will provide ongoing support and guidance throughout the
+State Board of Education’s deliberation process.
+Promoting Consistency of Rigor through Statewide Graduation Requirements
+Importantly, the recommendations serve as a response to findings from the U.S.
+Department of Education, regarding uneven rigor across graduation requirements and
+flexible pathways in Vermont. Under section 8101(25) of the federal Elementary and
+Secondary Education Act, each pathway for earning a regular high school diploma must
+be aligned with requirements for the standard diploma awarded to the preponderance of
+students in the state. The U.S. Department of Education conducted a monitoring visit to
+Vermont in 2024 and found uneven rigor across flexible pathways programs and
+graduation requirements in its evaluation of Vermont’s graduation rate indicator. The
+specific finding from the U.S. Department of Education monitoring report stated, "A
+pathway that is clearly less rigorous than the pathway most students follow is not
+consistent with statutory requirements."
+ AOE Statewide Graduation              Page 3 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+The U.S. Department of Education findings are best understood in the context of
+Vermont’s policy framework. Per section 2120.8 of Vermont’s Education Quality
+Standards (EQS), decisions are currently made locally when determining the criteria for
+earning a high school diploma. The following definitions from the EQS set the context for
+proficiency-based learning and the current graduation requirement expectations across
+the state:
+       "Proficiency-Based Learning" refers to systems of instruction, assessment,
+       grading and academic reporting that are based on students demonstrating
+       mastery of the knowledge and skills they are expected to learn before they
+       progress to the next level, get promoted to the next grade, or receive a
+       diploma.
+       "Proficiency-Based Graduation Requirements" are the locally determined set of
+       content knowledge and skills aligned to state standards that, when supplemented
+        with any additional locally developed requirements, have been determined to
+       qualify a student for earning a high school diploma. The requirements shall be
+       clear, shared learning expectations that empower students and provide
+       opportunities for choice in learning experiences and accord multiple ways to
+       demonstrate proficiency in knowledge and skills. In this system, “Proficiency-
+       Based Graduation-Requirements” are supervisory union- or supervisory district-
+       wide learning objectives used by educators and students to drive instruction and
+       assess growth in new learning.
+Leaving the criteria for earning a high school diploma up to interpretation by 52 different
+district governance units, some of which allow for variation across the districts within
+their Supervisory Union, naturally complicates Vermont’s ability to align requirements for
+earning the standard diploma—and has contributed to the resulting inconsistency in
+rigor. While new statewide graduation requirements will replace and address the
+inconsistencies of existing, locally determined graduation requirements, proficiency-
+based learning as an instructional model can, and should, continue. This topic will be
+explored further later in the report.
+Compliance with federal law is not the only concern: different expectations for
+instructional rigor leave the door open to differing standards for educational quality,
+complicating Vermont’s constitutional guarantee of providing every student with a
+“substantially equal” education. Variations in implementation of locally determined
+Proficiency-Based Graduation Requirements and differences in how proficiency-based
+learning has been interpreted and operationalized has resulted in inconsistent
+expectations and uneven levels of rigor for students earning a Vermont high school
+diploma across SU/SDs.
+The AOE’s corrective action response to the U.S. Department of Education addressed
+the finding by committing to new statewide graduation requirements beginning in 2027.
+The approved action plan explained that "Local supervisory unions and districts will be
+
+ AOE Statewide Graduation              Page 4 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+required to align their policies and practices to ensure that their students are provided
+the learning opportunities to demonstrate that they have met each of the graduation
+requirements regardless of the paths they have chosen to demonstrate proficiency."
+Additionally, the Agency upheld the state’s commitment to Act 77 and flexible pathways,
+stating, "While the state will maintain its statutory commitments in 16 V.S.A. § 941 to
+providing multiple means of demonstrating proficiency in statewide graduation
+requirements (e.g., CTE, virtual learning, dual enrollment, Early College, internships,
+etc.), the newly enacted statutory language makes explicit that the graduation
+requirements themselves will be constant."
+Graduation Requirements within the Broader Education System
+Setting statewide graduation requirements enables Vermont to more fully achieve its
+promise to all students. The primary objective of the graduation requirements is to
+ensure all Vermont graduates are set up for success in college, career, and civic life by
+promoting equity and consistency of rigor across the state. The Agency recognizes that
+students have a variety of post-secondary goals, including entrepreneurship, enlistment,
+enrollment, and employment. The graduation requirements should ensure that students
+experience a well-rounded education, while also allowing for the flexibility to engage in
+deeper learning in their areas of interest. The requirements should also be designed to
+position students to choose from a variety of next steps when making decisions after
+graduating.
+
+
+
+
+ AOE Statewide Graduation             Page 5 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+In Vermont, the components of the education system have been conceptualized
+according to the visual above. Using a backwards planning design, the outermost circle
+represents the full realization of the Portrait of a Learner/Graduate, which serves as a
+vision for Vermont graduates. Some SU/SDs have created their own local adaptations,
+which vary in the degree to which they differ from the attributes and indicators included in
+the Vermont Portrait of a Graduate (2023). In order to achieve a portrait of a learner or
+graduate, best practices indicate that the following needs to be reflected in a high-
+functioning education system: transferable skills, content knowledge and skills, learning
+experiences through flexible pathways and coursework, high-quality curriculum, and
+evidence-based instructional practices.
+Schools should develop students’ transferable skills such as critical thinking,
+collaboration, and communication so that they can be accessed across content areas
+and outside of educational settings. These transferable skills are embedded within and
+across the state-approved student standards for each content area. Transferable skill
+and content area learning experiences are delivered to students through flexible
+pathways and coursework. At the most discrete level, students are provided with daily
+instruction grounded in high-quality curriculum that gives them the opportunity to
+practice, be assessed and receive feedback on their progress toward proficiency in
+learning.
+
+
+
+
+ AOE Statewide Graduation              Page 6 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+These components have been defined as educational priorities in Vermont—though
+operationalized differently across the state and with varied outcomes. There are
+examples to build upon, where SU/SDs have leveraged collaborative working groups
+within their schools to attend to the coherence across each of the components in the
+system both in terms of design and implementation.
+The SU/SDs that are exemplars in this work began with a clear vision for their Portrait of
+a Graduate and specific expectations for graduation informed by the State Board-
+approved student standards. From there, they evaluated and redesigned the learning
+experiences they provide as needed. Once this framework was established, they shifted
+their focus to understanding by design: aligning curriculum across content areas and
+strengthening instructional practices. Those interviewed from such SU/SDs stated that
+this was a multiyear endeavor and required difficult decisions about deprioritizing or
+discontinuing learning experiences that had historically been done in their schools in
+order to yield the necessary level of coherence.
+For the systems that have already accounted for coherence across all of the components
+in the visual above, the AOE’s proposed requirements will feel familiar. By being clear
+and tight on what the graduation requirements are statewide, all SU/SDs will be provided
+with the necessary framework to ensure more consistent implementation across the
+state.
+Graduation Requirements as an Important First Step
+There are additional benefits to statewide graduation requirements. The recommended
+statewide graduation requirements are designed to strengthen the implementation of Act
+77 (Flexible Pathways) and Act 173 (services for students who require additional
+support), among other landmark education reforms. Regardless of the pathway a student
+follows toward graduation, the standards and expectations for proficiency must be
+consistent. This needs to be a major focus in the next phase of work when implementing
+the new graduation requirements. The National Association of Secondary School
+Principals (NASSP) suggests the following considerations to direct this important phase:
+   •   Ensuring a robust system of support within schools to meet the needs of all
+       students on their trajectory
+   •   Training in implementing a proficiency/competency-based learning system,
+       including components such as instructional practices, promotion criteria, grading,
+       etc.
+   •   Develop a variety of assessments of learning to ensure valid and reliable
+       evaluation for multiple pathway experiences
+Consistency in what requirements students must satisfy will allow for more collaboration
+across SU/SDs regarding flexible pathways, personalized learning, and coursework
+available to students in order to graduate, in addition to what NASSP has outlined above.
+Statewide requirements will also eliminate the challenges students currently face if they
+ AOE Statewide Graduation              Page 7 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                  LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+move from one SU/SD to another where the graduation requirements are different, which
+disproportionately presents an equity issue for students who face additional challenges
+such as housing insecurity. Statewide graduation requirements are also needed to
+overcome the common issue Career and Technical Education (CTE) centers face when
+receiving students from multiple sending schools with varying graduation requirements.
+Additionally, the proposed graduation requirements will require realignment of learning
+experiences in elementary and middle school to ensure students have both the
+foundational content and diverse early exposure needed to more deeply explore their
+interests in high school.
+Statewide graduation requirements alone will not increase rigor or establish more
+consistency, but they are an important first step in elevating statewide academic
+expectations supported by the Agency's broader focus on increasing academic
+leadership and support. The AOE is positioned to support the implementation of
+statewide graduation requirements and will continue to support the State Board of
+Education through its decision-making process.
+The next section of this report will provide an overview of the AOE’s approach to making
+recommendations for the statewide graduation requirements and a summary of key
+findings from each phase.
+
+Project Phases in the Recommendations Process
+The Agency of Education (AOE) engaged in a four-phase process to develop the
+statewide graduation requirements recommendations, as outlined below:
+   1. Phase 1: Research & Analysis (August–September 2025): The Agency
+      analyzed current SU/SD requirements and conducted a comparative analysis of
+      other states.
+   2. Phase 2: Stakeholder Engagement (October–November 2025): The AOE
+      engaged a diverse group of stakeholders to refine recommendation options.
+   3. Phase 3: Reporting & Recommendations (November–December 2025): The
+      AOE synthesized the feedback and drafted this report.
+   4. Phase 4: Ongoing Support (January 2026–June 2027): The AOE will support
+      the State Board of Education through their decision-making process.
+The Agency kept the State Board of Education abreast of the planning progress along
+the way, including monthly updates and deeper participation in the November statewide
+planning retreat. The Agency’s monthly State Board presentations were also shared
+widely through the Weekly Field Memo and Superintendents Updates to reflect learning
+and progress to the larger education community.
+
+
+
+
+ AOE Statewide Graduation             Page 8 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Phase 1: Research and Analysis
+During the research and analysis phase of compiling information and rationale for the
+proposed graduation requirements, Curriculum & Instruction, Special Education, and
+Career Technical Education staff at the AOE conducted extensive scans of current
+conditions and requirements both locally and nationally. Research explored current
+graduation and diploma requirements, typical credits within and across subject areas,
+pathways to diploma acquisition, graduation rates, connections to entrance requirements
+at institutes of higher education, approaches to recognizing successful completion of
+career technical education program of study in meeting graduation requirements, and
+considerations for special student populations including those with disabilities. Initial
+findings and trends are described below.
+
+Current State in Vermont Supervisory Unions and Districts
+Research indicated significant inconsistency in current local requirements. For example,
+science requirements currently range from 3 to 4.5 credits, and total credit requirements
+range from 16.5 to 28.5 credits across the state.
+
+Current SU/SD Graduation Requirements
+
+                 Content Area                              Number of Credits
+
+ English Language Arts                       4-5 credits
+
+ Mathematics                                 3-4 credits
+
+ Social Studies/Global Citizenship           3-4 credits
+
+ Science                                     3-4.5 credits
+
+ Arts                                        1-2 credits
+
+ World Language                              0-2 credits
+
+ Financial Literacy                          0-1 credit
+
+ Health                                      .5-1 credit
+
+ Physical Education                          .5-2 credits
+
+ Electives                                   0-10 credits
+
+ Total Credits                               16.5-28.5 credits
+
+
+
+ AOE Statewide Graduation             Page 9 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Across supervisory unions and supervisory districts (SU/SDs) within the state, not only is
+there inconsistency in the number of content-specific requirements, but there is also
+inconsistency in whether their current Proficiency-Based Graduation Requirements
+address transferable skills, content standards or both. Currently, four-year graduation
+rates range from 59% to 98% and six-year graduation rate ranges from 54% to 96% but,
+given the variation in local requirements, it is difficult to identify what may be leading to
+the range of outcomes in graduation rates or the degree to which SU/SD graduation
+rates are comparable.
+Across the state, credit for Career Technical Education (CTE) program learning is
+generally negotiated by CTE centers on a program by program and high school by high
+school basis, leading to inconsistencies not only from school to school, but also from
+student to student. In many cases, students within the same CTE program at the same
+center receive different amounts and types of credit towards graduation. Even in clear-
+cut cases of student learning, some sending schools do not recognize the learning
+except as elective credit. For example, a student in a CTE Health Sciences program
+taking a college course through Vermont State University in Anatomy and Physiology in
+many cases does not receive science credit for successful completion of the course. In
+addition, some sending schools do not allow grades from CTE coursework to be
+calculated into a student’s GPA, creating a disincentive for participation in CTE. The high
+variability is inequitable for students and creates barriers to access to CTE education.
+National Trends
+The Education Commission of the States’ 2023 50-State Comparison of graduation
+requirements identified the following themes:
+   •   At least 46 states and the District of Columbia identify minimum credit
+       requirements to earn a standard diploma.
+   •   At least 44 states and the District of Columbia permit students to substitute
+       specific courses, assessments or other experiences for existing credit
+       requirements.
+   •   At least 34 states require students to complete specific assessments as a
+       graduation requirement.
+   •   At least 21 states have identified multiple diploma options or pathways to
+       graduation in state policy.
+Admission Requirements to Institutes of Higher Education
+While not all recipients of Vermont diplomas will go on to institutes of higher education,
+the table below details the current entrance requirements at several local institutes of
+higher education. Appendix A includes additional details for each institution’s entrance
+requirements.
+
+
+ AOE Statewide Graduation               Page 10 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+                                                                  Social        World
+          College              ELA        Math        Science
+                                                                  Studies     Languages
+
+ Champlain College           4 credits   3 credits    3 credits   3 credits    2 credits
+
+ St. Michael’s College       4 credits     3-4           3-4        3-4       2-3 credits
+                                         credits       credits    credits
+
+ University of Vermont       4 credits   3 credits    3 credits   3 credits    2 credits
+
+ Vermont State               4 credits   3 credits       2-3        3-4          N/A
+ University                                            credits    credits
+
+The AOE completed initial research and analysis by the end of September 2025 and
+prepared 2-3 composite models of possible graduation requirements for stakeholders to
+respond to during Phase 2.
+Phase 2: Stakeholder Engagement
+During the stakeholder input and feedback phase, AOE staff engaged with stakeholder
+groups to glean reactions to iterative models for graduation requirements. Throughout
+the months of October and November, the AOE met with various stakeholder groups,
+including the Vermont Curriculum Leaders Association, Vermont Principals Association,
+Vermont Superintendents Association, Vermont National Educators Association,
+Vermont School Counselors Association, Vermont Association of Career and Technical
+Directors, Vermont School Counselors Association, and others. Whenever possible, the
+Agency sought to join stakeholders in preexisting meeting spaces rather than requesting
+additional time to attend meetings convened related to the topic of graduation
+requirements. Below is a table of the stakeholder engagement conducted:
+
+              Stakeholder                          Engagement                  Date
+
+ Teachers of the Year (educators)         Virtual meeting                October 2
+
+ SEAP (Special Education Advisory         In person meeting              October 7
+ Panel)
+
+ VT Music Educators Association           In person - breakout at        October 10
+ (educators)                              conference
+
+ VPA (principals)                         In person - Executive          October 17
+                                          Council meeting
+
+ AOE Statewide Graduation            Page 11 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+               Stakeholder                        Engagement                  Date
+
+ Special Education Leadership              In person at conference      October 20
+
+ CTE School Counseling Coordinators        In person at conference      October 22
+
+ Vermont Mathematics Improvement           In person at conference      October 24
+ Collaborative
+ Coalition (educators)
+
+ VT-NEA (educators)                        In person - at their board   November 1
+                                           meeting
+
+ VTSCA (school counselors)                 In person at conference      November 3
+
+ Statewide Planning Retreat                In person at conference      November 4
+
+ VTCLA (curriculum directors)              Virtual meeting              November 7
+
+ Superintendents                           Monthly virtual meetings,    October and
+                                           weekly Supt Updates          November
+                                           emails
+
+ VACTED (CTE)                              In person meeting            November 20
+
+ VCSEA (special education)                 In person meeting            November 21
+
+
+AOE staff analyzed feedback from various stakeholder groups and made revisions to the
+example models throughout Phase 2, as well as maintained records regarding the
+implications and considerations for future development and implementation of the final
+requirements. In general, these iterations reflected quantitative shifts in credits,
+exploration of interdisciplinary and elective options, and considerations to adhere to the
+depth and breadth of State Board-adopted student standards.
+Throughout the stakeholder engagement process there have been questions about
+various aspects of a proficiency-based education system. The AOE continues to support
+proficiency-based learning, as defined in EQS, alongside a focus on supporting
+coordinated curriculum, plus an added emphasis on the instructional core (the interaction
+
+
+
+
+ AOE Statewide Graduation             Page 12 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                               LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+between student, teacher, and content), 1 regardless of what the final determinations
+about the statewide graduation requirements are. Locally defined, proficiency-based
+graduation requirements will be replaced with statewide graduation requirements as part
+of Act 73. Further evaluation is needed to determine what the state will mandate,
+support, and assess for innovation, including guidance for grading.
+Overview of Survey Feedback on Statewide Graduation Requirements
+The AOE’s statewide Strategic Planning Retreat in early November provided the
+opportunity for gathering significant input, with over 100 participants engaged in a day-
+long, three-part track focusing on graduation requirements. Participants represented
+about a third of all total participants in the event. This track included an overview of the
+work to date, a panel with example models of content standards for graduation credits
+and sample student profiles mapped onto graduation requirements (see Appendix D),
+and a flexible pathways requirement proposal. Participants at the retreat represented a
+variety of roles including superintendents, principals, CTE directors, curriculum leaders,
+special education directors, teachers, parents, students, legislators, State Board
+members, and independent/therapeutic school leaders.
+To conclude Phase 2 of planning, the Agency distributed a survey (see Appendix B) to
+participants at the planning retreat and widely to other stakeholders who may not have
+attended the retreat. Specifically, the survey sought input on a preferred model for
+graduation recommendations, invited feedback on the approach to graduation
+requirements, weighed the benefits and challenges of state-level versus local decisions
+on transferable skills, and a proposal for flexible pathways requirements. In total, 382
+individuals completed the survey, representing a variety of stakeholders across the state.
+Respondents who did not indicate their role and are not included in the disaggregated
+data below.
+
+                             Stakeholder Group                                          Respondents
+
+CTE (directors, superintendents, teachers, counselors)                                         21
+
+Curriculum Directors/Coordinators                                                              26
+
+Parents/Caregivers/Community Members                                                           12
+
+Principals/Asst Principals                                                                     27
+
+
+
+
+1 City, Elizabeth A., Elmore, R., Fiarman, S., & Teitel, L. (2009). Instructional rounds in education. Harvard
+
+Educational Publishing Group.
+
+ AOE Statewide Graduation                      Page 13 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+                          Stakeholder Group                             Respondents
+
+School Counselors                                                             41
+
+Special Education (directors, coordinators, teachers, counselors)             13
+
+Superintendents                                                               9
+
+Teachers                                                                     197
+
+Other (e.g., nurse, admin assistant, flexible pathways coordinator,           32
+director of technology)
+
+In addition to soliciting further feedback on the two models presented during in-person
+engagement sessions, the survey invited respondents to build their own model of
+statewide graduation requirements. Of the 293 survey respondents who chose to build
+their own model, over 70% of them included the following content areas and
+corresponding average number of credits in their models:
+   •   Math (3 credits)
+   •   ELA (4 credits)
+   •   Social Studies (3 credits)
+   •   Science (3 credits)
+   •   Arts (1.5 credits)
+   •   World Languages (1 credits)
+   •   Financial Literacy (0.5 credits)
+   •   PE/Health (2.5 credits)
+   •   Electives (4 credits)
+On average, respondents included a total of 24 credits in their models. Many
+respondents also included input on the requirement of specific topics or coursework, and
+these trends are reflected below:
+       Math: Algebra I and Geometry are required in almost every response that
+       specifies math courses and are widely viewed as the minimum foundational
+       content for graduation. The debate is often about what comes after these, with
+       suggestions including Algebra II, Statistics, and Financial Literacy as advanced or
+       elective options.
+
+ AOE Statewide Graduation                 Page 14 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+       Social Studies/Global Citizenship including Ethnic Studies: U.S. History and
+       World History are almost universally requested alongside Civics/Government.
+       Global History, World Geography, and Multicultural/Ethnic Studies were also
+       requested specifically.
+       Science: There was a consensus on requiring exposure to the three core NGSS
+       strands: Life Science (Biology), Earth Science, and Physical Science
+       (Chemistry/Physics).
+       Physical Education/Health: Requests for health to be increased to a full credit,
+       and robust content on Personal Fitness, Comprehensive Sex Education, and
+       Mental Health/Social-Emotional Learning
+       Other: Some additional specific requirements were requested for Introduction to
+       Technology, Computer Science, and Engineering classes, plus research and data
+       courses like data/media literacy and research skills.
+Survey results indicate that 120 respondents believe the state should define
+requirements for transferable skills and 207 respondents suggesting these should be
+determined at the local level. A philosophical and practical division exists over who
+should determine the requirements and how they should be assessed:
+
+    Trend               Argument/Request                        Key Rationale
+
+ Local         Keep transferable skills locally        Transferable skills are the
+ Control       defined, locally assessed, and          foundation of the local Portrait of
+               locally calibrated. Do not dictate      a Graduate; state standardization
+               these requirements at the state         risks reducing them to a
+               level.                                  "compliance checklist" and
+                                                       undermines community
+                                                       values/vision.
+
+ State       Standardize for consistency across        Local variation leads to "vastly
+ Consistency districts to close the equity gap and     differing
+             ensure that a Vermont diploma             standards/language/etc." and
+             represents the same essential             makes it difficult for students who
+             transferable skills statewide.            transfer high schools.
+
+There is a strong preference for embedding transferable skills directly into content-based
+coursework rather than treating them as isolated, separate requirements.
+   •   Embedded in Content: Many respondents insist that transferable skills be
+       integrated into content (like Algebra or CTE courses) to make them more
+       measurable, real, relevant, and engaging.
+
+
+ AOE Statewide Graduation              Page 15 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+   •   Shared Ownership: Skills should be "linked to content and mapped out across
+       content" so that all teachers share in the ownership and instruction.
+   •   Avoid Separate Bureaucracy: Concerns were raised that treating them as a
+       discrete requirement adds an "unnecessary layer of bureaucracy" that is
+       "milquetoast and onerous."
+Regarding the Flexible Pathways requirement proposal, survey responses fell fairly
+neatly into three roughly evenly-sized categories: 34% responded positively to the
+proposal (i.e., they approved of the concept but may have wanted some implementation
+changes), 34% responded negatively (i.e., they had concerns about both concept and
+implementation), and 32% did not engage with the questions. In the feedback that was
+provided, three clear themes emerged around what gave the respondents pause.
+   •   Disparate local resources and opportunities between schools result in inequitable
+       access to flexible pathways. Respondents expressed concern that a policy
+       requiring participation in one of a specific pre-defined list of flexible pathway types
+       could disadvantage students in schools if one or more of those pathway types
+       were not offered.
+   •   Ensuring consistent quality and rigor across significantly different educational
+       experiences, especially those housed outside the school, creates complexities for
+       school leaders.
+   •   For schools that do not currently offer the flexible pathway types required by the
+       proposal, this requirement would necessitate schools adding positions to oversee
+       and assess those new options, creating additional budgetary and staffing
+       implications.
+Finally, survey respondents were invited to share feedback on potential challenges or
+concerns with implementing statewide graduation requirements. There were concerns
+about finding high-quality certified educators or licensed teachers qualified to teach
+interdisciplinary courses and specific subject areas such as World Languages. Additional
+challenges noted included financial and budgetary constraints, curricular design
+implications, alignment to current models, and scheduling, equity and access concerns
+for diverse learners and CTE students. They also reported anticipation of resistance to
+change from loss of local control and increased expectations of both teachers and
+students and expressed a need for ongoing change management support and
+communication.
+Phase 3: Reporting & Recommendations
+In Phase 3, the AOE spent time reviewing and synthesizing initial research on
+requirements within and outside of the state and reviewing the stakeholder feedback to
+refine policy options and draft a comprehensive report. AOE staff collaborated to draft
+the report for the State Board of Education, including details of the process, final
+
+ AOE Statewide Graduation               Page 16 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+recommendations, rationale for recommendations, and further considerations for the
+State Board as they proceed with decision-making. The Agency has included its
+recommendations and rationale in the following section.
+
+Recommendations & Rationale
+State Board-adopted Education Quality Standards (EQS) indicate that “a student meets
+the requirements for graduation when the student demonstrates proficiency in the
+learning content outlined in Subsection 2120.6 (Curriculum Content Areas) and
+completes any other requirements specified by the board of the school district attended
+by the student.” Further, it is emphasized that “for students eligible for special education
+services under IDEA or protected by Section 504 of the federal Rehabilitation Act, the
+student shall meet the same graduation requirements as typical peers in an
+accommodated or modified manner.” This expectation also applies to English Language
+Learners. The Agency’s final recommendations include the decision to award one
+diploma to all students, rather than an alternate diploma or certification of completion
+option.
+As noted in section 2120.7 of the EQS, each school district shall implement a written
+curriculum developed pursuant to Subsection 2120.6 (Curriculum Content Areas) that is
+designed to enable all students to achieve the graduation requirements. Additionally, in
+section 2120.1 the EQS highlight that educators shall promote personalization and high
+expectations so that each student may successfully engage with the curriculum delivered
+and meet graduation requirements. The Agency’s final credit and subject matter
+recommendations represent the culmination of learning experiences that include ongoing
+exposure to subject matter and quality curriculum and instruction throughout students’
+educational careers.
+Recommendation: Use credits as the unit of measure
+The Agency recommends quantifying the requirements as "credits," but not with the
+Carnegie unit implication of a specified amount of seat time. Rather, the Agency
+recommends aligning to the existing guidance in EQS – 2120.8 Local Graduation
+Requirements which states, "Schools may or may not use credits for the purposes of
+demonstrating that a student has met the graduation requirements. When used, credits
+must specify the proficiencies demonstrated in order to attain a credit and shall not be
+based on time spent in learning." This aligns with the approach the majority of states use
+for their statewide graduation requirements within their proficiency-based learning
+systems, which is more commonly called competency-based education (2025 State of
+CBE).
+The National Association of Secondary School Principals (NASSP) notes that time spent
+learning a subject does not necessarily guarantee a student has mastered course
+content (NAASP Competency-Based Education). Therefore, in a time-based system,
+
+
+ AOE Statewide Graduation               Page 17 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+students may earn credit even though they have not met standards and expectations. In
+contrast, NASSP clearly defines the purpose and context of establishing a competency-
+based education system, which in Vermont is called proficiency-based learning, as one
+where students are expected to meet the standards and expectations as efficiently as
+possible, but time should be variable.
+
+In alignment with proficiency-based learning approaches, the Agency recommends
+defining 1 credit as a set of essential, enduring skills and knowledge in a content area
+based on the typical coverage of standards included in a year-long course or equivalent
+learning experience. For example, an Algebra I math credit would have a set of
+standards expected to be covered to earn that credit. One student may be able to show
+proficiency in the standards covered for the Algebra I credit more quickly, while another
+may need additional time or support. Both would receive 1 credit for that learning
+experience.
+This is to empower students and their caregivers when making decisions about how they
+will satisfy the graduation requirement by using a familiar and well-understood approach
+to the unit of measure for each requirement. Additionally, 38/43 (88%) of the SU/SDs
+inventoried already use "credits" as the unit of measure for their content-area graduation
+requirements under the current guidance within EQS.
+The Agency recognizes this is a shift in the definition of the term "credit" for those who
+still think of credits as a set amount of seat time. However, from a change management
+perspective, the benefits of using a familiar term make it the most appropriate.
+Alternative units of measure like "proficiencies" have a broader array of understood
+definitions across the state that would make it more difficult to gain consensus around a
+definition than "credit" does.
+Recommendation: Increase some content requirements while building in
+space for flexible pathways and deeper learning
+Like most states, the Agency has identified a number of credits aligned to content area
+and related standards that reflect high expectations for each and every student to earn a
+high school diploma. Rather than mandating specific courses, assessments, or other
+experiences, the AOE is recommending credits by content area, though they may be
+satisfied through interdisciplinary learning experiences. For some content areas, the
+AOE is also recommending content-specific topic guidance (e.g., Life Sciences, Civics,
+Geometry) to provide clarity on what content is expected to be covered within the total
+required credits. The AOE’s recommended statewide graduation requirements can be
+found below.
+
+AOE’s Graduation Requirements Recommendation (22.5 total credits)
+  Math (4 credits) – 1 Algebra I, 1 Geometry, 1 Statistics or Data Science (depending
+  on student pathway), 1 elective math credit based on college/career pathway
+
+ AOE Statewide Graduation              Page 18 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                      LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+  ELA (4 credits) – 1 Introductory credit, 3 Specialized Mastery credits based on
+  college/career pathway
+  Social Studies (3 credits) – 1 US History, 1 Civics/American Government, 1 World
+  Studies
+  Science (3 credits) – 1 Physical Science, 1 Life Science, 1 Earth and Space Science,
+  with required science and engineering practices (labs) in each
+  Arts (1.5 credits) – 1.5 elective credits in performing and/or visual arts of student’s
+  choice
+  World Languages (1 credit) – minimum of 1 World Language or ASL credit
+  Financial Literacy (0.5 credit) – minimum half credit of stand-alone Financial Literacy
+  content
+  PE/Health (2.5 credits) – 1.5 Physical Education, 1 Health Education
+  Electives (3 credits) – electives in areas of student’s choice
+
+There was significant consensus based on the research the AOE conducted in Phase 1
+and from the stakeholder engagement in Phase 2. These recommendations align with
+those from the survey feedback with the exception of three areas: 1) the total number of
+credits are 1.5 fewer to allow for greater flexibility and opportunities for deeper learning in
+students’ areas of interest, 2) 1 fewer elective credit requirement for the same reasons,
+and 3) 1 additional credit of math to reflect national trends toward increased math
+requirements and the inclusion of statistics or data science learning.
+The expectation of four years of sustained mathematical learning aligns with national
+recommendations (National Council of Teachers of Mathematics, Catalyzing Change
+2018) and state-level recommendations from educators and members of the higher
+education community. Four credits of math reinforces continuity of learning, the inclusion
+of a data science or statistics requirement, and greater readiness for postsecondary
+options. In addition to sustained and progressive math learning every year of high
+school, national education organizations have explicitly called for data literacy and
+statistics to be core components of K-12 education. A joint ASA–NCTM position
+statement emphasized that statistical reasoning and data science are essential for
+informed decision-making, understanding uncertainty, and full participation in civic and
+economic life, and should be accessible to all students, not limited to advanced
+mathematics pathways (ASA & NCTM, 2019). These recommendations align with
+Vermont’s future-ready goals by supporting multiple rigorous math pathways that
+emphasize quantitative reasoning, data literacy, and transferable skills for a multitude of
+successful post-secondary choices, rather than a single trajectory toward Calculus.
+Students who complete Algebra I in 8th grade would not have to retake it and instead
+would be expected to take an additional elective math credit to satisfy the required 4
+math credits.
+
+ AOE Statewide Graduation               Page 19 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                            LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+The recommendations for Math, Health, Art, Financial Literacy, and World Languages
+would be a change for the many of the SU/SDs, based on an inventory of the 47
+Vermont high schools with publicly posted graduation requirements:
+    •   88% of SU/SDs would be increasing their Art requirements, though many already
+        require 1 credit of art so there would only be a 0.5 increase
+    •   86% of SU/SDs would be increasing their Math requirements, see above for
+        rationale
+    •   76% of SU/SDs would be increasing their Health requirements since most only
+        require 0.5 credits currently
+    •   76% of SU/SDs would be increasing their standalone Financial Literacy
+        requirements, though many already embed this content into other requirements
+    •   69% of SU/SDs do not currently have a World Language requirement. Vermont is
+        one of only 12 states with neither a world language graduation requirement nor a
+        requirement that world language courses be offered to students, despite EQS
+        requiring that students engage in learning around global citizenship, which
+        includes world languages. 2
+The AOE recommendations for graduation requirements will provide sufficient
+consistency across SU/SDs and include an increase in requirements in content areas
+that will ensure all Vermont graduates are set up for success in college and/or career
+and prepared to be actively engaged citizens. For example, an increase in Health and
+Financial Literacy across the state will better prepare graduates for their post-secondary
+lives and support the realization of the Vermont Portrait of a Graduate. Existing locally-
+required courses, such as Theory of Knowledge for IB programs, could count toward up
+to 1 elective credit if they don’t otherwise align to the standards of the other content
+requirements.
+Assuming a typical high school 8 block schedule and a student who shows proficiency in
+the standards of the required credits within a year's time over four years of high school:
+this student could earn up to 32 credits. The AOE's recommendation of 22.5 total credits
+supports flexible pathways, as outlined in Act 77, allows students to make decisions
+about deeper learning such as participation in CTE programs or satisfying additional
+requirements for entrance into institutions of higher education. This recommended
+number of total credits also provides sufficient room for students who need additional
+time to satisfy the credit requirements, though additional support should be provided to
+students who need it to help them progress as quickly as they can to allow them to
+engage with their interests more deeply.
+
+
+
+2 Montee, M., Pineault, C., & Yang, F. (2025). State policy requirements for K–12 world language
+
+education. Foreign Language Annals, 58, 758–775.
+
+ AOE Statewide Graduation                    Page 20 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+In addition to the AOE's recommended graduation requirements, many institutions of
+higher education have additional entrance requirements. As described in the Phase 1
+findings above, Vermont institutions include requirements such as Algebra II, 2 credits of
+the same World Language, and "a full course load of challenging academic subjects in
+the senior year." The Agency acknowledges not all students aspire to attend high
+education institutions and therefore have not aligned the statewide graduation
+requirements to these.
+The AOE remains committed to the support of flexible educational opportunities for all
+students as laid out in 16 V.S.A. § 941. In alignment with that statute, the AOE will
+continue to encourage and support school districts in providing flexible opportunities for
+students to demonstrate post-secondary readiness. As appropriate, learning completed
+through flexible pathways can be counted for credit under the new graduation
+requirements, provided that the learning has been assessed by a teacher holding the
+appropriate credential. Students should be supported to make decisions about how they
+satisfy and, in some cases, exceed the statewide graduation requirements based on
+their post-secondary goals and interests both in terms of specific types of credits and
+coursework such as Algebra II for a college-bound student to satisfy the math elective
+credit included in the recommendations.
+Per 16 V.S.A. § 941 the existing flexible pathways are:
+   •   Applied or work-based learning opportunities, including career and career
+       technical education and internships
+   •   Virtual learning and blended learning
+   •   Dual enrollment opportunities
+   •   Early college programs
+   •   Adult education and secondary credential opportunities
+However, this list should not be viewed as exhaustive, with local districts retaining the
+authority to develop and credential new programs such as after-school or summer
+learning programs, capstone projects, or community-based learning programs.
+Recommendation: Integrate transferable skills within content requirements
+The AOE recommends that transferable skills be embedded within content rather than
+assessed as part of a separate graduation requirement. This approach aligns with
+stakeholder feedback that transferable skills are more measurable and relevant when
+connected to disciplinary content and also allows for locally determined ones to be
+identified and embedded. It also aligns with research about transferable skills and the
+role of the instructional core.
+The National Research Council (NRC) report, Education for Life and Work: Developing
+Transferable Knowledge and Skills in the 21st Century (2012), provides a clear
+
+ AOE Statewide Graduation               Page 21 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                        LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+framework for understanding how transferable skills—sometimes called "21st-century
+competencies"—are intrinsically linked to proficiency in academic content. The report
+notes that modern student standards, including the Common Core State Standards for
+English Language Arts and Math, successfully provide a deeper conceptualization of
+content knowledge and skill by encompassing various facets of 21st-century
+competencies by fostering "deeper learning," which the NRC (2012) defines as "the
+process through which an individual becomes capable of taking what was learned in one
+situation and applying it to new situations (i.e., transfer)."
+Furthermore, evidence suggests that instruction that promotes the transfer of these
+competencies must occur within each content area, requiring teaching practices and
+student engagement strategies that simultaneously develop content knowledge and skills
+(such as critical thinking and math reasoning and argumentation) alongside intrapersonal
+skills (like conscientiousness and self-reflection) and interpersonal skills (like teamwork
+and effective communication). Additionally, this is a more effective approach than
+separate transferable skills graduation requirements, which present challenges in terms
+of consistent and accurate assessment of proficiency.
+By recognizing the existing presence of transferable skills in the student standards that
+the State Board has already approved, and by aligning the graduation requirements to
+credits that represent appropriate coverage of these content standards, Vermont can
+establish a statewide framework to create more consistent implementation across
+SU/SDs and to allow for greater focus on evidence-based practices in service of the
+instructional core for delivering support to all learners to achieve this outcome. This will
+ensure students develop the ability to utilize complex cognitive, intrapersonal, and
+interpersonal transferable skills with the content domain expertise necessary for success
+in post-secondary education, career, and civic life.
+Recommendation: Prioritize content knowledge and skills for future-ready
+graduates
+To ensure that Vermont's statewide graduation requirements successfully prepare
+students for a future where Artificial Intelligence (AI) is a common tool, the Agency of
+Education strongly recommends that the State Board reinforce the central role of deep,
+disciplinary content knowledge and skills within student standards. When generative AI
+users lack a robust existing knowledge base, they are reduced to passively accepting AI
+outputs as authoritative, using the technology as an oracle rather than a collaborative
+thinking partner, a phenomenon called "knowledge asymmetry." 3 A lack of content
+knowledge and skills would prevent the development of the independent judgment
+necessary for success when using AI in post-secondary and career environments.
+
+
+
+3 Potkalitsky, N. 2025, November 13. The Knowledge Asymmetry Problem: Why Student Expertise Matters
+
+in AI Collaboration. Educating AI.
+
+ AOE Statewide Graduation                 Page 22 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+For a student to use AI effectively—to formulate sophisticated questions, recognize
+subtle oversimplifications, and evaluate the accuracy of information—they must first
+possess a complex framework of disciplinary expertise. Without it, the introduction of AI
+risks amplifying existing achievement gaps, as students who already have strong
+foundations gain a powerful tool for extending their expertise, while those without
+foundational knowledge rely on AI as a crutch, avoiding the hard work of building true
+understanding.
+This informs the AOE’s recommendation to prioritize the systematic, explicit
+development of core content and disciplinary expertise across all grade levels, which has
+informed our recommendations about the graduation requirements and should be
+supported through vertical alignment and integrations across the PreK-12 system. By
+emphasizing content mastery, Vermont will ensure that its graduates develop the
+intellectual habits of verification, critical questioning, and synthesis. This approach
+transforms AI from a potential dependency into a collaborative tool that genuinely
+extends a student’s capability.
+Ultimately, a future-ready education is one where graduates possess the deep
+disciplinary knowledge necessary to maintain critical distance, exercise their own
+judgment, and actively direct their learning and professional inquiries, ensuring they are
+truly prepared for a complex, technology-driven future.
+Recommendation: CTE learning should, where appropriate, satisfy the
+content area graduation requirements
+Due to the high variability of credit for CTE experiences, there was a clearly stated need
+from stakeholders for uniform credit attainment for CTE program of study completion that
+is required to be recognized by all sending high schools rather than only counting toward
+electives or creating an extensive additional set of requirements. The AOE recommends
+making technical corrections as needed to section 2383.3 of the State Board Rules to
+more fully recognize CTE learning as it aligns to content areas and sending high schools
+are able to award credit appropriately, while considering the larger reform efforts
+regarding CTE under review by the legislature.
+State Board Rules currently state that one content credit must be provided upon program
+completion of specified CTE programs (SBR 2383.3). This does not reflect current
+federal Perkins V program quality and student outcomes requirements and the rigor of
+Vermont’s CTE program content. As a result, some high schools use 16 VSA §1545’s
+provision that “The school board of the high school from which the student wishes to
+graduate shall make a determination as to whether the credits shall be applied toward
+graduation requirements” to limit the credit they award for CTE learning. This is another
+area where local decision-making opens the door for inconsistency of rigor in graduation
+pathways and expectations across the state.
+Vermont has established CTE Program Quality Minimum Requirements. Every state
+approved CTE program must include a combination of postsecondary industry
+ AOE Statewide Graduation          Page 23 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+recognized credentials and/or dual enrollment credits. The data the AOE gathers each
+year on every CTE program and CTE center in the state positions the AOE to lead the
+content alignment work to determine which CTE learning experiences should satisfy
+content-specific graduation requirements. Future planning should consider requirements
+around middle school career exploration and support for counselors regarding career
+navigation. While not part of the graduation requirements, future conversations around k-
+12 alignment must include middle school and early high school preparation for CTE
+pathways.
+Recommendation: Support all students toward receiving the same diploma
+through the graduation requirements
+This recommendation ensures all students, including those with disabilities, are provided
+with the appropriate supports to satisfy the requirements and allows Vermont to remain a
+state that issues one diploma for all students. This also aligns to the approach historically
+taken in Vermont providing accessibility for all students to the Vermont diploma. In
+section 2120.8 of EQS it states, “For students eligible for special education services
+under IDEA or protected by Section 504 of the federal Rehabilitation Act, the student
+shall meet the same graduation requirements as typical peers in an accommodated or
+modified manner.”
+
+Future Decision Points and Support
+Per Section 8a of Act 73, the State Board of Education must finalize its decisions about
+statewide graduation requirements by July 1, 2027. The Agency recognizes that this
+decision is interconnected with education transformation efforts mandated by Act 73 and
+approached these recommendations with the intention of ensuring all Vermont graduates
+are set up for success in college, career, and civic life by promoting equity and
+consistency of rigor across the state. The AOE recommends the State Board make their
+decision by the end of 2026 to allow SU/SDs sufficient time for adjustments to their
+budget, staffing, and schedules for when the graduation requirements begin to go into
+effect in SY2027-2028 for the class of 2031. Throughout this decision-making process,
+the AOE is poised to provide additional support to the State Board as part of Phase 4 –
+Ongoing Support to the State Board of Education.
+Extensive research and stakeholder engagement has contributed to these
+recommendations. Additionally, careful attention was paid to ensure accessibility and
+consistent expectations for all student populations and pathways to graduation. The
+recommendations are the first step toward ensuring these goals are met. Many
+additional considerations, decisions, and support plans must be in place to provide for
+smooth transitions and successful implementation.
+The implementation of statewide graduation requirements serves as a cornerstone of the
+Agency’s vision to build the best public education system in the country—one that
+provides every Vermont student with both the “roots” of foundational academic mastery
+ AOE Statewide Graduation               Page 24 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+and the “wings” of post-secondary opportunity. This initiative is deeply anchored in the
+Agency’s strategic pillars, most notably Academic Excellence and College and Career
+Readiness. By establishing clear, rigorous expectations for graduation, the Agency
+ensures that a Vermont diploma is a meaningful credential that guarantees all learners,
+including those requiring Special Education and Differentiated Supports, are met with the
+high expectations and tailored resources necessary to thrive.
+The Agency’s New Academics Mission
+To drive the Agency’s vision forward, the Agency has defined a new Academics mission:
+to cultivate an inclusive Vermont educational system from early education to adulthood
+that embraces the unique strengths of all learners and their caregivers, and fosters
+academic excellence, lifelong learning, well-being, and success. Agency Academics staff
+will do so through four commitments to:
+   •   Support districts, schools, and education programs in implementing rigorous,
+       high-quality instruction and curricula that are responsive to the diverse strengths
+       and needs of each and every learner, including students with disabilities and
+       those who are historically marginalized.
+   •   Facilitate a seamless continuum of learning from cradle to career, ensuring that
+       each and every student has access to the learning resources and supports
+       necessary to thrive in their post-secondary lives.
+   •   Provide actionable, data-driven insights to districts, schools, education programs
+       and community members to drive continuous improvement in student outcomes
+       and program effectiveness through accountability and support.
+   •   Champion equitable practices and policies that dismantle barriers to learning and
+       foster a culture of high expectations, well-being, and belonging; where each and
+       every student feels safe, supported, and challenged to reach their full potential,
+       and where all families feel included, valued, and empowered to support their
+       learners.
+Ultimately, this alignment ensures that the Agency’s leadership and oversight result in a
+student-centered, future-focused system that is accountable to the students and families
+of Vermont.
+To fully operationalize the Academics mission as it relates to the statewide graduation
+requirements, the Agency will provide the State Board with ongoing technical support
+while engaging in further stakeholder engagement focused on student voice and
+supporting working groups for Career Technical Education and accessibility for all
+learners. These next steps are described below.
+
+
+
+
+ AOE Statewide Graduation              Page 25 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Further Stakeholder Engagement - Youth Voice
+While the AOE was able to engage with myriad stakeholders throughout Phase 2, further
+engagement with key stakeholders would be beneficial in the decision-making process.
+Specifically, the Agency recommends additional engagement to bring more youth voice
+into the decision-making process. Through the Listen & Learn tour last year (pages 27-
+29 for Youth Engagement Sessions), the Student Policy Sprint Team, and in additional
+student-led events Agency staff has attended in the Fall of 2025, students have
+consistently asked to be provided opportunities for deeper learning. Student input has
+informed the approach to the recommendations, specifically by allowing for student
+choice in delving deeper into their area of interest through flexible pathways and
+specialized coursework. Additionally, AOE is partnering with a local organization at the
+start of 2026 to ensure that youth voice is meaningfully included in stakeholder feedback.
+Special emphasis will be placed on engaging students who may not currently be thriving
+in the system, so that their perspectives and experiences can inform more equitable and
+effective practices. The intention is to gather input from a broad and diverse range of
+Vermont students ensuring that the recommendations reflect the needs and aspirations
+of all learners. Focus group data will be compiled into a report, from which the AOE and
+SBE will have an opportunity to ensure student input into the final requirements.
+Additional Areas of Inquiry
+Additional areas of further inquiry include CTE, accessibility for all students, AOE support
+for the instructional core and 2120.7 - coordinated curriculum, and seals and
+endorsements to support deeper learning. The Agency recommends regular meetings
+with working groups to develop implementation plans and operationalize credit
+expectations, with direct connections to State Board-approved student standards.
+Career Technical Education (CTE)
+As Vermont works to make access to CTE more equitable for students around the state,
+establishing the alignment of CTE learning experiences to the graduation requirements is
+necessary. While the alignment for some academic credit/content is clear (e.g., Health
+Sciences programs that incorporate Vermont State University's Anatomy and Physiology
+course(s) receiving Life Science credit or a Visual Arts program that incorporates nine
+college credits in Dual Enrollment arts courses), for other CTE programs of study, work
+will need to be done to identify the academic standards included in the postsecondary
+credentials and CTE technical standards.
+Recent work by CTE centers and the AOE sets the state up well to take this on. CTE
+programs offered at each of Vermont's 17 regional CTE centers must currently meet
+well-established CTE program quality minimum requirements that include postsecondary
+industry recognized credentials and/or dual enrollment college credits. CTE centers are
+required to annually report the college credits and postsecondary credentials students
+earn in each CTE program. The AOE requires improvement plans for any program that
+
+ AOE Statewide Graduation              Page 26 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+may, in a given year, not meet those requirements. Vermont is well-positioned, therefore,
+to crosswalk the content of these credentials and credits to articulate the academic
+content they contain and compare that to the required standards to earn a credit in a
+given academic area. A student who earns given credential(s) or completes given dual
+enrollment course(s) would then have that learning recognized as meeting specified
+graduation requirements.
+Accessibility for All Students
+All students with disabilities should be able to meaningfully access the high school
+graduation requirements so Vermont remains a state that issues one diploma for all
+students. Each graduation requirement should be accessible for all students. In Vermont,
+there is and has been a lot of inconsistencies with regard to how high schools determine
+their graduation requirements as well as how to make those requirements accessible.
+The vision is that with the new statewide graduation requirements there will be an
+accessibility system built into each requirement so that access is consistent and
+equitable regardless of what Vermont public high school the student is attending. To
+achieve this, the AOE is creating a workgroup to develop the accessibility system for
+each statewide graduation requirement.
+This group will include educators from the field as well as other state level experts on
+disability, proficiency and access. The workgroup’s charge is to build the accessibility
+system for each requirement that can be utilized by all Vermont high schools. Where
+appropriate, the Core Content Connectors (CCCs) would be leveraged to provide
+specialized learning targets for students with significant cognitive disabilities and act as a
+"bridge" from grade-level standards to the needs of some students with IEPs, guiding
+instruction and assessment for these students
+The workgroup will also create the system for how any modified graduation requirement
+is documented. The early thinking is that any modified graduation requirement would be
+documented in a student’s Personalized Learning Plan and signed off by the school
+counselor or principal and the IEP team.
+Additionally, there needs to be clear planning on how schools will support Multilingual
+English Learners towards meeting graduation requirements. Realistic and transparent
+Personalized Learning Plans must be leveraged and regularly revisited. All efforts should
+be made to align content and language proficiency standards (WIDA 2020) in instruction
+for the benefit of all students.
+   •   All Pull-Out or Sheltered Instruction received by Multilingual English Learners
+       should happen under the guidance of endorsed specialists and must count toward
+       graduation credits.
+   •   ESL courses should count for up to a prescribed number of ELA credits.
+   •   World Language Credits should be waived by offering credit for proficiency in
+       home languages through standardized processes.
+ AOE Statewide Graduation               Page 27 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+   •   Multilingual English Learners should have equitable access to the Vermont Seal
+       of Biliteracy and should be encouraged to attain the Seal.
+
+AOE Next Steps
+Supporting the implementation of the updated graduation requirements is a core
+component of the Agency of Education’s broader change-management approach under
+Act 73. Rather than treating graduation requirements as a standalone compliance shift,
+the Agency’s approach emphasizes aligned academic expectations, coherent
+instructional systems, and continuous improvement. In partnership with the State Board
+and informed by ongoing stakeholder engagement and working group input, the Agency
+is preparing a coordinated plan to provide the guidance, training, and support needed to
+implement change with fidelity and consistency, with a focus on content standards,
+instruction, assessment, and accountability. Areas of focus that have already been
+identified based on feedback gathered include:
+   •   Elevating Academic Expectations: Clarifying how the revised graduation
+       requirements align to rigorous, standards-based learning experiences, integrated
+       transferable skills, and consistent proficiency expectations across content areas,
+       with a focus on coordinated curriculum and the instructional core.
+   •   Training and Implementation Planning: Designing professional learning and
+       field guidance to support LEAs in anticipating scheduling, staffing, and
+       instructional design decisions necessary to deliver high-quality coursework and
+       learning experiences aligned to the new requirements.
+   •   Coursework and Learning Experience Quality: Developing guidance to support
+       LEAs in the design, selection, and oversight of coursework and learning
+       experience pathways that reflect recommended standards coverage by content
+       area, credit, and depth of rigor.
+   •   Equitable Student Support: Preparing guidance on how personalized learning
+       plans, inclusive instructional practices, and targeted supports can ensure all
+       students are able to meet the single diploma requirements.
+   •   Assessment, Proficiency, and Credit Recovery: Clarifying expectations and
+       planning guidance for standards-aligned assessment, credit recovery, and
+       extended learning opportunities for students who may require additional time or
+       alternative pathways to demonstrate proficiency.
+   •   Evaluation and Continuous Improvement: Establishing monitoring, feedback
+       loops, and evaluation strategies to assess implementation quality and student
+       outcomes, enabling data-informed adjustments over time.
+Through this intentional planning and change-management process, the Agency is
+focused on raising the bar for academic quality while building system readiness to meet
+
+
+ AOE Statewide Graduation              Page 28 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+it, ensuring that the implementation of Act 73’s graduation requirements is coherent,
+equitable, and sustainable across Vermont’s education system.
+
+Appendix A. Vermont Institutions of Higher Education
+Entrance Requirements
+Appendix A outlines detailed admission requirements for the University of Vermont
+(UVM), Saint Michael’s College, Vermont State University, and Champlain College.
+University of Vermont
+At a minimum, candidates for all majors at UVM are expected to have met the following
+requirements prior to enrollment:
+   •   4 years of English
+   •   3 years of mathematics (algebra I, geometry, algebra II, or equivalent courses)
+   •   3 years of social science
+   •   3 years of natural or physical science, including a lab science
+   •   2 years of the same foreign language; (American Sign Language meets this
+       requirement)
+Most successful applicants exceed the minimum entrance requirements. Any exceptions
+to these requirements are made on a case-by-case basis.
+Course work not completed at the high school level may be fulfilled by equivalent
+college-level academic work. In general, one semester of college work is considered the
+equivalent of one year of high school study.
+St. Michael’s College
+Minimum requirements for St. Michael’s College include:
+   •   4 years of English (students are encouraged to take English courses with a strong
+       emphasis on writing and the reading of literature)
+   •   2-3 years of the same foreign language
+   •   3-4 years of theoretical mathematics
+   •   3-4 years of science, including at least two lab sciences
+   •   3-4 years of history and social sciences
+Vermont State University
+Academic Profile Requirements
+Vermont State University prefers that candidates include the following college
+preparatory courses in their high school programs:
+
+ AOE Statewide Graduation              Page 29 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+   •   4 years of English
+   •   3 years of math
+   •   3-4 years of social science
+   •   2-3 years of laboratory science
+Some academic programs require specific credentials or prerequisite courses completed
+prior to application and/or enrollment. These requirements are found in their Program
+Admission Requirements.
+Champlain College
+Champlain College admission requirements include the successful completion of a
+college preparatory curriculum, including:
+   •   4 years of reading/writing English
+   •   3 years of history/social sciences
+   •   3 years of mathematics (at least through Algebra II, and optionally Pre-Calculus,
+       Calculus, or AP Calculus as juniors or seniors)
+   •   3 years of natural sciences, including two courses with lab components
+   •   2 years of a foreign language
+   •   A full course load of challenging academic subjects in the senior year
+
+Appendix B. Graduation Requirements Survey
+2025 Vermont Statewide Graduation Requirements Input
+Act 73 requires the Agency of Education to recommend statewide graduation
+requirements to the State Board of Education by January 1, 2026, in the form
+of a report. The State Board of Education then has until July 1, 2027, to finalize
+their decisions about the statewide graduation requirements, and the AOE will
+be available to provide ongoing support to them during this decision-making
+period.
+The purpose of this survey is to gather input from a variety of stakeholders
+and your responses will help inform the recommendations the AOE makes in
+their December 2025 report. The survey will be open through Friday,
+November 14th, 2025. You may save and come back to the collection before
+submission by clicking save at the bottom of the collection and following the
+instructions in the pop-up anytime. Thank you for taking the time to submit
+your responses.
+Enter your supervisory union/school district/CTE center/Independent School
+Name
+
+ AOE Statewide Graduation                Page 30 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Select your role
+Did you attend the graduation requirement recommendations track at the Statewide
+Planning Retreat on November 4th?
+   • Yes
+   • No
+   1. Create a table below this image to capture the second column (your
+      model). Consider the examples provided in model A and B proposals, by
+      determining quantitative credits for each content area and total credits for
+      graduation.
+
+
+
+
+My Statewide Graduation Requirements Model
+Create rows to include all content areas and then apply your credit #
+Additional Questions
+   2. Please specify certain courses you think should be required within any of the
+      content areas (e.g. Algebra I, Civics, etc.)
+   3. What informed the model you built above (e.g. opportunities for students,
+      accessibility, staffing, etc.)
+ AOE Statewide Graduation              Page 31 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                      LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+   4. What are some key challenges anticipated in implementing the model you
+      built above? (staffing; communication; course/pathways design or revision;
+      course/pathways approval; other)
+   5. Below, indicate the importance of each aspect of the approach to the
+      proposed graduation requirements modeling:
+Scale: 1 = less important, 3 = neutral, 5 = highly important
+   •   Access to one Vermont diploma for all learners, including those with disabilities
+   •   Standardizing the unit of measure for each content requirement (one credit
+       represents a one year course or equivalent learning experience) so that students,
+       caregivers, and educators are empowered to navigate the requirements
+   •   Clarity of standards expectations to create increased access to flexible
+       pathways
+   •   Decisions about what to require at the state level versus what to remain at
+       the local level
+   •   Applicability across settings (CTE centers, regional high schools,
+       independent schools)
+   •   Allowing some graduation requirements to be satisfied in grades below 9th
+       (e.g., 8th grade Algebra I would count toward the requirements)
+   •   Flexibility for interdisciplinary instructional models
+   •   Electives credits allowing for continuation of priority local requirements (e.g.,
+       Senior Seminar, local capstones)
+   •   Opportunity to strengthen consistency and rigor of PreK-8 experiences
+   •   Options for adding Seals (Such as Seal of Biliteracy)
+   6. In terms of operationalizing how credits translate into coursework/other
+      pathways to learning, what considerations would you like to share?
+          a. Additional feedback on the approach (e.g. What have we overlooked?
+             What else should we include? What do you hope to see in the final
+             recommendation to the Vermont State Board of Education?)
+   7. Transferable skills are already a required part of curricula per 2120.6 of the
+      Education Quality Standards. Would you prefer that the state also determine
+      graduation requirements for specific transferable skills or leave that to local
+      decisions about curricula?
+          a. If you would like the state to determine graduation requirements for
+             specific transferable skills, what requests do you have for support to
+
+
+ AOE Statewide Graduation                Page 32 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+              the field in standardizing the measurement of students' ability to
+              satisfy the requirements?
+Flexible Pathways Requirement Questions (Proposal to Include Flexible
+Pathways in Recommended Statewide Graduation Requirements)
+   8. Do the proposed options for the Flexible Pathways Requirement (linked
+      above) offer sufficient variety and equal likelihood of resulting in high-quality
+      learning? Yes/No
+   9. Are the proposed options for the Flexible Pathways Requirement scoped
+      appropriately? Yes/No
+           a. If no, why not?
+   10. Are there any other options that should be included in the Flexible Pathways
+       requirement?
+   11. What other feedback do you have about the Vermont statewide graduation
+       requirements that we haven't asked you to share yet?
+
+Appendix C. State Board-Approved Student Standards by
+Content Area
+For ease of reference, we have included the student standards for each content area
+that have already been approved by the State Board of Education.
+
+         Content Area                             Adopted Standards Link
+
+ Math                             Common Core State Standards - Math
+
+ English Language Arts (ELA)      Common Core State Standards - ELA
+
+ Science                          Next Generation Science Standards
+                                  International Society for Technology Education (ISTE)
+                                  Standards for Student Learning
+
+ Social Studies                   College, Career, and Civic Life (C3) Framework for
+                                  Social Studies State Standards
+
+ Financial Literacy               Jump$tart National Standards for Personal Finance
+                                  Education
+
+ World Languages                  World-Readiness Standards for Learning Languages
+
+ Visual & Performing Arts         National Arts Standards
+
+ AOE Statewide Graduation               Page 33 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                      LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+         Content Area                              Adopted Standards Link
+
+ Health & Physical Ed.             SHAPE America’s National Health Education
+                                   Standards
+                                   SHAPE America’s National Physical Education
+                                   Standards
+
+ Ethnic Studies                    Does not yet have State Board-approved standards
+
+
+Appendix D. Example Student Profiles
+While these examples are not exhaustive, we have intentionally selected a handful of
+student profiles (Career Tech, Flexible Pathway, 4-Year College Bound, and Additional
+Student Support) to provide “case studies” of how students could satisfy the proposed
+graduation requirements and aid in identifying additional considerations.
+Career Tech Example
+This student cares deeply about helping his community and wants to make a difference.
+He saw his father receive excellent care in the hospital when he recovered from a heart
+attack, which showed him what a difference the care and skills of medical staff can make
+for a whole family’s experience in difficult times. He is really bright and anxious to get
+started on his path to working. He doesn’t want to wait until college or later to get into a
+hospital and is excited about the Associates of Health Sciences option his counselor
+showed him at CCV. As an exploratory next step, this student participated in a Pre-Tech
+Exploratory program in 10th grade at a regional technical center and earned six and a
+half credits (e.g. Stafford’s Tech Exploratory). He is on the soccer team and student
+council at his high school. He also volunteers with the adaptive soccer club during their
+summer camp programs.
+Grade 9: 6.5 credits
+   •   Math 1 credit – Algebra I
+   •   ELA 1 credit – 9th Grade English (introductory ELA)
+   •   Science 1 credit – 9th grade Physical Science
+   •   Social Studies 1 credit – World Studies
+   •   World Language 1 credit – Spanish 1
+   •   Phys Ed .5 credit
+   •   Health .5 credit
+   •   Arts .5 credit – Intro to Theater
+
+ AOE Statewide Graduation                  Page 34 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Grade 10: 6.5 credits
+   •   Pre-Tech Exploratory program at CTE Center (8:25am-2:20pm daily)
+          ο Math 1 credit – Applied Geometry
+          ο ELA 1 credit – Sophomore English Reading & Writing
+          ο Social Studies 1 credit – US History
+          ο Science 1 credit – Earth and Space Science
+          ο Art 1 credit – Visual Art
+          ο Financial Literacy .5 credit
+          ο Elective 1 credit – CTE Program
+Grade 11: 6 credits
+   •   Health Careers program at a CTE Center (e.g. Stafford’s Health Careers)
+          ο Math 1 credit – Medical Math
+          ο ELA 1 credit – Medical Language
+          ο Science 1 credit (Life Science) – Anatomy & Physiology I with lab (4
+            college credits, Fast Forward)
+          ο Elective 2 credits – CTE program
+                   Work-Based Learning – Job shadow at Rutland Regional Medical
+                    Center
+                   Industry-Recognized Credentials: Basic Life Support, First Aid,
+                    Bloodborne and Airborne Pathogens
+   •   At Sending High School
+          ο Phys Ed - 1 credit
+Grade 12: 6.5 credits
+   •   Health Careers program at a CTE Center (e.g. Stafford’s Health Careers)
+          ο Math 1 credit – Statistics for Medical Careers
+          ο ELA 1 credit – Technical Reading and Writing
+          ο Science 1 credit – Anatomy & Physiology II with lab (4 college credits, Fast
+            Forward)
+          ο Social Studies 1 credit – Civics
+          ο Health .5 credit
+          ο Elective 2 credits – CTE program
+ AOE Statewide Graduation               Page 35 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+                     Work-Based Learning 1 credit – Co-op at Rutland Regional Medical
+                      Center
+                     Industry-Recognized Credentials: Stop the Bleed, LNA Certification
+Total: 25.5 credits
+Considerations for this student pathway:
+   1. World Language: Note that the student takes World Language in grade 9. Due to
+      the student attending a full day CTE center in grades 11 and 12, and a full-day
+      Pre-Tech Exploratory program in grade 10, 9th grade is the only year to easily fit
+      this requirement into the student’s schedule. When we think of a CTE student
+      from a sending high school that sends to a full day CTE center, taking a World
+      Language in grade 9 is an important scheduling element. Students could return to
+      their sending school for this course as upperclassmen, so this is just a variable to
+      be aware of. This level of prescriptiveness/inflexibility could cause challenges for
+      scheduling overall for some students, or they could satisfy the requirement
+      through virtual learning opportunities.
+   2. Physical Education and Visual/Performing Arts: Note that in order to meet the
+      graduation requirement in PE and Arts, a student in a CTE program that does not
+      align to those standards (to meet them within the CTE program), may need to
+      return to their sending school in order to meet those credits. This can create
+      barriers to attending CTE due to scheduling and transportation challenges. It is
+      worth attending closely to scheduling considerations for such requirements at
+      sending schools so that CTE participation is encouraged and feasible.
+          a. Some possible solutions could include: considering scholastic sports
+             participation or arts programming outside of the school day to count for
+             these requirements, thinking about ways to offer electives in these areas
+             within CTE centers (and how to provide appropriate staffing to do so), and
+             likely other possibilities.
+Flexible Pathways Example
+This student’s PLP played a major role in designing their flexible pathways toward
+graduation. While completing their Student Profile in grade 9, this student reflected on
+past learning experiences that informed her future plans. These included participating in
+Civics that Empowers All Students in grade 5 and being a legislative page at the State
+House in grade 8. These learning experiences sparked an interest in civic learning that
+informed the Goals and Actions Steps part of the PLP planning process. In grade 9, one
+short-term goal was to expand their civic learning opportunities through the Governor’s
+Institute of Vermont (GIV)'s Global Issues and Youth Action program, though she
+recognized the need to apply for a scholarship in order to be able to access this
+opportunity. Not only did GIV allow for the exploration of civic opportunities, but it also
+
+
+ AOE Statewide Graduation              Page 36 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                   LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+focused on specific ways to influence policy on issues like health care and the
+environment.
+In grade 10, one short-term goal was to be on the Climate Change subcommittee of the
+Vermont State Youth Council (VSYC), a diverse group of Vermont youth responsible for
+annually advising the Governor and the Vermont General Assembly on the policies that
+impact young people. Her application was focused on environmental issues and she was
+accepted. Through the Reflection section of their PLP, she reflected on these
+experiences from the early part of their high school career and determined that she
+wanted to focus on the environment and climate activism, which informed her junior and
+senior year plans that would ultimately lead to the long-term goal of working at the United
+Nations on world environmental issues. She recognized that world language learning
+would need to be part of her PLP and considered online opportunities to supplement
+school offerings.
+This student’s grades 9-12 coursework included traditional courses to fulfill some
+graduation requirements and flexible pathways to fulfill other graduation requirements.
+Since she had taken advantage of several opportunities outside of the school day, she
+had more room in her schedule to take the world languages that would help her achieve
+her career goal of working at the United Nations. While not fulfilling all of the required
+standards of a Civics/American Government class needed for graduation, it was
+determined that both GIV and VSYC gave her opportunities to earn social studies
+elective credits.
+In grades 11 and 12, this student took advantage of several standards-aligned VTVLC
+courses not available in their high school, but of long-term career interest, to earn
+graduation credit. These included an elective science credits through Agriscience 1, an
+ELA elective credit through Public Speaking, and a world language credit through
+Spanish III. Finally, neither VTVLC nor her school offered AP Earth and Environmental
+Science, so she decided to take a dual enrollment course through UVM her senior year.
+* Reflect Flexible Pathways opportunities
+Grade 9: 6 credits
+   •   Math 1 credit – Algebra I
+   •   ELA 1 credit – 9th Grade English (introductory ELA)
+   •   Science 1 credit – 9th grade Physical Science
+   •   Social Studies 1 credit – World Studies
+   •   World Language 1 credit – Spanish II (student took Spanish I in middle grades)
+   •   Phys Ed 1 credit
+
+
+
+
+ AOE Statewide Graduation              Page 37 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Grade 10: 6 credits
+   •   Math 1 credit – Geometry
+   •   ELA 1 credit – World Literature course
+   •   Science 1 credit - Life Science
+   •   Social Studies 1 credit – Civics
+   •   Health .5 credit
+   •   Financial Literacy .5 credit
+   •   Visual Arts 1 credit
+Grade 11: 6 credits
+   •   Math 1 credit – Data Science
+   •   ELA 1 credit – Technical Reading and Writing
+   •   *Life Science 1 credit – Agriscience 1 through VTVLC
+   •   *Social Studies 1 credit – elective credits earned through GIV and VSYC
+   •   Arts .5 credit – Theater Arts
+   •   Health .5 credit
+   •   *World Languages 1 credit – Spanish III through VTVLC
+Grade 12: 5.5 credits
+   •   Math 1 credit – dual enrollment Statistics course (3 college credits)
+   •   *ELA 1 credit – .5 Presentation through Public Speaking from VTVLC and .5
+       Research through independent research project
+   •   Social Studies 1 credit – AP US History
+   •   Science 1 credit – dual enrollment in Earth and Environmental Science (3 college
+       credits)
+   •   *Career Exploration Learning 1 elective credit - Internship
+   •   Phys Ed - .5 Credit
+Total: 23.5 credits
+Considerations for this student profile: Flexible pathway learning can be counted for
+credit under the new graduation requirements, provided that the learning has been
+assessed by a teacher holding the appropriate credential. This student’s .5 ELA credit for
+research in her independent project would require the oversight and approval of an ELA
+teacher to be awarded credit, and their GIV and VSYC experiences would only be
+
+ AOE Statewide Graduation                 Page 38 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+awarded credit based on the appropriate oversight and approval by a Social Studies
+teacher at their school in order to count toward an elective credit. Her internship and
+additional World Language course count toward her total number of required elective
+credits.
+
+4-Year College Bound Example
+Building on the personalized learning plan (PLP) that they began developing in middle
+school, this student revealed a strong interest in science and data analysis. These
+insights informed the student’s decision to pursue a science-focused college/career
+pathway and, with support from their guidance counselor and advisory teacher, they
+planned out the best course schedule to satisfy college entrance requirements and
+prepare them for the continuation of post-secondary STEM education.
+Because of their early exposure and intentional planning through their PLP, the student
+knew they wanted to pursue more specialized STEM-related, higher-level coursework.
+This included choosing to enroll into AP courses, dual-enrollment opportunities, and
+participation in relevant afterschool clubs or extracurricular activities and academics.
+Grade 9: 6 credits
+   •   Math 1 credit – Accelerated Geometry
+   •   ELA 1 credit – 9th Grade English (introductory ELA)
+   •   Science 1 credit – Earth and Environmental Studies
+   •   Social Studies 1 credit – World Studies
+   •   World Language 1 credit – Spanish 1
+   •   Health .5 credit
+   •   Performing Arts .5 credit
+Grade 10: 6.5 credits
+   •   Math 1 credit – Algebra II (student completed Algebra I in 8th grade)
+   •   ELA 1 credit – Honors American Studies (ELA course, interdisciplinary)
+   •   Life Science 1 credit – Advanced Biology
+   •   Social Studies 1 credit – Honors American Studies (US History, interdisciplinary)
+   •   World Language 1 credit – Spanish 2
+   •   Visual Arts - 1 credit
+   •   PE .5 credit
+
+
+
+
+ AOE Statewide Graduation              Page 39 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Grade 11: 6.5 credits
+   •   Math 1 credit – Pre-Calculus
+   •   ELA 1 credit – AP Literature
+   •   Science 1 credit – AP Chemistry
+   •   Science 1 credit – dual-enrollment Human Growth & Development (3 college
+       credits)
+   •   Social Studies 1 credit – Civics
+   •   Financial Literacy .5 credit
+   •   Work-Based Learning Elective Course 1 credit
+          ο Includes a job shadow at higher education institution lab
+Grade 12: 7 credits
+   •   Math 1 credit – AP Statistics
+   •   Math 1 credit – AP Calculus
+   •   ELA 1 credit – dual-enrollment English Composition (3 college credits)
+   •   Science 1 credit – Physics
+   •   Social Studies 1 credit – Public Issues and World Affairs
+   •   Phys Ed 1 credit
+   •   Health .5 credit
+   •   Family and Consumer Science .5 credit
+Total: 26 credits
+Considerations for this student profile:It is important to note that a student with these
+interests and goals, could also find success within a CTE program pathway. If this
+student were to explore a Health Sciences or Engineering CTE pathway, they could take
+college coursework of up to 17 college credits in science fields and apply that directly to
+real world problems. Depending on the student’s goals, a CTE program could also set
+them up for success in the transition to a four-year college program in the sciences.
+Additional Student Support Example
+This student does her best to come to school ready to work and see her friends. Classes
+aren’t easy for her and sometimes she can’t make it to school because of transportation
+issues and some challenges at home, which can make her feel behind. She’s been
+feeling behind in classes for a while now, and it makes being in school hard. Luckily, she
+enjoys seeing her friends and has a good relationship with the school counselor, which
+makes things a little better. In her freshman year, she almost didn’t pass her science,
+
+ AOE Statewide Graduation                 Page 40 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                     LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+math, or ELA classes. Going into her sophomore year, her counselor said that she’d
+have extra literacy and science support to help her catch up. She has been evaluated
+and didn't qualify for a 504 or IEP. Her friends and family had asked her about doing
+CTE, but there wasn’t a program she was excited about. The one thing she knew she
+liked was theater, and it seemed like there would be more chances to do that at her
+current high school.
+Grade 9: 6 credits
+   •   Math 1 credit – Applications of Mathematics (pre-algebra and pre-geometry topics
+       using applied math methods)
+   •   ELA 1 credit – 9th Grade English (introductory ELA)
+   •   Science 1 credit – 9th grade Life Science
+   •   Social Studies 1 credit – World Studies
+   •   Health .5 credit
+   •   Phys Ed .5 credit
+   •   Performing Arts 1 credit
+Grade 10: 5.5 credits
+   •   Math 1 credit – Statistics for Everyday Life (statistics and data science using
+       applied math methods)
+   •   ELA 1 credit – 10th Grade English
+          ο ELA non-credit bearing course – intervention
+   •   Science elective 1 credit – Concepts of Science (science elective using project-
+       based instruction to cover science concepts from Life Sciences, Physical
+       Sciences, and Earth Sciences)
+   •   Social Studies 1 credit – US History
+   •   Phys Ed 1 credit
+   •   Performing Arts .5 credit
+Grade 11: 6 credits
+   •   Math 1 credit – Algebra 1
+   •   ELA 1 credit – Literacy Studio (English elective focusing on reading and writing
+       skills connected to topics of student interest)
+   •   Science 1 credit – Earth Science (10th grade science)
+   •   Social Studies 1 credit – Civics
+
+
+ AOE Statewide Graduation                 Page 41 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                    LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+   •   Financial Literacy .5 credit
+   •   Health .5 credit
+   •   Performing Arts 1 credit
+Grade 12: 5.5 credits
+   •   Math 1 credit – Geometry 1
+          ο Math non-credit bearing course - intervention block
+   •   ELA 1 credit – Creative Writing
+   •   Science 1 credit – Physical Science
+   •   Performing Arts 1 credit
+   •   World Language 1 credit – American Sign Language
+   •   Career Exploration Elective 1 credit - Internship
+          ο Includes an internship with a local theater troupe
+Total: 23 credits
+Considerations for this student profile:
+   1. Flexible pathway learning can be counted for credit under the new graduation
+      requirements, provided that the learning has been assessed by a teacher holding
+      the appropriate credential, in this case an art teacher.
+   2. In each grade level, this profile raises the question of: What additional support and
+      learning time should the school provide to a student who doesn’t enter high school
+      with the necessary skills to access grade-level content to ensure the student can
+      meet the graduation requirements? This school offers additional support through
+      the school counselor and provides both remedial coursework and “double-doses”
+      in the content areas the student has identified gaps.
+   3. Due to the student having a full schedule from intervention time and other
+      required coursework in her early high school years, she waited until her senior
+      year to enroll in a world language course and allow her to satisfy this requirement.
+   4. While this student ultimately made progress, this example raises questions about
+      how the system supports students when existing interventions do not result in
+      credit attainment. Schools will need to be intentional when providing additional
+      credit-recovery pathways are available to support on-time graduation while
+      maintain the appropriate level of rigor.
+
+
+
+
+ AOE Statewide Graduation                Page 42 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+                                                 LEADERSHIP | SUPPORT | OVERSIGHT
+
+
+
+Appendix E. Additional Resources
+Throughout the report, we have referenced monthly presentations to the State Board of
+Education from August-December of 2025 as well as the inaugural Strategic Planning
+Retreat held on November 4, 2025. For more information, please visit the State Board of
+Education website as well as the Strategic Planning Retreat website.
+
+
+
+
+ AOE Statewide Graduation            Page 43 of 43
+ Requirements Recommendations
+ (Issued: December 31, 2025)
+

@@ -1,0 +1,21 @@
+requirement_id,subject_area,requirement,complete_2033,transitional_2031_32,benchmark_2025_survey,notes
+ELA-INTRO,ELA,English/Language Arts - Introductory,2.0,2.0,,"Memo: 4.0 credits (2 Intro, 2 Mastery). SBE v8 places '(2 introductory and 2 mastery)' between the Math and ELA rows - confirm it belongs to ELA."
+ELA-MASTERY,ELA,English/Language Arts - Mastery,2.0,2.0,,"Benchmark total ELA 4.0 (no intro/mastery split)."
+MATH-ALG1,Mathematics,Algebra I,1.0,1.0,1.0,
+MATH-GEOM,Mathematics,Geometry,1.0,1.0,1.0,
+MATH-PATHWAY,Mathematics,Math Pathway Elective,1.0,1.0,1.0,"Benchmark lists 3.0 math (Algebra I, Geometry) - third credit unspecified."
+MATH-STATS-ALG2,Mathematics,Statistics/Data Science or Algebra II,1.0,0.0,,"Shifted to electives in transitional model."
+SCI-PHYS,Science,Physical Science (with lab),1.0,1.0,1.0,"Memo: '(Physical, Life, Earth/Space with labs)' - confirm whether 'with labs' applies to all three."
+SCI-LIFE,Science,Life Science (with lab),1.0,1.0,1.0,
+SCI-EARTH,Science,Earth/Space Science (with lab),1.0,1.0,1.0,
+SS-USHIST,Social Studies,US History,1.0,1.0,1.0,"Memo lists 3.0 (US History, Civics, World Studies); 1.0 each assumed."
+SS-CIVICS,Social Studies,Civics,1.0,1.0,1.0,"1.0 each assumed."
+SS-WORLD,Social Studies,World Studies,1.0,1.0,1.0,"1.0 each assumed."
+ARTS,Arts,Arts,1.5,1.5,1.5,
+WL,World Languages,World Language or ASL,1.0,0.0,1.0,"Shifted to electives in transitional model."
+FINLIT,Financial Literacy,Financial Literacy (stand-alone content),0.5,0.5,0.5,"Memo: 'Stand-alone content' - embedded financial literacy may not count."
+PE,Physical Education,Physical Education,1.5,,1.5,"Transitional: 1.5 PE/Health combined allocation (see PE-HEALTH-COMBINED)."
+HEALTH,Health,Health,1.0,,1.0,
+PE-HEALTH-COMBINED,Physical Education,PE/Health combined allocation,,1.5,,"Transitional model only."
+ELECTIVE,Electives,Open electives,3.0,6.0,4.0,
+TOTAL,,Total credits,22.5,22.5,24.0,"Source: AOE memo (Dr. Erin Davis) to SBE, 2026-10-20; SBE draft v8 Exhibit 1 matches the complete model. Current VT range 16.5-28.5."
