@@ -1,0 +1,60 @@
+{
+  "school_id": "oxbow-union-high-school",
+  "school_name": "Oxbow Union High School",
+  "su_sd": "Orange East Supervisory Union",
+  "catalog_school_year": "2026-27",
+  "source_files": [
+    "catalogs/oxbow-union-high-school/school_profile_2026-27.pdf"
+  ],
+  "source_retrieved_on": "2026-11-14",
+  "extracted_on": "2026-11-14",
+  "extraction_status": "failed",
+  "extraction_notes": "NO COURSE LIST (status set to failed because merge_phase2.py does not accept no_courses; intended meaning is no_courses). Only a 2-page 2026-27 School Profile PDF was downloaded (the OHS 2026-2027 Program of Studies is a Canva design that automated clients could not open; see Phase 1 issues). The profile gives only illustrative, department-level course name lists ('may include'), with no descriptions, grades, credits or lengths, so no course records were extracted. extract_text.py ignores non-catalog files, so no phase2/text file was produced; the profile was read with pdftotext. Graduation requirements captured from profile page 1.",
+  "graduation_requirements": {
+    "total_credits": 23,
+    "by_area": [
+      {
+        "area": "English",
+        "credits": 4,
+        "notes": null
+      },
+      {
+        "area": "Math",
+        "credits": 3,
+        "notes": null
+      },
+      {
+        "area": "Science",
+        "credits": 3,
+        "notes": "At least 1 Life and 1 Physical"
+      },
+      {
+        "area": "Social Studies",
+        "credits": 4,
+        "notes": null
+      },
+      {
+        "area": "Physical Education",
+        "credits": 1.5,
+        "notes": null
+      },
+      {
+        "area": "Health",
+        "credits": 0.5,
+        "notes": null
+      },
+      {
+        "area": "Fine Arts",
+        "credits": 1,
+        "notes": null
+      }
+    ],
+    "other": [
+      "Electives as needed to total 23",
+      "Students are required to pass one credit of English, one credit of math, and earn the requisite number of credits during both Freshman and Sophomore years in order to be promoted."
+    ],
+    "source_page": 1,
+    "raw_text": "The credits required to graduate are 23 as distributed below:\nEnglish 4 Math 3\nScience 3 (At least 1 Life and 1 Physical)\nSocial Studies 4 Physical Education 1.5\nHealth .5 Fine Arts 1\nElectives as needed to total 23"
+  },
+  "courses": []
+}
