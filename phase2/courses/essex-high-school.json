@@ -1301,7 +1301,7 @@
       "offering_note": null,
       "source_page": 29,
       "source_file": "catalogs/essex-high-school/catalog_2026-27.pdf",
-      "notes": "Catalog section: Fine Arts > Music Courses"
+      "notes": "Catalog section: Fine Arts > Music Courses; Prerequisites as printed within the entry: Experience playing a band instrument. In special instances, students wishing to start a band instrument may enroll with special permission from the teacher."
     },
     {
       "course_name": "Band 200: Wind Ensemble",
@@ -1351,7 +1351,7 @@
       "offering_note": null,
       "source_page": 30,
       "source_file": "catalogs/essex-high-school/catalog_2026-27.pdf",
-      "notes": "Catalog section: Fine Arts > Music Courses"
+      "notes": "Catalog section: Fine Arts > Music Courses; Prerequisites as printed within the entry: Experience playing a band instrument or a rhythm section instrument."
     },
     {
       "course_name": "Guitar",
@@ -1771,7 +1771,7 @@
       "offering_note": null,
       "source_page": 34,
       "source_file": "catalogs/essex-high-school/catalog_2026-27.pdf",
-      "notes": "Catalog section: Fine Arts > Visual Art Courses; Also listed under Practical Arts (p.49) with the same course number."
+      "notes": "Catalog section: Fine Arts > Visual Art Courses; Also listed under Practical Arts (p.49) with the same course number.; Prerequisites as printed within the entry: One of the following courses: Art 1, Clay 1, Media Communications, or Computer Animation I."
     },
     {
       "course_name": "Health",
@@ -2868,7 +2868,7 @@
       "course_name": "Biology 200",
       "course_code": "Q213",
       "department": "Science",
-      "description": "This course introduces students to biological theories and concepts with independent work, collaborative work, lab activities, and projects. Strong study skills and the ability to work independently as well as collaboratively are key elements needed for success in Biology 200. Topics include the Scientific Method, Ecology, DNA, Cell Cycle and Mitosis, Meiosis and Genetics, Evolution and Homeostasis. Science: Completion of or concurrent enrollment in Earth & Space Science 200, or completion of Earth & Space Science 100 and teacher recommendation.",
+      "description": "This course introduces students to biological theories and concepts with independent work, collaborative work, lab activities, and projects. Strong study skills and the ability to work independently as well as collaboratively are key elements needed for success in Biology 200. Topics include the Scientific Method, Ecology, DNA, Cell Cycle and Mitosis, Meiosis and Genetics, Evolution and Homeostasis.",
       "grade_levels": [
         9,
         10,
@@ -2878,7 +2878,7 @@
       "credits": 1.0,
       "credits_text": "1 Natural Science credit",
       "length": "unknown",
-      "prerequisites": "Math: Completion or concurrent enrollment in Geometry.",
+      "prerequisites": "Math: Completion or concurrent enrollment in Geometry. Science: Completion of or concurrent enrollment in Earth & Space Science 200, or completion of Earth & Space Science 100 and teacher recommendation.",
       "level": "standard",
       "honors_option": false,
       "delivery": "in_person",
@@ -2887,7 +2887,7 @@
       "offering_note": null,
       "source_page": 52,
       "source_file": "catalogs/essex-high-school/catalog_2026-27.pdf",
-      "notes": "Catalog section: Science > Biological Science Courses"
+      "notes": "Catalog section: Science > Biological Science Courses; Prerequisites as printed within the entry: Math: Completion or concurrent enrollment in Geometry. Science: Completion of or concurrent enrollment in Earth & Space Science 200, or completion of Earth & Space Science 100 and teacher recommendation."
     },
     {
       "course_name": "Advanced Biology",

@@ -16,7 +16,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
    - If Phase 1 said the catalog is spread over many webpages, follow the links from the saved page and fetch each course/department page (no crawling beyond the catalog).
 3. Read the whole text in chunks. Extract **every course offered to grades 9–12** — including electives, AP, honors,
    dual enrollment / early college, online (VTVLC etc.), special education/alternative program courses, and courses at a
-   CTE center **only if the catalog lists them with descriptions as part of the school's offerings** (mark `level: "CTE"`).
+   CTE center programs the catalog lists (see consistency rules).
    Skip middle-school-only courses (grades 6–8).
 4. Also capture the catalog's **graduation requirements** as stated (credits by subject, proficiencies, other requirements) — Phase 3 needs them.
 5. Write `phase2/courses/<id>.json` (format below), then run `python3 -I scripts/merge_phase2.py --check <id>` and fix anything it flags.
@@ -33,7 +33,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
   - Grade levels / length stated in prose ("designed for juniors and seniors", "this semester course") count as stated.
   - `delivery`: default `in_person` for the school's own courses; only use other values when the catalog says so.
   - Programs with descriptions (dual enrollment, early college, work-based learning, independent study) → one record each, `notes: "program"`.
-  - CTE center programs listed in the catalog → one record each, `level: "CTE"`, `provider` = center name, `description` if given (else null), and put any academic credit they earn ("earns 1 science credit") in `fulfills_text`. Phase 3 needs this.
+  - CTE center programs listed in the catalog → one record each **even if listed by name only** (`description: null`), `level: "CTE"`, `provider` = center name, and put any academic credit they earn ("earns 1 science credit") in `fulfills_text`. Phase 3 can filter them in or out. If the catalog only mentions a center with no program names, make no records.
   - "Description TBA" → include the course, `description: null`, `notes: "description TBA"`.
   - Labelled lines inside an entry (Grading:, Lab component:, Summer work:, Honors option:) → `notes`, not `description`.
   - Department-level requirement statements ("Civics is required", science sequence) → `graduation_requirements.other` AND the related course's `fulfills_text`.
