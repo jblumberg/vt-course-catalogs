@@ -1,0 +1,70 @@
+{
+  "school_id": "richford-junior-senior-high-school",
+  "school_name": "Richford Junior/Senior High School",
+  "school_website": "https://sites.google.com/rjshs.net/rhsguidancedepartment/home",
+  "su_sd": "Franklin Northeast Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Confirmed from the catalog itself ('Franklin Northeast Supervisory Union', 'FNESU'); the FNESU website (fnesu.net) and rjshs.net could not be reached from this environment (TLS error / DNS), so the SU site itself was not checked.",
+  "su_sd_source_url": "https://docs.google.com/document/d/1nmXhMaPIGcSQqlWFatjdutcuZrRUo8vNY1MV6nYQ34I/edit?usp=sharing",
+  "catalog_status": "found",
+  "catalog_title": "26-27-Programs of Study",
+  "catalog_url": "https://sites.google.com/rjshs.net/rhsguidancedepartment/programs-of-study/2026-2027",
+  "direct_file_url": "https://docs.google.com/document/d/1nmXhMaPIGcSQqlWFatjdutcuZrRUo8vNY1MV6nYQ34I/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Sites (counseling site) embedding a Google Doc",
+  "course_planner": "none found (PowerSchool SIS; Richer Picture for PLPs)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/richford-junior-senior-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 74,
+      "size_mb": 8.3,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/richford-junior-senior-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 82,
+      "size_mb": 9.0,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1nmXhMaPIGcSQqlWFatjdutcuZrRUo8vNY1MV6nYQ34I/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://sites.google.com/rjshs.net/rhsguidancedepartment/programs-of-study/2025-2026",
+      "what": "2025-26 Programs of Study page (Google Doc 1U7EpNbvHP1gGxwN3qVwaawDgKHsoIHY4-wxbAcgw_HY), saved as catalog_2025-26.pdf"
+    },
+    {
+      "url": "https://sites.google.com/rjshs.net/rhsguidancedepartment/programs-of-study/2024-2025",
+      "what": "2024-25 Programs of Study page (not downloaded)"
+    },
+    {
+      "url": "https://sites.google.com/rjshs.net/rhsguidancedepartment/flexible-pathways",
+      "what": "Flexible pathways / dual enrollment info"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://docs.google.com/document/d/1nmXhMaPIGcSQqlWFatjdutcuZrRUo8vNY1MV6nYQ34I/edit?usp=sharing",
+      "quote": "grade point average will use the Franklin Northeast Supervisory Union traditional GPA points"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "medium",
+  "how_found": "web search hit on the RJSHS counseling Google Site > Programs of Study > 2026-2027 (embedded Google Doc); PDF via export",
+  "issues": "IMPORTANT for Phase 2: the 2026-27 Google Doc contains the catalog TWICE — PDF pp. 1-35 are the updated 2026-27 version (new board list, 5-day add/drop) and pp. 36-74 are an older copy (Morton Greenwood as board chair, 7-day add/drop) that resembles the 2025-26 text. The 2025-26 doc also contains two copies (second starts p.41). Use pp. 1-35 of catalog_2026-27.pdf. Some text inside is stale (e.g. 'Graduation requirements for classes 2025-2027', 'next offered 2025-2026'). Both PDFs are ~8-9 MB (images). Main school site rjshs.net and SU site fnesu.net failed TLS/DNS from this environment, so I could not confirm the counseling site is linked from the main site; confidence medium for that reason.",
+  "searched": [
+    "web search: Richford Junior Senior High School program of studies course catalog",
+    "web search: Franklin Northeast Supervisory Union Richford Junior Senior High School Enosburgh-Richford Unified",
+    "https://www.rjshs.net/ and https://rjshs.net/ (TLS internal error via proxy)",
+    "https://www.fnesu.net/ (TLS error; WebFetch DNS failure)",
+    "https://sites.google.com/rjshs.net/rhsguidancedepartment/home and programs-of-study/2026-2027, /2025-2026, college-and-career, for-parentsguardians"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,67 @@
+{
+  "school_id": "mt-abraham-union-high-school",
+  "school_name": "Mount Abraham Union Middle/High School",
+  "school_website": "https://mta.mausd.org/",
+  "su_sd": "Mount Abraham Unified School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site uses 'Mount Abraham Unified School District (MAUSD)'; matches schools.csv. Note the PowerSchool link in the catalog still uses the old ANeSU (Addison Northeast SU) subdomain.",
+  "su_sd_source_url": "https://www.mausd.org/",
+  "catalog_status": "found",
+  "catalog_title": "2026-2027 MAUHS Program of Studies",
+  "catalog_url": "https://drive.google.com/file/d/17EjSwqHmTTRV9NfMoER_E69CK9CnAw1p/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=17EjSwqHmTTRV9NfMoER_E69CK9CnAw1p",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (site on Edlio)",
+  "course_planner": "PowerSchool (scheduling); JumpRope (proficiency grades); no Naviance/Xello found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/mt-abraham-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 53,
+      "size_mb": 2.4,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/17EjSwqHmTTRV9NfMoER_E69CK9CnAw1p/view?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://drive.google.com/file/d/1SkdqUGfLfjqHjEkYDc6Cbj9kLqfQUbdO/view?usp=sharing",
+      "what": "MS Program of Studies 2026-2027 (grades 7-8; not downloaded)"
+    },
+    {
+      "url": "https://mta.mausd.org/apps/pages/index.jsp?uREC_ID=1685020&type=d",
+      "what": "High School Counseling Department page"
+    },
+    {
+      "url": "https://mta.mausd.org/pdfs/High_School_Program_of_Studies_23-24.pdf",
+      "what": "2023-24 Program of Studies (older; not downloaded)"
+    },
+    {
+      "url": "https://www.mausd.org/apps/news/article/1962773",
+      "what": "MAUSD-ANWSD course-based school choice partnership (from 2025-26): students can take courses at either district's high school"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.mausd.org/",
+      "quote": "Mount Abraham Unified School District ... Welcome to MAUSD"
+    }
+  ],
+  "school_status_notes": "MAUSD and ANWSD (Vergennes) run a course-sharing school-choice partnership starting 2025-26.",
+  "confidence": "high",
+  "how_found": "mta.mausd.org homepage / High School Counseling page > 'HS Program of Studies 2026-2027' (Google Drive PDF)",
+  "issues": "No 2025-26 catalog found (only 2020-21, 2022-23, 2023-24 PDFs under mta.mausd.org/pdfs/). Graduation requirements (proficiency-based, 24 credits) are inside the catalog. `file` reports 8 pages but pdfinfo says 53 (pdfinfo is right). Separate MS (7-8) program of studies exists.",
+  "searched": [
+    "web search: \"Mount Abraham Union\" high school program of studies",
+    "web search: Mt. Abraham \"Program of Studies\" 2025-2026 mausd",
+    "https://mta.mausd.org/ (homepage)",
+    "https://mta.mausd.org/apps/pages/index.jsp?uREC_ID=1685020&type=d (HS Counseling)",
+    "https://www.mausd.org/"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

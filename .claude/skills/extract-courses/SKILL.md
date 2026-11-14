@@ -22,6 +22,9 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
 5. Write `phase2/courses/<id>.json` (format below), then run `python3 -I scripts/merge_phase2.py --check <id>` and fix anything it flags.
 
 ## Rules
+- **Phase 1 `issues` are instructions for you.** If they say to use only certain pages (e.g. a doc that contains an old duplicate copy), do that and say so in `extraction_notes`.
+- **Shared district catalogs** (one document covering several high schools, e.g. Quarry Valley: Poultney / Proctor / West Rutland, courses tagged WRS/PrHS/PoHS): include only courses offered at THIS school. Put the school tag(s) in `notes`. If the catalog doesn't say which school offers a course, include it and set `offering_note: "district catalog - school not specified"`.
+- **Combined middle/high catalogs** (grades 6–12 or 7–12): skip courses only for grades 6–8.
 - **Copy text, don't write it.** `course_name` and `description` are taken from the catalog (fix only hyphenation/line-break artifacts). Never summarize, invent, or fill gaps from general knowledge. Missing → `null`.
 - One record per distinct course. If a course has levels as separate entries (e.g. "English 10" and "English 10 Honors"), make separate records. If a year-long course is listed as A/B semesters with one description, make one record with `length: "year"`.
 - A course listed in two departments → one record, `department` = first, note the other in `notes`.

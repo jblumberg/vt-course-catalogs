@@ -1,0 +1,72 @@
+{
+  "school_id": "canaan-schools",
+  "school_name": "Canaan Schools (Canaan Memorial High School)",
+  "school_website": "https://www.canaanschools.org/",
+  "su_sd": "Essex North Supervisory Union 19",
+  "su_sd_matches_list": true,
+  "su_sd_note": "ENSU site header/footer: 'Essex North Supervisory Union 19'; Canaan school site is a section (/o/cs) of the ENSU Thrillshare/Apptegy site (essexnorth19vt.sites.thrillshare.com). Same entity as list.",
+  "su_sd_source_url": "https://www.ensuvt.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "CMHS Program of Studies FY25-26",
+  "catalog_url": "https://aptg.co/r5Y86G",
+  "direct_file_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3702/Cs/d8e947fc-142b-4c76-8654-273d906498aa/Program-of-Studies-FY25-26.pdf?disposition=inline",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Apptegy / Thrillshare",
+  "course_planner": "none found",
+  "school_year": "2025-26",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/canaan-schools/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 68,
+      "size_mb": 1.3,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": null,
+  "additional_urls": [
+    {
+      "url": "https://www.canaanschools.org/o/cs/page/family-resources",
+      "what": "Family Resources page with the 'Program of Studies for 25-26' link (aptg.co short link)"
+    },
+    {
+      "url": "https://www.canaanschools.org/o/cs/documents/families/school-counseling/programs-of-studies/428788",
+      "what": "School Counseling > Programs of Studies documents folder: older years only (21-22, 2022-23, 23-24, 24-25, CTE 2019-20; also 21-22 POS files named CA_ and PHS_, apparently other schools')"
+    },
+    {
+      "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3702/Cs/257e893b-7727-4ce9-9205-a8bc32a7dbdc/24_25_POS.pdf?disposition=inline",
+      "what": "2024-25 Program of Studies (not downloaded)"
+    },
+    {
+      "url": "https://5il.co/1r0do",
+      "what": "CTE Program of Studies 2019-2020 (Canaan CTE, linked from About CTE page)"
+    },
+    {
+      "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3702/Cs/0ae75c4e-c8b7-4dda-ab6b-65af3988380b/Canaan_HS_Handbook_2024-2025.docx.pdf?disposition=inline",
+      "what": "Canaan HS Handbook 2024-2025 (not downloaded)"
+    },
+    {
+      "url": "https://www.canaanschools.org/o/cs/page/act-170-merger-cesa-info",
+      "what": "Act 170 merger / CESA info page"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": "PK-12 school operating its own high school (Canaan Memorial High School, CMHS) plus a CTE program. Site has an Act 170 merger/CESA information page; ENSU has previously explored an interstate merger (Vermont Public). CMHS is also listed as an NHIAA (New Hampshire) athletics member.",
+  "confidence": "medium",
+  "how_found": "canaanschools.org > Family Resources > 'Program of Studies for 25-26' (aptg.co short link -> Thrillshare PDF); also School Counseling > Documents > Programs of Studies folder",
+  "issues": "Only the 2025-26 (FY25-26) Program of Studies is public; no 2026-27 version found on the site or by search, though 2026-27 is underway. PDF (68 pages) is CMHS-specific, has full course descriptions and a graduation requirements table (Academic Policies section, p.9) - no separate grad requirements file. Site is a JavaScript Apptegy app; links were taken from embedded page JSON. The Programs of Studies documents folder also holds 21-22 files prefixed CA_ and PHS_ that may belong to other schools - not checked.",
+  "searched": [
+    "WebSearch: Canaan Schools Vermont program of studies high school course catalog",
+    "WebSearch: Canaan Schools Vermont Essex North Supervisory Union Canaan Memorial High School website",
+    "WebSearch: \"Canaan Memorial High School\" OR \"CMHS\" Canaan Vermont \"Program of Studies\" 2026-2027 OR FY26-27",
+    "www.canaanschools.org home; /o/cs/page/school-counseling, /kindergarten-through-graduation, /student-support-services, /about-cte, /certificate-programs, /family-resources",
+    "/o/cs/documents/families/school-counseling/programs-of-studies/428788; thrillshare documents API root listing",
+    "www.ensuvt.org home",
+    "canaan-vt.org/canaanschools.html (search result)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

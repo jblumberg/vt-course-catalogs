@@ -1,0 +1,86 @@
+{
+  "school_id": "west-rutland-school",
+  "school_name": "West Rutland School (West Rutland High School)",
+  "school_website": "https://wrs.grcsu.org/",
+  "su_sd": "Greater Rutland County Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School is in Quarry Valley Unified Union School District (with Proctor and Poultney high schools), within Greater Rutland County Supervisory Union (GRCSU) — matches schools.csv.",
+  "su_sd_source_url": "https://drive.google.com/file/d/1zwrl6KZihHfa5wxUhW80B-18_LgjWw8S/view?usp=sharing",
+  "catalog_status": "found",
+  "catalog_title": "Quarry Valley Unified School District Program of Studies",
+  "catalog_url": "https://drive.google.com/file/d/1cSTPRvbUkyWgP-XMPkFWPTmM_n-TGw34/view?usp=drive_link",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1cSTPRvbUkyWgP-XMPkFWPTmM_n-TGw34",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive",
+  "course_planner": "none found (Infinite Campus SIS, JumpRope grades)",
+  "school_year": "unknown",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/west-rutland-school/catalog_QV_undated.pdf",
+      "year": "unknown (likely 2025-26 or 2026-27)",
+      "pages": 24,
+      "size_mb": 1.0,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/west-rutland-school/catalog_2024-25.pdf",
+      "year": "2024-25",
+      "pages": 13,
+      "size_mb": 0.5,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/west-rutland-school/grad_requirements_2026-27_QV_handbook.pdf",
+      "year": "2026-27",
+      "pages": 70,
+      "size_mb": 1.5,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/1zwrl6KZihHfa5wxUhW80B-18_LgjWw8S/view?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/1j-C33Xoseqde_afvoPDu3rgmkfHQ5yg_HYdP9xJv3og/edit",
+      "what": "'West Rutland High School Program of Studies 2024-2025' — the only POS linked from wrs.grcsu.org (Academics, Guidance pages, via an old google.com/url redirect); saved as catalog_2024-25.pdf"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1kFrcEPZpOCVcJbFXEjoocVLWWDzPePfs/view?usp=sharing",
+      "what": "'NEW QV Program of Studies' (older, Drive last-modified 2023-12-07); also linked from Proctor academics page; not downloaded"
+    },
+    {
+      "url": "https://prhs.grcsu.org/academics/",
+      "what": "Proctor High School academics page — where both QV Program of Studies files are linked"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1zwrl6KZihHfa5wxUhW80B-18_LgjWw8S/view?usp=sharing",
+      "what": "QV High School Handbook 2026-27 (Poultney, Proctor, West Rutland) incl. Quarry Valley Graduation Requirements; saved as grad_requirements_2026-27_QV_handbook.pdf"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XZms5EFFcWFvyS2CRk48jdLIit2wSxTPukLOAzShxag/edit",
+      "what": "West Rutland High School Course Offerings 2018-2019 (old; found via search)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://drive.google.com/file/d/1zwrl6KZihHfa5wxUhW80B-18_LgjWw8S/view?usp=sharing",
+      "quote": "Quarry Valley Unified School District Student/Family Handbook ... Greater Rutland County Supervisory Union School Board Members"
+    }
+  ],
+  "school_status_notes": "High school course catalog is now a single Quarry Valley USD document shared by Poultney, Proctor and West Rutland High Schools, with courses tagged by school (WRS/PrHS/PoHS).",
+  "confidence": "medium",
+  "how_found": "wrs.grcsu.org > Academics > Program of Studies (2024-25 WRS doc); then Proctor's academics page (prhs.grcsu.org/academics/) > 'Program of Studies' > QV Program of Studies (Drive PDF)",
+  "issues": "Primary catalog is the district-wide Quarry Valley Program of Studies, which prints NO school year. Dating evidence: Google Docs renderer m141 (~Oct-Nov 2025) and Drive last-modified 2026-11-12, newer than the 'NEW QV' file (2023-12-07) — so probably the 2026-27 catalog, but unconfirmed. It is linked from Proctor's site, not West Rutland's; WRS's own site links only the 2024-25 WRS-only POS. Phase 2: filter QV catalog to courses tagged WRS (some tagged 'WRH'). Graduation requirements are in the 2026-27 QV handbook and also in the QV catalog. pohs.grcsu.org/prhs.grcsu.org over http:// failed DNS but https:// worked.",
+  "searched": [
+    "web search: \"West Rutland School\" program of studies course catalog",
+    "web search: \"West Rutland\" high school \"Program of Studies\" 2026-2027 OR 2025-2026",
+    "https://www.wrsvt.org/ (unreachable), https://www.westrutlandschool.org/ (403, not the school)",
+    "https://wrs.grcsu.org/ , /academics/ , /guidance/ , /school-counseling/ (404)",
+    "https://www.grcsu.org/",
+    "https://pohs.grcsu.org/academics/ , https://prhs.grcsu.org/academics/"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

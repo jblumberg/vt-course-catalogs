@@ -1,0 +1,89 @@
+{
+  "school_id": "burlington-high-school",
+  "school_name": "Burlington High School",
+  "school_website": "https://bhs.bsdvt.org/",
+  "su_sd": "Burlington School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site header/footer says 'Burlington School District'; schools.csv lists 'Burlington Supervisory District'. Same single-district entity (Burlington is its own supervisory district).",
+  "su_sd_source_url": "https://www.bsdvt.org/",
+  "catalog_status": "found",
+  "catalog_title": "Burlington High School Program of Studies 2026-2027",
+  "catalog_url": "https://docs.google.com/document/d/1-j-rlYVt9CngMk_91HR_UO8RDJ-YuSmjzow2Ul5FUs4/edit?tab=t.0",
+  "direct_file_url": "https://docs.google.com/document/d/1-j-rlYVt9CngMk_91HR_UO8RDJ-YuSmjzow2Ul5FUs4/export?format=pdf",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "PowerSchool (course requests); Naviance linked from Guidance for college/career planning",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/burlington-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 118,
+      "size_mb": 2.4,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/burlington-high-school/catalog_2026-27_grade9.pdf",
+      "year": "2026-27",
+      "pages": 59,
+      "size_mb": 1.6,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/burlington-high-school/catalog_2025-26.html",
+      "year": "2025-26",
+      "pages": null,
+      "size_mb": 0.7,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1-j-rlYVt9CngMk_91HR_UO8RDJ-YuSmjzow2Ul5FUs4/edit?tab=t.0",
+  "additional_urls": [
+    {
+      "url": "https://bhs.bsdvt.org/guidance/program-of-study/",
+      "what": "Guidance > Program of Studies page listing all years"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1nmTHcFhurFeayUtJ_PUoewQUX_UZgAQZOnG60adFJHU/edit?tab=t.0",
+      "what": "9th Grade Program of Studies 2026-2027 (subset of full catalog), saved as catalog_2026-27_grade9.pdf"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRSSwCx43vKSim-vFlRqcozWDRitgjTg6elU_-_xORFU6uPB7TJL-Q60oyybBmFieyflDRyhV08UHdT/pub",
+      "what": "2025-2026 Program of Studies (published Google Doc), saved as catalog_2025-26.html"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1LrzKURTy_3m0uq4ZsFg7j3uRIS0ZHEVeZAjUfMCjw5c/edit?tab=t.0",
+      "what": "2024-2025 Program of Studies (not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTtQnmTSMMEQePhiWv4EPiAr1y7CQRMCa7HQm_AtR6VfkMtps92MN16gMWADN2eC0XjdWVoTZwXO4wR/pub",
+      "what": "2023-2024 Program of Studies (not downloaded)"
+    },
+    {
+      "url": "https://bhs.bsdvt.org/guidance/",
+      "what": "Guidance page (links Naviance)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.bsdvt.org/",
+      "quote": "Copyright © 2026 Burlington School District - 150 Colchester Ave., Burlington, Vermont 05401"
+    }
+  ],
+  "school_status_notes": "Catalog lists BHS at 67 Cherry Street (the temporary downtown campus); a new BHS building is under construction — check if relevant.",
+  "confidence": "high",
+  "how_found": "bhs.bsdvt.org > Guidance > Program of Study > '2026–2027 Program of Studies' (Google Doc) ; PDF via export",
+  "issues": "Live Google Doc (can change); PDF exported 2026-11-14. Graduation requirements are a section inside the catalog (no separate doc found). 2025-26 is a published Google Doc so only HTML was saved. Older years 2021-22 to 2024-25 also linked on the same page.",
+  "searched": [
+    "web search: \"Burlington High School\" Vermont program of studies 2026-2027 (no relevant hit)",
+    "https://bhs.bsdvt.org/ (nav menu)",
+    "https://bhs.bsdvt.org/guidance/program-of-study/",
+    "https://bhs.bsdvt.org/guidance/",
+    "https://www.bsdvt.org/"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

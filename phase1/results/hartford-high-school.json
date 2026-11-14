@@ -1,0 +1,73 @@
+{
+  "school_id": "hartford-high-school",
+  "school_name": "Hartford High School",
+  "school_website": "https://hhsvt.com/",
+  "su_sd": "Hartford School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District calls itself 'Hartford School District' (hsdvt.com); schools.csv lists 'Hartford Supervisory District'. Same single-district entity. hartfordschools.net redirects to hsdvt.com; the catalog still prints www.hartfordschools.net.",
+  "su_sd_source_url": "https://hsdvt.com/",
+  "catalog_status": "found",
+  "catalog_title": "Hartford High School Program of Studies 2026 - 2027",
+  "catalog_url": "https://files.smartsites.parentsquare.com/11466/course_catalog_2026-27_updated_081126.pdf",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "ParentSquare (smartsites)",
+  "course_planner": "Naviance (linked from Counseling page)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/hartford-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 33,
+      "size_mb": 0.9,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/hartford-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 61,
+      "size_mb": 4.9,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://files.smartsites.parentsquare.com/11466/course_catalog_2026-27_updated_081126.pdf",
+  "additional_urls": [
+    {
+      "url": "https://hhsvt.com/counseling-office",
+      "what": "Counseling Office page linking both catalogs, school profiles, Naviance"
+    },
+    {
+      "url": "https://files.smartsites.parentsquare.com/11466/course_catalog_2026-27_updated_081126_1.pdf",
+      "what": "Second link on same page; byte-identical to the primary 2026-27 file"
+    },
+    {
+      "url": "https://files.smartsites.parentsquare.com/11466/course_catalog_2025-26_v2_1.pdf",
+      "what": "2025/26 Program of Studies, saved as catalog_2025-26.pdf"
+    },
+    {
+      "url": "https://files.smartsites.parentsquare.com/11466/hhs_school_profile_2026-27.pdf",
+      "what": "School profile 2026-27"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://hsdvt.com/",
+      "quote": "© 2026 Hartford School District ... 73 Highland Ave. White River Junction, VT 05001"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "hsdvt.com > Hartford High School (hhsvt.com) > Counseling Office > '2026/27 Program of Studies (Course Catalog)'",
+  "issues": "2026-27 PDF is laid out 2-up: 33 PDF pages = ~60 printed booklet pages (internal page numbers up to 60), so page references in the TOC don't match PDF page numbers. File updated 2026-08-11 (cover says updates occur through spring). Includes graduation requirements and Hartford Area Career & Technology Center course list. hhs.hartfordschools.net is unreachable; hhsvt.com is the domain in use.",
+  "searched": [
+    "web search: \"Hartford High School\" Vermont program of studies course catalog (only CT/other-district hits)",
+    "https://www.hartfordschools.net/ (redirects to hsdvt.com)",
+    "https://hsdvt.com/ and /hartford-high-school",
+    "https://hhsvt.com/ , /academics , /counseling-office"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

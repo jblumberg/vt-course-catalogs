@@ -29,7 +29,7 @@ missisquoi-valley-union-high-school,Missisquoi Valley Union High School,Swanton,
 montpelier-high-school,Montpelier High School,Montpelier,9-12,388,Montpelier-Roxbury Supervisory Union,Montpelier Roxbury Unified Union School District #71,500041000199,U071-PS191,
 mt-abraham-union-high-school,Mt. Abraham Union High School,Bristol,7-12,560,Mount Abraham Unified School District (supervisory district),Mt. Abraham Unified School District #61,500042500338,U061-PS195,
 mt-anthony-senior-union-high-school,Mt. Anthony Senior Union High School,Bennington,9-12,855,Southwest Vermont Supervisory Union,Mount Anthony Union High School District #14,500581000208,U014-PS196,
-mt-mansfield-union-high-school,Mt. Mansfield Union High School,Jericho,9-12,688,Chittenden East Supervisory Union,Mount Mansfield Unified Union School District #401,500044300210,U401-PS199,
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,Jericho,9-12,688,Mount Mansfield Unified Union School District (supervisory district; Chittenden East SU dissolved),Mount Mansfield Unified Union School District #401,500044300210,U401-PS199,
 north-country-union-high-school,North Country Union High School,Newport,9-12,678,North Country Supervisory Union,North Country Union High School District,500960000220,U022B-PS208,
 northfield-middle-high-school,Northfield Middle/High School,Northfield,6-12,254,Central Vermont Supervisory Union,Paine Mountain Union School District #68,500040800227,U068-PS211,
 otter-valley-union-high-school,Otter Valley Union High School,Brandon,7-12,487,Rutland Northeast Supervisory Union,Otter Valley Unified Union School District #53,500039200234,U053-PS219,
@@ -44,7 +44,7 @@ rutland-senior-high-school,Rutland Senior High School,Rutland,9-12,721,Rutland C
 south-burlington-high-school,South Burlington High School,South Burlington,9-12,793,South Burlington Supervisory District,South Burlington School District,500747000294,T191-PS272,
 spaulding-union-high-school,Spaulding Union High School,Barre,9-12,610,Barre Supervisory Union,Barre Unified Union School District #97,500044500419,U097-PS276,
 springfield-high-school,Springfield High School,Springfield,9-12,306,Springfield Supervisory District,Springfield School District,500753000300,T193-PS278,
-st-johnsbury-school,St. Johnsbury School,Saint Johnsbury,PK-12,1030,St. Johnsbury Supervisory District,Saint Johnsbury School District,500765000181,T179-PS400,"NCES lists PK-12, but St. Johnsbury students typically attend St. Johnsbury Academy (independent). Likely no public HS catalog - verify, probably exclude."
+st-johnsbury-school,St. Johnsbury School,Saint Johnsbury,PK-12,1030,St. Johnsbury Supervisory District,Saint Johnsbury School District,500765000181,T179-PS400,PK-8 only; high schoolers tuitioned to St. Johnsbury Academy / Lyndon Institute (independent). Excluded.
 stowe-high-school,Stowe High School,Stowe,9-12,225,Lamoille South Supervisory Union,Stowe Town School District,500780000553,T198-PS420,
 twin-valley-middle-high-school,Twin Valley Middle High School,Whitingham,6-12,183,Windham Southwest Supervisory Union,Twin Valley Unified School District #75,500041800540,U075-PS411,
 twinfield-union-school,Twinfield Union School,Plainfield,PK-12,315,Caledonia Central Supervisory Union,Twinfield Union School District #33,500822500335,U033-PS304,
@@ -55,4 +55,4 @@ white-river-valley-high-school,White River Valley High School,South Royalton,9-1
 williamstown-middle-high-school,Williamstown Middle/High School,Williamstown,6-12,261,Central Vermont Supervisory Union,Paine Mountain Union School District #68,500040800380,U068-PS344,
 windsor-school,Windsor School,Windsor,PK-12,572,Windsor Southeast Supervisory Union,Mount Ascutney School District #86,500044200539,U086-PS410,
 winooski-high-school,Winooski High School,Winooski,9-12,182,Winooski Supervisory District,Winooski Incorporated School District,500936000389,T249-PS351,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Woodstock,7-12,440,Windsor Central Supervisory Union,Mountain Views Unified Union School District #76,500045000395,U076-PS356,SU may have been renamed Mountain Views Supervisory Union - verify.
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Woodstock,7-12,440,Mountain Views Supervisory Union,Mountain Views Unified Union School District #76,500045000395,U076-PS356,SU renamed from Windsor Central SU to Mountain Views SU.

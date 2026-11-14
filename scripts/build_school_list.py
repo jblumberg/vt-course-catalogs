@@ -47,8 +47,8 @@ SU_BY_LEAID = {
     "5000410": "Montpelier-Roxbury Supervisory Union",
     "5005810": "Southwest Vermont Supervisory Union",
     "5000442": "Windsor Southeast Supervisory Union",
-    "5000443": "Chittenden East Supervisory Union",
-    "5000450": "Windsor Central Supervisory Union",  # may now be "Mountain Views Supervisory Union" - verify
+    "5000443": "Mount Mansfield Unified Union School District (supervisory district; Chittenden East SU dissolved)",
+    "5000450": "Mountain Views Supervisory Union",  # formerly Windsor Central SU (confirmed Phase 1)
     "5000425": "Mount Abraham Unified School District (supervisory district)",
     "5009600": "North Country Supervisory Union",
     "5000400": "Orange Southwest Supervisory Union",
@@ -73,10 +73,9 @@ SU_BY_LEAID = {
 }
 
 NOTES = {
-    "St. Johnsbury School": "NCES lists PK-12, but St. Johnsbury students typically attend St. Johnsbury "
-                            "Academy (independent). Likely no public HS catalog - verify, probably exclude.",
     "Rivendell Academy": "Interstate VT/NH district; school is in Orford, NH but serves VT towns.",
-    "Woodstock Union Middle/High School": "SU may have been renamed Mountain Views Supervisory Union - verify.",
+    "Woodstock Union Middle/High School": "SU renamed from Windsor Central SU to Mountain Views SU.",
+    "St. Johnsbury School": "PK-8 only; high schoolers tuitioned to St. Johnsbury Academy / Lyndon Institute (independent). Excluded.",
 }
 
 
