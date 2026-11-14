@@ -61,11 +61,11 @@ def main():
                 reasons.append("CTE")
             pool.append({"key": f"{sid}#{i}", "school": src.get("school_name"), "course": s.get("course_name"),
                          "department": s.get("department"), "grades": ",".join(map(str, s.get("grade_levels") or [])),
-                         "level": s.get("level"), "description": (s.get("description") or "")[:220],
-                         "catalog_says_fulfills": (s.get("fulfills_text") or "")[:120],
+                         "level": s.get("level"), "description": s.get("description") or "",
+                         "catalog_says_fulfills": s.get("fulfills_text") or "",
                          "model_subject": c["subject_area"] + (f' ({"+".join(c.get("bridges") or [])})' if c.get("bridges") else ""),
                          "model_credits": fmt(c), "model_conf": c.get("confidence"),
-                         "model_reason": " | ".join(m.get("rationale", "") for m in c.get("credit_mappings") or [])[:160],
+                         "model_reason": " | ".join(m.get("rationale", "") for m in c.get("credit_mappings") or []),
                          "why_sampled": ", ".join(reasons) or "random check",
                          "agree (Y/N)": "", "correct_subject": "", "correct_credits": "", "note": ""})
     flagged = [p for p in pool if p["why_sampled"] != "random check"]
