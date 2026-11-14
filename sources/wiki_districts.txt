@@ -1,0 +1,1257 @@
+{{Short description|none}}
+{{Use American English|date=February 2025}}
+{{Use mdy dates|date=July 2023}}
+This is a '''complete list of [[school district]]s in [[Vermont]]'''. Union school districts necessarily overlap (include) other, often town-based or village-based, school districts.<ref>{{Cite web |title=VT Data - School Districts (updated for FY2023) |url=https://geodata.vermont.gov/datasets/VCGI::vt-data-school-districts-updated-for-fy2023/explore |access-date=2022-08-31 |website=geodata.vermont.gov |language=en-us}}</ref>
+
+All Vermont school districts are independent governments. There are no K-12 public school systems in the state that are dependent on another layer of government like a city government.<ref>{{cite web|url=https://www.census.gov/content/dam/Census/library/publications/2024/econ/2022ISD.pdf|title=Individual State Descriptions: 2022|publisher=[[U.S. Census Bureau]]|access-date=2026-02-09}}</ref>
+
+{| class="wikitable sortable"
+! Municipality !! School district !! Supervisory union
+|-
+|[[Addison, Vermont|Addison]]
+|[[Addison Northwest Unified School District]]
+|[[Addison Northwest Supervisory Union]]
+|-
+|[[Albany, Vermont|Albany]]
+|[[Lake Region Union Elementary-Middle School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Albany, Vermont|Albany]]
+|[[Lake Region Union High School|Lake Region Union High School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Alburgh (town), Vermont|Alburgh]]
+|[[Alburg School District]]
+|[[Grand Isle Supervisory Union]]
+|-
+|[[Andover, Vermont|Andover]]
+|[[Green Mountain Unified School District]] 
+|[[Two Rivers Supervisory Union]]
+|-
+|[[Arlington, Vermont|Arlington]]
+|[[Arlington School District (Vermont)|Arlington School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Athens, Vermont|Athens]]
+|[[Bellows Falls Union High School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Athens, Vermont|Athens]]
+|[[Windham Northeast Union Elementary School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Averill, Vermont|Averill]]
+|[[Averill School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Averys Gore, Vermont|Averys Gore]]
+|[[Averys Gore School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Bakersfield, Vermont|Bakersfield]]
+|[[Northern Mountain Valley Unified Union School District]]
+|[[Franklin Northeast Supervisory Union]]
+|-
+|[[Baltimore, Vermont|Baltimore]]
+|[[Green Mountain Unified School District]] 
+|[[Two Rivers Supervisory Union]]
+|-
+|[[Barnard, Vermont|Barnard]]
+|[[Barnard School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Barnard, Vermont|Barnard]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Barnet, Vermont|Barnet]]
+|[[Caledonia Cooperative School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Barre (city), Vermont|Barre (city)]]
+|[[Barre Unified Union School District]]
+|[[Barre Supervisory Union]]
+|-
+|[[Barre (town), Vermont|Barre (town)]]
+|[[Barre Unified Union School District]]
+|[[Barre Supervisory Union]]
+|-
+|[[Barton, Vermont|Barton]]
+|[[Lake Region Union Elementary-Middle School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Barton, Vermont|Barton]]
+|[[Lake Region Union High School|Lake Region Union High School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Belvidere, Vermont|Belvidere]]
+|[[Lamoille North Modified Union School District 58A]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Belvidere, Vermont|Belvidere]]
+|[[Lamoille North Modified Union School District 58B]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Bennington, Vermont|Bennington]]
+|[[Mount Anthony Union High School|Mount Anthony Union High School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Bennington, Vermont|Bennington]]
+|[[Southwest Vermont Union Elementary School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Benson, Vermont|Benson]]
+|[[Slate Valley Unified Union School District]]
+|[[Addison Rutland Supervisory Union]]
+|-
+|[[Berkshire, Vermont|Berkshire]]
+|[[Northern Mountain Valley Unified Union School District]]
+|[[Franklin Northeast Supervisory Union]]
+|-
+|[[Berlin, Vermont|Berlin]]
+|[[Washington Central Unified Union School District]]
+|[[Washington Central Supervisory Union]]
+|-
+|[[Bethel, Vermont|Bethel]]
+|[[White River Unified District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Bloomfield, Vermont|Bloomfield]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Bolton, Vermont|Bolton]]
+|[[Mount Mansfield Modified Union School District A]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Bolton, Vermont|Bolton]]
+|[[Mount Mansfield Modified Union School District B]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Bradford, Vermont|Bradford]]
+|[[Oxbow Unified Union School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Braintree, Vermont|Braintree]]
+|[[Orange Southwest Unified School District]]
+|[[Orange Southwest Supervisory Union]]
+|-
+|[[Brandon, Vermont|Brandon]]
+|[[Otter Valley Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Brattleboro, Vermont|Brattleboro]]
+|[[Windham Southeast School District]]
+|[[Windham Southeast Supervisory Union]]
+|-
+|[[Bridgewater, Vermont|Bridgewater]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Brighton, Vermont|Brighton]]
+|[[Brighton School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Brighton, Vermont|Brighton]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Bridport, Vermont|Bridport]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Bristol, Vermont|Bristol]]
+|[[Mount Abraham Unified School District]]
+|[[Mount Abraham Unified School District (Supervisory)]]
+|-
+|[[Brookfield, Vermont|Brookfield]]
+|[[Orange Southwest Unified School District]]
+|[[Orange Southwest Supervisory Union]]
+|-
+|[[Brookline, Vermont|Brookline]]
+|[[West River Modified Union School District 72A]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Brookline, Vermont|Brookline]]
+|[[West River Modified Union School District 72B]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Brownington, Vermont|Brownington]]
+|[[Lake Region Union Elementary-Middle School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Brownington, Vermont|Brownington]]
+|[[Lake Region Union High School|Lake Region Union High School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Brunswick, Vermont|Brunswick]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Buels Gore, Vermont|Buels Gore]]
+|[[Buels Gore School District]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Burke, Vermont|Burke]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Burlington, Vermont|Burlington]]
+|[[Burlington School District]]
+|[[Burlington Supervisory District]]
+|-
+|[[Cabot, Vermont|Cabot]]
+|[[Cabot School District (Vermont)|Cabot School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Calais, Vermont|Calais]]
+|[[Washington Central Unified Union School District]]
+|[[Washington Central Supervisory Union]]
+|-
+|[[Cambridge, Vermont|Cambridge]]
+|[[Cambridge School District (Vermont)|Cambridge School District]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Cambridge, Vermont|Cambridge]]
+|[[Lamoille North Modified Union School District 58B]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Canaan, Vermont|Canaan]]
+|[[Canaan School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Castleton, Vermont|Castleton]]
+|[[Slate Valley Unified Union School District]]
+|[[Addison Rutland Supervisory Union]]
+|-
+|[[Cavendish, Vermont|Cavendish]]
+|[[Green Mountain Unified School District]] 
+|[[Two Rivers Supervisory Union]]
+|-
+|[[Charleston, Vermont|Charleston]]
+|[[Charleston School District (Vermont)|Charleston School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Charleston, Vermont|Charleston]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Charlotte, Vermont|Charlotte]]
+|[[Champlain Valley Union School District]]
+|[[Champlain Valley Supervisory Union]]
+|-
+|[[Chelsea, Vermont|Chelsea]]
+|[[First Branch Unified School District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Chester, Vermont|Chester]]
+|[[Green Mountain Unified School District]] 
+|[[Two Rivers Supervisory Union]]
+|-
+|[[Chittenden, Vermont|Chittenden]]
+|[[Barstow Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Clarendon, Vermont|Clarendon]]
+|[[Mill River Unified Union School District]]
+|[[Mill River Supervisory Union]]
+|-
+|[[Colchester, Vermont|Colchester]]
+|[[Colchester School District (Vermont)|Colchester School District]]
+|[[Colchester Supervisory District]]
+|-
+|[[Concord, Vermont|Concord]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Corinth, Vermont|Corinth]]
+|[[Waits River Valley Unified School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Cornwall, Vermont|Cornwall]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Coventry, Vermont|Coventry]]
+|[[Coventry School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Craftsbury, Vermont|Craftsbury]]
+|[[Craftsbury Schools|Craftsbury School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Danby, Vermont|Danby]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Danville, Vermont|Danville]]
+|[[Danville School District (Vermont)|Danville School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Derby, Vermont|Derby]]
+|[[Derby School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Derby, Vermont|Derby]]
+|[[North Country Junior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Derby, Vermont|Derby]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Dorset, Vermont|Dorset]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Dover, Vermont|Dover]]
+|[[River Valleys Unified School District]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Dummerston, Vermont|Dummerston]]
+|[[Windham Southeast School District]]
+|[[Windham Southeast Supervisory Union]]
+|-
+|[[Duxbury, Vermont|Duxbury]]
+|[[Harwood Union School District]]
+|[[Harwood Supervisory District]]
+|-
+|[[East Haven, Vermont|East Haven]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[East Montpelier, Vermont|Montpelier]]
+|[[Washington Central Unified Union School District]]
+|[[Washington Central Supervisory Union]]
+|-
+|[[Eden, Vermont|Eden]]
+|[[Lamoille North Modified Union School District 58A]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Eden, Vermont|Eden]]
+|[[Lamoille North Modified Union School District 58B]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Elmore, Vermont|Elmore]]
+|[[Lamoille South Unified Union School District]]
+|[[Lamoille South Supervisory Union]]
+|-
+|[[Enosburgh, Vermont|Enosburgh]]
+|[[Enosburgh-Richford Unified Union School District]]
+|[[Franklin Northeast Supervisory Union]]
+|-
+|[[Essex, Vermont|Essex]]
+|[[Essex Westford Unified Union School District]]
+|[[Essex Westford Supervisory Union]]
+|-
+|[[Fair Haven, Vermont|Fair Haven]]
+|[[Slate Valley Unified Union School District]]
+|[[Addison Rutland Supervisory Union]]
+|-
+|[[Fairfax, Vermont|Fairfax]]
+|[[Fairfax School District (Vermont)|Fairfax School District]]
+|[[Franklin West Supervisory Union]]
+|-
+|[[Fairfield, Vermont|Fairfield]]
+|[[Maple Run Unified School District]]
+|[[Maple Run Supervisory Union]]
+|-
+|[[Fairlee, Vermont|Fairlee]]
+|[[Rivendell Interstate School District]]
+|[[Rivendell Supervisory Union]]
+|-
+|[[Fayston, Vermont|Fayston]]
+|[[Harwood Union School District]]
+|[[Harwood Supervisory District]]
+|-
+|[[Ferdinand, Vermont|Ferdinand]]
+|[[Ferdinand School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Ferrisburgh, Vermont|Ferrisburgh]]
+|[[Addison Northwest Unified School District]]
+|[[Addison Northwest Supervisory Union]]
+|-
+|[[Fletcher, Vermont|Fletcher]]
+|[[Fletcher School District]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Franklin, Vermont|Franklin]]
+|[[Missisquoi Valley School District]]
+|[[Franklin Northwest Supervisory Union]]
+|-
+|[[Georgia, Vermont|Georgia]]
+|[[Georgia School District]]
+|[[Franklin West Supervisory Union]]
+|-
+|[[Glastenbury, Vermont|Glastenbury]]
+|[[Glastenbury School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Glover, Vermont|Glover]]
+|[[Lake Region Union Elementary-Middle School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Glover, Vermont|Glover]]
+|[[Lake Region Union High School|Lake Region Union High School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Goshen, Vermont|Goshen]]
+|[[Otter Valley Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Grafton, Vermont|Grafton]]
+|[[Bellows Falls Union High School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Grafton, Vermont|Grafton]]
+|[[Windham Northeast Union Elementary School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Granby, Vermont|Granby]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Grand Isle, Vermont|Grand Isle]]
+|[[Champlain Islands Unified Union School District]]
+|[[Grand Isle Supervisory Union]]
+|-
+|[[Granville, Vermont|Granville]]
+|[[Granville-Hancock Unified District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Greensboro, Vermont|Greensboro]]
+|[[Hazen Union High School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Greensboro, Vermont|Greensboro]]
+|[[Orleans Southwest Union Elementary School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Groton, Vermont|Groton]]
+|[[Blue Mountain Union School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Guildhall, Vermont|Guildhall]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Guilford, Vermont|Guilford]]
+|[[Windham Southeast School District]]
+|[[Windham Southeast Supervisory Union]]
+|-
+|[[Halifax, Vermont|Halifax]]
+|[[Halifax School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[Hancock, Vermont|Hancock]]
+|[[Granville-Hancock Unified District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Hardwick, Vermont|Hardwick]]
+|[[Hazen Union High School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Hardwick, Vermont|Hardwick]]
+|[[Orleans Southwest Union Elementary School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Hartford, Vermont]]
+|[[Hartford School District]]
+|[[Hartford Supervisory District]]
+|-
+|[[Hartland, Vermont|Hartland]]
+|[[Hartland School District]]
+|[[Windsor Southeast Supervisory Union]]
+|-
+|[[Highgate, Vermont|Highgate]]
+|[[Missisquoi Valley School District]]
+|[[Franklin Northwest Supervisory Union]]
+|-
+|[[Hinesburg, Vermont|Hinesburg]]
+|[[Champlain Valley Union School District]]
+|[[Champlain Valley Supervisory Union]]
+|-
+|[[Holland, Vermont|Holland]]
+|[[Holland School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Holland, Vermont|Holland]]
+|[[North Country Junior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Holland, Vermont|Holland]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Hubbardton, Vermont|Hubbardton]]
+|[[Slate Valley Unified Union School District]]
+|[[Addison Rutland Supervisory Union]]
+|-
+|[[Huntington, Vermont|Huntington]]
+|[[Huntington School District (Vermont)|Huntington School District]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Huntington, Vermont|Huntington]]
+|[[Mount Mansfield Modified Union School District B]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Hyde Park (town), Vermont|Hyde Park]]
+|[[Lamoille North Modified Union School District 58A]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Hyde Park (town), Vermont|Hyde Park]]
+|[[Lamoille North Modified Union School District 58B]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Ira, Vermont|Ira]]
+|[[Ira School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[Irasburg, Vermont|Irasburg]]
+|[[Lake Region Union Elementary-Middle School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Irasburg, Vermont|Irasburg]]
+|[[Lake Region Union High School|Lake Region Union High School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Isle La Motte, Vermont|Isle La Motte]]
+|[[Champlain Islands Unified Union School District]]
+|[[Grand Isle Supervisory Union]]
+|-
+|[[Jamaica, Vermont|Jamaica]]
+|[[West River Modified Union School District 72A]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Jamaica, Vermont|Jamaica]]
+|[[West River Modified Union School District 72B]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Jay, Vermont|Jay]]
+|[[Jay School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Jay, Vermont|Jay]]
+|[[North Country Junior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Jay, Vermont|Jay]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Jericho, Vermont|Jericho]]
+|[[Mount Mansfield Modified Union School District A]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Jericho, Vermont|Jericho]]
+|[[Mount Mansfield Modified Union School District B]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Johnson, Vermont|Johnson]]
+|[[Lamoille North Modified Union School District 58A]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Johnson, Vermont|Johnson]]
+|[[Lamoille North Modified Union School District 58B]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Killington, Vermont|Killington]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Kirby, Vermont|Kirby]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Landgrove, Vermont|Landgrove]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Lemington, Vermont|Lemington]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Lewis, Vermont|Lewis]]
+|[[Lewis School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Leicester, Vermont|Leicester]]
+|[[Otter Valley Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Lincoln, Vermont|Lincoln]]
+|[[Lincoln School District (Vermont)|Lincoln School District]]
+|[[Lincoln School District (Supervisory)]]
+|-
+|[[Londonderry, Vermont|Londonderry]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Lowell, Vermont|Lowell]]
+|[[Lowell School District (Vermont)|Lowell School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Lowell, Vermont|Lowell]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Ludlow (town), Vermont|Ludlow]]
+|[[Ludlow-Mount Holly Union School District]]
+|[[Two Rivers Supervisory Union]]
+|-
+|[[Lunenburg, Vermont|Lunenburg]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Lyndon, Vermont|Lyndon]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Maidstone, Vermont|Maidstone]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Manchester, Vermont|Manchester]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Marlboro, Vermont|Marlboro]]
+|[[Marlboro School District]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Marshfield, Vermont|Marshfield]]
+|[[Twinfield Union School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Mendon, Vermont|Mendon]]
+|[[Barstow Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Middlebury, Vermont|Middlebury]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Middlesex, Vermont|Middlesex]]
+|[[Washington Central Unified Union School District]]
+|[[Washington Central Supervisory Union]]
+|-
+|[[Middletown Springs, Vermont|Middletown Springs]]
+|[[Wells Spring Unified Union School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[Milton, Vermont|Milton]]
+|[[Milton School District]]
+|[[Milton Supervisory District]]
+|-
+|[[Monkton, Vermont|Monkton]]
+|[[Mount Abraham Unified School District]]
+|[[Mount Abraham Unified School District (Supervisory)]]
+|-
+|[[Montgomery, Vermont|Montgomery]]
+|[[Northern Mountain Valley Unified Union School District]]
+|[[Franklin Northeast Supervisory Union]]
+|-
+|[[Montpelier, Vermont|Montpelier]]
+|[[Montpelier-Roxbury Unified School District]]
+|[[Montpelier-Roxbury Supervisory Union]]
+|-
+|[[Moretown, Vermont|Moretown]]
+|[[Harwood Union School District]]
+|[[Harwood Supervisory District]]
+|-
+|[[Morgan, Vermont|Morgan]]
+|[[Morgan School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Morgan, Vermont|Morgan]]
+|[[North Country Junior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Morgan, Vermont|Morgan]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Morristown, Vermont|Morristown]]
+|[[Lamoille South Unified Union School District]]
+|[[Lamoille South Supervisory Union]]
+|-
+|[[Mount Holly, Vermont|Mount Holly]]
+|[[Ludlow-Mount Holly Union School District]]
+|[[Two Rivers Supervisory Union]]
+|-
+|[[Mount Tabor, Vermont|Mount Tabor]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[New Haven, Vermont|New Haven]]
+|[[Mount Abraham Unified School District]]
+|[[Mount Abraham Unified School District (Supervisory)]]
+|-
+|[[Newark, Vermont|Newark]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Newbury (town), Vermont|Newbury]]
+|[[Oxbow Unified Union School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Newfane, Vermont|Newfane]]
+|[[West River Modified Union School District 72A]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Newfane, Vermont|Newfane]]
+|[[West River Modified Union School District 72B]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Newport (city), Vermont|Newport (city)]]
+|[[Newport City School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Newport (city), Vermont|Newport (city)]]
+|[[North Country Junior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Newport (city), Vermont|Newport (city)]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Newport (town), Vermont|Newport (town)]]
+|[[Newport Town School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Newport (town), Vermont|Newport (town)]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[North Bennington, Vermont|North Bennington]]
+|[[North Bennington Incorporated District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[North Hero, Vermont|North Hero]]
+|[[Champlain Islands Unified Union School District]]
+|[[Grand Isle Supervisory Union]]
+|-
+|[[Northfield, Vermont|Northfield]]
+|[[Paine Mountain School District]]
+|[[Central Vermont Supervisory Union]]
+|-
+|[[Norton, Vermont|Norton]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Norwich, Vermont|Norwich]]
+|[[Dresden School District|Dresden Interstate Union High School District]]
+|[[Norwich Supervisory District]]
+|-
+|[[Norwich, Vermont|Norwich]]
+|[[Norwich School District]]
+|[[Norwich Supervisory District]]
+|-
+|[[Orange, Vermont|Orange]]
+|[[Echo Valley Community School District]]
+|[[Central Vermont Supervisory Union]]
+|-
+|[[Orwell, Vermont|Orwell]]
+|[[Slate Valley Unified Union School District]]
+|[[Addison Rutland Supervisory Union]]
+|-
+|[[Panton, Vermont|Panton]]
+|[[Addison Northwest Unified School District]]
+|[[Addison Northwest Supervisory Union]]
+|-
+|[[Pawlet, Vermont|Pawlet]]
+|[[Metawee School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Peacham, Vermont|Peacham]]
+|[[Peacham School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Peru, Vermont|Peru]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Pittsfield, Vermont|Pittsfield]]
+|[[Pittsfield School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Pittsford, Vermont|Pittsford]]
+|[[Otter Valley Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Plainfield, Vermont|Plainfield]]
+|[[Twinfield Union School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Plymouth, Vermont|Plymouth]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Pomfret, Vermont|Pomfret]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Poultney, Vermont|Poultney]]
+|[[Quarry Valley Unified Union School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[Pownal, Vermont|Pownal]]
+|[[Mount Anthony Union High School|Mount Anthony Union High School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Pownal, Vermont|Pownal]]
+|[[Southwest Vermont Union Elementary School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Proctor, Vermont|Proctor]]
+|[[Quarry Valley Unified Union School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[Putney, Vermont|Putney]]
+|[[Windham Southeast School District]]
+|[[Windham Southeast Supervisory Union]]
+|-
+|[[Randolph, Vermont|Randolph]]
+|[[Orange Southwest Unified School District]]
+|[[Orange Southwest Supervisory Union]]
+|-
+|[[Reading, Vermont|Reading]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Readsboro, Vermont|Readsboro]]
+|[[Readsboro School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[Richford, Vermont|Richford]]
+|[[Enosburgh-Richford Unified Union School District]]
+|[[Franklin Northeast Supervisory Union]]
+|-
+|[[Richmond, Vermont|Richmond]]
+|[[Mount Mansfield Modified Union School District A]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Richmond, Vermont|Richmond]]
+|[[Mount Mansfield Modified Union School District B]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Ripton, Vermont|Ripton]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Rockingham, Vermont|Rockingham]]
+|[[Bellows Falls Union High School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Rockingham, Vermont|Rockingham]]
+|[[Rockingham School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Rochester, Vermont|Rochester]]
+|[[Rochester-Stockbridge Unified School District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Roxbury, Vermont|Roxbury]]
+|[[Montpelier-Roxbury Unified School District]]
+|[[Montpelier-Roxbury Supervisory Union]]
+|-
+|[[Royalton, Vermont|Royalton]]
+|[[White River Unified District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Rupert, Vermont|Rupert]]
+|[[Metawee School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Rutland (city), Vermont|Rutland (city)]]
+|[[Rutland City School District]]
+|[[Rutland City Supervisory District]]
+|-
+|[[Rutland (town), Vermont|Rutland (town)]]
+|[[Rutland Town School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[Ryegate, Vermont|Ryegate]]
+|[[Blue Mountain Union School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Salisbury, Vermont|Salisbury]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Sandgate, Vermont|Sandgate]]
+|[[Sandgate School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Searsburg, Vermont|Searsburg]]
+|[[Searsburg School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[Shaftsbury, Vermont|Shaftsbury]]
+|[[Mount Anthony Union High School|Mount Anthony Union High School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Shaftsbury, Vermont|Shaftsbury]]
+|[[Southwest Vermont Union Elementary School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Sharon, Vermont|Sharon]]
+|[[Sharon School District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Sheffield, Vermont|Sheffield]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Shelburne, Vermont|Shelburne]]
+|[[Champlain Valley Union School District]]
+|[[Champlain Valley Supervisory Union]]
+|-
+|[[Sheldon, Vermont|Sheldon]]
+|[[Northern Mountain Valley Unified Union School District]]
+|[[Franklin Northeast Supervisory Union]]
+|-
+|[[Shoreham, Vermont|Shoreham]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Shrewsbury, Vermont|Shrewsbury]]
+|[[Mill River Unified Union School District]]
+|[[Mill River Supervisory Union]]
+|-
+|[[Somerset, Vermont|Somerset]]
+|[[Somerset School District (Vermont)|Somerset School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[South Burlington, Vermont|South Burlington]]
+|[[South Burlington School District]]
+|[[South Burlington Supervisory District]]
+|-
+|[[South Hero, Vermont|South Hero]]
+|[[South Hero School District]]
+|[[Grand Isle Supervisory Union]]
+|-
+|[[Springfield, Vermont|Springfield]]
+|[[Springfield School District (Vermont)|Springfield School District]]
+|[[Springfield Supervisory District]]
+|-
+|[[St. Albans (city), Vermont|St. Albans (city)]]
+|[[Maple Run Unified School District]]
+|[[Maple Run Supervisory Union]]
+|-
+|[[St. Albans (town), Vermont|St. Albans (town)]]
+|[[Maple Run Unified School District]]
+|[[Maple Run Supervisory Union]]
+|-
+|[[St. George, Vermont|St. George]]
+|[[Champlain Valley Union School District]]
+|[[Champlain Valley Supervisory Union]]
+|-
+|[[St. Johnsbury, Vermont|St. Johnsbury]]
+|[[St. Johnsbury School District]]
+|[[St. Johnsbury Supervisory District]]
+|-
+|[[Stamford, Vermont|Stamford]]
+|[[Stamford School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[Stannard, Vermont|Stannard]]
+|[[Orleans Southwest Union Elementary School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Stannard, Vermont|Stannard]]
+|[[Stannard School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Starksboro, Vermont|Starksboro]]
+|[[Mount Abraham Unified School District]]
+|[[Mount Abraham Unified School District (Supervisory)]]
+|-
+|[[Stockbridge, Vermont|Stockbridge]]
+|[[Rochester-Stockbridge Unified School District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Stowe, Vermont|Stowe]]
+|[[Lamoille South Unified Union School District]]
+|[[Lamoille South Supervisory Union]]
+|-
+|[[Strafford, Vermont|Strafford]]
+|[[Strafford School District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Stratton, Vermont|Stratton]]
+|[[Stratton School District]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Sudbury, Vermont|Sudbury]]
+|[[Otter Valley Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Sunderland, Vermont|Sunderland]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Sutton, Vermont|Sutton]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Swanton (town), Vermont|Swanton]]
+|[[Missisquoi Valley School District]]
+|[[Franklin Northwest Supervisory Union]]
+|-
+|[[Thetford, Vermont|Thetford]]
+|[[Thetford School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Tinmouth, Vermont|Tinmouth]]
+|[[Mill River Unified Union School District]]
+|[[Mill River Supervisory Union]]
+|-
+|[[Topsham, Vermont|Topsham]]
+|[[Waits River Valley Unified School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Troy, Vermont|Troy]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Troy, Vermont|Troy]]
+|[[Troy School District (Vermont)|Troy School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Townshend, Vermont|Townshend]]
+|[[West River Modified Union School District 72A]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Townshend, Vermont|Townshend]]
+|[[West River Modified Union School District 72B]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Tunbridge, Vermont|Tunbridge]]
+|[[First Branch Unified School District]]
+|[[White River Valley Supervisory Union]]
+|-
+|[[Underhill, Vermont|Underhill]]
+|[[Mount Mansfield Modified Union School District A]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Underhill, Vermont|Underhill]]
+|[[Mount Mansfield Modified Union School District B]]
+|[[Chittenden East Supervisory Union]]
+|-
+|[[Vergennes, Vermont|Vergennes]]
+|[[Addison Northwest Unified School District]]
+|[[Addison Northwest Supervisory Union]]
+|-
+|[[Vernon, Vermont|Vernon]]
+|[[Vernon School District (Vermont)|Vernon School District]]
+|[[Windham Southeast Supervisory Union]]
+|-
+|[[Vernon, Vermont|Vernon]]
+|[[Windham Southeast School District]]
+|[[Windham Southeast Supervisory Union]]
+|-
+|[[Vershire, Vermont|Vershire]]
+|[[Rivendell Interstate School District]]
+|[[Rivendell Supervisory Union]]
+|-
+|[[Victory, Vermont|Victory]]
+|[[Northeast Kingdom Learning Services|Northeast Kingdom Choice School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Waitsfield, Vermont|Waitsfield]]
+|[[Harwood Union School District]]
+|[[Harwood Supervisory District]]
+|-
+|[[Walden, Vermont|Walden]]
+|[[Caledonia Cooperative School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Wallingford, Vermont|Wallingford]]
+|[[Mill River Unified Union School District]]
+|[[Mill River Supervisory Union]]
+|-
+|[[Waltham, Vermont|Waltham]]
+|[[Addison Northwest Unified School District]]
+|[[Addison Northwest Supervisory Union]]
+|-
+|[[Wardsboro, Vermont|Wardsboro]]
+|[[River Valleys Unified School District]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Warner's Grant, Vermont|Warner's Grant]]
+|[[Warners Grant School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Warren, Vermont|Warren]]
+|[[Harwood Union School District]]
+|[[Harwood Supervisory District]]
+|-
+|[[Warren's Gore, Vermont|Warren's Gore]]
+|[[Warren Gore School District]]
+|[[Essex North Supervisory Union]]
+|-
+|[[Washington, Vermont|Washington]]
+|[[Echo Valley Community School District]]
+|[[Central Vermont Supervisory Union]]
+|-
+|[[Waterbury, Vermont|Waterbury]]
+|[[Harwood Union School District]]
+|[[Harwood Supervisory District]]
+|-
+|[[Waterford, Vermont|Waterford]]
+|[[Caledonia Cooperative School District]]
+|[[Caledonia Central Supervisory Union]]
+|-
+|[[Waterville, Vermont|Waterville]]
+|[[Lamoille North Modified Union School District 58A]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Waterville, Vermont|Waterville]]
+|[[Lamoille North Modified Union School District 58B]]
+|[[Lamoille North Supervisory Union]]
+|-
+|[[Wells, Vermont|Wells]]
+|[[Wells Spring Unified Union School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[Wells River, Vermont|Wells River]]
+|[[Blue Mountain Union School District]]
+|[[Orange East Supervisory Union]]
+|-
+|[[Weathersfield, Vermont|Weathersfield]]
+|[[Weathersfield School District]]
+|[[Windsor Southeast Supervisory Union]]
+|-
+|[[West Fairlee, Vermont|West Fairlee]]
+|[[Rivendell Interstate School District]]
+|[[Rivendell Supervisory Union]]
+|-
+|[[West Haven, Vermont|West Haven]]
+|[[Slate Valley Unified Union School District]]
+|[[Addison Rutland Supervisory Union]]
+|-
+|[[West Rutland, Vermont|West Rutland]]
+|[[Quarry Valley Unified Union School District]]
+|[[Greater Rutland County Supervisory Union]]
+|-
+|[[West Windsor, Vermont|West Windsor]]
+|[[Mount Ascutney School District]]
+|[[Windsor Southeast Supervisory Union]]
+|-
+|[[Westfield, Vermont|Westfield]]
+|[[North Country Senior Union High School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Westfield, Vermont|Westfield]]
+|[[Westfield School District]]
+|[[North Country Supervisory Union]]
+|-
+|[[Westford, Vermont|Westford]]
+|[[Essex Westford Unified Union School District]]
+|[[Essex Westford Supervisory Union]]
+|-
+|[[Westminster (town), Vermont|Westminster]]
+|[[Bellows Falls Union High School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Westminster (town), Vermont|Westminster]]
+|[[Windham Northeast Union Elementary School District]]
+|[[Windham Northeast Supervisory Union]]
+|-
+|[[Westmore, Vermont|Westmore]]
+|[[Lake Region Union Elementary-Middle School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Westmore, Vermont|Westmore]]
+|[[Lake Region Union High School|Lake Region Union High School District]]
+|[[Orleans Central Supervisory Union]]
+|-
+|[[Weston, Vermont|Weston]]
+|[[Taconic and Green Regional School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Weybridge, Vermont|Weybridge]]
+|[[Addison Central Unified School District]]
+|[[Addison Central Supervisory Union]]
+|-
+|[[Wheelock, Vermont|Wheelock]]
+|[[Kingdom East Unified Union School District]]
+|[[Kingdom East Supervisory Union]]
+|-
+|[[Whiting, Vermont|Whiting]]
+|[[Otter Valley Unified Union School District]]
+|[[Rutland Northeast Supervisory Union]]
+|-
+|[[Whitingham, Vermont|Whitingham]]
+|[[Twin Valley Unified School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[Williamstown, Vermont|Williamstown]]
+|[[Paine Mountain School District]]
+|[[Central Vermont Supervisory Union]]
+|-
+|[[Williston, Vermont|Williston]]
+|[[Champlain Valley Union School District]]
+|[[Champlain Valley Supervisory Union]]
+|-
+|[[Wilmington, Vermont|Wilmington]]
+|[[Twin Valley Unified School District]]
+|[[Windham Southwest Supervisory Union]]
+|-
+|[[Windham, Vermont|Windham]]
+|[[Windham School District (Vermont)|Windham School District]]
+|[[Windham Central Supervisory Union]]
+|-
+|[[Windsor, Vermont|Windsor]]
+|[[Mount Ascutney School District]]
+|[[Windsor Southeast Supervisory Union]]
+|-
+|[[Winhall, Vermont|Winhall]]
+|[[Winhall School District]]
+|[[Bennington Rutland Supervisory Union]]
+|-
+|[[Winooski, Vermont|Winooski]]
+|[[Winooski School District]]
+|[[Winooski Supervisory District]]
+|-
+|[[Wolcott, Vermont|Wolcott]]
+|[[Wolcott School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Woodbury, Vermont|Woodbury]]
+|[[Hazen Union High School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Woodbury, Vermont|Woodbury]]
+|[[Orleans Southwest Union Elementary School District]]
+|[[Orleans Southwest Supervisory Union]]
+|-
+|[[Woodford, Vermont|Woodford]]
+|[[Mount Anthony Union High School|Mount Anthony Union High School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Woodford, Vermont|Woodford]]
+|[[Southwest Vermont Union Elementary School District]]
+|[[Southwest Vermont Supervisory Union]]
+|-
+|[[Woodstock, Vermont|Woodstock]]
+|[[Windsor Central Modified Union School District]]
+|[[Windsor Central Supervisory Union]]
+|-
+|[[Worcester, Vermont|Worcester]]
+|[[Washington Central Unified Union School District]]
+|[[Washington Central Supervisory Union]]
+|}
+
+==References==
+{{reflist}}
+
+{{United States school districts}}
+
+{{DEFAULTSORT:List Of School Districts In Vermont}}
+[[Category:School districts in Vermont| ]]
+[[Category:Vermont education-related lists|School districts]]
+[[Category:Lists of school districts in the United States by state or territory|Vermont]]
+[[Category:Vermont geography-related lists|School districts]]
