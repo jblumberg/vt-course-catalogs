@@ -465,7 +465,7 @@
    "course_name": "Adventure Reading",
    "course_code": "E0000359",
    "department": "English",
-   "description": "This course is intended for students interested in reading non-fiction and fiction stories of adventure (stories of survival, both physical and psychological). The goal is to heighten the student’s interest in reading more and varied selections. Students will also view films with themes related to the reading, and write reviews, essays, etc. Longer titles include The Things They Carried, Unbroken, and Into Thin Air. Expect reading homework most nights. (THIS COURSE ALTERNATES WITH SPORTS LITERATURE) MAY NOT be taken concurrently with any first or second course options.",
+   "description": "This course is intended for students interested in reading non-fiction and fiction stories of adventure (stories of survival, both physical and psychological). The goal is to heighten the student’s interest in reading more and varied selections. Students will also view films with themes related to the reading, and write reviews, essays, etc. Longer titles include The Things They Carried, Unbroken, and Into Thin Air. Expect reading homework most nights.",
    "grade_levels": [
     11,
     12
@@ -482,7 +482,7 @@
    "offering_note": "Alternates with Sports Literature",
    "source_page": 27,
    "source_file": "catalogs/brattleboro-union-high-school/catalog_2026-27.pdf",
-   "notes": null
+   "notes": "(THIS COURSE ALTERNATES WITH SPORTS LITERATURE) MAY NOT be taken concurrently with any first or second course options."
   },
   {
    "course_name": "College Literature",
@@ -3717,7 +3717,7 @@
    "course_name": "Independent Study (Flexible Pathways)",
    "course_code": null,
    "department": "Flexible Pathways & Educational Options",
-   "description": "Pursue your passions beyond the standard curriculum! Independent Study allows you to design a unique learning path for elective credit. How it works: Graded on a pass/fail basis. You may not repeat a course you’ve already completed. To Apply: Connect with the Flexible Pathways Coordinator (FPC) for guidelines and assistance. The Fine Print: Proposals are approved by Administration and the FPC based on educational merit. Spots are limited and filled on a first-come, first-served basis. Deadline: All proposals must be signed within the first two weeks of the semester.",
+   "description": "Do a deep dive on a hobby/interest, etc of interest to you!",
    "grade_levels": [],
    "credits": null,
    "credits_text": null,
@@ -3729,15 +3729,15 @@
    "provider": null,
    "fulfills_text": null,
    "offering_note": null,
-   "source_page": 14,
+   "source_page": 13,
    "source_file": "catalogs/brattleboro-union-high-school/catalog_2026-27.pdf",
-   "notes": "program (grid on pp.13-14). Subject-specific Independent Study courses are listed separately by department"
+   "notes": "program. Pathway option listed under FLEX Program (p.13). Grid text (p.14): Pursue your passions beyond the standard curriculum! Independent Study allows you to design a unique learning path for elective credit. How it works: Graded on a pass/fail basis. You may not repeat a course you’ve already completed. To Apply: Connect with the Flexible Pathways Coordinator (FPC) for guidelines and assistance. The Fine Print: Proposals are approved by Administration and the FPC based on educational merit. Spots are limited and filled on a first-come, first-served basis. Deadline: All proposals must be signed within the first two weeks of the semester. Subject-specific Independent Study courses are listed separately by department"
   },
   {
    "course_name": "Community Based Learning (CBL)",
    "course_code": null,
    "department": "Flexible Pathways & Educational Options",
-   "description": "CBL provides real-world learning experiences by placing students in internships with local businesses and organizations. Participants can pursue their personal interests and develop their academic skills at a worksite. Students can earn elective or English credit.",
+   "description": "The Community Based Learning (CBL) Program is designed to provide active, real world learning experiences for students in grades 10 through 12. The program places students in internships with local businesses and organizations. Students spend four class blocks per week out in the community at their jobs and one block per week in the classroom engaging in academic, English-focused work. Through this program, students explore their professional interests and develop their academic skills.",
    "grade_levels": [],
    "credits": null,
    "credits_text": null,
@@ -3749,15 +3749,15 @@
    "provider": null,
    "fulfills_text": null,
    "offering_note": null,
-   "source_page": 14,
+   "source_page": 28,
    "source_file": "catalogs/brattleboro-union-high-school/catalog_2026-27.pdf",
-   "notes": "program (grid on p.14). For Grades 10-12 - per school counselor referral. Related English courses: Community Based Learning English 1, 2 and Advanced"
+   "notes": "program. Grid text (p.14): CBL provides real-world learning experiences by placing students in internships with local businesses and organizations. Participants can pursue their personal interests and develop their academic skills at a worksite. Students can earn elective or English credit. Contact: School Counselor. For Grades 10-12 - per school counselor referral. Related English courses: Community Based Learning English 1, 2 and Advanced"
   },
   {
    "course_name": "College Courses (outside courses)",
    "course_code": null,
    "department": "Flexible Pathways & Educational Options",
-   "description": "Students who pursue their interests and seek enrichment and academic challenges. An outside course may not be used to fulfill a core graduation requirement. Students must apply to have a course accepted for elective credit. Prior approval is strongly recommended and required if the student wishes a course to count towards full enrollment.",
+   "description": null,
    "grade_levels": [],
    "credits": null,
    "credits_text": null,
@@ -3771,7 +3771,7 @@
    "offering_note": null,
    "source_page": 14,
    "source_file": "catalogs/brattleboro-union-high-school/catalog_2026-27.pdf",
-   "notes": "program (grid on p.14). Outside course forms are available in the counseling office"
+   "notes": "program; no stand-alone description (grid on p.14 only). Grid text: Students who pursue their interests and seek enrichment and academic challenges. An outside course may not be used to fulfill a core graduation requirement. Students must apply to have a course accepted for elective credit. Prior approval is strongly recommended and required if the student wishes a course to count towards full enrollment. Contact: School Counselor. Outside course forms are available in the counseling office"
   },
   {
    "course_name": "Dual Enrollment (Windham Regional Collegiate High School)",
