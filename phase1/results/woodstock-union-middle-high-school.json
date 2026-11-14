@@ -1,0 +1,46 @@
+{
+  "school_id": "woodstock-union-middle-high-school",
+  "school_name": "Woodstock Union High School & Middle School (WUHSMS)",
+  "school_website": "https://www.wuhsms.org/",
+  "su_sd": "Mountain Views Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Renamed: schools.csv lists 'Windsor Central Supervisory Union'. The SU site now titles itself 'Mountain Views Supervisory Union' (wcsu.net redirects to mtnviews.org; site metadata still says 'operated by Windsor Central Supervisory Union' and the site identifier is 'wcsu-website'). Same entity, new name; same address 70 Amsden Way, Woodstock.",
+  "su_sd_source_url": "https://mtnviews.org/",
+  "catalog_status": "found",
+  "catalog_title": "WUHSMS Course Guide 2026-2027 (Woodstock Union High School & Middle School)",
+  "catalog_url": "https://www.wuhsms.org/academics/course-guide",
+  "direct_file_url": "https://docs.google.com/document/d/1VY8SjEjtfrmD1kb8xiOY1PviBukBiPxi8WACv_qdvXg/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs (linked from Squarespace school site)",
+  "course_planner": "Naviance (described in the course guide; used for college/career planning)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {"path": "catalogs/woodstock-union-middle-high-school/catalog_2026-27.pdf", "year": "2026-27", "pages": 66, "size_mb": 3.05, "retrieved_on": "2026-11-14"}
+  ],
+  "grad_requirements_url": null,
+  "additional_urls": [
+    {"url": "https://docs.google.com/document/d/1CTWaNw_5WthNwP2HFCqHFFNaS_jXuyzzvbCi3BcEv0g/edit", "what": "WUHSMS Course Guide 2023-2024 (Google Doc), still linked on the course-guide page and the counseling Google Site; not downloaded"},
+    {"url": "https://sites.google.com/wcsu.net/woodstock-counseling/scheduling", "what": "Counseling Google Site scheduling page (public; links the 2023-24 guide)"},
+    {"url": "https://www.wuhsms.org/s/WUHS-23-24.pdf", "what": "Older 2023-24 file from web search, not checked"}
+  ],
+  "evidence": [
+    {"url": "https://mtnviews.org/", "quote": "<title>Mountain Views Supervisory Union ... addressLine1: 70 Amsden Way, Woodstock"}
+  ],
+  "school_status_notes": "SU renamed from Windsor Central Supervisory Union to Mountain Views Supervisory Union (district: Mountain Views Unified Union School District #76).",
+  "confidence": "high",
+  "how_found": "wuhsms.org > Academics > Course Guide > 'View the 2026-2027 course guide' (Google Doc, exported to PDF)",
+  "issues": "Guide covers grades 7-12 (middle-school section first, then high school). No separate graduation-requirements document found; the guide has a 'WUHS Academic Preparation Chart' (p.15) and a TOC entry 'Schedule Changes and Student Graduation Policy', but the chart appears to be an image and no credit-total table was extractable as text - Phase 3 may need to look at it visually or find the board policy. No 2025-26 guide found (course-guide page links 2026-27 and an old 2023-24 doc). Living Google Doc.",
+  "searched": [
+    "WebSearch: Woodstock Union High School program of studies 2026-2027",
+    "https://www.wuhsms.org/ (home + nav)",
+    "https://www.wuhsms.org/academics/course-guide",
+    "https://sites.google.com/wcsu.net/woodstock-counseling/scheduling",
+    "https://www.wcsu.net (redirects to mtnviews.org), https://mtnviews.org/ (SU home)",
+    "Google Doc exports 1VY8SjEjtfrmD1kb8xiOY1PviBukBiPxi8WACv_qdvXg (2026-27) and 1CTWaNw_5WthNwP2HFCqHFFNaS_jXuyzzvbCi3BcEv0g (2023-24)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

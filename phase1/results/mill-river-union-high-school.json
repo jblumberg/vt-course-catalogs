@@ -1,0 +1,78 @@
+{
+  "school_id": "mill-river-union-high-school",
+  "school_name": "Mill River Union High School",
+  "school_website": "https://mru.mruusd.org/",
+  "su_sd": "Mill River Unified Union School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site (mruusd.org) uses 'Mill River Unified Union School District'; schools.csv lists 'Mill River Supervisory Union' / 'Mill River Unified Union School District #52'. Same entity (single-district supervisory district). Staff emails and the older domain use millriverschools.org, which was unreachable from this environment (TLS error / DNS).",
+  "su_sd_source_url": "https://www.mruusd.org/",
+  "catalog_status": "found",
+  "catalog_title": "Mill River Union High School Program of Studies 2026-2027 (doc title 'MRUHS Program of Studies 26-27')",
+  "catalog_url": "https://docs.google.com/document/d/14mq8UvufrMwKXz-4b3hsz-8qjl02Put4TmCYXMVdzT8/edit?usp=sharing",
+  "direct_file_url": "https://docs.google.com/document/d/14mq8UvufrMwKXz-4b3hsz-8qjl02Put4TmCYXMVdzT8/export?format=pdf",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "none found (PowerSchool referenced for proficiencies)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "some",
+  "local_copies": [
+    {
+      "path": "catalogs/mill-river-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 18,
+      "size_mb": 1.9,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/mill-river-union-high-school/catalog_2026-27_middle_school.pdf",
+      "year": "2026-27",
+      "pages": 15,
+      "size_mb": 0.4,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/14mq8UvufrMwKXz-4b3hsz-8qjl02Put4TmCYXMVdzT8/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://mru.mruusd.org/departments/academic-departments",
+      "what": "Official page linking 'Program of Studies' (HS doc) and 'MRU Course Proficiencies'"
+    },
+    {
+      "url": "https://sites.google.com/millriverschools.org/guidance-office/high-school-program-of-study",
+      "what": "School Counseling Google Site embedding the same HS doc (caption still says 'MRUHS Program of Studies 25-26' but the doc is now the 2026-27 edition)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1VnocojSFk4YqbMdMTvscP9SbM76SS7lRMJ3nuHQ7d1I/edit",
+      "what": "MRUHS Middle School Program of Studies 2026-2027 (grades 7-8, full descriptions; includes HS-credit world language courses). Linked from the Counseling site's Middle School Program of Study page"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1d5wJDJmGlm6kDxRpILBSAPJXxH5oWtLCn0WGA2qDZLk/edit",
+      "what": "MRUUSD HS Performance Indicators / Course Proficiencies (30 pp), linked as 'MRU Course Proficiencies'"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.mruusd.org/",
+      "quote": "Mill River Unified Union School District"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "mru.mruusd.org > Academic Departments > Program of Studies (Google Doc); also School Counseling Google Site > High School Program of Study",
+  "issues": "The HS Program of Studies doc itself contains department overviews and course tables (title, length, credits) but NOT per-course descriptions: each course title hyperlinks to a separate Google Doc/Drive 'Course Syllabus' (~150 linked files, e.g. 'Course Name: Integrated Math 1A, Year: 2026-2027'). Those are public (sampled 3, all exportable) but were not downloaded; Phase 2 will need to follow the links in the PDF (/URI annotations are preserved) or rely on titles+credits. Some linked syllabi are older (one art syllabus says 'Fall 2025'). Many courses are marked '^^' with no legend in the doc (meaning unknown; possibly not offered every year). HS doc also lists middle-school courses. Graduation requirements table is in the POS (26 credits; note typo 'Social Studies: Three and a half (3) credits' + Civics 0.5). The Google Doc is edited in place — the Counseling site caption still says 25-26 and a web-search summary of the MS doc also called it 2025-26, so the year can change under the same URL; recheck retrieval date.",
+  "searched": [
+    "WebSearch: \"Mill River Union High School\" program of studies course catalog",
+    "WebSearch: millriverschools.org program of studies 2026-2027 Mill River",
+    "WebSearch: \"Mill River\" Union High School Clarendon Vermont \"program of studies\" high school courses AP English credits",
+    "WebSearch (extended): \"Mill River Union High School\" \"Program of Studies\" docs.google.com",
+    "https://www.millriverschools.org, https://millriverschools.org/mru/ (TLS certificate error via proxy; WebFetch DNS failure)",
+    "https://mru.mruusd.org/ and /departments/academic-departments",
+    "https://sites.google.com/millriverschools.org/guidance-office/home, /high-school-program-of-study, /middle-school-program-of-study",
+    "https://www.mruusd.org/ (district home)",
+    "docs.google.com/document/d/1wvTUcBN_okd9yvf2VwIfyme-w9p_q74Q (search hit; turned out to be CVU 2024-25, not Mill River)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,49 @@
+{
+  "school_id": "proctor-junior-senior-high-school",
+  "school_name": "Proctor Junior/Senior High School",
+  "school_website": "https://prhs.grcsu.org/",
+  "su_sd": "Greater Rutland County Supervisory Union (GRCSU)",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School is in Quarry Valley Unified Union School District (with Poultney and West Rutland), which is a member of GRCSU; both names appear on grcsu.org and in the 2026-27 PrHS handbook. Same SU as schools.csv.",
+  "su_sd_source_url": "https://grcsu.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "Quarry Valley Unified School District Program of Studies",
+  "catalog_url": "https://drive.google.com/file/d/1cSTPRvbUkyWgP-XMPkFWPTmM_n-TGw34/view?usp=drive_link",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1cSTPRvbUkyWgP-XMPkFWPTmM_n-TGw34",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive",
+  "course_planner": "none found (Infinite Campus portal and JumpRope linked; no course-planning tool)",
+  "school_year": "unknown",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {"path": "catalogs/proctor-junior-senior-high-school/catalog_undated.pdf", "year": "unknown", "pages": 24, "size_mb": 0.95, "retrieved_on": "2026-11-14"},
+    {"path": "catalogs/proctor-junior-senior-high-school/grad_requirements_2026-27.pdf", "year": "2026-27", "pages": 70, "size_mb": 1.44, "retrieved_on": "2026-11-14"}
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/1LtomqCif47uZ-lAeIDgrvassYlq4Nnvu/view?usp=drive_link",
+  "additional_urls": [
+    {"url": "https://drive.google.com/file/d/1LtomqCif47uZ-lAeIDgrvassYlq4Nnvu/view?usp=drive_link", "what": "PrHS Handbook 26-27 (70 pp.); Quarry Valley Graduation Requirements on p.9-10. Saved as grad_requirements_2026-27.pdf"},
+    {"url": "https://drive.google.com/drive/folders/1u8XSdipOQj4J97OjKEBVeJYexNkNuNpB?usp=sharing", "what": "'Course Syllabus' Google Drive folder linked from the school homepage (not crawled)"},
+    {"url": "https://drive.google.com/file/d/1UiHQNyfsNeMLjJ4AC7suAB9_rBge-RI8/view?usp=drive_link", "what": "School Profile"},
+    {"url": "https://grcsu.org/curriculum/", "what": "GRCSU curriculum page"}
+  ],
+  "evidence": [
+    {"url": "https://drive.google.com/file/d/1cSTPRvbUkyWgP-XMPkFWPTmM_n-TGw34/view?usp=drive_link", "quote": "Graduation requirements listed as 'Current' (28 credits, no world language) and 'For Class of 2027 and Beyond' (adds World Language/World Culture 1.0)"},
+    {"url": "https://drive.google.com/file/d/1LtomqCif47uZ-lAeIDgrvassYlq4Nnvu/view?usp=drive_link", "quote": "PrHS Handbook 26-27: 'Quarry Valley Graduation Requirements - Current' already includes World Language/World Culture - 1.0 credits"}
+  ],
+  "school_status_notes": "Quarry Valley UUSD (Poultney, Proctor, West Rutland). grcsu.org has 'Act 73 (H.454)' and 'Act 170 - School Transformation' pages, so statewide consolidation is under discussion.",
+  "confidence": "low",
+  "how_found": "prhs.grcsu.org homepage > 'Program of Studies' (Google Drive PDF)",
+  "issues": "Year is not printed anywhere in the catalog. It is a single district-wide Quarry Valley Program of Studies shared by Poultney, Proctor and West Rutland high schools; courses are tagged by school (PrHS, WRS, PoHS; e.g. 38 PrHS-only, 20 all three), so Phase 2 must filter to courses tagged PrHS. Evidence it is older than 2026-27: (1) it shows a two-tier graduation table ('Current' vs 'Class of 2027 and Beyond'), while the PrHS Handbook 26-27 lists only the new requirements as 'Current'; in 2026-27 every HS student is Class of 2027+; (2) the PDF was rendered by Google Docs renderer m141 (about Oct 2025), the 26-27 handbook by m154; (3) it gives Proctor's old URL phs.grcsu.org. Most likely the 2025-26 catalog, still the only one linked on the Proctor site; human check suggested. The 2026-27 handbook is saved as the current grad-requirements source. Other Quarry Valley schools (Poultney, West Rutland) probably link the same file.",
+  "searched": [
+    "web search: \"Proctor Junior/Senior High School\" OR \"Proctor High School\" Vermont program of studies course catalog (hits were Proctor HS, Utica NY)",
+    "web search: \"Quarry Valley\" \"Program of Studies\" 2026-2027 OR 2025-2026 Poultney Proctor West Rutland",
+    "https://www.proctorschools.org, https://www.quarryvalley.org, https://www.qvusd.org (unreachable)",
+    "https://grcsu.org/ (home, schools)",
+    "https://prhs.grcsu.org/ (home page links: Program of Studies, PrHS Handbook 26-27, Course Syllabus folder, School Profile)",
+    "Google Drive file view page for the Program of Studies (title 'QV Program of Studies.pdf', no date)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}
