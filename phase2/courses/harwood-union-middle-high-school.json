@@ -9,7 +9,7 @@
  "source_retrieved_on": "2026-11-14",
  "extracted_on": "2026-11-14",
  "extraction_status": "complete",
- "extraction_notes": "",
+ "extraction_notes": "Extracted from the single 2026-27 Program of Studies PDF (60 pages; pages 1, 2, 58-60 are cover/blank). Descriptions copied verbatim by script from phase2/text; course-level facts (grades, duration, prerequisites) parsed from the entry headers. Catalog is proficiency-based and states no credit values, so credits/credits_text are null for all courses; grad requirements are stated in years/semesters. Included beyond regular courses: Flexible Pathways programs with descriptions (Extended Studies, Dual Enrollment, Early College, Next Step, Online Learning/VTVLC, Travel Studies), Driver Education (private driving schools), and 16 Central Vermont Career Center programs that are listed by name only (description null, level CTE) - drop them if titles-only CTE lists should be excluded. Not extracted: English electives listed only for 2027-28 rotation (Science-fiction & Fantasy, Page to Screen, Race & Power - no descriptions); Art for Harwood (mentioned in prerequisites, no entry); middle school courses (none in catalog); Harwood Internship/Independent Study appear once each (Connected Learning entry). Catalog quirks: STEM page header says courses are for 2025-26; English chart lists some electives for different grades than their entries (entry grades used); Cosmetology I and II is one listing. Personal Finance (college-credit option) kept as one record. Extended studies add-on noted in notes of core 9th/10th courses.",
  "graduation_requirements": {
   "total_credits": null,
   "by_area": [
@@ -2695,7 +2695,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2704,7 +2704,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog; Flexible Pathways page: Exploratory Tech program is for sophomores"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview; Flexible Pathways page: Exploratory Tech program is for sophomores"
   },
   {
    "course_name": "Automotive Technology",
@@ -2719,7 +2719,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2728,7 +2728,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Baking Arts",
@@ -2743,7 +2743,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2752,7 +2752,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Building Trades",
@@ -2767,7 +2767,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2776,7 +2776,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Cosmetology I and II",
@@ -2791,7 +2791,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2800,7 +2800,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog; listed as one entry \"Cosmetology I and II\""
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview; listed as one entry \"Cosmetology I and II\""
   },
   {
    "course_name": "Culinary Arts",
@@ -2815,7 +2815,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2824,7 +2824,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Digital Media Arts: Graphic Arts",
@@ -2839,7 +2839,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2848,7 +2848,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Electrical Technology",
@@ -2863,7 +2863,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2872,7 +2872,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Emergency Services 1",
@@ -2887,7 +2887,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2896,7 +2896,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Emergency Services 2",
@@ -2911,7 +2911,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2920,7 +2920,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Medical Professions",
@@ -2935,7 +2935,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2944,7 +2944,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Plumbing and Heating",
@@ -2959,7 +2959,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2968,7 +2968,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Welding",
@@ -2983,7 +2983,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -2992,7 +2992,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Co-operative Education",
@@ -3007,7 +3007,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -3016,7 +3016,7 @@
    "offering_note": null,
    "source_page": 56,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Digital Media Arts: Videography",
@@ -3031,7 +3031,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -3040,7 +3040,7 @@
    "offering_note": null,
    "source_page": 57,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog"
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview"
   },
   {
    "course_name": "Early Childhood Education",
@@ -3055,7 +3055,7 @@
    "credits": null,
    "credits_text": null,
    "length": "unknown",
-   "prerequisites": "Application and interview process",
+   "prerequisites": null,
    "level": "CTE",
    "honors_option": false,
    "delivery": "off_site",
@@ -3064,7 +3064,7 @@
    "offering_note": null,
    "source_page": 57,
    "source_file": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
-   "notes": "program; listed by name only (no description) in the catalog; listed as \"Early Childhood Education (pending approval)\""
+   "notes": "program; listed by name only (no description) in the catalog; admission by application and interview; listed as \"Early Childhood Education (pending approval)\""
   }
  ]
 }
