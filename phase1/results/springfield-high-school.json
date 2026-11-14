@@ -1,0 +1,45 @@
+{
+  "school_id": "springfield-high-school",
+  "school_name": "Springfield High School",
+  "school_website": "https://hs.ssdvt.org/",
+  "su_sd": "Springfield School District 56",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site (ssdvt.org) is titled 'Springfield School District 56'; Springfield is a single-district supervisory district (SU #56), the same entity as 'Springfield Supervisory District' in schools.csv.",
+  "su_sd_source_url": "https://www.ssdvt.org/",
+  "catalog_status": "found",
+  "catalog_title": "Springfield High School 2026-2027 Program of Studies",
+  "catalog_url": "https://4.files.edl.io/22a1/02/18/26/135143-156e76b4-0305-427b-8dbd-db14127b98d3.pdf",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Edlio (school site and file host 4.files.edl.io)",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {"path": "catalogs/springfield-high-school/catalog_2026-27.pdf", "year": "2026-27", "pages": 63, "size_mb": 31.3, "retrieved_on": "2026-11-14"},
+    {"path": "catalogs/springfield-high-school/catalog_2025-26.pdf", "year": "2025-26", "pages": 77, "size_mb": 20.1, "retrieved_on": "2026-11-14"}
+  ],
+  "grad_requirements_url": "https://4.files.edl.io/22a1/02/18/26/135143-156e76b4-0305-427b-8dbd-db14127b98d3.pdf",
+  "additional_urls": [
+    {"url": "https://docs.google.com/document/d/18697gg8PMq17105mWFKmpiM1WFwjowuGp7BLbKtmS-U/edit", "what": "2025-2026 Program of Studies (Google Doc; found via web search, not linked from the current site); exported to catalog_2025-26.pdf"},
+    {"url": "https://hs.ssdvt.org/apps/pages/index.jsp?uREC_ID=1549513&type=d&pREC_ID=1675830", "what": "Counseling Contacts & Resources page (also links the Program of Studies)"},
+    {"url": "https://sites.google.com/ssdvt.org/shsstudenthandbook/home", "what": "Student Handbook (Google Site), not checked in depth"}
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "ssdvt.org > Schools > Springfield High School (hs.ssdvt.org) > menu link 'Program of Studies' (Edlio-hosted PDF, uploaded 2026-02-18)",
+  "issues": "Large PDF (31 MB for 63 pages, image-heavy) - Phase 2 text extraction should be fine but slow. Graduation requirements (27 credits: Eng 4, SS 3, Math 3 incl. Algebra 1, Sci 3, World Lang 1, Health 1, Art 1, PE 1.5, Financial Literacy 0.5, Electives 9) are on p.7 of the catalog. Also covers Flexible Pathways (Cosmos 'U'), Occupational Development Program and River Valley Technical Center. Edlio file URLs change when the file is replaced; the stable entry point is the 'Program of Studies' menu link on hs.ssdvt.org.",
+  "searched": [
+    "WebSearch: Springfield High School Vermont program of studies course catalog",
+    "https://www.ssdvt.org/ (district home)",
+    "https://hs.ssdvt.org/ (school home, menus)",
+    "https://hs.ssdvt.org/apps/pages/index.jsp?uREC_ID=1549513&type=d&pREC_ID=1675830 (Counseling)",
+    "https://shs.ssdvt.org and https://www.springfieldhighschoolvt.org (unreachable)",
+    "Google Doc export 18697gg8PMq17105mWFKmpiM1WFwjowuGp7BLbKtmS-U (2025-26)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

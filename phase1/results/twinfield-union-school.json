@@ -1,0 +1,63 @@
+{
+  "school_id": "twinfield-union-school",
+  "school_name": "Twinfield Union School",
+  "school_website": "https://www.twinfield.net/",
+  "su_sd": "Caledonia Central Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School site links run on ccsuvt.net (also twinfield.ccsuvt.net); Google Sites hosted on the ccsuvt.net Workspace domain.",
+  "su_sd_source_url": "https://www.ccsuvt.net/",
+  "catalog_status": "found",
+  "catalog_title": "TUS Program of Studies 2026-2027 ('26-'27 Program of Studies)",
+  "catalog_url": "https://www.twinfield.net/193900_3",
+  "direct_file_url": "https://sites.google.com/ccsuvt.net/26-27programofstudies/home",
+  "linked_from_official_site": true,
+  "format": "google_site",
+  "web_host": "Google Sites (school site on ParentSquare Smart Sites)",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/twinfield-union-school/catalog_2026-27.html",
+      "year": "2026-27",
+      "pages": null,
+      "size_mb": 0.16,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/twinfield-union-school/grad_requirements_2022-23.pdf",
+      "year": "2022-23",
+      "pages": 22,
+      "size_mb": 3.5,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1NTj1wImwGQeJHI-n2sAZk3eU6deJnVP7ZPzxW9I1v2A/edit?tab=t.0",
+  "additional_urls": [
+    {
+      "url": "https://www.twinfield.net/235705_3",
+      "what": "Menu link 'Student Guide to Twinfield's Proficiency-based Graduation System' -> Google Doc (v.9 4/23)"
+    },
+    {
+      "url": "https://sites.google.com/ccsuvt.net/counseling/home",
+      "what": "Secondary Counseling Google Site (no POS or course-planner link)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "twinfield.net > Student Learning > High School > Programs of Study (/193900_3 redirects to Google Site '26-'27 Program of Studies')",
+  "issues": "Catalog is a multi-page Google Site: home page plus 13 section pages (Transitions, Integrated Studies, ELA, Mathematics, Science, World Language, Visual & Performing Arts, Global Citizenship, Health & PE, Design Technology, Renaissance, More Student Opportunities, VT Virtual Learning Coop) under https://sites.google.com/ccsuvt.net/26-27programofstudies/<section>. Only the home page HTML was saved (not crawled); course descriptions are on the section pages (spot-checked Mathematics: titles, length, grades, descriptions). Grad-requirements guide is v.9 dated 4/23 (saved as grad_requirements_2022-23.pdf) - may not reflect current rules. No 2025-26 POS seen.",
+  "searched": [
+    "WebSearch: Twinfield Union School high school program of studies course catalog (no relevant results)",
+    "https://www.twinfield.net/ (home/menu)",
+    "https://www.twinfield.net/193900_3 (Programs of Study -> Google Site)",
+    "https://www.twinfield.net/229742_2 (High School)",
+    "https://www.twinfield.net/73317_4 -> https://sites.google.com/ccsuvt.net/counseling/home and /elective",
+    "https://www.twinfield.net/235705_3 (grad system guide)",
+    "https://www.ccsuvt.net/ (SU name)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

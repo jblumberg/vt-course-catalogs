@@ -1,0 +1,65 @@
+{
+  "school_id": "white-river-valley-high-school",
+  "school_name": "White River Valley High School",
+  "school_website": "https://www.wrvsd.org/",
+  "su_sd": "White River Valley Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "SU site title 'White River Valley Supervisory Union' (wrvsu.org). The school/district site (wrvsd.org) is branded 'White River Valley School' (middle + high school campuses) and names the district 'White River Unified District'.",
+  "su_sd_source_url": "https://www.wrvsu.org/",
+  "catalog_status": "found",
+  "catalog_title": "White River Valley High School Program of Studies 2026-2027 (Edit: 3/26/26)",
+  "catalog_url": "https://wrvsd.org/en-US/2025-2026-hs-program-of-studies-61d0fef3",
+  "direct_file_url": "https://docs.google.com/document/d/1SJDqHGFNQhgx_mE3QQa-TFVflMFqSrQL6O3vOaSgRsI/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "SchoolBlocks/CleverSite page embedding a Google Doc",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/white-river-valley-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 50,
+      "size_mb": 1.0,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1SJDqHGFNQhgx_mE3QQa-TFVflMFqSrQL6O3vOaSgRsI/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/1nfLuX2R5A23IL5hofX7XjGNRF2Sw5J88F1Ombb19gnE/edit?usp=sharing",
+      "what": "High School Profile (Google Doc, site nav; not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/10zDW3fufw_f_26Jew-OdpSGPy2WBRo-8M-Coqhm0QkU/edit?usp=sharing",
+      "what": "Student Handbook (Google Doc, site nav)"
+    },
+    {
+      "url": "https://wrvsd.org/en-US/counseling-3e5d0385",
+      "what": "Counseling page (no planner tool found)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.wrvsd.org/",
+      "quote": "White River Unified District welcomes all persons..."
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "wrvsu.org (SU) > White River Valley High School (www.wrvsd.org) > nav '2026 - 2027 HS Program of Studies' page > embedded Google Doc (exported to PDF)",
+  "issues": "Live Google Doc embedded on a JS-rendered SchoolBlocks page; exported to PDF (50 pp, cover 'Edit: 3/26/26'). Page URL slug still says '2025-2026-hs-program-of-studies' though its title and the doc are 2026-27; slug may change. Graduation requirements are on p.3 of the PoS (no separate doc). TOC page numbers are offset from PDF pages. 2025-26 PoS not found (brief search). No course-planning tool found on site.",
+  "searched": [
+    "https://www.wrvsu.org/ (SU home)",
+    "https://www.wrvsd.org/ (school site, nav JSON)",
+    "https://wrvsd.org/en-US/2025-2026-hs-program-of-studies-61d0fef3",
+    "https://wrvsd.org/en-US/counseling-3e5d0385",
+    "wrvhs.wrvsu.org, www.wrvschools.org (no response); wrvhs.org (unrelated Missouri historical society)",
+    "WebSearch: White River Valley High School program of studies course catalog",
+    "WebSearch: \"White River Valley\" High School Program of Studies 2025-2026 South Royalton"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}
