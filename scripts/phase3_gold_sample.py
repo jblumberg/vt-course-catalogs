@@ -4,7 +4,7 @@ Picks ~N courses: every disagreement between run A and run B (if B given), every
 the tricky types (Interdisciplinary, Other-with-mappings, Environmental/mixed science, Algebra II, financial
 content, equivalency 'may fulfill' text, no description, CTE), then a random fill spread across subject areas.
 
-Run:  python3 -I scripts/phase3_gold_sample.py <runA> [--vs <runB>] [--n 100] <school_id> [<school_id> ...]
+Run:  python3 -I scripts/phase3_gold_sample.py <runA> [--vs <runB>] [--n 100] [--out file.csv] <school_id> [<school_id> ...]
       reads phase3/pilot/<id>.<run>.json, writes phase3/gold/review_sample.csv
 """
 import csv, json, random, re, sys
@@ -26,7 +26,7 @@ def main():
     args = sys.argv[1:]
     n = int(args[args.index("--n") + 1]) if "--n" in args else 100
     vs = args[args.index("--vs") + 1] if "--vs" in args else None
-    skip = {i for k in ("--n", "--vs") if k in args for i in (args.index(k), args.index(k) + 1)}
+    skip = {i for k in ("--n", "--vs", "--out") if k in args for i in (args.index(k), args.index(k) + 1)}
     pos = [a for i, a in enumerate(args) if i not in skip]
     run, sids = pos[0], pos[1:]
     random.seed(42)
@@ -64,7 +64,8 @@ def main():
                          "level": s.get("level"), "description": s.get("description") or "",
                          "catalog_says_fulfills": s.get("fulfills_text") or "",
                          "model_subject": c["subject_area"] + (f' ({"+".join(c.get("bridges") or [])})' if c.get("bridges") else ""),
-                         "model_credits": fmt(c), "model_conf": c.get("confidence"),
+                         "model_credits": fmt(c), "catalog_claims": "; ".join(c.get("catalog_claims") or []),
+                         "model_conf": c.get("confidence"),
                          "model_reason": " | ".join(m.get("rationale", "") for m in c.get("credit_mappings") or []),
                          "why_sampled": ", ".join(reasons) or "random check",
                          "agree (Y/N)": "", "correct_subject": "", "correct_credits": "", "note": ""})
@@ -83,7 +84,7 @@ def main():
             if by_subj[subj] and len(pick) < n:
                 pick.append(by_subj[subj].pop(random.randrange(len(by_subj[subj]))))
     pick.sort(key=lambda p: (p["school"], int(p["key"].split("#")[1])))
-    out = ROOT / "phase3/gold/review_sample.csv"
+    out = ROOT / "phase3/gold" / (args[args.index("--out") + 1] if "--out" in args else "review_sample.csv")
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(pick[0]))
