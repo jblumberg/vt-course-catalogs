@@ -10,10 +10,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 COURSE_FIELDS = ["school_id", "school_name", "su_sd", "catalog_school_year", "department", "course_code",
                  "course_name", "description", "grade_levels", "credits", "credits_text", "length",
-                 "prerequisites", "level", "delivery", "provider", "fulfills_text", "offering_note",
+                 "prerequisites", "level", "honors_option", "delivery", "provider", "fulfills_text", "offering_note",
                  "source_page", "source_file", "notes", "source_retrieved_on", "extracted_on"]
 LEVELS = {"standard", "honors", "AP", "IB", "dual_enrollment", "early_college", "CTE", "online",
           "special_program", "other"}
+DELIVERY = {"in_person", "online", "hybrid", "off_site", "unknown"}
+STATUSES = {"complete", "partial", "failed"}
 LENGTHS = {"year", "semester", "quarter", "trimester", "variable", "unknown"}
 REQUIRED_TOP = ["school_id", "catalog_school_year", "source_files", "source_retrieved_on", "extracted_on",
                 "extraction_status", "courses"]
@@ -26,6 +28,8 @@ def check(d):
         if k not in d:
             err.append(f"missing top-level field {k}")
     courses = d.get("courses") or []
+    if d.get("extraction_status") not in STATUSES:
+        err.append(f"bad extraction_status {d.get('extraction_status')!r}")
     if d.get("extraction_status") == "complete" and len(courses) < 25:
         warn.append(f"only {len(courses)} courses but status 'complete' - check for missed sections")
     for sf in d.get("source_files") or []:
@@ -48,8 +52,13 @@ def check(d):
             err.append(f"{c.get('course_name')}: bad length {c.get('length')!r}")
         if c.get("credits") is not None and not isinstance(c.get("credits"), (int, float)):
             err.append(f"{c.get('course_name')}: credits must be a number or null")
-        if not isinstance(c.get("grade_levels", []), list):
-            err.append(f"{c.get('course_name')}: grade_levels must be a list")
+        if c.get("delivery") not in DELIVERY:
+            err.append(f"{c.get('course_name')}: bad delivery {c.get('delivery')!r}")
+        gl = c.get("grade_levels", [])
+        if not isinstance(gl, list) or not all(isinstance(g, int) for g in gl):
+            err.append(f"{c.get('course_name')}: grade_levels must be a list of ints")
+        elif gl and max(gl) < 9:
+            warn.append(f"{c.get('course_name')}: middle-school-only grades {gl}")
         if c.get("source_page") is None:
             warn.append(f"{c.get('course_name')}: no source_page")
     return err, warn[:15]
