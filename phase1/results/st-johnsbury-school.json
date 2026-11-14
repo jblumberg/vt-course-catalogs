@@ -1,0 +1,38 @@
+{
+  "school_id": "st-johnsbury-school",
+  "school_name": "St. Johnsbury School",
+  "school_website": "https://www.stjsd.org/en-US/st-johnsbury-school-bec70372",
+  "su_sd": "St. Johnsbury School District",
+  "su_sd_matches_list": true,
+  "su_sd_source_url": "https://www.stjsd.org/en-US",
+  "catalog_status": "not_a_high_school",
+  "catalog_title": null,
+  "catalog_url": null,
+  "format": null,
+  "platform": null,
+  "school_year": null,
+  "additional_urls": [
+    {"url": "https://www.stjsd.org/en-US", "what": "District home page: 'single school district... Our Pre-K to 12 school district is responsible for over 1,000 students, with many of our high school students attending St. Johnsbury Academy and Lyndon Institute through school choice.'"},
+    {"url": "https://www.stjsd.org/en-US/st-johnsbury-school-bec70372", "what": "School page: 'At The St. Johnsbury School, we proudly educate PreK through 8th-grade students'"},
+    {"url": "https://drive.google.com/file/d/1A4FCrM6TQNcBD6Vy3Lvk5aJfc45sjPyN/view?usp=drive_link", "what": "District 'Request for Public Tuition Dollars - NEK Region 2026-2027' secondary school tuition voucher form (linked from district home page) - shows grades 9-12 are tuitioned out"},
+    {"url": "https://www.stjsd.org/en-US/pages/bac8f769-72c7-4e4c-96ab-2f9988b0a8ec", "what": "District staff directory: all teaching staff are PreK-grade 8; only HS-related roles are a 'High School Case Manager' and a paraeducator placed at St. Johnsbury Academy"}
+  ],
+  "local_copy": null,
+  "pages_or_size": null,
+  "includes_descriptions": null,
+  "confidence": "high",
+  "how_found": "District site stjsd.org home page and St. Johnsbury School page; district tuition voucher form; staff directory",
+  "issues": "Not a high school. The St. Johnsbury School District operates one school, St. Johnsbury School, serving PreK-8 (also stated as 'Grades Served: PreK-8' in the district's ARP ESSER plan). The district is 'Pre-K to 12' only in the sense of being responsible for (tuitioning) its high schoolers, who attend St. Johnsbury Academy, Lyndon Institute or other schools via school choice; both academies are independent and out of scope. NCES 'PK-12' grade span and the 1,030 enrollment likely reflect district-paid tuition students counted under the school. SU/SD naming: the district calls itself 'St. Johnsbury School District' (a single-district supervisory district); schools.csv's 'St. Johnsbury Supervisory District' refers to the same entity, so treated as a match. Recommend excluding from the public-HS list (human decision via overrides.csv). Vermont AOE site (education.vermont.gov) returned HTTP 403 to automated access, so AOE tuition reports could not be checked directly.",
+  "searched": [
+    "WebSearch: St. Johnsbury School District grades PK-8 high school tuition St. Johnsbury Academy",
+    "WebSearch: St. Johnsbury School Vermont official website superintendent",
+    "WebSearch: Vermont Agency of Education St. Johnsbury School District supervisory district tuitions grades 9-12 school choice",
+    "https://www.stjsd.org/en-US (home, links list)",
+    "https://www.stjsd.org/en-US/st-johnsbury-school-bec70372",
+    "stjsd.org pages: School Board, Budget, Newsletters, Staff",
+    "District ARP ESSER plan Google Doc 1vTP7wLjDYml85nGfFfxy2xei0cME-Q3b ('Grades Served: PreK-8')",
+    "https://district.stjsd.org (proxy 502, unreachable)",
+    "https://education.vermont.gov/sites/aoe/files/documents/edu-fy25-annual-tuition-rate-report.pdf (HTTP 403)"
+  ],
+  "checked_on": "2026-11-14"
+}
