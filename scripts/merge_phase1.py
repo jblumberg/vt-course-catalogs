@@ -9,10 +9,20 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-FIELDS = ["school_id", "school_name", "town", "su_sd", "su_sd_matches_list", "catalog_status",
-          "catalog_url", "format", "platform", "school_year", "includes_descriptions", "confidence",
-          "local_copy", "local_copy_exists", "pages_or_size", "issues", "how_found", "additional_urls",
-          "school_website", "su_sd_source_url", "checked_on", "override_note"]
+FIELDS = ["school_id", "school_name", "town", "grades", "su_sd", "su_sd_matches_list", "su_sd_note",
+          "catalog_status", "school_year", "coverage", "includes_descriptions", "confidence",
+          "catalog_title", "catalog_url", "direct_file_url", "linked_from_official_site", "format",
+          "web_host", "course_planner", "local_copies", "local_copies_exist", "grad_requirements_url",
+          "school_status_notes", "issues", "how_found", "additional_urls", "school_website",
+          "su_sd_source_url", "checked_on", "override_note"]
+
+
+def flat(v):
+    if v is None:
+        return ""
+    if isinstance(v, bool):
+        return "yes" if v else "no"
+    return str(v)
 
 
 def main():
@@ -23,13 +33,20 @@ def main():
         for o in csv.DictReader(ov_path.open()):
             overrides.setdefault(o["school_id"], []).append(o)
 
-    out, status = [], Counter()
+    out, status, problems = [], Counter(), []
     for s in schools:
         p = ROOT / "phase1/results" / f'{s["school_id"]}.json'
-        r = json.loads(p.read_text()) if p.exists() else {"catalog_status": "not_yet_searched"}
-        row = {k: r.get(k, "") for k in FIELDS}
-        row.update(school_id=s["school_id"], school_name=s["school_name"], town=s["town"])
+        try:
+            r = json.loads(p.read_text()) if p.exists() else {"catalog_status": "not_yet_searched"}
+        except json.JSONDecodeError as e:
+            r = {"catalog_status": "INVALID_JSON"}
+            problems.append(f'{s["school_id"]}: invalid JSON ({e})')
+        row = {k: flat(r.get(k)) for k in FIELDS}
+        row.update(school_id=s["school_id"], school_name=s["school_name"], town=s["town"], grades=s["grades"])
         row["su_sd"] = r.get("su_sd") or s["su_sd"]
+        copies = r.get("local_copies") or []
+        row["local_copies"] = " | ".join(c.get("path", "") for c in copies)
+        row["local_copies_exist"] = flat(bool(copies) and all((ROOT / c.get("path", "")).exists() for c in copies))
         row["additional_urls"] = " | ".join(f'{a.get("what","")}: {a.get("url","")}'
                                             for a in r.get("additional_urls") or [] if a.get("url"))
         notes = []
@@ -37,8 +54,6 @@ def main():
             row[o["field"]] = o["value"]
             notes.append(o.get("note", ""))
         row["override_note"] = "; ".join(n for n in notes if n)
-        lc = row.get("local_copy")
-        row["local_copy_exists"] = bool(lc) and (ROOT / lc).exists()
         status[row["catalog_status"]] += 1
         out.append(row)
 
@@ -50,14 +65,16 @@ def main():
     print(f"{len(out)} schools -> phase1/catalogs.csv")
     for k, v in status.most_common():
         print(f"  {k}: {v}")
+    for pr in problems:
+        print("  PROBLEM:", pr)
     review = [r for r in out if r["catalog_status"] not in ("found", "not_yet_searched")
-              or r["confidence"] == "low" or r["su_sd_matches_list"] is False
-              or (r["catalog_status"] == "found" and not r["local_copy_exists"])]
+              or r["confidence"] == "low" or r["su_sd_matches_list"] == "no"
+              or (r["catalog_status"] == "found" and r["local_copies_exist"] != "yes")]
     if review:
         print("\nNeeds human review:")
         for r in review:
-            print(f'  - {r["school_name"]}: {r["catalog_status"]}, conf={r["confidence"]}, '
-                  f'su_match={r["su_sd_matches_list"]}, copy={r["local_copy_exists"]} :: {r["issues"][:120]}')
+            print(f'  - {r["school_name"]}: {r["catalog_status"]} ({r["school_year"]}), conf={r["confidence"]}, '
+                  f'su_match={r["su_sd_matches_list"]}, copies={r["local_copies_exist"]} :: {r["issues"][:110]}')
 
 
 if __name__ == "__main__":
