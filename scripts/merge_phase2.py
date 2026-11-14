@@ -11,11 +11,11 @@ ROOT = Path(__file__).resolve().parent.parent
 COURSE_FIELDS = ["school_id", "school_name", "su_sd", "catalog_school_year", "department", "course_code",
                  "course_name", "description", "grade_levels", "credits", "credits_text", "length",
                  "prerequisites", "level", "delivery", "provider", "fulfills_text", "offering_note",
-                 "source_page", "notes", "source_file", "source_retrieved_on", "extracted_on"]
+                 "source_page", "source_file", "notes", "source_retrieved_on", "extracted_on"]
 LEVELS = {"standard", "honors", "AP", "IB", "dual_enrollment", "early_college", "CTE", "online",
           "special_program", "other"}
 LENGTHS = {"year", "semester", "quarter", "trimester", "variable", "unknown"}
-REQUIRED_TOP = ["school_id", "catalog_school_year", "source_file", "source_retrieved_on", "extracted_on",
+REQUIRED_TOP = ["school_id", "catalog_school_year", "source_files", "source_retrieved_on", "extracted_on",
                 "extraction_status", "courses"]
 
 
@@ -28,8 +28,9 @@ def check(d):
     courses = d.get("courses") or []
     if d.get("extraction_status") == "complete" and len(courses) < 25:
         warn.append(f"only {len(courses)} courses but status 'complete' - check for missed sections")
-    if not (ROOT / d.get("source_file", "")).exists():
-        err.append(f"source_file not found: {d.get('source_file')}")
+    for sf in d.get("source_files") or []:
+        if not (ROOT / sf).exists():
+            err.append(f"source file not found: {sf}")
     seen = Counter((c.get("course_name") or "").strip().lower() + "|" + str(c.get("course_code"))
                    for c in courses)
     dups = [k for k, v in seen.items() if v > 1]
@@ -85,9 +86,10 @@ def main():
         summary.append((d["school_id"], len(d.get("courses", [])), d.get("extraction_status"), err, warn))
         for c in d.get("courses", []):
             row = {k: c.get(k) for k in COURSE_FIELDS}
-            for k in ("school_id", "school_name", "su_sd", "catalog_school_year", "source_file",
+            for k in ("school_id", "school_name", "su_sd", "catalog_school_year",
                       "source_retrieved_on", "extracted_on"):
                 row[k] = d.get(k)
+            row["source_file"] = c.get("source_file") or (d.get("source_files") or [""])[0]
             row["grade_levels"] = ",".join(str(g) for g in c.get("grade_levels") or [])
             rows.append(row)
         g = d.get("graduation_requirements") or {}

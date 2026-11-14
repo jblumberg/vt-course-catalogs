@@ -10,7 +10,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
 ## Steps
 1. Read `phase1/results/<id>.json` (catalog status, year, issues) and the school's row in `data/schools.csv`.
 2. Run `python3 -I scripts/extract_text.py <id>`. It writes `phase2/text/<id>.txt` with `=== PAGE n ===` markers and prints
-   which source file it used, its `retrieved_on` date, and `low_text_units` (pages with almost no text).
+   which source file(s) it used (there may be several, e.g. a main catalog plus a 9th-grade guide — extract from all; if the same course appears in both, keep one record), `source_retrieved_on`, and `low_text_units` (pages with almost no text).
    - If low-text pages look like they hold courses (scanned images), read those pages straight from the PDF with the Read tool (`pages: "12-15"`).
    - If the text is garbled (multi-column layout mixing two courses), re-read those pages from the PDF with the Read tool.
    - If Phase 1 said the catalog is spread over many webpages, follow the links from the saved page and fetch each course/department page (no crawling beyond the catalog).
@@ -35,7 +35,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
   "school_name": "...",
   "su_sd": "...",
   "catalog_school_year": "2026-27",
-  "source_file": "catalogs/<id>/catalog_2026-27.pdf",
+  "source_files": ["catalogs/<id>/catalog_2026-27.pdf"],   // copy from extract_text.py output
   "source_retrieved_on": "YYYY-MM-DD",       // copy from extract_text.py output (this is how reruns detect new catalogs)
   "extracted_on": "YYYY-MM-DD",
   "extraction_status": "complete | partial | failed",
@@ -64,6 +64,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
       "fulfills_text": "what requirement the catalog says it meets, e.g. 'Fulfills lab science credit' — verbatim, or null",
       "offering_note": "e.g. 'offered alternate years', 'offered 2026-27 only', or null",
       "source_page": 23,
+      "source_file": "catalogs/<id>/catalog_2026-27.pdf",   // which file (matters when there are several)
       "notes": null
     }
   ]
