@@ -5,7 +5,7 @@ description: Phase 3 — classify every course of one school (phase2/courses/<id
 
 # Classify courses against Vermont's proposed graduation requirements
 
-Rubric version: **v0.3**. Requirement IDs and credit amounts: `data/requirements.csv`
+Rubric version: **v0.3.2**. Requirement IDs and credit amounts: `data/requirements.csv`
 (AOE memo 2026-10-20: "Complete Recommendation" Class of 2033+ and "Transitional Flexibility" Classes of 2031–32).
 Source standards documents (for judgment calls): `sources/policy/standards/*.md` and `standards_mapping_all_content.xlsx`.
 
@@ -29,7 +29,7 @@ Never assume content that isn't described. If the description is missing, classi
  "finlit_type": null,                      // Financial content only: "stand-alone" | "embedded"
  "confidence": "high | medium | low"}
 ```
-File: `{"school_id", "rubric_version": "v0.3", "classified_on", "model_note", "courses": [...]}` — one entry for **every** course in the phase2 file, same order.
+File: `{"school_id", "rubric_version": "v0.3.2", "classified_on", "model_note", "courses": [...]}` — one entry for **every** course in the phase2 file, same order.
 
 `strength`: **be generous — the reviewer is.** Course descriptions are written hastily and undersell the course; judge
 what the course is, not whether every standard is listed. **strong** = the catalog clearly shows this is the course for that requirement. **Every standard course named for the
@@ -65,8 +65,11 @@ The report compares claims with content-based mappings.
   genuinely serves two (Interdisciplinary, combined PE/Health, Consumer Math = MATH-PATHWAY + FINLIT embedded). Algebra II maps
   to MATH-STATS-ALG2 only (the gap analysis lets it fill MATH-PATHWAY under the Transitional plan). A course `strong` for FINLIT
   does not also map to MATH-PATHWAY.
-- **Flexible pathways** (independent study / independent learning / personalized projects that "can count as any credit") →
-  Other, `other_type: "Flexible pathway"`, no mappings (the report counts them as "could count as any credit").
+- **Flexible pathways** — anything that could count as any credit: independent study, Personalized Learning Study, ELOs,
+  community-based learning, capstones taken for department credit, online learning (VTVLC etc.), dual enrollment / early college
+  *program* entries, work-based learning → Other, `other_type: "Flexible pathway"`, and exactly one mapping
+  `{"requirement_id": "FLEX-ANY", "strength": "possible"}`. If the entry names a specific credit (e.g. "PLS ~ Physical Education"),
+  map that requirement instead and still use `other_type: "Flexible pathway"`. The gap analysis lists FLEX-ANY but never uses it to close a gap.
 - **Paired "Humanities" courses** (separate English and Social Studies course records that run together) → classify each record in its
   own subject (English → ELA, history → Social Studies). Use Interdisciplinary only when ONE course record awards both subjects' credit.
 - **Arts courses with a social-studies "equivalency" note** → subject Arts, ARTS `strong`, plus the SS mapping `possible`.
@@ -127,8 +130,7 @@ Combined "PE & Health"/"Wellness" courses → both, each `possible`.
 **CTE programs** (`level: CTE`) → `subject_area: Other`, `other_type: CTE program`; map academic requirements only where
 `fulfills_text` states embedded credit (e.g. "1 science credit" → SCI-* `possible` with the domain if stated).
 
-**Programs** (dual enrollment, early college, independent study, work-based learning, online platforms) → `Other`, no mappings
-unless the entry names specific academic credit.
+**Programs** (dual enrollment, early college, independent study, work-based learning, online platforms) → Flexible pathway (above).
 
 ## Process
 1. Read the phase2 file. Work through courses in order; keep rationales short (≤ 20 words).

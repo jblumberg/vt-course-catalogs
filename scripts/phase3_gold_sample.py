@@ -63,7 +63,8 @@ def main():
                          "department": s.get("department"), "grades": ",".join(map(str, s.get("grade_levels") or [])),
                          "level": s.get("level"), "description": s.get("description") or "",
                          "catalog_says_fulfills": s.get("fulfills_text") or "",
-                         "model_subject": c["subject_area"] + (f' ({"+".join(c.get("bridges") or [])})' if c.get("bridges") else ""),
+                         "model_subject": c["subject_area"] + (f' ({"+".join(c.get("bridges") or [])})' if c.get("bridges") else "")
+                                          + (f' ({c["other_type"]})' if c.get("other_type") else ""),
                          "model_credits": fmt(c), "catalog_claims": "; ".join(c.get("catalog_claims") or []),
                          "model_conf": c.get("confidence"),
                          "model_reason": " | ".join(m.get("rationale", "") for m in c.get("credit_mappings") or []),

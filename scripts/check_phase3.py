@@ -13,6 +13,7 @@ OTHER = {"Computer Science", "Business", "Technology/Engineering", "Family & Con
          "Flexible pathway", "Advisory/Support", "Driver Ed", "Other"}
 DOMAINS = {"Chemistry", "Physics", "Integrated Physical", "Life", "Earth & Space", "Environmental", "Other"}
 REQS = {r["requirement_id"] for r in csv.DictReader((ROOT / "data/requirements.csv").open())} - {"TOTAL"}
+REQS |= {"FLEX-ANY"}          # flexible pathway: could count as any credit (listed, never closes a gap)
 
 
 def check(sid, path):
