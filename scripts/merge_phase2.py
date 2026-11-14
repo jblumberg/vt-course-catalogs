@@ -102,9 +102,12 @@ def check(d):
         err.append(f"bad extraction_status {d.get('extraction_status')!r}")
     if d.get("extraction_status") == "complete" and len(courses) < 25:
         warn.append(f"only {len(courses)} courses but status 'complete' - check for missed sections")
+    sid = d.get("school_id")
     for sf in d.get("source_files") or []:
         if not (ROOT / sf).exists():
             err.append(f"source file not found: {sf}")
+        elif not sf.startswith(f"catalogs/{sid}/"):
+            err.append(f"source file belongs to another school: {sf}")
     seen = Counter((c.get("course_name") or "").strip().lower() + "|" + str(c.get("course_code"))
                    for c in courses)
     dups = [k for k, v in seen.items() if v > 1]
@@ -168,6 +171,8 @@ def main():
             summary.append((p.stem, 0, "INVALID", [e], []))
             continue
         err, warn = check(d)
+        if d.get("school_id") != p.stem:
+            err.append(f"school_id {d.get('school_id')!r} does not match file name")
         summary.append((d["school_id"], len(d.get("courses", [])), d.get("extraction_status"), err, warn))
         for c in d.get("courses", []):
             row = {k: c.get(k) for k in COURSE_FIELDS}
