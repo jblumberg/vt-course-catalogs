@@ -9,7 +9,7 @@
  "source_retrieved_on": "2026-11-14",
  "extracted_on": "2026-11-14",
  "extraction_status": "complete",
- "extraction_notes": "TBD",
+ "extraction_notes": "Clean text PDF export of a live Google Doc (66 pp, 2026-27); no low-text pages, no scanned pages, nothing read visually. Phase 1 issues: only the 2026-27 file (catalog_2026-27.pdf) was used; the stale 2025-26 PDF (catalog_2025-26.pdf, 84 pp) was ignored. Entries parsed from the structured course blocks (code, credits, length, Open to, Prerequisite(s), description) on pp.18-64. Credits are as printed (4 per semester course, 8 for year/AP courses, 2 for alternating-day/evening courses; graduation total 96). Descriptions are verbatim; 'Curriculum Outline' link text dropped. Courses printed under 'NOT RUNNING IN 26/27' headings (AP Language and Composition, Creative Writing, Sports Literature, Environmental Science and Policy, Holocaust and Genocide, Food Fundamentals, Foods Advanced, Fundamentals of Music, Jazz Theory and Performance, World Music, History of Rock, Music Theory) are included with offering_note 'Not running in 2026-27'. Courses printed with no description (Novice/Intermediate/Advanced Spanish, Chinese, French, German, p.49-50) take the shared level paragraph for their level (split into one record per language, 'Levels 1 & 2' kept as one record as the catalog lists them). Adaptive PE has no description (null). Science Independent Study has only a prerequisite (description null). Entries with a header/page-break layout were fixed by hand: Driver Training (two codes, Fall/Spring), Social Studies Independent Study (credits printed before title, no code), AP Art 2D and 3D (prerequisite bullet list on p.55 moved to prerequisites). Dual enrollment: courses marked * in the catalog are the regular BUHS courses also offered for college credit; level dual_enrollment only where the entry itself says it is offered for college credit / dual-credit / may be taken for college credit; where it says 'may also be offered' the course stays standard (or honors for language Intermediate/Advanced, which the catalog marks * as honors) with a note. WRCC (career center) dual-enrollment courses on pp.17-18 (Business Management, Early Childhood Education, Aviation, Manufacturing, Criminal Justice, Anatomy & Physiology, etc.) are listed by name only with no descriptions, and WRCC has its own Program of Studies (not downloaded), so they were not extracted. 'See WRCC Program of Studies for additional English courses' (p.33). Programs with descriptions are included as one record each with notes 'program' (FLEX, Independent Study (Flexible Pathways), Community Based Learning, College Courses, Dual Enrollment, STEM / VPA / International Studies Academies). The p.14 grid text is interleaved with a contact column, so where it could not be copied cleanly it is quoted in notes and a clean sentence elsewhere in the catalog is used as the description (College Courses has description null). Job Corps, AP and VHS grid rows and the WRCC/CTE row (no program list) are not separate records (VHS has its own entry on p.18). Catalog inconsistencies a human may want to review: p.8 requires 6 PE credits (Class of 2030 onward, 4 before) and 32 elective credits, but the Graduation Checklist (p.66) shows 4 PE and 34 electives; Driver Training text still refers to 2025-2026 applications (deadline March 24, 2025); Social Studies list on p.43 marks Law in American Society, Sociology CHS, Elections & Government, Mentoring & Leadership and Economics with * (dual enrollment) and the legend '*not running 26-27' sits above Holocaust and Genocide, so only Holocaust and Genocide (which has a 'not running' section heading and note) is treated as not running. Academy participation requirements (courses/points) are only summarised in notes.",
  "graduation_requirements": {
   "total_credits": 96,
   "by_area": [
@@ -1184,7 +1184,7 @@
    "notes": "Catalog level: Level 1 accelerated sequence (p.35). Catalog notes this course may also be offered for college credit (see DUAL ENROLLMENT)"
   },
   {
-   "course_name": "Accelerated Pre-calculus",
+   "course_name": "Accelerated Pre-Calculus",
    "course_code": "M0001273",
    "department": "Mathematics",
    "description": "This course prepares students for, and is the principal prerequisite for, AP calculus. The student studies elementary functions including: transformations, combinations of functions, inverse functions, polynomial, exponential, logarithmic, rational and trigonometric functions with an emphasis on their unifying properties. Sinusoidal functions and oblique triangle trigonometry are studied in depth. Literal derivation of basic formulas, individual and group projects, and problem solving are key components of this course. It is assumed that a student taking this course is self- motivated and genuinely interested in an exploratory approach to learning mathematics. The level of success students will experience in this course is directly related to how well they have internalized the skills and concepts studied in their previous mathematics courses.",
@@ -1232,7 +1232,7 @@
    "notes": "Catalog notes this course may also be offered for college credit (see DUAL ENROLLMENT)"
   },
   {
-   "course_name": "AP Calculus – Ab",
+   "course_name": "AP Calculus – AB",
    "course_code": "MWAP1292",
    "department": "Mathematics",
    "description": "A college level course in differential and integral calculus which was designed according to guidelines set by the Advanced Placement Program of the College Board. Prepares the student for the Calculus AB Advanced Placement Examination.",
@@ -1326,7 +1326,7 @@
    "notes": null
   },
   {
-   "course_name": "Pre-calculus",
+   "course_name": "Pre-Calculus",
    "course_code": "M0001274",
    "department": "Mathematics",
    "description": "In this course the student will be exposed to functions including, polynomial, exponential, logarithmic, rational, and trigonometric. Students will study the parent function and shifts that can be applied to the parent function as well as the inverses of these functions and their applications in real world situations. Personal ownership of a scientific calculator is highly recommended for students taking this course. Students interested in taking this course who do not meet the prerequisite criteria above should consult with their previous math teacher and counselor.",
@@ -1350,7 +1350,7 @@
    "notes": null
   },
   {
-   "course_name": "Pre-algebra",
+   "course_name": "Pre-Algebra",
    "course_code": "M0001016",
    "department": "Mathematics",
    "description": "This is an introductory course intended to prepare students for Algebra. Emphasis is placed on covering the most fundamental standard in the Common Core State Standards in mathematics. The pace of the course is adjusted so that careful attention can be given to reinforcing skills necessary for success in future math courses. Content standards will focus on: Ratios and Proportional Relationships, The Number System, Expressions And Equations, Functions, Geometry, Statistics and Probability.",
@@ -1720,7 +1720,7 @@
    ],
    "credits": 4.0,
    "credits_text": "4 Credits",
-   "length": "year",
+   "length": "semester",
    "prerequisites": "Successful completion of Earth and Space Science, and Biology. Successful completion of IPC,",
    "level": "standard",
    "honors_option": false,
@@ -1763,7 +1763,7 @@
    ],
    "credits": 4.0,
    "credits_text": "4 Credits",
-   "length": "year",
+   "length": "semester",
    "prerequisites": "Honors level work in ESS, Biology, Introduction to Chemistry and Physics, or either Chemistry or Physics and teacher recommendation.",
    "level": "standard",
    "honors_option": false,
@@ -2052,7 +2052,7 @@
    "notes": "Dual enrollment (college credit) course per catalog; see DUAL ENROLLMENT, pp.15-18"
   },
   {
-   "course_name": "U.s. History Through Film and Music",
+   "course_name": "U.S. History Through Film and Music",
    "course_code": "A0002401",
    "department": "Social Studies",
    "description": "The US History Through Film and Music course will offer students a different way to explore themes of US history through the lens of film and music. Students will learn how to critically analyze film and music, while gaining new insight into historical events of the 18th, 19th and 20th Centuries. This class will require students to work collaboratively both in discussion groups and on projects, as well as to complete independent writing.",
@@ -3141,7 +3141,7 @@
    "notes": null
   },
   {
-   "course_name": "Madrigals - a Cappella Ensemble",
+   "course_name": "Madrigals - A Cappella Ensemble",
    "course_code": "F0006550",
    "department": "Music",
    "description": "Our BUHS A Cappella Ensemble (Madrigals) is a vocal performance group and class. It is designed to offer vocal repertoire and class assignments that challenge students who are already familiar with vocal/choral technique and can sing in a small group setting. Vocalists auditioning for this ensemble must already be enrolled in chorus. This group meets one night per week with required attendance at all rehearsals and performances throughout the school year. Students are expected to practice their parts on their own each week at home. They will be given practice assignments (vocal practice tracks will be provided), and will periodically need to turn in recordings of themselves singing their songs for grades and credit. Students perform at regularly scheduled school concerts as well as community events around Brattleboro.",
