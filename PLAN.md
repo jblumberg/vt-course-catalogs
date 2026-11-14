@@ -19,7 +19,7 @@ catalog are kept but tagged.
 | 1. Find catalogs | **Done** (57/57) | `phase1/catalogs.csv`, `phase1/results/*.json`, `catalogs/<id>/` |
 | 2. Extract courses | **Paused at 22 schools** (2,604 records) | `phase2/courses/*.json` → `phase2/courses.csv`, `phase2/graduation_requirements.csv` |
 | 3a. Requirements table | **Done** | `data/requirements.csv` |
-| 3b. Classification rubric | **v0.2 draft**, piloted on 2 schools | `.claude/skills/classify-courses/SKILL.md`, `phase3/pilot/` |
+| 3b. Classification rubric | **v0.3**, scored against the human answer key | `.claude/skills/classify-courses/SKILL.md`, `phase3/pilot/` |
 | 3c. Human calibration | **With the human**: Google Sheet review of 100 courses | [Review sheet](https://docs.google.com/spreadsheets/d/1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc/edit) (Drive id `1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc`); local copy `phase3/gold/review_sample.csv` |
 | 3d. School profile pass | Planned | — |
 | 3e. Classify all schools | Planned | `phase3/classified/*.json` |
@@ -85,7 +85,17 @@ because every course lists all its mappings.
   This session has only the Drive connector, so the Sheet can't be edited in place.
 - **Validator:** `scripts/check_phase3.py <id> [file]`. **Comparison:** `scripts/phase3_review_sheet.py A B <ids...>`.
 
-### 3c. Human calibration — next
+### 3c. Human calibration — first round done (2026-11-14)
+- Answer key: `phase3/gold/labels.csv` (97 scored, 3 CTE skipped). Scorer: `python3 -I scripts/phase3_score.py <run...>`.
+- **Haiku v0.2: 76% exact, 82% strong-set match. Haiku v0.3 (`*.haiku3.json`): 85% exact, 96% strong-set match.**
+  Caveat: v0.3 was tuned on the same 97 courses, so the true accuracy is probably lower. Check it on a new school before running at scale.
+- What the human taught us: be generous (descriptions undersell courses). Use the school's core sequence to infer grade levels.
+  Algebra II always counts for STATS-ALG2, and Pre-Algebra counts as a math elective. Don't trust catalog equivalency claims
+  (Woodworking for English) — record them in `catalog_claims`. Forensics isn't life science. Programming may be a math elective.
+- v0.3.1 tweaks were made after scoring and are untested: CAD/welding keep ARTS `possible`, GPS independent studies keep their
+  English `possible` mapping, Business Math that is mostly personal finance → FINLIT `strong`.
+
+#### Original plan
 1. Build a **Google Sheet** of about 100 courses from the pilot schools. It includes every model disagreement, plus a stratified
    sample across subject areas and the tricky types: Interdisciplinary, equivalency credit, CTE, Environmental Science,
    Algebra II, financial content, and courses without descriptions.

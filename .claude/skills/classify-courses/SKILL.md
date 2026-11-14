@@ -49,7 +49,9 @@ upper-level → ELA-MASTERY `strong`. Mention it in the rationale ("9/10 core = 
 Record every requirement the catalog says a course fulfills in `catalog_claims`, but **map by content**. A school's
 equivalency statement alone does not make a course count: Woodworking listed for "English, Science" credit → `catalog_claims`
 ["ELA-INTRO","SCI-PHYS"], mappings only what the content supports (ARTS `possible` for design/craft). Web programming (HTML/CSS)
-listed as fine arts → no ARTS mapping. The report compares claims with content-based mappings.
+listed as fine arts → no ARTS mapping. But design/craft courses with a fine-arts claim (CAD, welding art, creative
+woodworking) keep ARTS `possible`, and independent studies that may be taken "for English credit" keep that `possible` mapping.
+The report compares claims with content-based mappings.
 
 ## General rules (v0.2)
 - **Labs do not change `strength`.** Record `has_lab` separately (`null` for non-science courses). `yes` if the catalog mentions labs,
@@ -111,7 +113,8 @@ artistic creating/responding is central; CTE graphic-design programs → `possib
 
 **WL** — any world language course at any level, ASL, heritage or AP language → `strong`. Language culture-only courses → `possible`.
 
-**FINLIT** — stand-alone personal finance / financial literacy course → `strong`, `finlit_type: stand-alone`.
+**FINLIT** — stand-alone personal finance / financial literacy course → `strong`, `finlit_type: stand-alone` — including
+"Business Math" or similar when the description is mainly personal finance (budgeting, banking, credit, taxes, insurance).
 Financial content embedded in another course (Consumer Math, Economics, Life Skills, Business) → `possible`, `finlit_type: embedded`
 (the memo requires stand-alone content, so embedded mappings are reported but don't satisfy the requirement).
 
