@@ -12,7 +12,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
 2. Run `python3 -I scripts/extract_text.py <id>`. It writes `phase2/text/<id>.txt` with `=== PAGE n ===` markers and prints
    which source file(s) it used (there may be several, e.g. a main catalog plus a 9th-grade guide — extract from all; if the same course appears in both, keep one record), `source_retrieved_on`, and `low_text_units` (pages with almost no text).
    - If low-text pages look like they hold courses (scanned images), read those pages straight from the PDF with the Read tool (`pages: "12-15"`).
-   - If the text is garbled (multi-column layout mixing two courses), re-read those pages from the PDF with the Read tool.
+   - It also writes `phase2/text/<id>.raw.txt` in reading order. **For two-column pages (columns interleaved in the .txt), use the .raw.txt** — the check accepts text from either file, so don't hand-edit the text files. If both are garbled, re-read those pages from the PDF with the Read tool.
    - If Phase 1 said the catalog is spread over many webpages, follow the links from the saved page and fetch each course/department page (no crawling beyond the catalog).
 3. Read the whole text in chunks. Extract **every course offered to grades 9–12** — including electives, AP, honors,
    dual enrollment / early college, online (VTVLC etc.), special education/alternative program courses, and courses at a

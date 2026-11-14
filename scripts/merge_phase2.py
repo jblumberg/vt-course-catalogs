@@ -34,8 +34,11 @@ _SRC = {}
 def source_words(sid):
     """Words of phase2/text/<sid>.txt with page markers removed (cached)."""
     if sid not in _SRC:
-        p = ROOT / "phase2/text" / f"{sid}.txt"
-        txt = p.read_text(errors="replace") if p.exists() else ""
+        txt = ""
+        for name in (f"{sid}.txt", f"{sid}.raw.txt"):   # layout + reading-order versions
+            p = ROOT / "phase2/text" / name
+            if p.exists():
+                txt += "\n" + p.read_text(errors="replace")
         txt = re.sub(r"=== (FILE|PAGE|SECTION)[^=]*===", " ", txt)
         _SRC[sid] = _words(txt)
     return _SRC[sid]

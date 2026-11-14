@@ -4,7 +4,8 @@ Uses every local copy named catalog_* for the school's primary school_year (e.g.
 plus a separate 9th-grade guide). For each year, prefers a manual copy, then PDF over HTML.
 Graduation-requirement files (grad_requirements_*) are listed separately and not converted.
 
-Output: phase2/text/<school_id>.txt with "=== FILE <path> ===" headers and "=== PAGE n ===" (PDF) or
+Output: phase2/text/<school_id>.raw.txt (PDFs only: reading-order text, best for two-column pages) and
+        phase2/text/<school_id>.txt (layout-preserving) with "=== FILE <path> ===" headers and "=== PAGE n ===" (PDF) or
         "=== SECTION n ===" (HTML) markers. Prints a JSON summary including source_retrieved_on and
         low_text_units (pages with little text -> probably scanned; read those from the PDF directly).
 
@@ -34,8 +35,9 @@ def pick_copies(r):
     return chosen, grad
 
 
-def pdf_text(path):
-    out = subprocess.run(["pdftotext", "-layout", str(path), "-"], capture_output=True, text=True).stdout
+def pdf_text(path, layout=True):
+    cmd = ["pdftotext"] + (["-layout"] if layout else []) + [str(path), "-"]
+    out = subprocess.run(cmd, capture_output=True, text=True).stdout
     pages = out.split("\f")
     if pages and not pages[-1].strip():
         pages = pages[:-1]
@@ -65,6 +67,14 @@ def main():
     out = ROOT / "phase2/text" / f"{sid}.txt"
     out.parent.mkdir(parents=True, exist_ok=True)
     files = []
+    raw = ROOT / "phase2/text" / f"{sid}.raw.txt"   # reading-order text (better for multi-column pages)
+    with raw.open("w") as f:
+        for c in copies:
+            path = ROOT / c["path"]
+            if path.suffix.lower() == ".pdf":
+                f.write(f"=== FILE {c['path']} ===\n")
+                for i, u in enumerate(pdf_text(path, layout=False), 1):
+                    f.write(f"=== PAGE {i} ===\n{u}\n")
     with out.open("w") as f:
         for c in copies:
             path = ROOT / c["path"]
@@ -81,7 +91,8 @@ def main():
     print(json.dumps({"school_id": sid, "source_files": [x["path"] for x in files],
                       "source_retrieved_on": max(dates) if dates else r.get("retrieved_on"),
                       "files": files, "grad_requirement_files": grad,
-                      "text_file": str(out.relative_to(ROOT))}, indent=1))
+                      "text_file": str(out.relative_to(ROOT)),
+                      "reading_order_text_file": str(raw.relative_to(ROOT))}, indent=1))
 
 
 if __name__ == "__main__":
