@@ -1,0 +1,50 @@
+{
+  "school_id": "twin-valley-middle-high-school",
+  "school_name": "Twin Valley Middle High School",
+  "school_website": "https://tvmhs.wswsu49.org/",
+  "su_sd": "Windham Southwest Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Site header shows 'WINDHAM SOUTHWEST SUPERVISORY UNION' (wswsu49.org); schools.csv also lists Twin Valley Unified School District #75 as the district.",
+  "su_sd_source_url": "https://www.wswsu49.org/",
+  "catalog_status": "found",
+  "catalog_title": "Twin Valley Middle High School 2026/27 Course Registration Information (Program of Study)",
+  "catalog_url": "https://drive.google.com/file/d/1xsXg56V62EN6e1WTuP4XvdnTJdd5lMsV/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1xsXg56V62EN6e1WTuP4XvdnTJdd5lMsV",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (Finalsite-style school site)",
+  "course_planner": "none found (PowerSchool used for registration form)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/twin-valley-middle-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 36,
+      "size_mb": 9.27,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": null,
+  "additional_urls": [
+    {
+      "url": "https://drive.google.com/file/d/1xsXg56V62EN6e1WTuP4XvdnTJdd5lMsV/view?usp=sharing",
+      "what": "same file; graduation requirements on p.7 of catalog"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "tvmhs.wswsu49.org home page > 'Program of Study' link (Drive file). Cover page names the school and Whitingham address.",
+  "issues": "Grades 6-12 school; catalog covers middle and high school courses. Web search also returns sites.google.com/tvsd.info program-of-studies pages: those belong to Twin Valley School District in Pennsylvania (Berks Career and Technology Center) and were rejected. Graduation requirements are on p.7 of the catalog; includes CCV dual enrollment and Windham Regional Career Center (CTE, out of scope) listings.",
+  "searched": [
+    "web search 'Twin Valley Middle High School program of studies' (PA tvsd.info results rejected)",
+    "https://tvmhs.wswsu49.org/ home page",
+    "https://www.wswsu49.org/ home page",
+    "tvsd.info 26-27 site (PA, rejected)",
+    "downloaded Drive PDF and checked cover/descriptions"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

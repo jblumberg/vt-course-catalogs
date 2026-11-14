@@ -20,6 +20,7 @@ Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. D
    Skip middle-school-only courses (grades 6–8).
 4. Also capture the catalog's **graduation requirements** as stated (credits by subject, proficiencies, other requirements) — Phase 3 needs them.
 5. Write `phase2/courses/<id>.json` (format below), then run `python3 -I scripts/merge_phase2.py --check <id>` and fix anything it flags.
+   **Every `description ... not verbatim` or `possible dropped text` warning must be fixed** (re-copy the description from the text file — a common cause is a description that continues across a page break). If after checking you're sure a warning is wrong, say why in `extraction_notes`.
 
 ## Rules
 - **Phase 1 `issues` are instructions for you.** If they say to use only certain pages (e.g. a doc that contains an old duplicate copy), do that and say so in `extraction_notes`.

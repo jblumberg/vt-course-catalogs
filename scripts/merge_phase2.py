@@ -21,6 +21,75 @@ REQUIRED_TOP = ["school_id", "catalog_school_year", "source_files", "source_retr
                 "extraction_status", "courses"]
 
 
+import re
+
+
+def _words(s):
+    return re.findall(r"[a-z0-9']+", (s or "").lower())
+
+
+_SRC = {}
+
+
+def source_words(sid):
+    """Words of phase2/text/<sid>.txt with page markers removed (cached)."""
+    if sid not in _SRC:
+        p = ROOT / "phase2/text" / f"{sid}.txt"
+        txt = p.read_text(errors="replace") if p.exists() else ""
+        txt = re.sub(r"=== (FILE|PAGE|SECTION)[^=]*===", " ", txt)
+        _SRC[sid] = _words(txt)
+    return _SRC[sid]
+
+
+def verify_description(sid, desc, notes=None, n=6):
+    """Check a description against the source text.
+    Returns None if fine, else a short problem string:
+      - 'not verbatim': many of its word n-grams don't occur in the source (paraphrased/invented)
+      - 'possible dropped text': words in the source between its first and last phrase that appear
+        in neither the description nor notes (page headers/footers/numbers ignored)
+    """
+    src = source_words(sid)
+    w = _words(desc)
+    if not src or len(w) < n + 2:
+        return None
+    grams = {tuple(src[i:i + n]) for i in range(len(src) - n + 1)}
+    dg = [tuple(w[i:i + n]) for i in range(len(w) - n + 1)]
+    miss = sum(1 for g in dg if g not in grams) / len(dg)
+    if miss > 0.15:
+        return f"not verbatim ({miss:.0%} of phrases not in source)"
+    first, last = dg[0], dg[-1]
+    have = Counter(w) + Counter(_words(notes))
+    noise = footer_words(sid)
+    starts = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) == first]
+    ends = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) == last]
+    best = None   # for each end, the nearest start before it; keep the pair with fewest missing words
+    for e in ends:
+        prior = [s for s in starts if s <= e]
+        if not prior:
+            continue
+        s = prior[-1]
+        left = Counter(x for x in src[s:e + n] if not x.isdigit() and x not in noise) - have
+        k = sum(left.values())
+        if best is None or k < best[0]:
+            best = (k, left)
+    if best and best[0] > 6:
+        return f"possible dropped text ({best[0]} source words missing, e.g. {' '.join(list(best[1])[:8])})"
+    return None
+
+
+_FOOT = {}
+
+
+def footer_words(sid):
+    """Words on lines that repeat on many pages (running headers/footers)."""
+    if sid not in _FOOT:
+        p = ROOT / "phase2/text" / f"{sid}.txt"
+        lines = [l.strip().lower() for l in (p.read_text(errors="replace") if p.exists() else "").splitlines() if l.strip()]
+        common = [l for l, c in Counter(lines).items() if c >= 4 and len(l) < 120]
+        _FOOT[sid] = {x for l in common for x in _words(l)}
+    return _FOOT[sid]
+
+
 def check(d):
     """Return (errors, warnings) for one school's file."""
     err, warn = [], []
@@ -61,7 +130,10 @@ def check(d):
             warn.append(f"{c.get('course_name')}: middle-school-only grades {gl}")
         if c.get("source_page") is None:
             warn.append(f"{c.get('course_name')}: no source_page")
-    return err, warn[:15]
+        v = verify_description(d.get("school_id"), c.get("description"), c.get("notes"))
+        if v:
+            warn.append(f"{c.get('course_name')}: description {v}")
+    return err, warn
 
 
 def load(p):

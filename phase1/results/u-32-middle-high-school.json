@@ -1,0 +1,44 @@
+{
+  "school_id": "u-32-middle-high-school",
+  "school_name": "U-32 Middle & High School",
+  "school_website": "https://u32.wcuusd.org/",
+  "su_sd": "Washington Central Unified Union School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site (www.wcuusd.org, formerly wcsu32.org) is titled 'Washington Central Unified Union School District'; schools.csv lists 'Washington Central Supervisory Union' / UUSD #92. Same entity.",
+  "su_sd_source_url": "https://www.wcuusd.org/",
+  "catalog_status": "found",
+  "catalog_title": "U-32 Program of Studies 2026-2027",
+  "catalog_url": "https://drive.google.com/file/d/1HqnG7LllwECHIrrMDdpVVxfFNOm31bef/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1HqnG7LllwECHIrrMDdpVVxfFNOm31bef",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (Finalsite school site)",
+  "course_planner": "Naviance (https://student.naviance.com/u32); Infinite Campus online registration",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/u-32-middle-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 50,
+      "size_mb": 1.08,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": null,
+  "additional_urls": [],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "u32.wcuusd.org home page > 'Program of Studies 2026-2027' link (Drive file).",
+  "issues": "Grades 7-12 school; catalog covers middle and high school. Graduation requirements are in the catalog ('U-32 Graduation Requirements' section). Naviance is linked but course descriptions are in the PDF.",
+  "searched": [
+    "web search 'U-32 program of studies 2026-2027'",
+    "https://www.wcsu32.org (redirects to wcuusd.org)",
+    "https://u32.wcuusd.org home page",
+    "downloaded Drive PDF, checked pdfinfo and text"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

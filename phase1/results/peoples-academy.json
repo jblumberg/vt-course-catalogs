@@ -1,0 +1,49 @@
+{
+  "school_id": "peoples-academy",
+  "school_name": "Peoples Academy",
+  "school_website": "https://www.lamoillesouth.org/peoples-academy",
+  "su_sd": "Lamoille South Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Site header/footer says Lamoille South Supervisory Union; schools.csv also lists Elmore-Morristown Unified Union School District #90 as the district. Same SU.",
+  "su_sd_source_url": "https://www.lamoillesouth.org/",
+  "catalog_status": "found",
+  "catalog_title": "Peoples Academy High School Program of Studies, Grades 9-12, 2026-2027",
+  "catalog_url": "https://drive.google.com/file/d/1eIUVVywPh8Jpw12f-u7MMlD6XYQIPG-Q/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1eIUVVywPh8Jpw12f-u7MMlD6XYQIPG-Q",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (Squarespace school site)",
+  "course_planner": "none found (PowerSchool parent portal only)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/peoples-academy/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 27,
+      "size_mb": 1.68,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": null,
+  "additional_urls": [
+    {
+      "url": "https://drive.google.com/file/d/1wKIF20iAwpLhx0x7NhXUPjV4eTb76HFI/view?usp=sharing",
+      "what": "Peoples Academy faculty/staff directory 2025-26 (not a catalog)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "lamoillesouth.org > Peoples Academy page > 'Program of Studies' link (Drive file). Earlier-downloaded copy verified identical (same text, 27 pages) to a fresh download.",
+  "issues": "Graduation requirements are inside the catalog (section 'Grading and Reporting and Graduation Requirements', p.5), no separate document found. Catalog was reused from an earlier interrupted run after pdfinfo check and text comparison.",
+  "searched": [
+    "pdfinfo/pdftotext of existing catalogs/peoples-academy/catalog_2026-27.pdf",
+    "https://www.lamoillesouth.org home",
+    "https://www.lamoillesouth.org/peoples-academy (found Program of Studies Drive link)",
+    "fresh Drive download compared to existing copy"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}
