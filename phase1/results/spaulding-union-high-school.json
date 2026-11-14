@@ -1,0 +1,56 @@
+{
+  "school_id": "spaulding-union-high-school",
+  "school_name": "Spaulding High School",
+  "school_website": "https://www.spauldinghs.org/",
+  "su_sd": "Barre Unified Union School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "buusd.org page title is 'Barre Unified Union School District'; its logo alt text is 'Barre Supervisory Union' (schools.csv name). Same entity; the district is the SU's single member district.",
+  "su_sd_source_url": "https://www.buusd.org/",
+  "catalog_status": "found",
+  "catalog_title": "Spaulding High School Program of Studies 2026-2027",
+  "catalog_url": "https://docs.google.com/document/d/1YDPd8Fb_gBjXtFG9_IimP2AfECq0ISgYXcYaFiiyG7k/edit?usp=sharing",
+  "direct_file_url": "https://docs.google.com/document/d/1YDPd8Fb_gBjXtFG9_IimP2AfECq0ISgYXcYaFiiyG7k/export?format=pdf",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs (linked from Finalsite school site)",
+  "course_planner": "none found (Scoir linked for college/career planning; Infinite Campus SIS)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/spaulding-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 66,
+      "size_mb": 9.35,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1YDPd8Fb_gBjXtFG9_IimP2AfECq0ISgYXcYaFiiyG7k/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://www.spauldinghs.org/for-students-parents/new-program-of-studies",
+      "what": "'Program of Studies 2026-2027' page: links the Google Doc, plus on-page sections (graduation requirements, college entrance, career pathways) and a list of course titles; archive PDFs 2017-18 to 2022-23 (2023-24 listed without link)"
+    },
+    {
+      "url": "https://www.spauldinghs.org/for-students-parents/scoir",
+      "what": "Scoir page"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "buusd.org > Spaulding High School (spauldinghs.org) > For Students & Parents > Program of Studies > 'comprehensive Program of Studies' Google Doc; exported to PDF",
+  "issues": "Schools.csv name 'Spaulding Union High School' vs. school's own 'Spaulding High School' (NCES: Spaulding UHSD #41). Graduation requirements are a section of the POS (incl. 40 hours community service) and also on the POS web page; no separate file. Program of Studies web page also lists course titles (possibly with expandable descriptions) - the Google Doc is the complete source. 2025-26 POS not linked (archive stops at 2022-23).",
+  "searched": [
+    "WebSearch: \"Spaulding High School\" Barre program of studies course catalog",
+    "WebSearch: Barre Unified Union School District Spaulding High School website course selection guide",
+    "WebSearch: Spaulding High School Barre Vermont buusd.org program of studies",
+    "https://www.buusd.org/",
+    "https://www.spauldinghs.org/",
+    "https://www.spauldinghs.org/for-students-parents/new-program-of-studies",
+    "https://www.spauldinghs.org/academics/counselingguidance-office"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

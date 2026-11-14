@@ -1,0 +1,74 @@
+{
+  "school_id": "bellows-falls-union-high-school",
+  "school_name": "Bellows Falls Union High School",
+  "school_website": "https://bfuhs.wnesu.org/",
+  "su_sd": "Windham Northeast Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School site is a Finalsite subsite of the WNESU district site (wnesu.org); bfuhs.org redirects to bfuhs.wnesu.org. Staff email domain is wnesu.com.",
+  "su_sd_source_url": "https://www.wnesu.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "2024-2026 PROGRAM OF STUDIES (BFUHS Program of Studies 2024-2026)",
+  "catalog_url": "https://sites.google.com/wnesu.com/bfuhscounseling/program-of-studies",
+  "direct_file_url": "https://docs.google.com/document/d/1BqMZX9wsscpEusXv1LStmCQ-B8oeSYP8f-Cf4ObUn1w/edit",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Sites (counseling site) embedding a Google Doc; also mirrored as Finalsite webpages",
+  "course_planner": "none found",
+  "school_year": "2024-26",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/bellows-falls-union-high-school/catalog_2024-26.pdf",
+      "year": "2024-26",
+      "pages": 47,
+      "size_mb": 0.8,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/bellows-falls-union-high-school/catalog_webpage_undated.html",
+      "year": "undated (same content as 2024-26 doc)",
+      "pages": null,
+      "size_mb": 0.04,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://bfuhs.wnesu.org/learning/program-of-studies/requirements-credit-info",
+  "additional_urls": [
+    {
+      "url": "https://bfuhs.wnesu.org/learning/program-of-studies",
+      "what": "Official school site 'Program of Studies' landing page; the catalog is split into ~15 department webpages (/learning/program-of-studies/english etc., /fs/pages/2310-2325). Undated; text appears to mirror the 2024-2026 doc. Only landing page saved, not crawled."
+    },
+    {
+      "url": "https://bfuhs.wnesu.org/learning/program-of-studies/requirements-credit-info",
+      "what": "Requirements & Credit Information webpage (graduation requirements, GPA, levels). Saved as grad_requirements_webpage_undated.html; grad requirements also on p.2 of the PDF."
+    },
+    {
+      "url": "https://docs.google.com/document/d/1BqMZX9wsscpEusXv1LStmCQ-B8oeSYP8f-Cf4ObUn1w/export?format=pdf",
+      "what": "PDF export used for the local copy"
+    },
+    {
+      "url": "https://bfuhs.wnesu.org/learning/english-department",
+      "what": "Separate department marketing pages with short course lists (not the catalog)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://sites.google.com/wnesu.com/bfuhscounseling/program-of-studies",
+      "quote": "Program of Studies 2024-2026 PROGRAM OF STUDIES Bellows Falls Union High School"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "medium",
+  "how_found": "Web search surfaced the BFUHS counseling Google Site (sites.google.com/wnesu.com/bfuhscounseling) > Program of Studies (embedded Google Doc); also school site bfuhs.wnesu.org > Learning > Program of Studies (webpage version).",
+  "issues": "The only catalog is a two-year '2024-2026' Program of Studies (47 pages, full descriptions, graduation requirements on p.2). It nominally covers 2024-25 and 2025-26; no 2026-27 edition found though it is still the one linked in Nov 2026, so it may effectively still be in use. Year recorded as '2024-26' (not a single school year). The official Finalsite site also presents the catalog as multi-page HTML (one page per department, undated); only the landing page was saved, not crawled. Google Doc export worked without sign-in. No course-planning tool found on the counseling site or school site.",
+  "searched": [
+    "WebSearch: \"Bellows Falls Union High School\" program of studies",
+    "WebSearch: Bellows Falls Union High School \"2026-2027\" program of studies OR course selection",
+    "https://sites.google.com/wnesu.com/bfuhscounseling (home, nav) and /program-of-studies",
+    "https://www.bfuhs.org -> https://bfuhs.wnesu.org/ (home nav), /learning/program-of-studies, /learning/program-of-studies/requirements-credit-info, /learning/program-of-studies/english, /resources/school-counseling, /learning/english-department, /learning/math-department, /learning/science-department",
+    "https://www.wnesu.org/ (district home)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

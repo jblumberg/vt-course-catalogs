@@ -1,0 +1,58 @@
+{
+  "school_id": "danville-school",
+  "school_name": "Danville School",
+  "school_website": "https://danville.ccsuvt.net/",
+  "su_sd": "Caledonia Central Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": null,
+  "su_sd_source_url": "https://www.ccsuvt.net/",
+  "catalog_status": "found",
+  "catalog_title": "Danville School 2026-27 Program of Studies, Grades 9-12",
+  "catalog_url": "https://danville.ccsuvt.net/312472_2",
+  "direct_file_url": "https://docs.google.com/document/d/1NJuJFhuY0m9-S0IEV3WqShyvx7kXjDtyDoJi8PDaaU4/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "ParentSquare Smart Sites (school site) linking to Google Docs",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/danville-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 38,
+      "size_mb": 1.1,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1NJuJFhuY0m9-S0IEV3WqShyvx7kXjDtyDoJi8PDaaU4/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://danville.ccsuvt.net/pathways",
+      "what": "Pathways Courses page (personalized learning program), Academics menu"
+    },
+    {
+      "url": "https://danville.ccsuvt.net/312075_2",
+      "what": "College Planning Resources (Academics menu)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1VidgdBH_jQhEM5NkXgUeKkHe5xNfEGNv3mb9pqW9WVA/edit?tab=t.0",
+      "what": "Family Handbook (Google Doc), not downloaded"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "danville.ccsuvt.net > Academics > Program of Studies (/312472_2 redirects to the Google Doc); exported as PDF",
+  "issues": "Graduation requirements are inside the catalog (pp. 2-4): separate course requirements for Class of 2029+ (adds required Civics, Financial Literacy, Career Exploration semesters) vs Classes of 2027-28, plus Senior Capstone and personal proficiencies (Lead/Express/Inquire/...). Requirements are counted in semesters, not credits. No 2025-26 Danville edition found. Caution: a search hit '2024-25 Program of Studies (FINAL)' (Google Doc 180tgb0cjH3dbEJsccABHPreWUpIr4Oj8_gF4p82dbAU) is Danville Public Schools (Virginia), NOT this school; ignored. Also search hits danville.ccsuvt.net/228185_2 and /high_school/past_years__courses now 404 (old site structure).",
+  "searched": [
+    "WebSearch: \"Danville School\" Vermont program of studies course catalog",
+    "https://danville.ccsuvt.net/ (home nav), /academics, /312472_2 (Program of Studies), /pathways",
+    "https://danville.ccsuvt.net/228185_2 and /high_school/past_years__courses (404)",
+    "https://www.ccsuvt.net/ (SU home)",
+    "Opened search-hit Google Docs 180tgb0c... (Danville VA), 1hVrob1A... (Craftsbury Academy), 1j-C33Xo... (West Rutland), 1gxbsIOs... (MHS), 17jtXWLM... (Essex) - none are Danville VT"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

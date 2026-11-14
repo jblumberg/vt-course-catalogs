@@ -12,10 +12,22 @@
   "platform": null,
   "school_year": null,
   "additional_urls": [
-    {"url": "https://www.stjsd.org/en-US", "what": "District home page: 'single school district... Our Pre-K to 12 school district is responsible for over 1,000 students, with many of our high school students attending St. Johnsbury Academy and Lyndon Institute through school choice.'"},
-    {"url": "https://www.stjsd.org/en-US/st-johnsbury-school-bec70372", "what": "School page: 'At The St. Johnsbury School, we proudly educate PreK through 8th-grade students'"},
-    {"url": "https://drive.google.com/file/d/1A4FCrM6TQNcBD6Vy3Lvk5aJfc45sjPyN/view?usp=drive_link", "what": "District 'Request for Public Tuition Dollars - NEK Region 2026-2027' secondary school tuition voucher form (linked from district home page) - shows grades 9-12 are tuitioned out"},
-    {"url": "https://www.stjsd.org/en-US/pages/bac8f769-72c7-4e4c-96ab-2f9988b0a8ec", "what": "District staff directory: all teaching staff are PreK-grade 8; only HS-related roles are a 'High School Case Manager' and a paraeducator placed at St. Johnsbury Academy"}
+    {
+      "url": "https://www.stjsd.org/en-US",
+      "what": "District home page: 'single school district... Our Pre-K to 12 school district is responsible for over 1,000 students, with many of our high school students attending St. Johnsbury Academy and Lyndon Institute through school choice.'"
+    },
+    {
+      "url": "https://www.stjsd.org/en-US/st-johnsbury-school-bec70372",
+      "what": "School page: 'At The St. Johnsbury School, we proudly educate PreK through 8th-grade students'"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1A4FCrM6TQNcBD6Vy3Lvk5aJfc45sjPyN/view?usp=drive_link",
+      "what": "District 'Request for Public Tuition Dollars - NEK Region 2026-2027' secondary school tuition voucher form (linked from district home page) - shows grades 9-12 are tuitioned out"
+    },
+    {
+      "url": "https://www.stjsd.org/en-US/pages/bac8f769-72c7-4e4c-96ab-2f9988b0a8ec",
+      "what": "District staff directory: all teaching staff are PreK-grade 8; only HS-related roles are a 'High School Case Manager' and a paraeducator placed at St. Johnsbury Academy"
+    }
   ],
   "local_copy": null,
   "pages_or_size": null,
@@ -34,5 +46,6 @@
     "https://district.stjsd.org (proxy 502, unreachable)",
     "https://education.vermont.gov/sites/aoe/files/documents/edu-fy25-annual-tuition-rate-report.pdf (HTTP 403)"
   ],
-  "checked_on": "2026-11-14"
+  "checked_on": "2026-11-14",
+  "retrieved_on": null
 }

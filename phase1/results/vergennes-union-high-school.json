@@ -1,0 +1,89 @@
+{
+  "school_id": "vergennes-union-high-school",
+  "school_name": "Vergennes Union High School",
+  "school_website": "https://www.vuhs.org/",
+  "su_sd": "Addison Northwest School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site (anwsd.org) uses 'Addison Northwest School District' (single-district supervisory district); same entity as 'Addison Northwest Supervisory Union' / ANWUUSD #54 in schools.csv.",
+  "su_sd_source_url": "https://www.anwsd.org/",
+  "catalog_status": "found",
+  "catalog_title": "Vergennes Union High School 2026-2027 Program of Studies (doc title 'VUHS Program of Studies 26-27')",
+  "catalog_url": "https://www.vuhs.org/high-school/high-school-academics",
+  "direct_file_url": "https://docs.google.com/document/d/1mqgb8P6BLWNaFhD8eswggpvn_hSoZVF4TWUcm2E131w/edit?tab=t.0",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Finalsite (school site) embedding a published Google Doc",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/vergennes-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 44,
+      "size_mb": 0.6,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/vergennes-union-high-school/catalog_2025-26.html",
+      "year": "2025-26",
+      "pages": null,
+      "size_mb": 0.35,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1mqgb8P6BLWNaFhD8eswggpvn_hSoZVF4TWUcm2E131w/edit?tab=t.0",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRCi1eIbYD3h9quYi2CmZopYCDUBkGZo_lfWKyALQ0Y7zbW5DFwJ2AiB8uqgOPolRdyWFGVhWXHRfaX/pub?embedded=true",
+      "what": "Published 2026-27 Program of Studies embedded on the High School Academics page"
+    },
+    {
+      "url": "https://www.vuhs.org/school-counseling/school-counseling-resources",
+      "what": "School Counseling Resources: Program of Studies 23-24 to 26-27, Mount Abe and PHCC (Patricia A. Hannaford Career Center) course descriptions, School Profile 26-27"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQu60nxxiLOeLWN76zVV9fRS1JXPkuadpscS5bQfK1zGBDWb812BEC9txaToFKqNwFVH_7BT-4Jte6R/pub",
+      "what": "Published 2025-26 Program of Studies (saved as catalog_2025-26.html)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1CTQoWuKIdFybN-8D-aURTyKEY78fRv-2QQ9vCJOxrQc/edit?usp=sharing",
+      "what": "'Program of Studies 25-26' link on the Academics page - export returns 401 (Google sign-in required)"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1xOG-PM0pPxk6N7rsTSb1q_1oIiUqbVbQ/view?usp=sharing",
+      "what": "Program of Studies 24-25 (Drive, not downloaded)"
+    },
+    {
+      "url": "https://www.vuhs.org/fs/resource-manager/view/07e697a3-b469-460d-8231-6d82d7ff8c01",
+      "what": "Program of Studies 23-24 (not downloaded; also on issuu.com/anwsd)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/11OIcE0ERBhRb2PH5kW1m7C_dfMInhv22GNyrCbGXZ4Q/edit?usp=sharing",
+      "what": "Mount Abe course descriptions (courses VUHS students can take at Mount Abraham UHS)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.vuhs.org/high-school/high-school-academics",
+      "quote": "Here, you can explore our current Program of Studies in an interactive format."
+    },
+    {
+      "url": "https://www.anwsd.org/",
+      "quote": "Home - Addison Northwest School District"
+    }
+  ],
+  "school_status_notes": "School brands itself 'Vergennes Union Middle and High School' (VUMHS, grades 7-12); schools.csv lists 9-12. The catalog covers the high school.",
+  "confidence": "high",
+  "how_found": "school site vuhs.org > High School > High School Academics (embedded published Google Doc '2026-2027 Program of Studies'); editable Doc linked from School Counseling > School Counseling Resources > 'Program of Studies 26-27', exported to PDF",
+  "issues": "Live Google Doc ('Updated automatically every 5 minutes'); PDF export taken 2026-11-14. 2025-26 saved as published-doc HTML because the editable 25-26 Doc requires sign-in. Graduation requirements (22.5 credits minimum) are in the catalog. Some course details say descriptions 'will be provided during the course registration process'. Students can also take Mount Abe and PHCC courses (separate description docs). Note: the published 25-26 VUHS doc (2PACX-1vQu60...) appears in web search results for unrelated schools - don't attribute it elsewhere.",
+  "searched": [
+    "WebSearch: \"Vergennes Union High School\" program of studies course catalog",
+    "vuhs.org home, /high-school/high-school-academics, /school-counseling, /school-counseling/school-counseling-resources, /school-counseling/class-specific-information, /high-school/proficiency-based-learning",
+    "anwsd.org home; vuhs.anwsd.org (no response)",
+    "Docs export of 1mqgb8P6... (26-27, OK) and 1CTQoWuK... (25-26, 401)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

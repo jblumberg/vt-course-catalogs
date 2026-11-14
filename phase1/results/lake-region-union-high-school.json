@@ -1,0 +1,70 @@
+{
+  "school_id": "lake-region-union-high-school",
+  "school_name": "Lake Region Union High School",
+  "school_website": "https://www.lruhs.org/o/lruhs",
+  "su_sd": "Orleans Central Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": null,
+  "su_sd_source_url": "https://www.ocsu.org/",
+  "catalog_status": "found",
+  "catalog_title": "2026-2027 Program of Studies (Lake Region Union High School)",
+  "catalog_url": "https://aptg.co/G6_J_D",
+  "direct_file_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3488/Lruhs/9426d021-9bd3-48ed-a8bf-65d8788652be/2026-2027-Program-of-Studies.pdf?disposition=inline",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Apptegy / Thrillshare",
+  "course_planner": "Naviance (Naviance Student linked from school site, used for college applications; no course catalog seen there)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/lake-region-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 78,
+      "size_mb": 1.0,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://aptg.co/G6_J_D",
+  "additional_urls": [
+    {
+      "url": "https://www.lruhs.org/o/lruhs/page/school-counseling",
+      "what": "School Counseling page; has the 'Program of Studies' link (aptg.co short link) and Naviance links"
+    },
+    {
+      "url": "https://ocsu.rubiconatlas.org/Atlas/Portal/View/Default",
+      "what": "OCSU curriculum maps (Rubicon Atlas), linked from site"
+    },
+    {
+      "url": "https://student.naviance.com/lruhs",
+      "what": "Naviance Student login"
+    },
+    {
+      "url": "https://sites.google.com/lakeregionschools.org/lrhsprogramofstudies/home",
+      "what": "WRONG SCHOOL - 'LRHS Program of Studies' Google Site (2024-25) belongs to Lake Region High School, Bridgton, MAINE (lakeregionschools.org = Lake Region Schools, Bridgton ME). Top web-search hit; do not use."
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.ocsu.org/",
+      "quote": "Copyright © 2026 Orleans Central Supervisory Union. All rights reserved."
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "OCSU site (ocsu.org) > Lake Region Union High School (lruhs.org) > School Counseling page > 'Program of Studies' link (aptg.co/G6_J_D) > 301 redirect to Thrillshare PDF '2026-2027-Program-of-Studies.pdf'",
+  "issues": "PDF metadata title '2026-2027 Prog.of Studies.docxYES-UPDATED 4-15-26.docx'. 78 pages: Part I graduation planning incl. graduation requirements (p.2) and a 2026-27 course summary (p.8), Part III course descriptions by department, Part IV North Country Career Center (NCCC) offerings. The catalog link is an Apptegy short link (aptg.co) that 301-redirects to the Thrillshare file host; the direct URL may change if the file is replaced. Beware: the top web-search hit for 'Lake Region ... program of studies' is a Google Site for Lake Region High School in Bridgton, Maine - a different school. 2025-26 catalog not found/linked (not hunted).",
+  "searched": [
+    "web search: \"Lake Region Union High School\" program of studies course catalog",
+    "https://sites.google.com/lakeregionschools.org/lrhsprogramofstudies/home (Maine school, rejected)",
+    "https://www.lakeregionschools.org/en-US (Lake Region Schools, Bridgton ME - confirms wrong school)",
+    "https://www.ocsu.org/ (SU home, school list)",
+    "https://www.lruhs.org/o/lruhs (school home, nav menu)",
+    "https://www.lruhs.org/o/lruhs/page/school-counseling",
+    "https://www.lruhs.org/o/lruhs/page/school-information",
+    "https://www.lruhs.org/o/lruhs/page/personalized-learning-plans"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

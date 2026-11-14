@@ -1,0 +1,62 @@
+{
+  "school_id": "south-burlington-high-school",
+  "school_name": "South Burlington High School",
+  "school_website": "https://sbhs.sbschools.net/",
+  "su_sd": "South Burlington School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site (sbschools.net) calls itself 'South Burlington School District'; schools.csv lists 'South Burlington Supervisory District'. Same entity: a single-district supervisory district that brands itself as a school district.",
+  "su_sd_source_url": "https://www.sbschools.net/",
+  "catalog_status": "found",
+  "catalog_title": "2026-27 Programs of Study",
+  "catalog_url": "https://docs.google.com/document/d/1XuZKi34MjbqA_qpWsngfS6GWh2DFThuGi1zVQ5reJdw/edit?usp=sharing",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "none found (Scoir linked from school site, college planning)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/south-burlington-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 43,
+      "size_mb": 4.8,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1XuZKi34MjbqA_qpWsngfS6GWh2DFThuGi1zVQ5reJdw/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://sbhs.sbschools.net/o/sbhs/page/guidanceschool-counseling",
+      "what": "Guidance/School Counseling page (no catalog link on the page body; catalog is in the site menu)"
+    },
+    {
+      "url": "https://sbhs.sbschools.net/o/sbhs/page/sb-explore-programs-online-academy-cdc-big-picture",
+      "what": "SB Explore flexible pathways (Online Academy, CDC, Big Picture)"
+    },
+    {
+      "url": "https://sbhs.sbschools.net/o/sbhs/page/proficiency-based-learning",
+      "what": "Proficiency-based learning page"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.sbschools.net/",
+      "quote": "Copyright © 2026. South Burlington School District. All rights reserved."
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "school site sbhs.sbschools.net > site menu link 'Programs of Study 2026-2027' (also 'Programs of Study 2026-27') > Google Doc; exported as PDF",
+  "issues": "Catalog is an editable-link Google Doc (two menu links with usp=drive_link and usp=sharing, same doc ID), so content can change; PDF exported 2026-11-14. Graduation requirements are proficiency-based and described in the catalog (General Information > Graduation Requirements/Academic Credits, p.4-6); no separate grad-requirements document found. Catalog also covers SB Explore flexible pathways, dual enrollment, VTVLC, and Burlington Technical Center / Center for Technology Essex. 2025-26 catalog not looked for.",
+  "searched": [
+    "https://www.sbschools.net/ (district home)",
+    "https://sbhs.sbschools.net/ (school home, menu links)",
+    "https://sbhs.sbschools.net/o/sbhs/page/guidanceschool-counseling",
+    "https://docs.google.com/document/d/1XuZKi34MjbqA_qpWsngfS6GWh2DFThuGi1zVQ5reJdw/export?format=pdf"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

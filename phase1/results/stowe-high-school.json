@@ -1,0 +1,43 @@
+{
+  "school_id": "stowe-high-school",
+  "school_name": "Stowe High School",
+  "school_website": "https://www.lamoillesouth.org/stowe-high-school",
+  "su_sd": "Lamoille South Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Exact match with schools.csv su_sd. schools.csv school_district 'Stowe Town School District' is outdated: Stowe is part of the Lamoille South Unified Union School District #90 (board 'Lamoille South Board' on the SU site). School has no standalone site; its page lives on the SU site lamoillesouth.org. Old domain stoweschools.com is now a parked domain (redirects to a /lander parking page); lssuvt.org redirects to a Google sign-in.",
+  "su_sd_source_url": "https://www.lamoillesouth.org/",
+  "catalog_status": "found",
+  "catalog_title": "Stowe High School Program of Studies 2026-2027",
+  "catalog_url": "https://drive.google.com/file/d/1zzWQcJdNg0Wy85qok7AU2UCPK0vzNOM4/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1zzWQcJdNg0Wy85qok7AU2UCPK0vzNOM4",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (linked from Squarespace SU site)",
+  "course_planner": "Naviance (mentioned in catalog's post-secondary planning section)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {"path": "catalogs/stowe-high-school/catalog_2026-27.pdf", "year": "2026-27", "pages": 42, "size_mb": 1.4, "retrieved_on": "2026-11-14"}
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/1zzWQcJdNg0Wy85qok7AU2UCPK0vzNOM4/view?usp=sharing",
+  "additional_urls": [
+    {"url": "https://www.lamoillesouth.org/stowe-high-school", "what": "Stowe High School page on the SU site; links '2026-2027 Program of Studies'"},
+    {"url": "https://www.lamoillesouth.org/portrait-of-a-graduate", "what": "LSSU Portrait of a Graduate"},
+    {"url": "https://sites.google.com/lsuu.org/lsuu-parent-pbl-hub/curriculum-by-grade-level", "what": "LSUU parent hub 'Curriculum' by grade level (not checked in detail)"}
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "WebSearch did not surface it; stoweschools.com is parked; SU site lamoillesouth.org > District Schools > Stowe High School > '2026-2027 Program of Studies' (Google Drive PDF)",
+  "issues": "Graduation requirements on p.4 of the catalog (also 'Project Anagnorisis', likely the senior project, p.5). The PDF's internal title is 'Staff copy 2026-2027 Program of Studies - Google Docs' (a printed Google Doc) but it is the file publicly linked from the school page. Course descriptions start p.13. No 2025-26 edition found/linked.",
+  "searched": [
+    "WebSearch: \"Stowe High School\" Vermont program of studies course catalog",
+    "WebSearch: Stowe High School Vermont school counseling Lamoille South Unified Union website",
+    "https://www.stoweschools.com (parked domain -> /lander)",
+    "https://www.lssuvt.org / https://lssuvt.org (proxy 502 / Google sign-in redirect), lsuuvt.org, shs.lssuvt.org, stowehighschool.org (unreachable), lssu.org (unrelated organization)",
+    "https://www.lamoillesouth.org/ (SU home, nav) and /stowe-high-school"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

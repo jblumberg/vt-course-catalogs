@@ -1,0 +1,75 @@
+{
+  "school_id": "williamstown-middle-high-school",
+  "school_name": "Williamstown Middle & High School",
+  "school_website": "https://wmhs.cvsu.org/",
+  "su_sd": "Central Vermont Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "CVSU site: 'The Central Vermont Supervisory Union (CVSU) is the administrative, planning, and educational support unit for the Echo Valley Community and Paine Mountain School Districts.' School district = Paine Mountain School District (matches list).",
+  "su_sd_source_url": "https://www.cvsu.org/school-boards/paine-mountain-school-district",
+  "catalog_status": "not_found",
+  "catalog_title": null,
+  "catalog_url": null,
+  "direct_file_url": null,
+  "linked_from_official_site": false,
+  "format": null,
+  "web_host": "Finalsite (school site); Google Sites (counseling, sign-in required)",
+  "course_planner": "none found",
+  "school_year": "unknown",
+  "coverage": "unknown",
+  "includes_descriptions": "none",
+  "local_copies": [
+    {
+      "path": "catalogs/williamstown-middle-high-school/grad_requirements_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 35,
+      "size_mb": 1.4,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1fnMMyxZAgNkKnebfa2VdLxpWzpbRkL6UKdT6nhHrhGw/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://sites.google.com/cvsu.org/wmhsschoolcounselingdepartment/home?authuser=0",
+      "what": "School Counseling Google Site linked from WMHS menu; redirects to Google sign-in (cvsu.org accounts only) - most likely home of any course guide"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1fnMMyxZAgNkKnebfa2VdLxpWzpbRkL6UKdT6nhHrhGw/edit?usp=sharing",
+      "what": "2025-26 WMHS Student & Family Handbook (graduation requirements: credits by subject + PBGRs; no course descriptions). Saved as grad_requirements_2025-26.pdf"
+    },
+    {
+      "url": "https://wmhs.cvsu.org/academics",
+      "what": "Academics menu: individual teacher pages (some list course names, e.g. Economics, Law and Order, Psychology, Algebra 1), not a catalog"
+    },
+    {
+      "url": "https://www.cvsu.org/school-boards/act-170-cesa",
+      "what": "CVSU Act 170 merger study / CESA page"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://wmhs.cvsu.org/site-map",
+      "quote": "Site map lists Academics (teacher pages), Resources, Our School and an external 'School Counseling' Google Site; no program of studies / course catalog entry"
+    },
+    {
+      "url": "https://sites.google.com/cvsu.org/wmhsschoolcounselingdepartment/home",
+      "quote": "Redirects to 'Google Drive: Sign-in' (accounts.google.com)"
+    }
+  ],
+  "school_status_notes": "Paine Mountain SD (with Echo Valley CSD) is in Act 170 merger study 'Group 20'; a Group 20 Merger Committee meeting was posted for Nov 13, 2026 at Northfield Middle High School.",
+  "confidence": "medium",
+  "how_found": "Checked wmhs.cvsu.org (home, Academics, Resources, Our School > New and Returning Families, Site Map) and www.cvsu.org; only a sign-in-only counseling Google Site and the student handbook were found",
+  "issues": "No public course catalog/program of studies found. The School Counseling site (Google Sites, cvsu.org domain) requires sign-in, so a course guide may exist there but cannot be verified - could be no_public_catalog. Teacher pages under Academics list some course names only. Student handbook is 2025-26 (no 2026-27 version linked) and contains graduation requirements (English 4, Science 3, Math 3, Global Studies 3, Fine Arts 1, Health 0.5, PE 1.5, Electives 5.5 + PBGRs). schools.csv-era domain cvsuvt.org (and guesses painemountain.org / pmsdvt.org) are unreachable; live domain is cvsu.org. A search hit for a '2026~27' Highlander course site (sites.google.com/wmtps.org) is NOT this school (different domain, sign-in only).",
+  "searched": [
+    "WebSearch: Williamstown Middle High School Vermont program of studies course catalog",
+    "WebSearch: Williamstown Middle High School Vermont Central Vermont Supervisory Union website course offerings",
+    "WebSearch: \"Williamstown Middle High School\" OR \"WMHS\" Williamstown Vermont \"program of studies\" OR \"course catalog\" OR \"course descriptions\" cvsu.org",
+    "WebSearch: site:cvsu.org course catalog OR \"program of studies\" OR \"course offerings\" (site filter ignored; no results)",
+    "https://www.cvsuvt.org/, https://cvsuvt.org/, https://www.painemountain.org/, https://www.pmsdvt.org/ (unreachable)",
+    "www.cvsu.org home, /information-for-families/registration-information, /school-boards/paine-mountain-school-district, /school-boards/act-170-cesa",
+    "wmhs.cvsu.org home, /academics, /site-map, /resources, /our-school/new-and-returning-families, Group 20 merger post",
+    "sites.google.com/cvsu.org/wmhsschoolcounselingdepartment/home (sign-in required)",
+    "sites.google.com/wmtps.org/highlanderstudies/home (search hit; sign-in, not this school)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

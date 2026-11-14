@@ -1,0 +1,64 @@
+{
+  "school_id": "blue-mountain-union-school",
+  "school_name": "Blue Mountain Union School",
+  "school_website": "https://www.bmuschool.org/",
+  "su_sd": "Orange East Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School site About Us: 'Our school district is part of Orange East Supervisory Union (OESU)'. OESU site footer: 'Orange East Supervisory Union'. Same name as schools.csv.",
+  "su_sd_source_url": "https://www.oesu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Blue Mountain Union School 2026 - 2027 Program of Studies",
+  "catalog_url": "https://www.bmuschool.org/fs/resource-manager/view/0c15172a-650b-4971-aebc-4f235f536e45",
+  "direct_file_url": "https://resources.finalsite.net/images/v1793356076/oesuorg/a93bqc7qvdnxv2w4lvgq/2026-2027ProgramofStudies.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Finalsite",
+  "course_planner": "none found (Infinite Campus student portal and Pathful Explore career tool linked; no public course catalog in either)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/blue-mountain-union-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 25,
+      "size_mb": 0.7,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://www.bmuschool.org/fs/resource-manager/view/0c15172a-650b-4971-aebc-4f235f536e45",
+  "additional_urls": [
+    {
+      "url": "https://www.bmuschool.org/forms",
+      "what": "Handbooks & Forms page that links the Program of Studies and Student Handbook"
+    },
+    {
+      "url": "https://sites.google.com/oesu.org/bmusschoolcounseling/meet-the-school-counseling-dept",
+      "what": "BMUS School Counseling Google Site (grade pages, RiverBend overview; no catalog)"
+    },
+    {
+      "url": "https://www.oesu.org/boards/merger-committee-10",
+      "what": "OESU 'Merger Committee #10' page (meetings folder on Google Drive)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.bmuschool.org/about-us",
+      "quote": "Our school district is part of Orange East Supervisory Union (OESU)."
+    }
+  ],
+  "school_status_notes": "PK-12 school in one building (Groton, Ryegate, Wells River). OESU site has a 'Merger Committee #10' board page, so a district merger appears to be under study; not investigated further.",
+  "confidence": "high",
+  "how_found": "bmuschool.org > Handbooks & Forms > 'Program of Studies' (Finalsite resource-manager link redirecting to the PDF)",
+  "issues": "Graduation requirements (26 credits) are inside the catalog on p.12, not a separate file, so grad_requirements_url points at the catalog. PDF created 2026-10-29 (Word export). The p.4 cross-reference 'please see page 10' for required classes is stale (requirements are on p.12). Catalog also covers RBCTC, SJA and Lyndon Institute CTE options. No 2025-26 copy found (not searched hard). Web search mostly returns bmsd.org (Blue Mountain School District, PA) documents - wrong school, ignore.",
+  "searched": [
+    "web search: \"Blue Mountain Union School\" program of studies course catalog (hits were Blue Mountain SD, PA - bmsd.org)",
+    "web search: Blue Mountain Union School Wells River Vermont high school guidance course",
+    "web search: \"Blue Mountain\" Wells River \"program of studies\" OR \"course catalog\" bmuschool OR oesu",
+    "https://www.bmuschool.org/ (home, departments, information, resources, about-us, utility-link, forms)",
+    "https://sites.google.com/oesu.org/bmusschoolcounseling/ (meet-the-dept, resources, freshmen-9, sophomores-10, juniors-11, seniors-12, flexible-pathways, career-planning, bucks-bulletin)",
+    "https://www.oesu.org/ (home, curriculum-instruction-assessment and linked curriculum Google Doc, student-services, families, merger-committee-10, act170)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,77 @@
+{
+  "school_id": "mt-anthony-senior-union-high-school",
+  "school_name": "Mt. Anthony Senior Union High School",
+  "school_website": "https://mauhs.svsu.org/",
+  "su_sd": "Southwest Vermont Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School site styles itself 'Mount Anthony Union High School' (MAUHS).",
+  "su_sd_source_url": "https://www.svsu.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "2025-2026 Program of Studies Guide",
+  "catalog_url": "https://mauhs.svsu.org/apps/pages/index.jsp?uREC_ID=1568518&type=d&pREC_ID=1790674",
+  "direct_file_url": "https://4.files.edl.io/ff1c/01/28/26/152302-9696bdf8-d44c-427b-967f-fc46d1c59306.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Edlio",
+  "course_planner": "Naviance",
+  "school_year": "2025-26",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/mt-anthony-senior-union-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 56,
+      "size_mb": 0.8,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://mauhs.svsu.org/apps/pages/index.jsp?uREC_ID=1568518&type=d&pREC_ID=1790674",
+  "additional_urls": [
+    {
+      "url": "https://4.files.edl.io/086a/10/09/26/120525-7791aeab-6cd9-4f98-96af-6de4363843c6.pdf",
+      "what": "2026-2027 School Profile (Counseling > MAUHS School Profile); not a catalog"
+    },
+    {
+      "url": "https://4.files.edl.io/535b/10/22/24/113748-a44ecaa0-1a3e-4821-8186-607153bce578.pdf",
+      "what": "Advanced Placement Courses at MAUHS (2024 upload)"
+    },
+    {
+      "url": "https://4.files.edl.io/3cc4/08/18/25/194021-65184dcb-d8cf-4415-8b03-d959b8906b74.pdf",
+      "what": "MAUHS Portrait of a Graduate"
+    },
+    {
+      "url": "https://4.files.edl.io/a1ea/10/06/26/162421-5f9c9a1d-818a-47f1-9c13-7108dc74f3a5.pdf",
+      "what": "25-26 MAUHS Guide to Grade Reporting"
+    },
+    {
+      "url": "https://student.naviance.com/mauhs",
+      "what": "Naviance login (linked from school site; sign-in required)"
+    },
+    {
+      "url": "https://mauhs.org/",
+      "what": "Moodle site with a few CS course pages; not the official school website"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://mauhs.svsu.org/apps/pages/index.jsp?uREC_ID=1568518&type=d&pREC_ID=1790674",
+      "quote": "Counseling page links 'POS 25 26 with updated cover' (only Program of Studies linked, checked 2026-11-14)"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "medium",
+  "how_found": "mauhs.svsu.org > Counseling > 'POS 25 26 with updated cover' (Edlio-hosted PDF)",
+  "issues": "Only the 2025-26 Program of Studies is linked, even though 2026-27 is underway (the Counseling page does have a 2026-27 School Profile). PDF is a Word export created 2025-02-12; Edlio upload path dated 01/28/26 ('with updated cover'). 56 pages, full descriptions by department (Art, Music, English, Foreign Languages, Global Citizenship, Health, PE, Math, Science, Technology), plus graduation requirements and policies. Graduation requirements also appear as text on the Counseling page itself. CDC (Career Development Center) courses are in a separate CDC Program of Studies, not collected. Naviance is used (sign-in). Note mauhs.org is a Moodle, not the official site.",
+  "searched": [
+    "https://mauhs.svsu.org/ (homepage nav)",
+    "https://mauhs.svsu.org Counseling page and subpages: College and Career, Additional Resources, Alumni, School Profile, AP Course Information, Portrait of a Graduate, Grade Reporting Guide",
+    "https://www.svsu.org/ (SU home) and SU Curriculum page",
+    "https://mauhs.org/ (Moodle)",
+    "WebSearch: Mount Anthony Union High School program of studies 2026-2027",
+    "WebSearch: MAUHS \"Program of Studies\" 2026-2027 site:svsu.org OR site:files.edl.io",
+    "WebSearch: \"Mount Anthony Union High School\" Bennington course descriptions program of studies guide"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

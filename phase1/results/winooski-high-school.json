@@ -1,0 +1,65 @@
+{
+  "school_id": "winooski-high-school",
+  "school_name": "Winooski High School",
+  "school_website": "https://www.wsdvt.org/wmhs/",
+  "su_sd": "Winooski School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site title 'Winooski School District'; schools.csv 'Winooski Supervisory District' (single-district SD) - same entity. One website serves district and schools.",
+  "su_sd_source_url": "https://www.wsdvt.org/",
+  "catalog_status": "found",
+  "catalog_title": "Winooski High School 26-27 Program of Studies",
+  "catalog_url": "https://www.wsdvt.org/wp-content/uploads/2026/02/WHS-26-27-Program-of-Studies-updated.pdf",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": null,
+  "course_planner": "none found (SCOIR linked on counseling page for college planning)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/winooski-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 31,
+      "size_mb": 1.09,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://www.wsdvt.org/wmhs/guidance/",
+  "additional_urls": [
+    {
+      "url": "https://www.wsdvt.org/wmhs/guidance/",
+      "what": "School Counseling page: links '2026-2027 Program of Studies'; lists graduation requirements, GXs/graduation proficiencies"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1lKUaNK-yhNM9DHU0an6mYPB_iL2D8N4-kBJZ_7Dciyk/edit",
+      "what": "PBGR Resources / Proficiency Based Learning and Graduation Google Doc (not downloaded)"
+    },
+    {
+      "url": "https://www.wsdvt.org/wp-content/uploads/2026/10/26-27-Winooski-High-School-Profile-Updated-9.1.26-1-1.pdf",
+      "what": "26-27 school profile (counseling page says it shows which courses offer graduation proficiencies)"
+    },
+    {
+      "url": "https://www.wsdvt.org/wp-content/uploads/2024/09/24-25-Program-of-Studies-Official-2.pdf",
+      "what": "24-25 Program of Studies (found via site media search; not downloaded)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "wsdvt.org > Middle & High Schools > School Counseling (wmhs/guidance) > '2026-2027 Program of Studies' link; first located via the site's WordPress media search",
+  "issues": "Proficiency-based school: courses are tagged with Graduate Expectations (GX) and Graduation Proficiencies (GP) and course codes rather than credits; graduation = minimum course counts plus GX/GP proficiency. Graduation requirements are in POS p.4-5 and on the counseling page (no separate file). No 2025-26 POS found on the site (media library has 23-24, 24-25, 26-27). Web search did not surface the POS at all.",
+  "searched": [
+    "WebSearch: \"Winooski High School\" program of studies course catalog",
+    "https://www.wsdvt.org/",
+    "https://www.wsdvt.org/wmhs/",
+    "https://www.wsdvt.org/wmhs/guidance/",
+    "https://www.wsdvt.org/curriculum/",
+    "https://www.wsdvt.org/ql/",
+    "https://www.wsdvt.org/proficiency-based-education/",
+    "WordPress site search and media search on wsdvt.org (program of studies, course guide, course offerings, catalog, course selection, profile)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

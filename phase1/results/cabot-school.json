@@ -4,30 +4,62 @@
   "school_website": "https://cabot.ccsuvt.net/",
   "su_sd": "Caledonia Central Supervisory Union",
   "su_sd_matches_list": true,
-  "su_sd_source_url": "https://cabot.ccsuvt.net/",
-  "catalog_status": "partial",
+  "su_sd_note": null,
+  "su_sd_source_url": "https://www.ccsuvt.net/",
+  "catalog_status": "outdated_only",
   "catalog_title": "Cabot School Course Catalog 2025-2026 // Online Version",
-  "catalog_url": "https://files.smartsites.parentsquare.com/8208/cabot_school_course_catalog_2025-2026____online_version.pdf",
+  "catalog_url": "https://cabot.ccsuvt.net/coursecatalog",
+  "direct_file_url": "https://files.smartsites.parentsquare.com/8208/cabot_school_course_catalog_2025-2026____online_version.pdf",
+  "linked_from_official_site": true,
   "format": "pdf",
-  "platform": "ParentSquare Smart Sites",
+  "web_host": "ParentSquare Smart Sites",
+  "course_planner": "none found",
   "school_year": "2025-26",
-  "additional_urls": [
-    {"url": "https://cabot.ccsuvt.net/coursecatalog", "what": "Stable site shortcut ('2025-2026 Course Catalog' menu link); 302-redirects to the catalog PDF"},
-    {"url": "https://docs.google.com/document/d/1kAid3kemJFUEur6KxLO1htfNm3TcN0ewvNobyl4T0dI/edit?usp=sharing", "what": "Cabot HS Graduation Handbook (Google Doc, linked from Academics menu as /342901_2); export returns 401 / requires Google sign-in, not downloaded"},
-    {"url": "https://cabot.ccsuvt.net/cabot-school-options", "what": "School board page on future high school options, incl. a cost comparison of closing Cabot HS in 2027/28"}
+  "coverage": "single_semester",
+  "includes_descriptions": "some",
+  "local_copies": [
+    {
+      "path": "catalogs/cabot-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 14,
+      "size_mb": 2.1,
+      "retrieved_on": "2026-11-14"
+    }
   ],
-  "local_copy": "catalogs/cabot-school/catalog_2025-26.pdf",
-  "pages_or_size": "14 pages (slide format), 2.1 MB",
-  "includes_descriptions": true,
+  "grad_requirements_url": "https://docs.google.com/document/d/1kAid3kemJFUEur6KxLO1htfNm3TcN0ewvNobyl4T0dI/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://cabot.ccsuvt.net/342901_2",
+      "what": "Academics menu link 'Cabot HS Graduation Handbook' -> Google Doc above; export returns 401 (sign-in required), not downloaded"
+    },
+    {
+      "url": "https://cabot.ccsuvt.net/cabot-school-options",
+      "what": "School board page on future high school options, incl. cost comparison of closing Cabot HS in 2027/28"
+    },
+    {
+      "url": "https://legislature.vermont.gov/Documents/2016/WorkGroups/Senate Education/Vermonters for Schools and Community/W~Amy Shollenberger~Cabot School Academics~2-3-2015.pdf",
+      "what": "2015 legislative testimony on Cabot academics (outdated background only)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://cabot.ccsuvt.net/academics",
+      "quote": "Academics menu still links '2025-2026 Course Catalog' (/coursecatalog) as of 2026-11-14"
+    }
+  ],
+  "school_status_notes": "The district is weighing closing Cabot High School (grades 9-12) in 2027/28; see cabot-school-options page.",
   "confidence": "medium",
-  "how_found": "school site (cabotschool.org = cabot.ccsuvt.net) > Academics menu > 2025-2026 Course Catalog (/coursecatalog redirects to PDF)",
-  "issues": "Partial: despite its title the PDF covers only Semester II of 2025-26 (created 2026-02-13). It has a block schedule grid plus full descriptions (driving questions, 'GX' graduate-expectation tags) for ~10 interdisciplinary 'Studio' courses (e.g. American Military History, Chemistry of Color, Survival, Algebra II, American Horror Story, World Religions & Belief, A Bridge Too Far, Interpretations!). Block courses (AP Biology, AP Composition, PE/Health, Spanish, Business Algebra I, art/music/design studios, Crew) appear only as titles in the schedule. No Semester I or 2026-27 catalog found, even though the 2026-27 year is underway as of check date; the site still links the 2025-26 file. Studio offerings appear to rotate by semester, so the catalog is a semester offering list, not a stable program of studies. The Graduation Handbook (Google Doc) may hold graduation requirements but needs sign-in. Note: the district is weighing closing Cabot HS in 2027/28 (see cabot-school-options page). A 2015 legislature testimony PDF on Cabot academics turned up in search but is outdated.",
+  "how_found": "school site (cabot.ccsuvt.net, also cabotschool.org) > Academics menu > 2025-2026 Course Catalog (/coursecatalog 302-redirects to ParentSquare PDF)",
+  "issues": "Only a 2025-26 catalog is public; no 2026-27 or Semester I catalog found on re-check 2026-11-14 (site still links the 2025-26 file). Despite its title the PDF (created 2026-02-13, 14 slide-format pages) covers only Semester II of 2025-26: a block schedule grid plus full descriptions (driving questions, 'GX' graduate-expectation tags) for ~10 interdisciplinary rotating 'Studio' courses (e.g. American Military History, Chemistry of Color, Survival, Algebra II, World Religions & Belief). Block courses (AP Biology, AP Composition, PE/Health, Spanish, Business Algebra I, art/music/design studios, Crew) appear only as titles. Studio offerings rotate by semester, so this is a semester offering list rather than a stable program of studies. Graduation Handbook Google Doc requires sign-in.",
   "searched": [
+    "cabot.ccsuvt.net home, /academics, /site_map, /ourschool, /coursecatalog, /342901_2, /cabot-school-options (pilot + re-check 2026-11-14)",
+    "cabotschool.org/middle_grades/grades_7-8 (404)",
+    "www.ccsuvt.net home (SU name)",
     "WebSearch: \"Cabot School\" Vermont program of studies course catalog",
     "WebSearch: Cabot School Vermont course catalog 2026-2027 OR \"semester one\" studio",
-    "WebSearch: site:files.smartsites.parentsquare.com/8208 course catalog",
-    "cabot.ccsuvt.net home, /academics, /site_map, /ourschool, /coursecatalog, /342901_2 (Graduation Handbook), /cabot-school-options",
-    "cabotschool.org/middle_grades/grades_7-8 (from search result; now 404)"
+    "WebSearch: \"Cabot School\" Vermont course catalog 2026-2027 (re-check)",
+    "WebSearch: site:files.smartsites.parentsquare.com/8208 course catalog"
   ],
-  "checked_on": "2026-11-14"
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
 }

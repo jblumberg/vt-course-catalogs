@@ -1,0 +1,55 @@
+{
+  "school_id": "milton-senior-high-school",
+  "school_name": "Milton Senior High School",
+  "school_website": "https://mhs.mtsd-vt.org/o/mhs",
+  "su_sd": "Milton Town School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site and POS use 'Milton Town School District' (MTSD); schools.csv lists 'Milton Supervisory District' / 'Milton School District' - same single-district supervisory district.",
+  "su_sd_source_url": "https://www.mtsd-vt.org/",
+  "catalog_status": "found",
+  "catalog_title": "Milton High School Program of Studies 2026-2027",
+  "catalog_url": "https://5il.co/3tbq7",
+  "direct_file_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5447/Mhs/9a238557-8096-4edc-8539-39f10fd4544d/Program_of_Studies_2026-27_-_Website.pdf?disposition=inline",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Thrillshare/Apptegy (5il.co short link)",
+  "course_planner": "Naviance (college/career planning per POS; no course-catalog use seen); PowerSchool SIS",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/milton-senior-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 76,
+      "size_mb": 7.7,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://mhs.mtsd-vt.org/o/mhs/page/graduation-requirement-pbgr",
+  "additional_urls": [
+    {
+      "url": "https://mhs.mtsd-vt.org/o/mhs/page/graduation-requirement-pbgr",
+      "what": "Graduation Requirement (PBGR) web page; credit requirements also in POS p.9"
+    },
+    {
+      "url": "https://aptg.co/Q-gt22",
+      "what": "School Profile (About Us > Reports)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": "MTSD site has a 'Merger Group 19' (merger study) page; no change to MHS status seen.",
+  "confidence": "high",
+  "how_found": "mhs.mtsd-vt.org > Academics > School Counselors > Program of Studies (5il.co/3tbq7 -> Thrillshare PDF)",
+  "issues": "Menu link item is dated 2025-05-28 but the PDF it now serves is the 2026-27 edition (file 'Program_of_Studies_2026-27_-_Website.pdf'), so the short link appears to be repointed each year; no 2025-26 copy found. The MHS 'Catalog' menu page is the library catalog (Destiny), not courses. Search results for sites.google.com/miltonps.org 'MHS Program of Studies' are Milton High School in Milton, MA (principal Karen Cahill) - NOT this school.",
+  "searched": [
+    "WebSearch: Milton High School Vermont program of studies course catalog (results dominated by Milton MA/WI/GA and Milton Academy)",
+    "https://sites.google.com/miltonps.org/2025-2026-mhs-program-of-study/home (checked: Milton, MA - wrong school)",
+    "https://www.mtsd-vt.org/ (district home)",
+    "https://mhs.mtsd-vt.org/o/mhs (home + menu JSON)",
+    "https://mhs.mtsd-vt.org/o/mhs/page/catalog (library catalog)",
+    "https://mhs.mtsd-vt.org/o/mhs/page/graduation-requirement-pbgr"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

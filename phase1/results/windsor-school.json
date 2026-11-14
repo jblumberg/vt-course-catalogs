@@ -1,0 +1,82 @@
+{
+  "school_id": "windsor-school",
+  "school_name": "Windsor School (high school grades: Windsor High School)",
+  "school_website": "https://whs.wsesu.net/en-US",
+  "su_sd": "Windsor Southeast Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "SU site title 'Windsor Southeast Supervisory Union' (wsesu.net). District is Mount Ascutney School District #86 ('Mount Ascutney School Board' on SU site); the catalog itself still says 'Windsor School District'. Beware: wsesu.org is the unrelated Windham Southeast SU (Brattleboro).",
+  "su_sd_source_url": "https://www.wsesu.net/en-US",
+  "catalog_status": "found",
+  "catalog_title": "Windsor High School Program of Studies 2026/2027",
+  "catalog_url": "https://docs.google.com/document/d/1HpCjeLGCstD4bnAMbds7QtwNCFS8mMYvGuVDnM8qg2E/edit?usp=sharing",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "none found (PowerSchool used for SIS/registration; no course catalog seen there)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/windsor-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 63,
+      "size_mb": 2.0,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/windsor-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 64,
+      "size_mb": 2.0,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/windsor-school/grad_requirements_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 2,
+      "size_mb": 0.1,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/120eCIpmvtHjzvXi1mBVW6IgXt9DSkLw62aOsl0aw7Go/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/1_n2tH1elK-zRT0tu2He-TxFYuGSQ1P0Cvngl-ZairE8/edit?usp=sharing",
+      "what": "2025-26 Program of Studies - still the one linked as 'Program of Studies' in the WHS website menu"
+    },
+    {
+      "url": "https://sites.google.com/wsesu.net/whsstudentservices",
+      "what": "WHS Student Services (counseling) Google Site; links '26-27 Program of Studies', 'Graduation Requirements' (Grad Requirements 26-27), School Profile 24-25, 26-27 calendar"
+    },
+    {
+      "url": "https://drive.google.com/file/d/16UIaZw2v8KQECnKdeRaGZZEtC_bA40nd/view",
+      "what": "School Profile 2024-25 (not downloaded)"
+    },
+    {
+      "url": "https://www.wsesu.net/pages/bc50d47c-da1e-4c21-9768-3251c524d0ba",
+      "what": "SU site entry 'Windsor High School (9-12)' -> whs.wsesu.net"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.wsesu.net/en-US",
+      "quote": "Home - Windsor Southeast Supervisory Union"
+    }
+  ],
+  "school_status_notes": "NCES lists one PK-12 'Windsor School'; the SU website presents it as 'Windsor School (K-8)' and 'Windsor High School (9-12)' with separate sites. SU site also has an Act 170 page (act170.wsesu.net) and a merger tool (mergertool.wsesu.net).",
+  "confidence": "medium",
+  "how_found": "SU site wsesu.net > Windsor High School (9-12) > whs.wsesu.net > 'School Counselor' menu link > WHS Student Services Google Site > '26-27 Program of Studies' Google Doc (exported as PDF). The WHS site menu 'Program of Studies' still points to the 2025-26 doc.",
+  "issues": "The 2026-27 doc's metadata title is 'Program of Studies 2026 - 2027 In Progress'; the cover says 2026/2027 but the table-of-contents header and several internal labels still say 2025/2026, so it may be a draft being edited from the 2025-26 version (text diff vs 2025-26 shows ~700 changed lines, so it has been revised). Both years saved. The main WHS site menu still links the 2025-26 doc; only the counseling Google Site links the 2026-27 one. Grad requirements doc (2 pages, classes of 2027-2030, 24 credits) is linked from the counseling site but does not name the school on its face. Both catalogs are editable-link Google Docs, content may change.",
+  "searched": [
+    "web search: Windsor High School Vermont Mount Ascutney School District program of studies (results were other schools: Windsor CA, Craftsbury, Mount Abraham)",
+    "https://www.wsesu.org/ (Windham Southeast SU - wrong SU)",
+    "https://www.wsesu.net/en-US (Windsor Southeast SU home and menu)",
+    "https://whs.wsesu.net/en-US (WHS home and menu)",
+    "https://sites.google.com/wsesu.net/whsstudentservices (counseling site)",
+    "Google Doc exports of 1_n2tH1e... (2025-26), 1HpCjeLG... (2026-27), 120eCIpm... (grad requirements)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

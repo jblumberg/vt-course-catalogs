@@ -1,0 +1,74 @@
+{
+  "school_id": "enosburg-falls-middle-high-school",
+  "school_name": "Enosburg Falls Middle/High School",
+  "school_website": "https://efmhs.fnesu.org/o/efmshs",
+  "su_sd": "Franklin Northeast Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School site header/footer links to 'Franklin Northeast Supervisory Union' (fnesu.org); operating district is Enosburgh-Richford UUSD (FNESU staff portal lists 'Enosburg-Richford UUSD').",
+  "su_sd_source_url": "https://www.fnesu.org/",
+  "catalog_status": "not_found",
+  "catalog_title": null,
+  "catalog_url": null,
+  "direct_file_url": null,
+  "linked_from_official_site": false,
+  "format": null,
+  "web_host": "Apptegy / Thrillshare (school site)",
+  "course_planner": "none found (PowerSchool used for student information)",
+  "school_year": "unknown",
+  "coverage": "unknown",
+  "includes_descriptions": "none",
+  "local_copies": [],
+  "grad_requirements_url": "https://sites.google.com/fnesu.org/fnesu-teaching-and-learning/home/portrait-of-a-learner",
+  "additional_urls": [
+    {
+      "url": "https://efmhs.fnesu.org/o/efmshs/page/academics-efhs",
+      "what": "EFMHS Academics page: has a 'Program of Studies (Coming Soon!)' button with an empty link"
+    },
+    {
+      "url": "https://efmhs.fnesu.org/o/efmshs/page/counseling",
+      "what": "Counseling page: grade-level pages, School Profile (Google Drive, sign-in required), Registration Forms (scanned enrollment/student-info form, not a course list)"
+    },
+    {
+      "url": "https://sites.google.com/fnesu.org/fnesu-teaching-and-learning/home/curriculum",
+      "what": "FNESU Academics curriculum page: High School section links only a 'Richford High School Program of Studies' (sister school, not Enosburg)"
+    },
+    {
+      "url": "https://sites.google.com/fnesu.org/flexiblepathways/home",
+      "what": "FNESU Flexible Pathways site (no course catalog)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://efmhs.fnesu.org/o/efmshs/page/academics-efhs",
+      "quote": "Program of Studies (Coming Soon!)"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "medium",
+  "how_found": "efmhs.fnesu.org > EFMHS Academics > 'Program of Studies (Coming Soon!)' button (no link)",
+  "issues": "As of 2026-11-14 the school's Academics page shows a 'Program of Studies (Coming Soon!)' button with an empty link; no current or older EFMHS program of studies was found on the school site, the FNESU site, the FNESU Academics/Curriculum Google Site, or via web search. The FNESU curriculum site links a Richford High School Program of Studies only (same SU, different school) — do not use for Enosburg. Graduation requirements are described as FNESU proficiency-based 'Portrait of a Learner' requirements (9th-grade page links the Portrait of a Learner page; it explains the model but is not a credit table). School Profile on Google Drive requires sign-in. The school's former domain ehornets.org no longer resolves; Wayback Machine was unreachable from this environment so older archived catalogs were not checked. Worth re-checking later or asking the counseling office.",
+  "searched": [
+    "WebSearch: \"Enosburg Falls\" high school program of studies course catalog",
+    "WebSearch: Enosburg Falls Middle High School Vermont course guide OR \"program of studies\" fnesu",
+    "WebSearch: \"Enosburg\" high school \"program of studies\" OR \"course catalog\" OR \"course guide\" Vermont pdf",
+    "WebSearch: site:fnesu.org program of studies (no fnesu.org results)",
+    "WebSearch: ehornets.org program of studies Enosburg",
+    "https://www.fnesu.org/ (home and menus)",
+    "https://efmhs.fnesu.org/o/efmshs (home)",
+    "https://efmhs.fnesu.org/o/efmshs/page/academics-efhs",
+    "https://efmhs.fnesu.org/o/efmshs/page/counseling",
+    "https://efmhs.fnesu.org/o/efmshs/page/students",
+    "https://efmhs.fnesu.org/o/efmshs/page/efhs-families",
+    "https://efmhs.fnesu.org/o/efmshs/page/9th-grade-page, sophomore-page, junior-page, senior-page, dual-enrollment-and-early-college",
+    "https://efmhs.fnesu.org/o/efmshs/documents (JS-rendered; no listing in HTML)",
+    "Counseling 'Registration Forms' Drive PDF (11-page scanned student information form; not a catalog)",
+    "Counseling 'School Profile' Drive file (Google sign-in required)",
+    "https://sites.google.com/fnesu.org/fnesu-teaching-and-learning/home, /curriculum, /portrait-of-a-learner",
+    "https://sites.google.com/fnesu.org/fnesu-curriculum-website/home",
+    "https://sites.google.com/fnesu.org/flexiblepathways/home",
+    "http://ehornets.org/ (old school domain; www.enosburgk12.net redirects there; DNS does not resolve)",
+    "web.archive.org CDX for ehornets.org and efmhs.fnesu.org (connection reset; not checked)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": null
+}

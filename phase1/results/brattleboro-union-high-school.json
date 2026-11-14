@@ -1,0 +1,79 @@
+{
+  "school_id": "brattleboro-union-high-school",
+  "school_name": "Brattleboro Union High School",
+  "school_website": "https://buhs.wsesdvt.org/",
+  "su_sd": "Windham Southeast Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "SU site (wsesu.org) header: 'Windham South East Supervisory Union' / 'Windham Southeast Supervisory Union'; it also hosts the member district 'Windham Southeast School District' board pages. School site uses the wsesdvt.org domain; SU site and the counseling Google Site use wsesu.org.",
+  "su_sd_source_url": "https://wsesu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Brattleboro Union High School Program of Studies 2026-2027",
+  "catalog_url": "https://buhs.wsesdvt.org/buhs-program-of-studies-2026-2027.html",
+  "direct_file_url": "https://docs.google.com/document/d/1sv_DyRSRvDirLKNOmIqSqsY6VTEuYTEwlBcBA_HMi6I/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Weebly (school site) embedding Google Docs",
+  "course_planner": "Naviance (post-secondary planning, transcripts; course catalog not in it as far as public pages show)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/brattleboro-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 66,
+      "size_mb": 1.7,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/brattleboro-union-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 84,
+      "size_mb": 2.1,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1sv_DyRSRvDirLKNOmIqSqsY6VTEuYTEwlBcBA_HMi6I/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vT0dsLnMyyqa41zxdoA-zunNuBzGkyvVVSpeQD0mA5PoA8Qu3b8X0-thOsE_4z-fzdi6eNemvjGkUAa/pub?embedded=true",
+      "what": "Published (embedded) version of the 2026-27 Program of Studies shown in an iframe on the catalog page"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1p-qhpmJ3gQVl-OZA5eMJDAlW83OfWr-EGPbXT3TJ6ic/edit?tab=t.0",
+      "what": "Counseling Google Site link labelled '2026- 27 Program of Studies' - actually opens the 2025-2026 Program of Studies (84 pp); saved as catalog_2025-26.pdf"
+    },
+    {
+      "url": "https://sites.google.com/wsesu.org/counselinghealthservices/home",
+      "what": "BUHS Counseling & Health Services Google Site (Course Request Documents page)"
+    },
+    {
+      "url": "https://buhs.wsesdvt.org/wrcc-program-of-studies-2026-2027.html",
+      "what": "Windham Regional Career Center Program of Studies 2026-2027 (CTE, out of scope)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://buhs.wsesdvt.org/buhs-program-of-studies-2026-2027.html",
+      "quote": "Below use the scroll bar to the right to search our Program of Studies. To open a separate window, click on the Google doc link."
+    },
+    {
+      "url": "https://wsesu.org/",
+      "quote": "WELCOME TO WINDHAM SOUTHEAST SUPERVISORY UNION OF VERMONT"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "school site buhs.wsesdvt.org > Academics menu > BUHS Program of Studies 2026-2027 (page embeds a published Google Doc and links the editable Doc, exported to PDF)",
+  "issues": "Live Google Doc ('Updated automatically every 5 minutes') - content can change; PDF export taken 2026-11-14. Graduation requirements (96 credits + 40 hrs community service + transferable skills) are inside the catalog (p.8), no separate doc found. The counseling Google Site's link labelled '2026-27 Program of Studies' actually points to the 2025-26 doc (stale link). The 2026-27 book is notably shorter than 2025-26 (66 vs 84 pp). WRCC (career center) has its own Program of Studies, not downloaded (CTE out of scope). Search-engine summaries pointed to a nonexistent /academics.html (404).",
+  "searched": [
+    "WebSearch: \"Brattleboro Union High School\" program of studies 2026-2027",
+    "buhs.wsesdvt.org/academics.html (404, from search result)",
+    "buhs.wsesdvt.org home, /academics-at-buhs.html, /buhs-program-of-studies-2026-2027.html",
+    "wsesu.org home (SU name)",
+    "sites.google.com/wsesu.org/counselinghealthservices/home",
+    "Google Docs export of 1sv_DyRSRv... (2026-27) and 1p-qhpmJ3... (labelled 2026-27, actually 2025-26)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

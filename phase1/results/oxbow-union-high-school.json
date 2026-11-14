@@ -1,0 +1,67 @@
+{
+  "school_id": "oxbow-union-high-school",
+  "school_name": "Oxbow Union High School (Oxbow High School)",
+  "school_website": "https://www.oxbowhighschool.org/",
+  "su_sd": "Orange East Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "School brands itself 'Oxbow High School'; OESU board list names the 'Oxbow Unified Union School District Board'. School site is a Finalsite site under the oesuorg account.",
+  "su_sd_source_url": "https://www.oesu.org/",
+  "catalog_status": "found",
+  "catalog_title": "OHS 2026-2027 Program of Studies (link text; document itself not viewable by automated client)",
+  "catalog_url": "https://www.canva.com/design/DAHXv4VI9-Y/q7n2bAkLYTsfs1Fxob4isA/view",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "other",
+  "web_host": "Canva (public design view link)",
+  "course_planner": "none found (Infinite Campus student portal linked, no public course catalog seen)",
+  "school_year": "2026-27",
+  "coverage": "unknown",
+  "includes_descriptions": null,
+  "local_copies": [
+    {
+      "path": "catalogs/oxbow-union-high-school/school_profile_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 2,
+      "size_mb": 0.17,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://www.oxbowhighschool.org/fs/resource-manager/view/a8f039f2-191b-4ec5-ae92-a40283dcf823",
+  "additional_urls": [
+    {
+      "url": "https://www.oxbowhighschool.org/families/school-counseling",
+      "what": "School Counseling page: links 'OHS 2026-2027 Program of Studies' (Canva) and 'OHS 2026-2027 School Profile' (PDF)"
+    },
+    {
+      "url": "https://canva.link/3fditfkjqoivdnl",
+      "what": "Students > Academics 'Program of Study' link; 301-redirects to the same Canva design"
+    },
+    {
+      "url": "https://resources.finalsite.net/images/v1793888528/oesuorg/p1mbqm37wjdtgm2bpsnw/2026-2027SchoolProfile.pdf",
+      "what": "2026-2027 School Profile PDF (2 pp.): 23-credit graduation requirements, core course list; saved locally"
+    },
+    {
+      "url": "https://www.readkong.com/page/program-of-study-oxbow-high-school-2022-2023-3098714",
+      "what": "Third-party mirror of 'Program of Study Oxbow High School 2022-2023' (search hit, not official, not downloaded)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.oxbowhighschool.org/families/school-counseling",
+      "quote": "OHS 2026-2027 Program of Studies"
+    }
+  ],
+  "school_status_notes": "School serves grades 7-12 per schools.csv.",
+  "confidence": "medium",
+  "how_found": "oesu.org > Schools > oxbowhighschool.org > Families > School Counseling > 'OHS 2026-2027 Program of Studies' (Canva); also Students > Academics > 'Program of Study' (canva.link)",
+  "issues": "Catalog is a Canva design, linked twice from the official site and labeled 2026-2027, but Canva returns 'Unsupported client' to curl (needs JavaScript browser) and www.canva.com is not reachable from this session's WebFetch, so contents (completeness, descriptions, page count) are UNVERIFIED and no copy was downloaded. A human should open the link in a browser and, if possible, download the PDF (Canva view pages often allow download). Status 'found' based on official link label only. Graduation requirements (23 credits) are in the 2026-27 School Profile PDF, saved locally.",
+  "searched": [
+    "WebSearch: \"Oxbow Union High School\" program of studies course catalog",
+    "WebSearch: Oxbow High School Bradford Vermont \"Program of Studies\" 2026-2027 OR 2025-2026",
+    "https://www.oesu.org/ (SU home, schools list)",
+    "https://www.oxbowhighschool.org/ (home nav), /students/academics, /families/school-counseling, /students/handbook",
+    "https://canva.link/3fditfkjqoivdnl and https://www.canva.com/design/DAHXv4VI9-Y/... (curl: 'Unsupported client'; WebFetch: host not allowed)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

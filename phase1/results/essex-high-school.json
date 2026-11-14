@@ -1,0 +1,76 @@
+{
+  "school_id": "essex-high-school",
+  "school_name": "Essex High School",
+  "school_website": "https://www.ewsd.org/o/ehs",
+  "su_sd": "Essex Westford School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "The district brands itself 'Essex Westford School District' (EWSD) on ewsd.org; schools.csv lists 'Essex Westford Supervisory Union' and legal name 'Essex Westford Educational Community Unified Union SD #51' - same entity.",
+  "su_sd_source_url": "https://www.ewsd.org/o/ewsd",
+  "catalog_status": "found",
+  "catalog_title": "Essex High School Program of Studies 2026-2027",
+  "catalog_url": "https://www.ewsd.org/o/ehs/page/program-of-studies",
+  "direct_file_url": "https://docs.google.com/document/d/1d1cxwU5m_Cz8myy8u1k5bMT-byOezXQrMfMlQcKzMCs/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs (linked from Thrillshare/Apptegy district site)",
+  "course_planner": "none found (counseling page links Scoir, a college-planning tool; no course catalog seen there)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/essex-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 70,
+      "size_mb": 2.4,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/essex-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 69,
+      "size_mb": 4.4,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1d1cxwU5m_Cz8myy8u1k5bMT-byOezXQrMfMlQcKzMCs/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://5il.co/36uud",
+      "what": "2025-26 Program of Studies (PDF) button; redirects to Thrillshare file 01.31.25_Essex_High_School_POS.pdf"
+    },
+    {
+      "url": "https://docs.google.com/document/d/144Kil3ce5glEs-v8B7AZItXGgT-AsLvecSrzTUZFDig/edit?tab=t.0",
+      "what": "2025-26 Program of Studies (Google Doc version)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/17jtXWLM0Wjg17U5RDfJ0nijPY2zsIDNIZUWEvnVOLnE/edit?usp=sharing",
+      "what": "2024-25 Program of Studies (Google Doc)"
+    },
+    {
+      "url": "https://www.ewsd.org/o/ehs/page/about-ehs-academies",
+      "what": "EHS Academies (STEM, GLP, AVPA) info"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.ewsd.org/o/ehs/page/program-of-studies",
+      "quote": "Button: '2026-27 Program of Studies (Google Doc)'"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "ewsd.org/o/ehs > Academics menu > Program of Studies page (buttons for 2026-27, 2025-26, 2024-25)",
+  "issues": "2026-27 POS is a live Google Doc (title 'v.01', cover dated 1.12.2026) - may be edited; local copy is a PDF export. Graduation requirements (24 credits incl. Computers and Careers, Give Me Five PE) are inside the POS (p. ~8, 'EHS Graduation Requirements'), no separate grad-requirements file. Page buttons are rendered by JavaScript (links are in embedded JSON, not plain anchors).",
+  "searched": [
+    "WebSearch: Essex High School Vermont program of studies 2026-2027",
+    "https://www.ewsd.org/o/ehs (home)",
+    "https://www.ewsd.org/o/ehs/page/program-of-studies",
+    "https://www.ewsd.org/o/ehs/page/academics",
+    "https://www.ewsd.org/o/ehs/page/counseling (course-planner check: Scoir only)",
+    "https://www.ewsd.org/o/ehs/page/student-resources",
+    "https://www.ewsd.org/o/ewsd (district name)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,76 @@
+{
+  "school_id": "lamoille-union-high-school",
+  "school_name": "Lamoille Union High School",
+  "school_website": "https://luhs.lnsd.org/",
+  "su_sd": "Lamoille North Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site title is 'Lamoille North Supervisory Union'; site header also shows 'Lamoille North Modified Unified Union School District'. Old domain lnsu.org redirects to lnsd.org; pages now use lnsd.org.",
+  "su_sd_source_url": "https://www.lnsd.org/",
+  "catalog_status": "found",
+  "catalog_title": "LUHS Course Description Book 2026-2027",
+  "catalog_url": "https://luhs.lnsd.org/fs/resource-manager/view/50c13009-3f3f-4644-a73d-f5e8f213cb3a",
+  "direct_file_url": "https://resources.finalsite.net/images/v1772635749/lnsuorg/s7lg0l6dtaz5cqu0tari/Coursebook2026-2027.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Finalsite",
+  "course_planner": "none found (Infinite Campus online registration linked as 'Registration - LUHS')",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/lamoille-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 51,
+      "size_mb": 1.99,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/lamoille-union-high-school/grad_requirements_2026-27.html",
+      "year": "2026-27",
+      "pages": null,
+      "size_mb": 0.03,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/lamoille-union-high-school/grad_requirements_pbgr_2016.pdf",
+      "year": "2016",
+      "pages": 7,
+      "size_mb": 0.12,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://luhs.lnsd.org/families/graduation-requirements",
+  "additional_urls": [
+    {
+      "url": "https://luhs.lnsd.org/families/course-information",
+      "what": "Coursebook page linking the 2026-27 PDF"
+    },
+    {
+      "url": "https://luhs.lnsd.org/fs/resource-manager/view/98b6f02e-e662-4f53-8977-ff71139c98a2",
+      "what": "LUHS Proficiency Based Graduation Requirements, board approved 5/17/16 (for classes of 2020 and later), from Academics > Curriculum & Instruction"
+    },
+    {
+      "url": "https://luhs.lnsd.org/families/gmtcc-program-of-studies",
+      "what": "Green Mountain Technology & Career Center program of studies page (CTE, out of scope)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "lnsu.org (redirects to lnsd.org) > Lamoille Union High School (luhs.lnsd.org) > Families > Coursebook > 'Here is the link to the new course description book!' (also linked from Services > Counseling)",
+  "issues": "PDF metadata title is a leftover scanner name ('LUHS-OFFICE-KM654e-...') but content is the 2026-27 Course Description Book (created Feb 2026). Health and PE courses appear inside the book (no separate TOC entry). Graduation requirements (24 credits) are on p.3 of the book and on a web page; the PBGR policy PDF dates from 2016. 2025-26 coursebook not found/linked (not hunted).",
+  "searched": [
+    "WebSearch: \"Lamoille Union High School\" program of studies course catalog",
+    "WebSearch: Lamoille Union High School Hyde Park course catalog 2026-2027 lnsu",
+    "https://www.lnsu.org/ (redirects to https://www.lnsd.org/)",
+    "https://luhs.lnsd.org/",
+    "https://luhs.lnsd.org/families/course-information",
+    "https://luhs.lnsd.org/families/graduation-requirements",
+    "https://luhs.lnsd.org/services/counseling",
+    "https://luhs.lnsd.org/academics/curriculum-instruction",
+    "https://luhs.lnsd.org/library/career-and-future-guidance (no Naviance/Xello/SchooLinks mention)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

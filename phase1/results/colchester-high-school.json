@@ -1,0 +1,78 @@
+{
+  "school_id": "colchester-high-school",
+  "school_name": "Colchester High School",
+  "school_website": "https://www.csdvt.org/chs/",
+  "su_sd": "Colchester School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site brands itself 'Colchester School District'; schools.csv lists 'Colchester Supervisory District' (single-district SD) - same entity.",
+  "su_sd_source_url": "https://www.csdvt.org/",
+  "catalog_status": "found",
+  "catalog_title": "Colchester High School Program of Studies 2026-2027",
+  "catalog_url": "https://www.csdvt.org/chs/guidance/documents/pos-2026-27.pdf",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": null,
+  "course_planner": "Naviance",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/colchester-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 67,
+      "size_mb": 1.26,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/colchester-high-school/catalog_grade9_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 35,
+      "size_mb": 0.86,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/colchester-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 63,
+      "size_mb": 1.24,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://www.csdvt.org/chs/guidance/documents/pos-2026-27.pdf",
+  "additional_urls": [
+    {
+      "url": "https://www.csdvt.org/chs/guidance/documents/pos9-2026-27.pdf",
+      "what": "Separate 2026-27 Grade 9 Program of Studies (downloaded)"
+    },
+    {
+      "url": "https://www.csdvt.org/chs/guidance/documents/pos-2025-26.pdf",
+      "what": "2025-26 Program of Studies (downloaded)"
+    },
+    {
+      "url": "https://www.csdvt.org/chs/guidance/documents/pos9-2025-26.pdf",
+      "what": "2025-26 Grade 9 Program of Studies (not downloaded)"
+    },
+    {
+      "url": "https://csdvt.org/chs/guidance/academic-planning.php",
+      "what": "Academic Planning page listing all POS versions"
+    },
+    {
+      "url": "https://connection.naviance.com/colchester",
+      "what": "Naviance login linked from guidance pages"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "Web search, confirmed via csdvt.org > CHS > Guidance > Academic Planning (links 2026-2027 and 2026-2027: Grade 9)",
+  "issues": "Two 2026-27 documents: main POS (whole school; CHS uses a Green House (grades 9-10 integrated curriculum) / Blue House (upper grades, electives) model) and a separate Ninth Grade POS; Phase 2 should extract both. Graduation requirements (24.5 credits) are on p.7 of the main POS, no separate file. URL paths are case-sensitive on the uppercase-host variant: https://csdvt.org/CHS/guidance/documents/pos-2025-26.pdf returned 404, the www.csdvt.org form works.",
+  "searched": [
+    "WebSearch: \"Colchester High School\" Vermont program of studies 2026-2027",
+    "https://csdvt.org/chs/guidance/academic-planning.php",
+    "https://www.csdvt.org/"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

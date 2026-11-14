@@ -1,0 +1,81 @@
+{
+  "school_id": "mt-mansfield-union-high-school",
+  "school_name": "Mt. Mansfield Union High School",
+  "school_website": "https://mmu.mmuusd.org/",
+  "su_sd": "Mount Mansfield Unified Union School District",
+  "su_sd_matches_list": false,
+  "su_sd_note": "schools.csv lists 'Chittenden East Supervisory Union'. CESU dissolved after Huntington merged into the Mount Mansfield district (2019 vote); MMUUSD now operates as its own supervisory district and its site (mmuusd.org) uses only 'Mount Mansfield Unified Union School District' (a legacy Facebook link still says '...and CESU'). school_district column (MMUUSD #401) is correct; the SU name in the list is outdated.",
+  "su_sd_source_url": "https://www.mmuusd.org/",
+  "catalog_status": "found",
+  "catalog_title": "Mount Mansfield Union High School Program of Studies 2026-2027",
+  "catalog_url": "https://mmu.mmuusd.org/students/student_services/program_of_studies",
+  "direct_file_url": "https://docs.google.com/document/d/1viCudIxxdo3T8KPzB-tZVXm66ClEVONH4rK2Hmw2dgc/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "Naviance",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/mt-mansfield-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 53,
+      "size_mb": 2.3,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/mt-mansfield-union-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 52,
+      "size_mb": 2.2,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": null,
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/1LSv5IpLgv34sXo9QGe2j9BmaCRUzlnbL1w8lxsmv0YU/edit?usp=sharing",
+      "what": "2025-26 Program of Studies (downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1Lg6KnjCaigBeLukANfPeFRudiXEoPNPDPh_Rdt8WW-Q/edit?usp=sharing",
+      "what": "2024-25 Program of Studies (archive link on same page)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1Fdt3B4DDQ3a2Rq_kY1CLuceRL_ekGZxDY3Yj-CoriHw/edit?usp=sharing",
+      "what": "2023-24 Program of Studies (archive link)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1dZAcp-yZOSMI56mSWq73U-cdEWR2v9ArIADIps0NOpE/edit?usp=sharing",
+      "what": "Grade 10 Course Selection Sheet 2026-27 (titles + course numbers)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1I4EjnDLa4_Xp66xmEoYQY0aGGhMPQJ3mSt2YJgwS6Bw/edit?usp=sharing",
+      "what": "Grade 11 Course Selection Sheet 2026-27"
+    },
+    {
+      "url": "https://docs.google.com/document/d/12dNpFhtOVSRXlJPxDkB6r_JNfuS3Ds0OpnQde_vKHiY/edit?usp=sharing",
+      "what": "Grade 12 Course Selection Sheet 2026-27"
+    },
+    {
+      "url": "https://mmu.mmuusd.org/students/naviance_student",
+      "what": "Naviance Student page (course planning / college & career)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "mmu.mmuusd.org > Students > Student Services > Program of Studies > 'Program of Studies' button (2026-27 Google Doc); exported to PDF",
+  "issues": "Program of Studies page also links many older years (2019-20 through 2025-26) and per-grade course selection sheets; the 2026-27 one is the highlighted button. Graduation requirements are proficiency-based (PBGRs) and described inside the Program of Studies; no separate grad requirements file found, so grad_requirements_url is null. SU in schools.csv is outdated (CESU dissolved; MMUUSD is its own district).",
+  "searched": [
+    "WebSearch: Mt. Mansfield Union High School program of studies 2026-2027",
+    "WebSearch: MMU Student Services Program of Studies Mount Mansfield Union mmuusd",
+    "WebSearch: \"Chittenden East Supervisory Union\" Mount Mansfield Unified Union School District superintendent",
+    "mmu.mmuusd.org home, /students/student_services/program_of_studies",
+    "www.mmuusd.org home (SD name), /about_us (404)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,73 @@
+{
+  "school_id": "leland-gray-union-middle-high-school",
+  "school_name": "Leland & Gray Union Middle & High School",
+  "school_website": "https://lg.windhamcentral.org/",
+  "su_sd": "Windham Central Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "windhamcentral.org header: 'Windham Central Supervisory Union'; lists Leland & Gray under its schools. The school's district is referred to on the SU site as WRED (West River Education District), which matches schools.csv 'West River Valley Union Education District #72B' in substance.",
+  "su_sd_source_url": "https://www.windhamcentral.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "Leland & Gray 2025-2026 Program of Studies",
+  "catalog_url": "https://lg.windhamcentral.org/program-of-studies",
+  "direct_file_url": "https://drive.google.com/file/d/1a_lBsKJB7atG6jDQ_h7R1S9ZGHT5q1Q1/view?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "ParentSquare Smart Sites (school site); Google Drive (PDF)",
+  "course_planner": "none found",
+  "school_year": "2025-26",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/leland-gray-union-middle-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 43,
+      "size_mb": 0.71,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/leland-gray-union-middle-high-school/grad_requirements_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 56,
+      "size_mb": 6.32,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/1dwnOCA4Z8CjFLC5gICs3RaB0ywEOIQvr/view?usp=drive_link",
+  "additional_urls": [
+    {
+      "url": "https://lg.windhamcentral.org/programs-of-study",
+      "what": "Academics > 'Programs of Study' overview page (no file; prose about AP, Intensives, co-curriculars)"
+    },
+    {
+      "url": "https://lg.windhamcentral.org/student-handbook",
+      "what": "2026-27 Student Handbook (Drive PDF); contains Graduation Requirements (26 credits) section; saved as grad_requirements_2026-27.pdf"
+    },
+    {
+      "url": "https://lg.windhamcentral.org/school-profile",
+      "what": "School profile (Drive file 1Fv1Fb8d06lICtFgT1T_wo-zq39GlxLnt), not downloaded"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.windhamcentral.org/",
+      "quote": "Windham Central Supervisory Union ... Schools: The Dover School, Leland & Gray Union Middle & High School, NewBrook Elementary School, Townshend Elementary School, Wardsboro Elementary School"
+    }
+  ],
+  "school_status_notes": "WCSU site has 'Vermont Act 170' merger group pages (Group 5 - WRED, Marlboro), i.e. statewide consolidation planning that could change the district.",
+  "confidence": "medium",
+  "how_found": "windhamcentral.org > Our Schools > lg.windhamcentral.org > Academics > Program of Studies (/program-of-studies 302-redirects to Google Drive PDF)",
+  "issues": "Only the 2025-26 Program of Studies is linked (PDF printed from Google Docs, created 2025-08-21); no 2026-27 edition found although the 2026-27 year is underway. The 2026-27 Student Handbook is posted and holds the graduation requirements (26 credits; 4 Eng, 4 Sci, 4 Math, 3 SS, 2 PE, 1 Art, 0.5 Health, 7.5 electives). WARNING: the old school domain lelandandgray.org / www.lelandandgray.org (still cited inside the catalog: 'Additional information ... www.lelandandgray.org') now redirects to an unrelated gambling/spam site - do not use it. Old Google Sites (sites.google.com/windhamcentral.org/leland-gray) now require sign-in. Catalog covers grades 9-12 departments plus Flexible Pathways, Special Ed, CTE (Windham Regional Career Center); electives/AP courses rotate, not all run every year.",
+  "searched": [
+    "WebSearch: Leland & Gray Union Middle High School program of studies",
+    "WebSearch: Leland and Gray Townshend Vermont school website Windham Central Supervisory Union course",
+    "WebSearch: \"Leland & Gray\" \"Program of Studies\" 2026-2027",
+    "https://www.lelandandgray.org/ and https://lelandandgray.org/ (redirect to unrelated spam site)",
+    "https://sites.google.com/windhamcentral.org/leland-gray (+ /home, /about-us/District-Info, /campus-life/Future-Rebels): Google sign-in required",
+    "https://www.windhamcentral.org/ (SU home)",
+    "https://lg.windhamcentral.org/ home, /program-of-studies, /programs-of-study, /academics, /counseling-office, /school-profile, /student-handbook, /resources, /site_map, /vt-act-170",
+    "Google Drive files 1a_lBsKJB7atG6jDQ_h7R1S9ZGHT5q1Q1 (2025-26 POS) and 1dwnOCA4Z8CjFLC5gICs3RaB0ywEOIQvr (2026-27 handbook)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

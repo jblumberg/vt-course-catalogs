@@ -1,0 +1,72 @@
+{
+  "school_id": "bellows-free-academy-middle-high-school-fairfax",
+  "school_name": "Bellows Free Academy Middle/High School (Fairfax)",
+  "school_website": "https://www.bfafairfax.com/o/bfa",
+  "su_sd": "Franklin West Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": null,
+  "su_sd_source_url": "https://www.fwsu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Bellows Free Academy Fairfax Program of Studies 2026-2027",
+  "catalog_url": "https://docs.google.com/document/d/11HeuLlfDFmZoliIEPibfMZjZ1kTq5QtIixrs7iwWoa4/edit?usp=sharing",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "none found (PowerSchool and Schoology used for SIS/LMS; no course catalog tool seen)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/bellows-free-academy-middle-high-school-fairfax/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 63,
+      "size_mb": 2.5,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/bellows-free-academy-middle-high-school-fairfax/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 65,
+      "size_mb": 2.5,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/11HeuLlfDFmZoliIEPibfMZjZ1kTq5QtIixrs7iwWoa4/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/1Z0ON9xrMGAh1BAJE5uih-0b5Xp1ZuUY_sF4J5DQnIUQ/edit?usp=sharing",
+      "what": "BFA K-12 Handbook 2026-2027 (linked from school site); its Academics section 'Here is the link to our program of studies' links the POS 26-27 doc"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1vSEFKw6C-0oFDmRC-97WfgrhMwE2zFt1wjZUDRNMPU4/edit?usp=sharing",
+      "what": "POS 25-26 (linked from 2025-26 HS handbook https://5il.co/3rdge)"
+    },
+    {
+      "url": "https://aptg.co/tpFPGr",
+      "what": "School Profile 2026-27 (counseling page 'Scheduling Resources'); lists graduation requirements and course offerings summary"
+    },
+    {
+      "url": "https://www.bfafairfax.com/o/bfa/page/school-counseling",
+      "what": "School Counseling page: Scheduling Resources (2025-26 HS handbook, 2026-27 profile) - no direct POS link"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": "FWSU site has an Act 170 'Merger Study Committee' page (published 2026-09-25); no content on BFA changes seen.",
+  "confidence": "high",
+  "how_found": "bfafairfax.com > BFA K-12 Handbook 2026-2027 (Google Doc) > Academics > 'link to our program of studies' > Google Doc 'POS 26-27'",
+  "issues": "The POS is not linked directly from any school web page; only via a hyperlink inside the 2026-27 K-12 Handbook Google Doc (and the 25-26 POS inside the 2025-26 HS handbook PDF). Counseling 'Scheduling Resources' still lists the 2025-26 handbook. Doc title is just 'POS 26-27'. Covers grades 7-12 with trimester schedule (most courses one trimester; year-long courses count as 3). Graduation requirements are proficiency-based (ELA, Math, Science, Global Citizenship, PE & Health, Artistic Expression, Transferable Skills) on p.3 with course-selection guides by class year on p.4 - no separate grad-requirements file. Live Google Doc; local copy is a PDF export.",
+  "searched": [
+    "WebSearch: \"BFA Fairfax\" program of studies 2026-2027 (no relevant results)",
+    "https://www.fwsu.org/ (SU home; links to bfafairfax.com)",
+    "https://bfafairfax.com/o/bfa (home, embedded menu JSON)",
+    "https://www.bfafairfax.com/o/bfa/page/school-counseling",
+    "https://5il.co/3rdge (2025-26 BFA HS Student Handbook PDF; link annotations extracted)",
+    "https://aptg.co/tpFPGr (School Profile 2026-27 PDF)",
+    "BFA K-12 Handbook 2026-2027 Google Doc (link annotations extracted)",
+    "https://www.fwsu.org/page/merger-study-committee"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

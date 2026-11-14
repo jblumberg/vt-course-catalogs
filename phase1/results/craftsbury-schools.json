@@ -1,0 +1,57 @@
+{
+  "school_id": "craftsbury-schools",
+  "school_name": "Craftsbury Schools (high school: Craftsbury Academy)",
+  "school_website": "https://craftsbury.ossu.org/",
+  "su_sd": "Orleans Southwest Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "OSSU central office site title: 'Orleans Southwest Supervisory Union Central Office'; Craftsbury site is a subsite (craftsbury.ossu.org) of ossu.org. Exact match.",
+  "su_sd_source_url": "https://www.ossu.org/en-US",
+  "catalog_status": "found",
+  "catalog_title": "2026-2027 Craftsbury Academy Program of Studies (cover: 'Program of Studies, Updated August 2026')",
+  "catalog_url": "https://craftsbury.ossu.org/en-US/program-of-studies",
+  "direct_file_url": "https://docs.google.com/document/d/1hVrob1AZFuKLyAEpV2L4imisEjzOQtq7SRzkhk_eKOI/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs (embedded on a SchoolBlocks page)",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/craftsbury-schools/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 24,
+      "size_mb": 0.55,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1hVrob1AZFuKLyAEpV2L4imisEjzOQtq7SRzkhk_eKOI/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://craftsbury.ossu.org/en/pathways-program/traditional-courses",
+      "what": "Pathways Program: Traditional Courses page (college/career track overview)"
+    },
+    {
+      "url": "https://craftsbury.ossu.org/en/pathways-program/advanced-placement-ap",
+      "what": "Pathways Program: AP courses page (says 9 AP courses over two years, subject to change)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "craftsbury.ossu.org > Pathways Program menu > Program of Studies (/en-US/program-of-studies), which embeds the Google Doc; exported to PDF via /export?format=pdf",
+  "issues": "Year comes from the Google Doc's title ('2026-2027 Craftsbury Academy Program of Studies'); the printed pages only say 'Updated August 2026'. It is a living Google Doc, so content may change after the check date. Graduation requirements are inside the catalog (Academic Policies section), no separate document. No 2025-26 version found (the doc is updated in place; a search snippet referred to a 'September 2024' update of the same doc). SchoolBlocks site is JavaScript-rendered; links were read from embedded page JSON.",
+  "searched": [
+    "WebSearch: Craftsbury Academy course catalog program of studies",
+    "https://craftsbury.ossu.org/en-US (home)",
+    "https://craftsbury.ossu.org/en-US/program-of-studies",
+    "https://craftsbury.ossu.org/en/pathways-program/traditional-courses",
+    "https://craftsbury.ossu.org/en/pathways-program/advanced-placement-ap",
+    "https://craftsbury.ossu.org/en-US/pathways-program",
+    "https://www.ossu.org/en-US (SU home)",
+    "Google Doc export 1hVrob1AZFuKLyAEpV2L4imisEjzOQtq7SRzkhk_eKOI (PDF); Drive file 1sTiGTj23puzcy9M4BTOBEHFiXtJ6c8KM linked from page turned out to be a 2023-24 calendar"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,71 @@
+{
+  "school_id": "poultney-high-school",
+  "school_name": "Poultney High School",
+  "school_website": "https://pohs.grcsu.org/",
+  "su_sd": "Greater Rutland County Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Site uses the abbreviation GRCSU; school's district is Quarry Valley Unified (School) District (handbook header 'Quarry Valley Unified School District').",
+  "su_sd_source_url": "https://grcsu.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "Poultney High School 2022-2023 Program of Studies",
+  "catalog_url": "https://drive.google.com/file/d/1eieWRVnJVN4O92HQZIakITpVFBDhfo2g/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1eieWRVnJVN4O92HQZIakITpVFBDhfo2g",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (linked from WordPress school site)",
+  "course_planner": "none found (Infinite Campus SIS, JumpRope grading; guidance site links VHS and Apex online courses)",
+  "school_year": "2022-23",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/poultney-high-school/catalog_2022-23.pdf",
+      "year": "2022-23",
+      "pages": 14,
+      "size_mb": 0.05,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/1gpqKEUKUxYPY9ZJtyxZTsNvOjqKnnw2T/view?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://drive.google.com/file/d/1C2hhsY2TGJnrgy9v0y5mSvsfpEn_RWcj/view?usp=sharing",
+      "what": "School Profile (Class of 23 & 24): grad requirements (28 credits; separate tables for Class of 2026 and Class of 2027+) and a list of course titles - newer than the POS"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1gpqKEUKUxYPY9ZJtyxZTsNvOjqKnnw2T/view?usp=sharing",
+      "what": "Student/Parent Handbook (Quarry Valley; PDF metadata title 'PrHS High School Handbook 25-26', mentions 2024-2025) - contains 'Quarry Valley Graduation Requirements'; no course descriptions"
+    },
+    {
+      "url": "https://drive.google.com/file/d/10SkBhJfAheub5tsTqT0xx31iNpZy1iOq/view?usp=drive_link",
+      "what": "Students page link labeled 'Program of Studies 2022-2023' actually opens 'PrHS Handbook Fall 2023 (1).pdf' (Proctor handbook) - mislinked"
+    },
+    {
+      "url": "https://sites.google.com/grcsu.org/poultney-high-school-guidance/home",
+      "what": "PoHS Guidance Google Site (single page; VHS/Apex/VSAC/FAFSA/AP links, no POS)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://pohs.grcsu.org/academics/",
+      "quote": "'Program of Studies' link -> Drive PDF whose cover reads '2022-2023 PROGRAM OF STUDIES' (PDF created 2022-04-14)"
+    }
+  ],
+  "school_status_notes": "GRCSU has an 'Act 170 - School Transformation' page; Poultney HS is grades 7-12 in Quarry Valley UUSD #70 (with Proctor Jr./Sr. High in same SU).",
+  "confidence": "medium",
+  "how_found": "pohs.grcsu.org > Academics (also home/Students sidebar) > Program of Studies (Google Drive PDF)",
+  "issues": "Only the 2022-23 Program of Studies (14 pages, Word->PDF) is public; no 2023-24 through 2026-27 edition found. It predates the Class of 2027+ graduation requirements shown in the school profile (English 4 credits + 1 Language credit vs. English 5 credits), so course list/requirements may be stale. A second link labeled 'Program of Studies 2022-2023' on the Students page points to a Proctor (PrHS) handbook. Grad requirements live in the handbook and school profile, not a separate doc.",
+  "searched": [
+    "WebSearch: Poultney High School Vermont program of studies course guide",
+    "WebSearch: \"Poultney High School\" \"program of studies\" 2025 OR 2026",
+    "WebSearch: site:grcsu.org program of studies",
+    "https://grcsu.org/ (SU home)",
+    "https://grcsu.org/curriculum/",
+    "https://grcsu.org/act-170-school-transformation/",
+    "https://pohs.grcsu.org/ (home), /academics/, /students/",
+    "https://sites.google.com/grcsu.org/poultney-high-school-guidance/home",
+    "School Profile, Student/Parent Handbook and mislinked 'Program of Studies 2022-2023' Drive files"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

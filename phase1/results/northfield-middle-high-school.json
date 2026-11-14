@@ -1,0 +1,76 @@
+{
+  "school_id": "northfield-middle-high-school",
+  "school_name": "Northfield Middle & High School",
+  "school_website": "https://nmhs.cvsu.org/",
+  "su_sd": "Central Vermont Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "CVSU site title 'Central Vermont Supervisory Union'; school's district is Paine Mountain School District (Northfield + Williamstown), as printed on the POS cover.",
+  "su_sd_source_url": "https://www.cvsu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Paine Mountain School District Program of Studies 2026-2027 (Northfield Middle High School)",
+  "catalog_url": "https://docs.google.com/document/d/1Ebk3XYbPF1q40oMc4TjtsjpCn0oAs3yUDVLt59MwdJg/edit?usp=sharing",
+  "direct_file_url": "https://docs.google.com/document/d/1Ebk3XYbPF1q40oMc4TjtsjpCn0oAs3yUDVLt59MwdJg/export?format=pdf",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs (linked from the counseling department's Google Site)",
+  "course_planner": "Naviance",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/northfield-middle-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 46,
+      "size_mb": 5.87,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/northfield-middle-high-school/grad_requirements_cvsu_pbgr_2018.pdf",
+      "year": "2018",
+      "pages": 6,
+      "size_mb": 0.3,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://resources.finalsite.net/images/v1733405977/cvsuorg/hvqvmxtlyde0weehp7wm/CVSU_PBGR_June_2018.pdf",
+  "additional_urls": [
+    {
+      "url": "https://sites.google.com/cvsu.org/school-counseling-website/home",
+      "what": "NMHS School Counseling Department Google Site with 'PROGRAM OF STUDIES 2026/2027' link"
+    },
+    {
+      "url": "https://nmhs.cvsu.org/resources/school-counseling-office/guidance-home/guide-to-learning-experiences",
+      "what": "Stale page on main school site: only 2020-21 Guide to Learning Experiences and 2019-20 Program of Studies"
+    },
+    {
+      "url": "https://nmhs.cvsu.org/our-school/school-information/home/proficiency-based-graduation-requirements",
+      "what": "PBGR page (CVSU PBGR June 2018 etc.)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/18LlI6gN923vbv-Lp2tlrcCe3sNCaUZwpZf_WvazlB00/edit?usp=sharing",
+      "what": "MS & HS Schedule 2026/2027 (not downloaded)"
+    },
+    {
+      "url": "https://connection.naviance.com/family-connection/auth/login/?hsid=northfield",
+      "what": "Naviance Family Connection (PLP Resources page)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": "Paine Mountain School District has two 6-12 schools (Northfield and Williamstown Middle High School).",
+  "confidence": "high",
+  "how_found": "nmhs.cvsu.org home > School Counseling website (sites.google.com/cvsu.org/school-counseling-website) > 'PROGRAM OF STUDIES 2026/2027' Google Doc; exported to PDF",
+  "issues": "Google Doc title is 'Copy of FINAL as of 5/01/26- NMHS Program of Studies 26/27' - it is a copy, so it could drift from the counselor's master. Cover says Paine Mountain School District but content is NMHS-specific ('Northfield Pathways to Graduation'). Covers grades 9-12 courses (incl. dual enrollment) plus CVSU proficiency framework; graduation is proficiency-based (CVSU PBGR 2018). Main Finalsite school site still links only 2019-20/2020-21 guides. 2025-26 POS not found.",
+  "searched": [
+    "WebSearch: \"Northfield Middle High School\" Vermont program of studies course catalog",
+    "WebSearch: Northfield Middle High School Vermont Paine Mountain School District website counseling",
+    "WebSearch: Central Vermont Supervisory Union official website Northfield Williamstown",
+    "https://www.cvsu.org/",
+    "https://nmhs.cvsu.org/",
+    "https://nmhs.cvsu.org/resources/school-counseling-office/guidance-home (+ guide-to-learning-experiences, registration-information, plp-resources)",
+    "https://nmhs.cvsu.org/our-school/school-information/home/proficiency-based-graduation-requirements",
+    "https://sites.google.com/cvsu.org/school-counseling-website/home"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

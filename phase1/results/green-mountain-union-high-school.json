@@ -1,0 +1,69 @@
+{
+  "school_id": "green-mountain-union-high-school",
+  "school_name": "Green Mountain Union High School",
+  "school_website": "https://gmuhs.trsu.org/",
+  "su_sd": "Two Rivers Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "TRSU site lists 'Green Mountain Union High' among its schools; board page is 'Green Mountain Unified School District Board Information' (matches GMUSD #77 in schools.csv).",
+  "su_sd_source_url": "https://www.trsu.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "Green Mountain Union High School Program of Studies 2025-2026",
+  "catalog_url": "https://sites.google.com/trsu.org/gmuhsguidance/program-offerings/program-of-studies",
+  "direct_file_url": "https://docs.google.com/document/d/1dUgCrYBXTLsK4P6QT5Wj3UpepHISw2l0si43HQPFzlE/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Sites (GM Guidance) embedding a Google Doc",
+  "course_planner": "none found",
+  "school_year": "2025-26",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/green-mountain-union-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 28,
+      "size_mb": 0.5,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1dUgCrYBXTLsK4P6QT5Wj3UpepHISw2l0si43HQPFzlE/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://sites.google.com/trsu.org/gmuhsguidance/home",
+      "what": "GM Guidance Google Site (linked from school site menu > Guidance)"
+    },
+    {
+      "url": "https://sites.google.com/a/trsu.org/green-mountain-high-school/school-info",
+      "what": "Older Google Sites URL for the school site (same content as gmuhs.trsu.org)"
+    },
+    {
+      "url": "https://sites.google.com/trsu.org/gmuhsguidance/flexible-pathways",
+      "what": "Flexible Pathways page"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://sites.google.com/trsu.org/gmuhsguidance/program-offerings/program-of-studies",
+      "quote": "Click here for the Program of Studies 25-26 ... 2025-26 GMUHS Program of Studies"
+    },
+    {
+      "url": "https://www.trsu.org/",
+      "quote": "Our schools include Cavendish Town Elementary, Chester-Andover Elementary, Green Mountain Union High, Ludlow Elementary, and Mount Holly School."
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "medium",
+  "how_found": "school site gmuhs.trsu.org > Guidance (sites.google.com/trsu.org/gmuhsguidance) > Program Offerings > Program of Studies (embedded Google Doc, exported to PDF)",
+  "issues": "Only the 2025-26 Program of Studies is posted; no 2026-27 edition found on the guidance site (whose pages carry an 'updated: 11.13.26' footer) or via search. The doc is short (28 pp) and still says some courses are 'Offered 2026-27 school year', so it may be what GMUHS is using this year - confirm with the school. Graduation requirements are inside the doc (22.5 credits; Class of 2027 onward 23.5 credits incl. 5 electives; '92 enduring graduation proficiencies'). Catalog covers HS (9-12); school is 7-12 - middle school has a separate site. Live Google Doc; PDF export taken 2026-11-14.",
+  "searched": [
+    "WebSearch: \"Green Mountain Union High School\" program of studies course catalog",
+    "WebSearch: Green Mountain Union High School Chester Vermont website trsu course guide",
+    "WebSearch: GMUHS \"Program of Studies\" 2026-2027 Green Mountain Chester",
+    "gmuhs.trsu.org home + menu (Parent & Student Links, Departments, School Info)",
+    "gmhs.trsu.org, www.gmuhs.org (do not resolve / 502)",
+    "sites.google.com/trsu.org/gmuhsguidance: home, program-offerings, program-of-studies, college-planning-resources",
+    "trsu.org home, /boards/gmusd-info"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

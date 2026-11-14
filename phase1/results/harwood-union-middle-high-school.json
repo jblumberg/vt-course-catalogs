@@ -1,0 +1,71 @@
+{
+  "school_id": "harwood-union-middle-high-school",
+  "school_name": "Harwood Union Middle/High School",
+  "school_website": "https://www.harwood.org/",
+  "su_sd": "Harwood Unified Union School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "District site calls itself 'Harwood Unified Union School District' (HUUSD #60); schools.csv lists 'Harwood Supervisory District'. Treated as the same entity (single-district SD; I could not confirm the formal 'supervisory district' wording on the site). The site's Facebook link still uses the former name 'Washington West Supervisory Union'.",
+  "su_sd_source_url": "https://www.huusd.org/",
+  "catalog_status": "found",
+  "catalog_title": "Harwood Union High School 2026-2027 Program of Studies",
+  "catalog_url": "https://docs.google.com/document/d/1m-bgBptDONj6fxvLoN7mKRn9pLBENAfNkuF5SPpdKzY/edit?tab=t.0#heading=h.ah9p27rjbskk",
+  "direct_file_url": "https://docs.google.com/document/d/1m-bgBptDONj6fxvLoN7mKRn9pLBENAfNkuF5SPpdKzY/export?format=pdf",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/harwood-union-middle-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 60,
+      "size_mb": 1.6,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1m-bgBptDONj6fxvLoN7mKRn9pLBENAfNkuF5SPpdKzY/edit?tab=t.0",
+  "additional_urls": [
+    {
+      "url": "https://www.harwood.org/school-counseling",
+      "what": "School Counseling page linking 'Program of Studies (26/27)' and College Planning Guide"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1iLcwcmv0ieeqphT8AH5lzqXCmSYhiywuKBoSdnvONSI/edit?tab=t.0",
+      "what": "Course Syllabi (side-nav link; not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1mokHStIOGTG5Y3pteNVH5PFHAE6Isfy-0RDLi9NWQls/edit?tab=t.0",
+      "what": "Course Syllabi, second side-nav link (search summary says middle school syllabi; not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1njkHNhlcoWxgd5M7qHlkbEiVgyi3Ze5xCPh8C-zqQbQ/edit",
+      "what": "College Planning Guide"
+    },
+    {
+      "url": "https://www.harwood.org/flexible-pathways",
+      "what": "Flexible Pathways page"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.huusd.org/",
+      "quote": "Harwood Unified Union School District provides a rigorous, innovative and stu[dent-centered...]"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "harwood.org homepage side nav > 'Program of Study 2026-27' (Google Doc); also School Counseling page > 'Program of Studies (26/27)'",
+  "issues": "Google Doc (live, editable by school) exported to PDF (PDF title '26-27 PoS FINAL'). Graduation requirements are a section inside the PoS (p.3, 'Graduation Requirements & The Process of Verification'), no separate grad-requirements doc found. Catalog covers grades 9-12 only; middle grades (7-8) are separate. 2025-26 PoS not found in a brief search (not downloaded). Only PowerSchool (parent/student portal) links seen; no course-planning tool found.",
+  "searched": [
+    "https://www.harwood.org/ (homepage nav)",
+    "https://www.harwood.org/school-counseling",
+    "https://www.huusd.org/ (district site)",
+    "WebSearch: Harwood Union High School program of studies 2026-2027",
+    "WebSearch: \"Harwood Union\" \"Program of Studies\" 2025-2026"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

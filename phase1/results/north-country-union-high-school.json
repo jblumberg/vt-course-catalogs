@@ -1,0 +1,73 @@
+{
+  "school_id": "north-country-union-high-school",
+  "school_name": "North Country Union High School",
+  "school_website": "https://ncuhs.ncsuvt.org/",
+  "su_sd": "North Country Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": null,
+  "su_sd_source_url": "https://www.ncsuvt.org/",
+  "catalog_status": "outdated_only",
+  "catalog_title": "Program of Studies 2025-2026",
+  "catalog_url": "https://ncuhs.ncsuvt.org/36140_1",
+  "direct_file_url": "https://sites.google.com/ncsuvt.org/program-of-studies/home",
+  "linked_from_official_site": true,
+  "format": "google_site",
+  "web_host": "Google Sites (each course description is a separate embedded Google Doc)",
+  "course_planner": "none found",
+  "school_year": "2025-26",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/north-country-union-high-school/catalog_2025-26.html",
+      "year": "2025-26",
+      "pages": null,
+      "size_mb": 0.2,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://sites.google.com/ncsuvt.org/program-of-studies/home",
+  "additional_urls": [
+    {
+      "url": "https://sites.google.com/ncsuvt.org/schoolcounselingdepartment/home",
+      "what": "School Counseling Department Google Site (ncuhs.ncsuvt.org/27826_1 redirects here); links back to the Program of Studies site"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1pWHnHSW3hkn4SW1WttqrUkFWzza5nBM1HrnDuXZc6sQ/edit",
+      "what": "Example per-course Google Doc (Precalculus) embedded on the site's course subpage; publicly exportable as PDF"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQ_51_98gxbWOO_NHQE5NmYK-QasJt-RpOiiuW4ywYVWTg74A3DUvFaDF4gwm_9Qxt7Z6DM-uIKM",
+      "what": "2026-2027 Parent & Student Handbook (published Google Doc, linked from school homepage) - not a catalog"
+    },
+    {
+      "url": "https://sites.google.com/ncsuvt.org/nccc/programs",
+      "what": "North Country Career Center programs (linked from Program of Studies)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://sites.google.com/ncsuvt.org/program-of-studies/home",
+      "quote": "Program of Studies 2025-2026 Explore our available courses by clicking on a subject!"
+    },
+    {
+      "url": "https://www.ncsuvt.org/",
+      "quote": "Contents © 2026 North Country Supervisory Union"
+    }
+  ],
+  "school_status_notes": "Sept 22, 2026 NCSU press release: 'North Country Supervisory Union Seeks Community Input on Future of NCUHS, NCCC Facilities' (facility challenges survey). NCSU site also lists an 'Act 170 Merger Study Committee' and a Northeast Region CESA committee.",
+  "confidence": "medium",
+  "how_found": "school site ncuhs.ncsuvt.org > Students > Program of Studies (/36140_1) > redirects to Google Site sites.google.com/ncsuvt.org/program-of-studies/home",
+  "issues": "Only the 2025-26 Program of Studies is published (home page heading 'Program of Studies 2025-2026'), although the 2026-27 year is underway; no 2026-27 version found on the school site or via search. Structure: Google Site with 8 subject pages (English, Fine Arts, Global Citizenship [social studies + world languages], Math, Professional Pursuits/Flexible Pathways/Driver's Ed/JROTC, PE & Health, Science, NCCC link) and ~160 course subpages, each embedding a separate Google Doc with grade levels, length, prerequisites and description (sampled Precalculus doc: public, exportable). Not crawled - only the home page HTML is saved (it contains add/drop policy, graduation requirements: 25 credits incl. English 4, Social Studies 3, Science 3, Math 3, PE 1.5, Health .5, Fine Arts 1, Electives 9, and grading). Phase 2 would need to walk the subject pages and export each course doc. One science course is labeled 'SPRING SEM. 2025/FALL SEM. 2026', so some content was edited after 2025-26 began.",
+  "searched": [
+    "https://www.ncsuvt.org/ (SU home)",
+    "https://ncuhs.ncsuvt.org/ (school home nav)",
+    "https://ncuhs.ncsuvt.org/36140_1 (Program of Studies -> Google Site)",
+    "https://ncuhs.ncsuvt.org/27826_1 (School Counseling -> Google Site)",
+    "https://ncuhs.ncsuvt.org/32510_1 and /108052_2 (Students pages)",
+    "sites.google.com/ncsuvt.org/program-of-studies: home + 7 subject pages + Precalculus course page",
+    "web search: \"North Country Union High School\" program of studies 2026-2027"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

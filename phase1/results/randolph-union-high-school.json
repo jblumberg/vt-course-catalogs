@@ -1,0 +1,74 @@
+{
+  "school_id": "randolph-union-high-school",
+  "school_name": "Randolph Union High School",
+  "school_website": "https://ruhs.orangesouthwest.org/",
+  "su_sd": "Orange Southwest Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Site title 'Orange Southwest Supervisory Union'; member district is 'Orange Southwest School District (OSSD)' (= Orange Southwest Unified Union SD #59 in schools.csv).",
+  "su_sd_source_url": "https://www.orangesouthwest.org/",
+  "catalog_status": "found",
+  "catalog_title": "Randolph Union Course Catalog SY 2026 - 2027 (Version 1.0)",
+  "catalog_url": "https://ruhs.orangesouthwest.org/fs/resource-manager/view/e63e4bc8-78e7-4fb4-8ca2-1724488f96ae",
+  "direct_file_url": "https://resources.finalsite.net/images/v1793206308/orangesouthwestorg/wtnqzjzqxrftspmn4jds/RUHSCourseCatalog26-27.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Finalsite",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/randolph-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 50,
+      "size_mb": 6.3,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/randolph-union-high-school/grad_requirements_undated.pdf",
+      "year": "undated (references 2022 graduate)",
+      "pages": 12,
+      "size_mb": 0.8,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1iyRTlfBPR197VtURLerUpK5Lfu1Fo3GZBxFLnPhaIP4/edit",
+  "additional_urls": [
+    {
+      "url": "https://ruhs.orangesouthwest.org/for-students-and-parents/handbooks-course-catalog",
+      "what": "Handbooks / Course Catalog page linking the catalog, Proficiency Handbook and 2026-2027 RU Student Handbook"
+    },
+    {
+      "url": "https://ruhs.orangesouthwest.org/fs/resource-manager/view/8d7c8dd5-ed17-44d9-9fb1-d9998e0b465e",
+      "what": "2026-2027 RU Student Handbook (not a catalog; not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1iyRTlfBPR197VtURLerUpK5Lfu1Fo3GZBxFLnPhaIP4/edit",
+      "what": "'Personalized and Proficiency Based Learning at RU' (Proficiency-Based Graduation Handbook), undated"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ruhs.orangesouthwest.org/for-students-and-parents/handbooks-course-catalog",
+      "quote": "You'll find the current Course Catalog here: RU Course Catalog 2026-2027"
+    },
+    {
+      "url": "https://www.orangesouthwest.org/",
+      "quote": "Randolph Union High School serves students from grades seven through twelve"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "school site ruhs.orangesouthwest.org > For Students and Parents > Handbooks / Course Catalog > 'RU Course Catalog 2026-2027' (Finalsite resource redirects to PDF)",
+  "issues": "PDF is a browser print of a Google Doc (created 2026-10-28, 'Version 1.0'), so text extraction has stray zero-width characters and some split letters (e.g. 'C ourse Catalog', ' ission') - Phase 2 should normalize. Catalog includes RU Middle School program (grades 7-8), PBL/CBL offerings for SY 26-27, and a Randolph Technical Career Center section (CTE, out of scope). Content-area graduation standards are in the catalog; separate Proficiency Handbook is undated (mentions a 2022 graduate). No 2025-26 catalog came up. Search-engine summary said the page links a 2022-23/2025-26 catalog - stale; the live page says 2026-2027.",
+  "searched": [
+    "WebSearch: \"Randolph Union High School\" program of studies course catalog",
+    "ruhs.orangesouthwest.org/for-students-and-parents/handbooks-course-catalog",
+    "ruhs.orangesouthwest.org/for-students-and-parents/ru-student-services",
+    "orangesouthwest.org home (SU name)",
+    "Docs export of Proficiency Handbook 1iyRTlfB..."
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

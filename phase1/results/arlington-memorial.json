@@ -1,0 +1,66 @@
+{
+  "school_id": "arlington-memorial",
+  "school_name": "Arlington Memorial High School (Arlington Memorial Middle & High School)",
+  "school_website": "https://www.arlingtonmemorialhighschool.org/",
+  "su_sd": "Southwest Vermont Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "SVSU (svsu.org) site header reads 'Southwest Vermont Supervisory Union'; the AMHS 2026-27 School Profile states 'Arlington School District is part of the Southwest Vermont Supervisory Union.' Exact match.",
+  "su_sd_source_url": "https://www.svsu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Arlington Memorial High School Program of Studies 2026-27",
+  "catalog_url": "https://www.arlingtonmemorialhighschool.org/program-of-studies",
+  "direct_file_url": "https://www.arlingtonmemorialhighschool.org/_files/ugd/abf6b8_febe053930f74737b04512d0a295a641.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Wix (school site; PDF in Wix _files/ugd store)",
+  "course_planner": "Naviance (linked from Guidance Resources: student.naviance.com/amhsvt; used for college planning, no course catalog seen in it publicly)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/arlington-memorial/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 28,
+      "size_mb": 0.55,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://www.arlingtonmemorialhighschool.org/_files/ugd/abf6b8_febe053930f74737b04512d0a295a641.pdf",
+  "additional_urls": [
+    {
+      "url": "https://arlingtonmemorialhighschool.org/_files/ugd/abf6b8_4300c7212f4f4cf7998e10e2ac759a68.pdf",
+      "what": "Older Program of Studies 2022-23 (29 pp), still hosted, found via search; not downloaded to catalogs/ (older than 2025-26)"
+    },
+    {
+      "url": "https://www.arlingtonmemorialhighschool.org/copy-of-program-of-studies",
+      "what": "2026-27 School Profile (enrollment, schedule, curriculum summary)"
+    },
+    {
+      "url": "https://www.arlingtonmemorialhighschool.org/guidance-resources",
+      "what": "Guidance resources page, links Naviance"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.arlingtonmemorialhighschool.org/copy-of-program-of-studies",
+      "quote": "Arlington School District is part of the Southwest Vermont Supervisory Union."
+    }
+  ],
+  "school_status_notes": "SVSU calendar lists 'Act 170 Merger Committee' meetings (Nov 2026), i.e. statewide district consolidation planning that may affect Arlington's governance. Profile: 106 students in grades 9-12, 91 in grades 6-8.",
+  "confidence": "high",
+  "how_found": "Web search > school site menu About > Program of Studies > '2026/2027 Program of Studies' link (PDF)",
+  "issues": "None major. Graduation requirements (26 credits incl. 16 in required areas, 32 community service hours) are on p.6 of the catalog itself; no separate grad-requirements document found. No 2025-26 Program of Studies found on the site (only 2026-27 linked; an orphaned 2022-23 PDF is still hosted). Course descriptions pp.9-26 by department (Arts, English, Library Media, Math, PE/Wellness, Science, Social Studies, Special Ed, World Languages), plus Dual Enrollment, Work-Based Learning, Southwest Tech pp.27-28. Middle-school (grades 6-8) courses not evidently included.",
+  "searched": [
+    "WebSearch: Arlington Memorial High School Vermont program of studies course catalog",
+    "https://www.arlingtonmemorialhighschool.org/program-of-studies",
+    "https://www.arlingtonmemorialhighschool.org/copy-of-program-of-studies (2026-27 School Profile)",
+    "https://www.arlingtonmemorialhighschool.org/guidance-1",
+    "https://www.arlingtonmemorialhighschool.org/guidance-resources",
+    "https://www.arlingtonmemorialhighschool.org/academic-profile",
+    "https://www.arlingtonmemorialhighschool.org/school-counseling-resources (404), /school-counseling (404)",
+    "https://www.svsu.org/ (SU home)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

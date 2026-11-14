@@ -1,0 +1,79 @@
+{
+  "school_id": "rivendell-academy",
+  "school_name": "Rivendell Academy",
+  "school_website": "https://ra.rivendellschool.org/",
+  "su_sd": "Rivendell Interstate School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Interstate VT/NH district; school is in Orford, NH. Site footer: 'Copyright 2026 Rivendell Interstate School District'.",
+  "su_sd_source_url": "https://www.rivendellschool.org/",
+  "catalog_status": "partial",
+  "catalog_title": "Curriculum Handbook - RA",
+  "catalog_url": "https://ra.rivendellschool.org/programofstudies",
+  "direct_file_url": "https://sites.google.com/rivendellschool.org/curriculum-handbook-ra/home",
+  "linked_from_official_site": true,
+  "format": "google_site",
+  "web_host": "Google Sites (linked from SchoolInSites/ConnectSuite school site)",
+  "course_planner": "none found",
+  "school_year": "unknown",
+  "coverage": "partial",
+  "includes_descriptions": "some",
+  "local_copies": [
+    {
+      "path": "catalogs/rivendell-academy/catalog_undated.html",
+      "year": "unknown",
+      "pages": null,
+      "size_mb": 0.21,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/rivendell-academy/catalog_undated_academic-program.html",
+      "year": "unknown",
+      "pages": null,
+      "size_mb": 0.07,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://content.myconnectsuite.com/api/documents/b9c76ab264c64440a067342658511b47.pdf",
+  "additional_urls": [
+    {
+      "url": "https://sites.google.com/rivendellschool.org/curriculum-handbook-ra/departments-and-courses",
+      "what": "Departments and Courses index of the Curriculum Handbook (one page per department, one subpage per course)"
+    },
+    {
+      "url": "https://content.myconnectsuite.com/api/documents/731667eac3cc4ac487c6be6d92cf47ac.pdf",
+      "what": "2026-2027 Student/Parent-Caregiver Handbook (36 pp; credit-per-grade promotion thresholds, 60 hrs community service; no subject-by-subject graduation requirement table found)"
+    },
+    {
+      "url": "https://content.myconnectsuite.com/api/documents/b9c76ab264c64440a067342658511b47.pdf",
+      "what": "School Profile 2022-2023 (linked from Guidance page); lists graduation requirements (27 credits: 5.0 LA, 4.5 Sci, 4.0 SS, 4.0 Math, PE, Visual Arts, Upper House Project/Internship, 60 hrs community service). Same title also at .../ead3d0629a754ebea807226e32e51983.pdf"
+    },
+    {
+      "url": "https://content.myconnectsuite.com/api/documents/847e967ee48045449a1172c53a86e83b.pdf",
+      "what": "School Profile 2016-17 (found via search)"
+    },
+    {
+      "url": "https://nhrivendellacademy.schoolinsites.com/programofstudies",
+      "what": "Same Academic Program page on the SchoolInSites host name"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ra.rivendellschool.org/programofstudies",
+      "quote": "Use the links below to ... find a list of courses, course descriptions, and sample units by subject and grade level."
+    }
+  ],
+  "school_status_notes": "Grades 6-12 school in Orford, NH serving VT and NH towns of an interstate district.",
+  "confidence": "medium",
+  "how_found": "ra.rivendellschool.org > Academic Program (/programofstudies) > department links > Google Site 'Curriculum Handbook - RA'",
+  "issues": "No PDF program of studies; the catalog is an undated Google Site curriculum handbook (~60 course subpages, grades 6-12, trimester courses). Not crawled; only the site home (with full nav listing every course) and the school's Academic Program page saved. Incomplete: Mathematics lists Pre-Algebra, Algebra I, Geometry, Algebra II, Pre-Calculus, Calculus, Statistics as titles only (only Grade 7 Math has a page); some nav links 404 (e.g. a 'shakespeare' link vs. 'shakespeare-survey'); course pages carry template placeholders for units; a 'Copy of Blank Course Template' page is published. No year on the site, so currency unknown; Google Sites 'Page updated' date is JS-rendered and not captured. Grad requirements: subject-by-subject list found only in the 2022-23 School Profile (outdated; set as grad_requirements_url, not downloaded); the 2026-27 student handbook has only credit thresholds and community service. Phase 2 will need to crawl ~60 Google Site subpages.",
+  "searched": [
+    "https://www.rivendellschool.org/ (district home, Handbooks)",
+    "https://ra.rivendellschool.org/ (school home), /programofstudies, /guidance, /handbook",
+    "https://nhrivendellacademy.schoolinsites.com/welcome",
+    "https://sites.google.com/rivendellschool.org/curriculum-handbook-ra/home, /departments-and-courses/language-arts, /mathematics, /language-arts/shakespeare-survey",
+    "WebSearch: Rivendell Academy program of studies course catalog",
+    "WebSearch: \"Rivendell Academy\" Orford course descriptions 2026-2027 OR \"course selection\""
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

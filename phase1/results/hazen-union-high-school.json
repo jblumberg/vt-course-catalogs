@@ -1,0 +1,53 @@
+{
+  "school_id": "hazen-union-high-school",
+  "school_name": "Hazen Union School",
+  "school_website": "https://hazen.ossu.org/",
+  "su_sd": "Orleans Southwest Supervisory Union",
+  "su_sd_matches_list": true,
+  "su_sd_note": "OSSU central office site title: 'Orleans Southwest Supervisory Union Central Office'; Hazen site footer also names Orleans Southwest Supervisory Union.",
+  "su_sd_source_url": "https://www.ossu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Hazen Union School 2026-2027 Course Catalog",
+  "catalog_url": "https://hazen.ossu.org/en-US/course-catalog",
+  "direct_file_url": "https://docs.google.com/document/d/1Q2XwHSVmKiBmVe0IZX8NdNf6IQdersU_Ih1KAtFn0lo/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/hazen-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 28,
+      "size_mb": 1.3,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://hazen.ossu.org/en-US/graduation-requirements-b9e181fb",
+  "additional_urls": [
+    {
+      "url": "https://hazen.ossu.org/en-US/prospective-families/course-catalog",
+      "what": "Second copy of the Course Catalog page (Prospective Families menu), same Google Doc link"
+    },
+    {
+      "url": "https://hazen.ossu.org/en-US/graduation-requirements-b9e181fb",
+      "what": "Graduation Requirements web page (HTML); the catalog itself also has a graduation requirements section (22 credits)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": "Grades 7-12 school; catalog covers high school courses plus Green Mountain Technology & Career Center programs.",
+  "confidence": "high",
+  "how_found": "hazen.ossu.org > Academics menu > Course Catalog page > link '2026-2027 Hazen Union Course Catalog' (Google Doc); exported to PDF",
+  "issues": "Catalog is a Google Doc exported to PDF (28 pages); the table of contents page numbers (up to 37) refer to the doc's own layout, not the export. Graduation requirements section lists credit areas but the credit numbers per area render poorly in the export (layout/tab characters) - check the Google Doc or the Graduation Requirements web page for exact values. GMTCC section says 'Updated January 2021'. No 2025-26 catalog found (page now links only 2026-27). Site mentions PowerSchool (SIS portal) only; no course-planning tool found.",
+  "searched": [
+    "WebSearch: Hazen Union High School program of studies course catalog",
+    "WebSearch: \"Hazen Union\" Naviance OR Xello OR SchoolLinks OR \"course selection\"",
+    "hazen.ossu.org home (en-US), /en/course-catalog, /en/prospective-families/course-catalog, /pages/b9e181fb... (Graduation Requirements), /en-US/counseling-center, /en/career-college",
+    "www.ossu.org home"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

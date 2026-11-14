@@ -1,0 +1,72 @@
+{
+  "school_id": "fair-haven-union-middle-and-high-school",
+  "school_name": "Fair Haven Union Middle and High School",
+  "school_website": "https://www.slatevalleyunified.org/",
+  "su_sd": "Slate Valley Unified Union School District (SVUUSD)",
+  "su_sd_matches_list": false,
+  "su_sd_note": "schools.csv lists 'Addison Rutland Supervisory Union' (ARSU). Under Act 46 the ARSU towns formed the Slate Valley Unified Union School District, which took over as a single-district supervisory district (July 2018 per news reports). The 2026-27 catalog refers only to 'SVUUSD' graduation requirements, and the Census BAS25 administrative-district list names 'Slate Valley Unified Union School District (Supervisory)' with no Addison Rutland SU entry. Could not confirm the district's self-name on its own website because slatevalleyunified.org returns a Cloudflare challenge. Arguably a rename of the same entity; human check suggested.",
+  "su_sd_source_url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_sdadm_vt.html",
+  "catalog_status": "found",
+  "catalog_title": "Fair Haven Union Middle & High School 2026 - 2027 Program of Studies",
+  "catalog_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1034/Fhuhs/7ea382d9-31fd-48f1-ac6c-aba0128eea69/2026-2027-FHUMHS-Program-of-Studies.pdf?disposition=inline",
+  "direct_file_url": null,
+  "linked_from_official_site": null,
+  "format": "pdf",
+  "web_host": "Apptegy / Thrillshare (files-backend.assets.thrillshare.com, account 1034 'Fhuhs')",
+  "course_planner": "none found (official site not reachable for automated access)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/fair-haven-union-middle-and-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 50,
+      "size_mb": 1.24,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1034/Fhuhs/7ea382d9-31fd-48f1-ac6c-aba0128eea69/2026-2027-FHUMHS-Program-of-Studies.pdf?disposition=inline",
+  "additional_urls": [
+    {
+      "url": "https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/1034/FHUHS/3742115/2024-2025_FHUMHS_Program_of_Studies_-_Google_Docs.pdf",
+      "what": "2024-25 Program of Studies (same Apptegy account, older; not downloaded)"
+    },
+    {
+      "url": "https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/1034/FHUHS/3742294/2023-2024_FHUMHS_Program_of_Studies_-_Google_Docs.pdf",
+      "what": "2023-24 Program of Studies (older; not downloaded)"
+    },
+    {
+      "url": "https://sites.google.com/a/arsu.org/fhuhs/forms-handbooks/program-of-studies",
+      "what": "Old ARSU-era Google Site 'Program of Studies' page; now redirects to Google sign-in"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1034/Fhuhs/7ea382d9-31fd-48f1-ac6c-aba0128eea69/2026-2027-FHUMHS-Program-of-Studies.pdf?disposition=inline",
+      "quote": "...more learning standards, and meet SVUUSD's graduation requirements."
+    },
+    {
+      "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_sdadm_vt.html",
+      "quote": "Slate Valley Unified Union School District (Supervisory)"
+    }
+  ],
+  "school_status_notes": "Grades 7-12; the catalog covers middle school (grades 7-8) and high school courses.",
+  "confidence": "medium",
+  "how_found": "web search 'FHUMHS Program of Studies 2025-2026 OR 2026-2027' (extended) returned the Thrillshare PDF; could not navigate the official site because it is behind a Cloudflare bot challenge",
+  "issues": "slatevalleyunified.org returns HTTP 403 with a Cloudflare challenge ('cf-mitigated: challenge') to automated requests, so I could not confirm where or whether the catalog is linked on the official site; not worked around per project rules. The legacy domain fhuhs.org (still on Wikipedia) is unreachable (proxy 502). The PDF is on Apptegy/Thrillshare under the school's account (1034/Fhuhs), the same account that hosts the 2023-24 and 2024-25 editions, and is titled and footed '2026-2027' on every page, so it is very likely official; confidence medium only because it was found via search. Counseling letter on p.3 still says 'The Program of Studies for 2025-2026' (stale text); course-request deadline March 2, 2026. Covers grades 7-12; graduation requirements and MS/HS proficiencies on pp.4-10; Stafford Technical Center programs on p.45+. No 2025-26 edition found in search.",
+  "searched": [
+    "web search: \"Fair Haven Union High School\" program of studies 2026-2027",
+    "web search: Fair Haven Union Middle & High School Vermont Slate Valley Unified school counseling program of studies",
+    "web search: Fair Haven Union High School Vermont official website Slaters",
+    "web search (extended): FHUMHS Program of Studies 2025-2026 OR 2026-2027 Fair Haven Union Middle High School",
+    "web search: \"Fair Haven Union\" Naviance OR Xello OR SchooLinks OR course selection 2026",
+    "web search: Slate Valley Unified Union School District supervisory district Addison Rutland Supervisory Union name change",
+    "https://www.slatevalleyunified.org/ (403 Cloudflare challenge)",
+    "https://www.fhuhs.org, https://fhuhs.org, https://www.svuusd.org, https://svuusd.org, https://www.arsu.org (all unreachable via proxy, 502)",
+    "https://sites.google.com/a/arsu.org/fhuhs/forms-handbooks/program-of-studies (Google sign-in)",
+    "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_sdadm_vt.html (Census administrative districts list)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

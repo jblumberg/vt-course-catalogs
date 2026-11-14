@@ -1,0 +1,64 @@
+{
+  "school_id": "middlebury-union-high-school",
+  "school_name": "Middlebury Union High School",
+  "school_website": "https://muhs.acsdvt.org/",
+  "su_sd": "Addison Central School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "schools.csv lists 'Addison Central Supervisory Union' (legal district: Addison Central Unified Union School District #55); the single-district entity brands itself 'Addison Central School District' (ACSD). Same entity.",
+  "su_sd_source_url": "https://www.acsdvt.org/",
+  "catalog_status": "found",
+  "catalog_title": "Middlebury Union High School Course Description Catalog 2026-2027",
+  "catalog_url": "https://drive.google.com/file/d/11MfPAesWdcEWEu2p7hHYj4IPBdd41U_X/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=11MfPAesWdcEWEu2p7hHYj4IPBdd41U_X",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Google Drive (linked from Finalsite school site)",
+  "course_planner": "Naviance (college/career planning; student.naviance.com/middleburyuhs). No course-catalog tool found.",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/middlebury-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 64,
+      "size_mb": 1.6,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/11MfPAesWdcEWEu2p7hHYj4IPBdd41U_X/view?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://muhs.acsdvt.org/academics/course-catalog",
+      "what": "Academics > Course Catalog page ('view it here' links to the same Drive PDF)"
+    },
+    {
+      "url": "https://muhs.acsdvt.org/our-school/counseling",
+      "what": "School Counseling page: links 2026-2027 Course Catalog, MUHS 2026-2027 Course Registration Information, school profiles, and older catalogs"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1EVb5mj-b9kzJ9_N1SyyaUwzKad2SC5cje3EGsqzMcIE/edit?usp=sharing",
+      "what": "MUHS 2026-2027 Course Registration Information (Google Doc), not downloaded"
+    },
+    {
+      "url": "https://muhs.acsdvt.org/fs/resource-manager/view/4dadce19-c85a-4c0a-84c9-631e388d8e9c",
+      "what": "2022-2023 Course Catalog (older; linked from counseling page)"
+    },
+    {
+      "url": "https://muhs.acsdvt.org/fs/resource-manager/view/05ca35c1-8521-4ba7-9c3c-e0a9f2f5f2e6",
+      "what": "2021-2022 Course Catalog (older)"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "muhs.acsdvt.org > Academics > Course Catalog (and Our School > Counseling > 2026-2027 Course Catalog) > Google Drive PDF",
+  "issues": "Graduation requirements are in the catalog (section starting p.7). IB World School (MYP grades 9-10 and Diploma Programme) - course structure reflects IB. No 2025-26 catalog linked (only 2022-23 and 2021-22 archived on the counseling page; not downloaded).",
+  "searched": [
+    "WebSearch: \"Middlebury Union High School\" program of studies 2026-2027",
+    "https://muhs.acsdvt.org/ (home nav), /academics/course-catalog, /our-school/counseling, /family-resources/graduation-information",
+    "https://www.acsdvt.org/ (district home)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

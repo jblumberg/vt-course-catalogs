@@ -1,0 +1,82 @@
+{
+  "school_id": "montpelier-high-school",
+  "school_name": "Montpelier High School",
+  "school_website": "https://www.mrpsvt.org/mhs",
+  "su_sd": "Montpelier Roxbury Public School District (MRPS)",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Single-district supervisory district: the site brands itself 'Montpelier Roxbury Public Schools' / 'Montpelier Roxbury Public School District (MRPS)'; same entity as 'Montpelier-Roxbury Supervisory Union' / MRUUSD #71 in schools.csv. Staff Google sites still use the older mpsvt.org domain.",
+  "su_sd_source_url": "https://www.mrpsvt.org/",
+  "catalog_status": "found",
+  "catalog_title": "MHS Program of Studies 2026-2027 (PDF title 'MHS POS 26-27')",
+  "catalog_url": "https://drive.google.com/file/d/1IKMmBg62BtRP4qTP85wSDJZAB3dqEO_-/view?usp=sharing",
+  "direct_file_url": "https://drive.google.com/uc?export=download&id=1IKMmBg62BtRP4qTP85wSDJZAB3dqEO_-",
+  "linked_from_official_site": true,
+  "format": "google_drive_file",
+  "web_host": "Squarespace (district site) linking Google Drive",
+  "course_planner": "Naviance (listed on counseling site)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/montpelier-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 62,
+      "size_mb": 4.2,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/montpelier-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 59,
+      "size_mb": 2.3,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://drive.google.com/file/d/1IKMmBg62BtRP4qTP85wSDJZAB3dqEO_-/view?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://drive.google.com/file/d/1eIuk6SwbFMphP9TDFuhAgOfZJvRH_d21/view?usp=sharing",
+      "what": "2025-2026 Program of Studies (Drive PDF, still linked from MHS page)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1gxbsIOsB9bsJmMSLyKyaB1nmWJfdRIXYKLJ0HzVW9AI/edit?usp=sharing",
+      "what": "Inline 'Program of Studies' link in the MHS page intro text - opens the 2025-2026 Google Doc, not 2026-27 (stale link)"
+    },
+    {
+      "url": "https://sites.google.com/mpsvt.org/mhsguidance/",
+      "what": "MHS Counseling Department site; links the same 2026-2027 Drive PDF and Naviance"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1eqaDZfYZYccwFqQthK_W5eVqMx9_3H4moqVp2LjO2uc/edit?usp=sharing",
+      "what": "MHS Flexible Pathways Handbook"
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1g_VCBvC0P6jgvWqJ6rDeTMVt5asHEkgD?usp=sharing",
+      "what": "MRPS Learning Expectations folder (part of graduation proficiency requirements)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.mrpsvt.org/mhs",
+      "quote": "Students have the chance to choose courses from our annual Program of Studies. For the 2026-2027 school year, our enrollment is about 400 students."
+    },
+    {
+      "url": "https://www.mrpsvt.org/",
+      "quote": "Montpelier Roxbury Public School District (MRPS)"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "district site mrpsvt.org/mhs > Handbooks section > '2026-2027 Program of Studies' (Google Drive PDF); also linked from the MHS Counseling Google Site",
+  "issues": "2026-27 PDF's first page is an unfinished placeholder ('IMAGE for POS 26-27 To Go Here!') - looks like a draft-quality export, but content (principal letter for 2026-2027, grad requirements, department course descriptions) is complete. Graduation requirements are inside (23 core credits + proficiency in 8 Learning Expectations). The MHS page's inline 'Program of Studies' link and the search-indexed Google Doc are the 2025-26 version. `file` misreports the 2025-26 page count (8); pdfinfo says 59.",
+  "searched": [
+    "WebSearch: \"Montpelier High School\" Vermont program of studies 2026-2027",
+    "mrpsvt.org/mhs (Handbooks links)",
+    "mrpsvt.org home (district name)",
+    "sites.google.com/mpsvt.org/mhsguidance/",
+    "Drive downloads of 1IKMmBg62... (2026-27) and 1eIuk6Swb... (2025-26); Docs export of 1gxbsIOs... (2025-26)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

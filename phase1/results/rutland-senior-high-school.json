@@ -1,0 +1,73 @@
+{
+  "school_id": "rutland-senior-high-school",
+  "school_name": "Rutland High School",
+  "school_website": "https://rhs.rutlandcitypublicschools.org/",
+  "su_sd": "Rutland City Public Schools (Rutland City School District)",
+  "su_sd_matches_list": true,
+  "su_sd_note": "Site brands itself 'Rutland City Public Schools' and refers to the 'Rutland City School District'; this is the single-district Rutland City Supervisory District in schools.csv. Same entity.",
+  "su_sd_source_url": "https://www.rutlandcitypublicschools.org/",
+  "catalog_status": "found",
+  "catalog_title": "Rutland High School 2026-2027 Academic Program of Studies",
+  "catalog_url": "https://rhs.rutlandcitypublicschools.org/families/rhs-program-of-studies-2023-2024",
+  "direct_file_url": "https://resources.finalsite.net/images/v1763733373/rutlandcitypublicschoolscom/s8jhipxxkbok551ephn4/RHSProgramofStudies26-27.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Finalsite",
+  "course_planner": "none found",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/rutland-senior-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 57,
+      "size_mb": 3.2,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/rutland-senior-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 56,
+      "size_mb": 4.2,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://rhs.rutlandcitypublicschools.org/academics/graduation-requirements",
+  "additional_urls": [
+    {
+      "url": "https://rhs.rutlandcitypublicschools.org/fs/resource-manager/view/9817da45-336a-47e5-a898-219a0bf78e56",
+      "what": "Finalsite resource link for the 2026-27 PDF (redirects to direct_file_url)"
+    },
+    {
+      "url": "https://rhs.rutlandcitypublicschools.org/fs/resource-manager/view/2aa13b2c-2c44-4f06-8a43-3217678ce8f1",
+      "what": "2025-26 Program of Studies PDF (RHSProgramofStudies25-26FINAL.pdf)"
+    },
+    {
+      "url": "https://rhs.rutlandcitypublicschools.org/families/yes-plan-program-of-studies",
+      "what": "YES PLAN (Year End Studies) Program of Studies page"
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1qcBJNYGmlhnruZ6bVpJf5wCJN3-1H4mT",
+      "what": "'Curriculum Documents' Google Drive folder linked from Academics menu (not opened/crawled)"
+    },
+    {
+      "url": "https://rhs.rutlandcitypublicschools.org/academics/departments",
+      "what": "Department pages"
+    }
+  ],
+  "evidence": [],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "rhs.rutlandcitypublicschools.org > Resources For Families and Students > RHS Program of Studies (page slug still says 2023-2024) > '2026-2027 Program of Studies' resource link (Finalsite PDF)",
+  "issues": "The 2026-27 PDF's internal metadata title is 'RHS Program of Studies 26-27 DRAFT' (uploaded ~Nov 2025, before course selection) although the word DRAFT does not appear in the text; it is the version the site links as current. Page URL slug is outdated ('rhs-program-of-studies-2023-2024') but content lists 2026-27 and 2025-26 files (2024-25 heading only). Old domain rcpsvt.org (seen in search results/Wikipedia) fails TLS / does not resolve; the live domain is rutlandcitypublicschools.org. Graduation requirements (26 credits + PBGRs) are an HTML page, not a file. No course-planning tool named on the site (Infinite Campus is the SIS).",
+  "searched": [
+    "WebSearch: Rutland High School Vermont program of studies 2026-2027",
+    "WebSearch: Rutland High School Raiders Vermont \"Program of Studies\" OR \"course catalog\" counseling rcps",
+    "https://www.rcpsvt.org/, https://rcpsvt.org/, https://rhs.rcpsvt.org/ (TLS error / 502 / DNS fail)",
+    "www.rutlandcitypublicschools.org home",
+    "rhs.rutlandcitypublicschools.org home, /families/rhs-program-of-studies-2023-2024, /families/yes-plan-program-of-studies, /academics, /academics/graduation-requirements, /academics/information-center, /guidance, /guidance/counseling/academic-counseling, /guidance/post-secondary-planning (+ careers, freshman-timeline)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

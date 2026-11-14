@@ -1,0 +1,75 @@
+{
+  "school_id": "missisquoi-valley-union-high-school",
+  "school_name": "Missisquoi Valley Union High School",
+  "school_website": "https://mvu.mvsdschools.org/",
+  "su_sd": "Missisquoi Valley School District (MVSD)",
+  "su_sd_matches_list": false,
+  "su_sd_note": "schools.csv lists 'Franklin Northwest Supervisory Union' (FNWSU). The district now presents itself as 'Missisquoi Valley School District' (site title, 'MVSD Board Meeting', superintendent Julie Regimbal), a single-district supervisory district: Census BAS25 lists 'Missisquoi Valley School District (Supervisory)' and an AOE report title cites 'SU021 Missisquoi Valley School District (Supervisory)' (SU021 was FNWSU's number). Remnants of the old name remain (fnwsu.org Google Sites for student services/employee portal). Effectively FNWSU reorganized/renamed into MVSD; recorded as false per the rename rule, human check suggested.",
+  "su_sd_source_url": "https://www.mvsdschools.org/",
+  "catalog_status": "found",
+  "catalog_title": "Missisquoi Valley Union Program of Studies 2026-2027 Grades 9-12",
+  "catalog_url": "https://4.files.edl.io/ba91/07/30/26/152358-1c314dac-fc7e-4193-8098-35dd07e944a8.pdf",
+  "direct_file_url": null,
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Edlio (files.edl.io)",
+  "course_planner": "none found (PowerSchool used for SIS; no course-planning tool linked)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/missisquoi-valley-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 37,
+      "size_mb": 0.7,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/missisquoi-valley-union-high-school/grad_requirements_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 1,
+      "size_mb": 0.06,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1UL1KeAwIMdO76waKaKqlQKVd8zxOXU3JzOusB0TqoJs/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://mvu.mvsdschools.org/apps/pages/index.jsp?uREC_ID=3951392&type=d",
+      "what": "School Counseling page linking Program of Studies 26-27, Graduation Requirements and School Profile"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1UQkOZPpOSoxvQpBTa5caDYJ-x8GgM2V-r2VdMvWPXGA/edit?usp=sharing",
+      "what": "MS Program of Studies 26-27 and Expectations (grades 7-8; out of scope, not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1Sd9kCEFLIYErz6q505sXI5vBH8Wv3kH9wLnRIzAmWZA/edit?usp=sharing",
+      "what": "MVU School Profile (Google Doc)"
+    },
+    {
+      "url": "https://sites.google.com/mvsdschools.org/mvsd-curriculum/mvu-pbgrs?authuser=0",
+      "what": "MVU Proficiency Based Graduation Requirements (curriculum Google Site)"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_sdadm_vt.html",
+      "quote": "Missisquoi Valley School District (Supervisory)"
+    }
+  ],
+  "school_status_notes": "Grades 7-12 building; high school catalog covers grades 9-12 only, middle school has a separate Google Doc.",
+  "confidence": "high",
+  "how_found": "mvuschool.org (redirects to mvu.mvsdschools.org) > School Counseling > 'Program of Studies 26-27' (Edlio PDF); also in the site menu",
+  "issues": "Graduation requirements are a separate 1-page Google Doc (exported to PDF) plus a section on p.7 of the catalog. Courses carry 4-digit codes, grade levels, length and credit. Northwest Career & Technical Center is mentioned (ten programs; NCTC courses that can earn academic credit) but its programs are not described. No 2025-26 edition found (not searched hard). mvuschool.org is an alias that redirects to mvu.mvsdschools.org.",
+  "searched": [
+    "web search: \"Missisquoi Valley Union\" program of studies 2026-2027",
+    "web search: \"Missisquoi Valley School District\" supervisory district Franklin Northwest Supervisory Union",
+    "https://mvuschool.org -> https://mvu.mvsdschools.org/ (home, School Counseling page)",
+    "https://www.mvsdschools.org/ (district home)",
+    "https://www.fnwsu.org (connection reset)",
+    "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_sdadm_vt.html"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

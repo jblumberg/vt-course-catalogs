@@ -1,0 +1,68 @@
+{
+  "school_id": "otter-valley-union-high-school",
+  "school_name": "Otter Valley Union High School (Otter Valley Union Middle and High School)",
+  "school_website": "https://ovus.rnesu.org/o/ovumshs",
+  "su_sd": "Rutland Northeast SU 36 (Rutland Northeast Supervisory Union)",
+  "su_sd_matches_list": true,
+  "su_sd_note": "SU site (rnesu.org) brands itself 'Rutland Northeast SU 36'; same entity as 'Rutland Northeast Supervisory Union' in schools.csv. The school site is a subsite of the SU's Apptegy site.",
+  "su_sd_source_url": "https://www.rnesu.org/",
+  "catalog_status": "found",
+  "catalog_title": "Otter Valley Union High School 2026-2027 Course Catalog",
+  "catalog_url": "https://ovus.rnesu.org/o/ovumshs/page/guidance",
+  "direct_file_url": "https://docs.google.com/document/d/1rRtbzTDhTOXsrvBWNyInS_C0nVthGHOSUKRqrJeFDrc/edit?usp=sharing",
+  "linked_from_official_site": true,
+  "format": "google_doc",
+  "web_host": "Google Docs (linked from Apptegy school site)",
+  "course_planner": "none found (PowerSchool used for student information; no course-planning tool linked)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/otter-valley-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 57,
+      "size_mb": 1.27,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/otter-valley-union-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 54,
+      "size_mb": 1.21,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://docs.google.com/document/d/1rRtbzTDhTOXsrvBWNyInS_C0nVthGHOSUKRqrJeFDrc/edit?usp=sharing",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/1o4Ddp_tu1mosTaIPmUgoV5VRQLHHtUXDTomED2X-o3Q/edit?usp=sharing",
+      "what": "2025-2026 Course Catalog (Google Doc), also linked on the Counseling Center page"
+    },
+    {
+      "url": "https://www.rnesu.org/page/act170",
+      "what": "SU Act 170 (statewide consolidation) info page"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ovus.rnesu.org/o/ovumshs/page/guidance",
+      "quote": "2026-2027 Course Catalog with Course Descriptions: Click here!"
+    }
+  ],
+  "school_status_notes": "RNESU has an 'act 170 info' page (statewide consolidation planning).",
+  "confidence": "high",
+  "how_found": "rnesu.org > Schools > Otter Valley Union Middle and High School (ovus.rnesu.org/o/ovumshs) > 'Course Catalogs' menu link > Counseling Center (formerly Guidance) page > '2026-2027 Course Catalog with Course Descriptions: Click here!' (Google Doc, exported to PDF)",
+  "issues": "WARNING: the old domain ovuhs.org / www.ovuhs.org now serves an unrelated Indonesian lottery/gambling (togel) spam site - do not use. Grad requirements are in the catalog itself (26.5 credits, class of 2026 and beyond: Eng 5, SS 4, Math 3, Sci 3, PE 1.5, FACS/Health 0.5, Fine Arts 2, Personal Finance 0.5, Electives 7). Catalog is high school only (Google Doc title '2026-2027 Course Catalog - High School'); no middle-school catalog found. Living Google Doc, may change after the check date. Apptegy page content is JS-rendered; links read from embedded page JSON.",
+  "searched": [
+    "WebSearch: Otter Valley Union High School program of studies 2026-2027",
+    "https://ovuhs.org / https://www.ovuhs.org (spam site)",
+    "https://www.ovuu.org (unreachable)",
+    "https://www.rnesu.org/ (SU home)",
+    "https://ovus.rnesu.org/o/ovumshs (school home)",
+    "https://ovus.rnesu.org/o/ovumshs/page/guidance (Counseling Center; target of 'Course Catalogs' menu link)",
+    "Google Doc exports 1rRtbzTDhTOXsrvBWNyInS_C0nVthGHOSUKRqrJeFDrc (2026-27) and 1o4Ddp_tu1mosTaIPmUgoV5VRQLHHtUXDTomED2X-o3Q (2025-26)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

@@ -1,0 +1,91 @@
+{
+  "school_id": "bellows-free-academy-st-albans",
+  "school_name": "Bellows Free Academy (St. Albans)",
+  "school_website": "https://www.maplerun.org/o/bfa",
+  "su_sd": "Maple Run Unified School District",
+  "su_sd_matches_list": true,
+  "su_sd_note": "The district website (maplerun.org) brands itself 'Maple Run Unified School District' (MRUSD); schools.csv lists 'Maple Run Supervisory Union' / 'Maple Run Unified Union School District #57'. Same entity (single-district supervisory district).",
+  "su_sd_source_url": "https://www.maplerun.org/",
+  "catalog_status": "found",
+  "catalog_title": "Program of Studies 2026-27 (Bellows Free Academy, St. Albans, Vermont); PDF title '2026-27 Program of Studies.docx'",
+  "catalog_url": "https://5il.co/3t375",
+  "direct_file_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/218/Bfa/3989c4ac-4ed7-4af9-b5aa-b6bde6adfe55/2026-27_Program_of_Studies.pdf",
+  "linked_from_official_site": true,
+  "format": "pdf",
+  "web_host": "Apptegy / Thrillshare (5il.co short links)",
+  "course_planner": "none found (PowerSchool used for grades; no Xello/Naviance/SchoolLinks references found)",
+  "school_year": "2026-27",
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/bellows-free-academy-st-albans/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 54,
+      "size_mb": 7.0,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/bellows-free-academy-st-albans/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 52,
+      "size_mb": 21.8,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/bellows-free-academy-st-albans/grad_requirements_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 1,
+      "size_mb": 0.04,
+      "retrieved_on": "2026-11-14"
+    }
+  ],
+  "grad_requirements_url": "https://aptg.co/4jBr5M",
+  "additional_urls": [
+    {
+      "url": "https://5il.co/3t38y",
+      "what": "Second link to the 2026-27 Program of Studies on the Guidance page (byte-identical file, different upload)"
+    },
+    {
+      "url": "https://5il.co/319il",
+      "what": "2025-26 Program of Studies (Guidance page)"
+    },
+    {
+      "url": "https://5il.co/2av00",
+      "what": "2024-25 Program of Studies (Guidance page), not downloaded"
+    },
+    {
+      "url": "https://www.maplerun.org/o/bfa/page/program-of-studies",
+      "what": "Stale 'Program of Studies' page that still lists only 2023-24, 2023-24 (9th grade) and 2022-23 editions"
+    },
+    {
+      "url": "https://www.maplerun.org/o/bfa/page/guidance",
+      "what": "Guidance page listing POS 2026-27 / 2025-26 / 2024-25, grad-requirements checklist and 2026-27 school profile (https://aptg.co/sYCKhq)"
+    },
+    {
+      "url": "https://www.maplerun.org/o/bfa/page/students",
+      "what": "Students page with '26-27 BFA Program of Studies' link and department pages"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.maplerun.org/",
+      "quote": "Welcome to Maple Run Unified School District!"
+    }
+  ],
+  "school_status_notes": null,
+  "confidence": "high",
+  "how_found": "maplerun.org/o/bfa > Students > '26-27 BFA Program of Studies' (also Guidance > Program of Studies 2026-2027)",
+  "issues": "PDF cover is an image (no year text on p.1); year confirmed from PDF title, filename and body text ('Courses offered for 2026-2027'). Some courses alternate years ('Offered 2026-2027' / 'Offered 2027-2028'). Course entries carry numeric codes (e.g. 10248Y). The dedicated /page/program-of-studies page is stale (2023-24 latest) — use the Guidance/Students links. 2025-26 copy is large (22 MB, likely image-heavy). Grad requirements are a one-page checklist PDF; the POS itself also has a Graduation Requirements section (p.4). NCTC (Northwest Career & Technical Center) courses are referenced but are out of scope.",
+  "searched": [
+    "WebSearch: \"Bellows Free Academy\" St. Albans program of studies 2026-2027",
+    "https://www.maplerun.org/o/bfa (school home)",
+    "https://www.maplerun.org/o/bfa/page/program-of-studies",
+    "https://www.maplerun.org/o/bfa/page/guidance",
+    "https://www.maplerun.org/o/bfa/page/students",
+    "https://www.maplerun.org/o/bfa/page/bfa-personal-learning-plan",
+    "https://www.maplerun.org/ (district home)"
+  ],
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
+}

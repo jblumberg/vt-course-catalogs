@@ -2,35 +2,85 @@
   "school_id": "champlain-valley-union-high-school",
   "school_name": "Champlain Valley Union High School",
   "school_website": "https://cvuhs.cvsdvt.org/",
-  "su_sd": "Champlain Valley School District (CVSD)",
+  "su_sd": "Champlain Valley School District",
   "su_sd_matches_list": true,
+  "su_sd_note": "The district brands itself 'Champlain Valley School District' (CVSD) on its website header/title; legal entity is Champlain Valley Unified Union School District #56. schools.csv lists 'Champlain Valley Supervisory Union' (a 2020 Legislature SU map also shows 'Champlain Valley SU'). Same entity, different naming. The 2026-27 catalog itself also calls it the 'Champlain Supervisory School District'. Whether it is formally an SU or a supervisory district was not confirmed from an official source.",
   "su_sd_source_url": "https://www.cvsdvt.org/",
   "catalog_status": "found",
   "catalog_title": "Champlain Valley Union High School Course Offering Booklet 2026-2027",
   "catalog_url": "https://docs.google.com/document/d/e/2PACX-1vSvQz6b7jY6_WcEiBAlq6jpAatUF5qvjJZ3kK26aBZhANs4g_UEWIMlRTcL4qq-oQ/pub",
-  "format": "google_doc",
-  "platform": "Google Docs (published to web)",
+  "direct_file_url": "https://docs.google.com/document/d/1M1SFSOjHwjfmo9UCcH7lsDvNvkpkHtpj/edit",
+  "linked_from_official_site": true,
+  "format": "google_doc_published",
+  "web_host": "Google Docs (published to web)",
+  "course_planner": "none found",
   "school_year": "2026-27",
-  "additional_urls": [
-    {"url": "https://docs.google.com/document/d/1M1SFSOjHwjfmo9UCcH7lsDvNvkpkHtpj/edit", "what": "Underlying Google Drive document for the 2026-27 booklet ('Course Catalog SY 2026-2027.docx'); used for PDF export. Found via web search, not linked from school site."},
-    {"url": "https://docs.google.com/document/d/19TZjjjFrwKQSR244aU4a89ApJnKJ0uqx/edit", "what": "2025-26 Course Offering Booklet ('Course Catalog SY 2025-2026.docx'), 56 pages; found via web search, not linked from school site."},
-    {"url": "https://docs.google.com/document/d/1wvTUcBN_okd9yvf2VwIfyme-w9p_q74Q/edit", "what": "2024-25 Course Offering Booklet (older, not downloaded)"},
-    {"url": "https://docs.google.com/document/d/1oqWVZbCRtYh2Hf8Y4EK-WUarQoYI9G7c/edit", "what": "1-page Graduation Requirements for Class of 2027 & 2028 (found via search)"},
-    {"url": "https://directioncenter.cvuhs.org/", "what": "School Counseling Office / Direction Center site (no catalog link found there)"},
-    {"url": "https://cvuhs.cvsdvt.org/school-info-1f/school-profile", "what": "School profile (2026-27), summarizes grade 9 Core Program"}
+  "coverage": "full_year",
+  "includes_descriptions": "all",
+  "local_copies": [
+    {
+      "path": "catalogs/champlain-valley-union-high-school/catalog_2026-27.pdf",
+      "year": "2026-27",
+      "pages": 62,
+      "size_mb": 1.9,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/champlain-valley-union-high-school/catalog_2026-27_published.html",
+      "year": "2026-27",
+      "pages": null,
+      "size_mb": 0.5,
+      "retrieved_on": "2026-11-14"
+    },
+    {
+      "path": "catalogs/champlain-valley-union-high-school/catalog_2025-26.pdf",
+      "year": "2025-26",
+      "pages": 56,
+      "size_mb": 1.7,
+      "retrieved_on": "2026-11-14"
+    }
   ],
-  "local_copy": "catalogs/champlain-valley-union-high-school/catalog_2026-27.pdf",
-  "pages_or_size": "62 pages (1.9 MB PDF export); 2025-26 version 56 pages (1.7 MB)",
-  "includes_descriptions": true,
+  "grad_requirements_url": "https://docs.google.com/document/d/e/2PACX-1vSvQz6b7jY6_WcEiBAlq6jpAatUF5qvjJZ3kK26aBZhANs4g_UEWIMlRTcL4qq-oQ/pub",
+  "additional_urls": [
+    {
+      "url": "https://docs.google.com/document/d/19TZjjjFrwKQSR244aU4a89ApJnKJ0uqx/edit",
+      "what": "2025-26 Course Offering Booklet ('Course Catalog SY 2025-2026.docx'), 56 pages; found via web search, not linked from school site"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1wvTUcBN_okd9yvf2VwIfyme-w9p_q74Q/edit",
+      "what": "2024-25 Course Offering Booklet (older, not downloaded)"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1oqWVZbCRtYh2Hf8Y4EK-WUarQoYI9G7c/edit",
+      "what": "1-page 'Graduation Requirements for Class of 2027 & 2028' doc found by the pilot via search. Does NOT name any school and does NOT match CVU's requirements (says 4 math, 4 social studies incl. Economics & Personal Finance, mentions ROTC; CVU catalog says 3 math, 3 social studies). Probably another school's - do not use for CVU."
+    },
+    {
+      "url": "https://directioncenter.cvuhs.org/",
+      "what": "School Counseling Office / Direction Center site (no catalog link found there)"
+    },
+    {
+      "url": "https://cvuhs.cvsdvt.org/school-info-1f/school-profile",
+      "what": "School profile (2026-27), summarizes grade 9 Core Program"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.cvsdvt.org/",
+      "quote": "Welcome to Champlain Valley School District"
+    }
+  ],
+  "school_status_notes": null,
   "confidence": "high",
-  "how_found": "school site homepage (cvuhs.cvsdvt.org) > 'Course Offerings 2026-2027' link > published Google Doc; 2025-26 and Drive doc IDs via web search '\"Champlain Valley Union High School\" program of studies 2025-2026'",
-  "issues": "Primary is the 2026-27 booklet (the only one linked from the school site); the published doc is 'updated automatically every 5 minutes', so content can change. The PDF was exported from the underlying Drive doc 1M1S... (same title 'Course Catalog SY 2026-2027.docx' as the published doc); the published HTML is also saved as catalog_2026-27_published.html. 2025-26 copy saved as catalog_2025-26.pdf. The Drive doc IDs were found via search engine, not linked from an official page, though they carry CVU's title and match the published content. SU/SD: district calls itself 'Champlain Valley School District' (CVSD; legal name Champlain Valley Unified Union School District #56); schools.csv lists 'Champlain Valley Supervisory Union'. Treated as the same entity under different naming, so recorded as matching, but I could not confirm from an official source whether CVSD is formally an SU or a supervisory district — human check suggested.",
+  "how_found": "school site homepage (cvuhs.cvsdvt.org) > 'Course Offerings 2026-2027' link > published Google Doc; underlying Drive doc and 2025-26 doc IDs via web search '\"Champlain Valley Union High School\" program of studies 2025-2026' (pilot run, reused)",
+  "issues": "Primary is the 2026-27 booklet, linked from the school homepage as a published Google Doc ('updated automatically every 5 minutes', so content can change). The PDF copy was exported (by the pilot) from the underlying Drive doc 1M1S... which carries the same title 'Course Catalog SY 2026-2027.docx' and matches the published content, but that Drive ID was found via search engine, not an official link; the published HTML is also saved. Graduation requirements are on p.6 of the catalog ('CVU's GRADUATION REQUIREMENTS': English 4, Math 3, Science 3, Social Studies 3, Health .5, PE 1.5, Practical Arts .5, Fine Arts .5, Senior Exit .5, Electives 3.5, RISE 2) - no separate grad requirements doc found. The pilot's 1-page grad-requirements Google Doc (1oqW...) was downloaded and checked in this run: it names no school and contradicts the CVU catalog, so it was discarded. No course-planner tool found (pilot did not check explicitly; none mentioned in catalog search).",
   "searched": [
     "https://cvuhs.cvsdvt.org/ (homepage nav)",
     "https://directioncenter.cvuhs.org/ (counseling site)",
-    "https://www.cvsdvt.org/ (district site)",
+    "https://www.cvsdvt.org/ (district site; header/title checked for official name)",
     "web search: \"Champlain Valley Union High School\" program of studies 2025-2026",
-    "web search: \"Champlain Valley School District\" supervisory district/union"
+    "web search: \"Champlain Valley School District\" \"supervisory district\" OR \"supervisory union\" Vermont",
+    "https://docs.google.com/document/d/1oqWVZbCRtYh2Hf8Y4EK-WUarQoYI9G7c/export?format=pdf (grad doc, checked and rejected)"
   ],
-  "checked_on": "2026-11-14"
+  "checked_on": "2026-11-14",
+  "retrieved_on": "2026-11-14"
 }
