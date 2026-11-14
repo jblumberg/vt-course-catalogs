@@ -6,7 +6,7 @@ Out of scope for now: career & technical (CTE) centers, independent/private scho
 ## Phases
 1. **Find catalogs** — one record per school: catalog link, format, year, issues, SU/SD, `retrieved_on`.
 2. **Extract courses** — one record per course per school (`.claude/skills/extract-courses/SKILL.md`).
-3. Compare against 3 proposed graduation-requirement changes (not started).
+3. **Classify + gap analysis** against the AOE proposals — see `PLAN.md` (read it first).
 
 ## Re-runnable workflow (Phase 1 → Phase 2)
 1. Human adds hand-found catalogs to `data/manual_catalogs.csv` (URL, or a file uploaded to `catalogs/<id>/`).
