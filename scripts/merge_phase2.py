@@ -32,15 +32,14 @@ _SRC = {}
 
 
 def source_words(sid):
-    """Words of phase2/text/<sid>.txt with page markers removed (cached)."""
+    """Word lists of each text version (layout .txt and reading-order .raw.txt), markers removed (cached)."""
     if sid not in _SRC:
-        txt = ""
-        for name in (f"{sid}.txt", f"{sid}.raw.txt"):   # layout + reading-order versions
+        out = []
+        for name in (f"{sid}.txt", f"{sid}.raw.txt"):
             p = ROOT / "phase2/text" / name
             if p.exists():
-                txt += "\n" + p.read_text(errors="replace")
-        txt = re.sub(r"=== (FILE|PAGE|SECTION)[^=]*===", " ", txt)
-        _SRC[sid] = _words(txt)
+                out.append(_words(re.sub(r"=== (FILE|PAGE|SECTION)[^=]*===", " ", p.read_text(errors="replace"))))
+        _SRC[sid] = out
     return _SRC[sid]
 
 
@@ -51,11 +50,11 @@ def verify_description(sid, desc, notes=None, n=6):
       - 'possible dropped text': words in the source between its first and last phrase that appear
         in neither the description nor notes (page headers/footers/numbers ignored)
     """
-    src = source_words(sid)
+    versions = source_words(sid)
     w = _words(desc)
-    if not src or len(w) < n + 2:
+    if not versions or len(w) < n + 2:
         return None
-    grams = {tuple(src[i:i + n]) for i in range(len(src) - n + 1)}
+    grams = {tuple(v[i:i + n]) for v in versions for i in range(len(v) - n + 1)}
     dg = [tuple(w[i:i + n]) for i in range(len(w) - n + 1)]
     miss = sum(1 for g in dg if g not in grams) / len(dg)
     if miss > 0.15:
@@ -63,18 +62,17 @@ def verify_description(sid, desc, notes=None, n=6):
     first, last = dg[0], dg[-1]
     have = Counter(w) + Counter(_words(notes))
     noise = footer_words(sid)
-    starts = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) == first]
-    ends = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) == last]
-    best = None   # for each end, the nearest start before it; keep the pair with fewest missing words
-    for e in ends:
-        prior = [s for s in starts if s <= e]
-        if not prior:
-            continue
-        s = prior[-1]
-        left = Counter(x for x in src[s:e + n] if not x.isdigit() and x not in noise) - have
-        k = sum(left.values())
-        if best is None or k < best[0]:
-            best = (k, left)
+    best = None   # per version: for each end, the nearest start before it; keep fewest missing words
+    for src in versions:
+        starts = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) == first]
+        for e in (i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) == last):
+            prior = [s for s in starts if s <= e]
+            if not prior:
+                continue
+            left = Counter(x for x in src[prior[-1]:e + n] if not x.isdigit() and x not in noise) - have
+            k = sum(left.values())
+            if best is None or k < best[0]:
+                best = (k, left)
     if best and best[0] > 6:
         return f"possible dropped text ({best[0]} source words missing, e.g. {' '.join(list(best[1])[:8])})"
     return None
@@ -147,6 +145,9 @@ def load(p):
 
 
 def main():
+    if any(a in ("-h", "--help") for a in sys.argv[1:]):
+        print(__doc__)
+        return
     if "--check" in sys.argv:
         sid = sys.argv[sys.argv.index("--check") + 1]
         d, e = load(ROOT / "phase2/courses" / f"{sid}.json")
