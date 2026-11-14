@@ -130,6 +130,16 @@ For each requirement:
 - **Gap** — nothing found.
 - **Unknown** — the catalog lacks descriptions (Mill River), or the school hasn't been extracted.
 
+Rules from the human's review (v0.3):
+- **Algebra II** is mapped only to MATH-STATS-ALG2. Under the Transitional plan (which needs 0 STATS-ALG2 credits) it may fill MATH-PATHWAY.
+  In general, a course mapped to a more specific math requirement may also fill MATH-PATHWAY, but each course counts once.
+- **Integrated/mixed science** (and similar, e.g. CAD with geometry content) may count as **partial credit** toward each domain it covers.
+  Report these separately from full coverage.
+- **Catalog claims vs. content:** `catalog_claims` records what the school says a course fulfills (e.g. Woodworking for English or
+  Science). Coverage uses content-based mappings only. A separate statistic counts courses where the claim and the content disagree.
+- **Flexible pathways** (`other_type: Flexible pathway`) could count as any credit. List them per school but don't use them to close gaps.
+- **Below high-school-level math** (Consumer Math, Essentials of Math, Workplace Math) stays `possible`. Flag it for review by a math specialist.
+
 Also per school:
 - count of requirement gaps
 - list of new courses needed

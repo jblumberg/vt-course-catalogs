@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SUBJECTS = {"ELA", "Mathematics", "Science", "Social Studies", "Arts", "World Language/ASL", "Financial Literacy",
             "PE & Health", "Interdisciplinary", "Other"}
 OTHER = {"Computer Science", "Business", "Technology/Engineering", "Family & Consumer Science", "CTE program",
-         "Advisory/Support", "Driver Ed", "Other"}
+         "Flexible pathway", "Advisory/Support", "Driver Ed", "Other"}
 DOMAINS = {"Chemistry", "Physics", "Integrated Physical", "Life", "Earth & Space", "Environmental", "Other"}
 REQS = {r["requirement_id"] for r in csv.DictReader((ROOT / "data/requirements.csv").open())} - {"TOTAL"}
 
@@ -38,6 +38,9 @@ def check(sid, path):
             err.append(f"{tag}: bad science_domain {c.get('science_domain')!r}")
         if c.get("confidence") not in {"high", "medium", "low"}:
             err.append(f"{tag}: bad confidence")
+        for rid in c.get("catalog_claims") or []:
+            if rid not in REQS:
+                err.append(f"{tag}: unknown catalog_claims requirement {rid!r}")
         for m in c.get("credit_mappings") or []:
             if m.get("requirement_id") not in REQS:
                 err.append(f"{tag}: unknown requirement {m.get('requirement_id')!r}")
