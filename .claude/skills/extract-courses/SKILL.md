@@ -1,0 +1,77 @@
+---
+name: extract-courses
+description: Phase 2 — extract every course from one Vermont high school's downloaded catalog into phase2/courses/<school_id>.json (one record per course, plus the catalog's stated graduation requirements).
+---
+
+# Extract courses from one school's catalog
+
+Input: a `school_id` that `python3 -I scripts/phase2_queue.py` lists as READY. Do not commit — the batch runner commits.
+
+## Steps
+1. Read `phase1/results/<id>.json` (catalog status, year, issues) and the school's row in `data/schools.csv`.
+2. Run `python3 -I scripts/extract_text.py <id>`. It writes `phase2/text/<id>.txt` with `=== PAGE n ===` markers and prints
+   which source file it used, its `retrieved_on` date, and `low_text_units` (pages with almost no text).
+   - If low-text pages look like they hold courses (scanned images), read those pages straight from the PDF with the Read tool (`pages: "12-15"`).
+   - If the text is garbled (multi-column layout mixing two courses), re-read those pages from the PDF with the Read tool.
+   - If Phase 1 said the catalog is spread over many webpages, follow the links from the saved page and fetch each course/department page (no crawling beyond the catalog).
+3. Read the whole text in chunks. Extract **every course offered to grades 9–12** — including electives, AP, honors,
+   dual enrollment / early college, online (VTVLC etc.), special education/alternative program courses, and courses at a
+   CTE center **only if the catalog lists them with descriptions as part of the school's offerings** (mark `level: "CTE"`).
+   Skip middle-school-only courses (grades 6–8).
+4. Also capture the catalog's **graduation requirements** as stated (credits by subject, proficiencies, other requirements) — Phase 3 needs them.
+5. Write `phase2/courses/<id>.json` (format below), then run `python3 -I scripts/merge_phase2.py --check <id>` and fix anything it flags.
+
+## Rules
+- **Copy text, don't write it.** `course_name` and `description` are taken from the catalog (fix only hyphenation/line-break artifacts). Never summarize, invent, or fill gaps from general knowledge. Missing → `null`.
+- One record per distinct course. If a course has levels as separate entries (e.g. "English 10" and "English 10 Honors"), make separate records. If a year-long course is listed as A/B semesters with one description, make one record with `length: "year"`.
+- A course listed in two departments → one record, `department` = first, note the other in `notes`.
+- Keep `source_page` (the PAGE number from the text file) so a human can check.
+- Field values that the catalog states in a structured way go in the structured fields; anything else useful goes in `notes`.
+
+## Output: `phase2/courses/<school_id>.json`
+```
+{
+  "school_id": "...",
+  "school_name": "...",
+  "su_sd": "...",
+  "catalog_school_year": "2026-27",
+  "source_file": "catalogs/<id>/catalog_2026-27.pdf",
+  "source_retrieved_on": "YYYY-MM-DD",       // copy from extract_text.py output (this is how reruns detect new catalogs)
+  "extracted_on": "YYYY-MM-DD",
+  "extraction_status": "complete | partial | failed",
+  "extraction_notes": "what was hard, pages skipped, scanned pages read visually, etc.",
+  "graduation_requirements": {
+    "total_credits": 24,                     // number or null
+    "by_area": [{"area": "English", "credits": 4, "notes": "..."}],
+    "other": ["e.g. Personal Learning Plan, proficiency-based requirements, community service"],
+    "source_page": 5,
+    "raw_text": "the requirements section copied verbatim (trim to the requirements themselves)"
+  },
+  "courses": [
+    {
+      "course_name": "Chemistry",
+      "course_code": "SCI301",               // null if none
+      "department": "Science",               // as the catalog names it
+      "description": "verbatim",
+      "grade_levels": [10, 11, 12],          // list of ints; [] if not stated
+      "credits": 1.0,                        // number; null if not stated
+      "credits_text": "1 credit",            // as printed, or null
+      "length": "year | semester | quarter | trimester | variable | unknown",
+      "prerequisites": "verbatim or null",
+      "level": "standard | honors | AP | IB | dual_enrollment | early_college | CTE | online | special_program | other",
+      "delivery": "in_person | online | hybrid | off_site | unknown",
+      "provider": "school | VTVLC | college name | CTE center name | other; null if the school itself",
+      "fulfills_text": "what requirement the catalog says it meets, e.g. 'Fulfills lab science credit' — verbatim, or null",
+      "offering_note": "e.g. 'offered alternate years', 'offered 2026-27 only', or null",
+      "source_page": 23,
+      "notes": null
+    }
+  ]
+}
+```
+(Remove the `//` comments — the file must be valid JSON.)
+
+## When the catalog is incomplete
+- Titles only, no descriptions → still list the courses (`description: null`), `extraction_status: "partial"`, explain.
+- Single-semester or rotating offering list (e.g. Cabot) → extract what's there, `partial`, explain.
+- Can't read the file → `extraction_status: "failed"`, `courses: []`, explain.
