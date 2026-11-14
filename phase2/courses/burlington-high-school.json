@@ -10,7 +10,7 @@
  "source_retrieved_on": "2026-11-14",
  "extracted_on": "2026-11-14",
  "extraction_status": "complete",
- "extraction_notes": "placeholder",
+ "extraction_notes": "Sources: main Program of Studies PDF (118 pp, text-extractable; pp.1 cover and 74 = Math flowchart image with no course content, viewed) plus the 9th-grade guide PDF (59 pp, a subset of the main catalog; p.44 is the same flowchart). Courses were taken from both; 9th-grade-guide entries that duplicate the main catalog (same course code or title) were collapsed into the main-catalog record (source_file = main catalog). Only 2 courses appear only in the 9th-grade guide (EL Math Support p.21, Pre-Algebra Support p.23; source_file = 9th-grade guide). Courses printed twice inside the main catalog (e.g. Digital Photography/Imaging and Fundamentals of Graphic Design in Design Tech and Visual Arts; Foundations of Science; Intro to Chemistry in EL and Science; Journalism on pp.22 and 28; the concurrent-enrollment section repeats AP U.S. Government, AP Literature, Physics I Honors, AP Music Theory) are one record each, department = first listing, other listing in notes (notes also say where text or prerequisite differs, e.g. AP U.S. Government and Physics I Honors prerequisites, and 'AP Literature and Language' p.112 vs 'AP English Literature' p.25 which share code 52132). 2025-26 HTML copy in catalogs/ was NOT used. Course names: trailing '(Fall Semester)', '(Fall only)', '(Spring only)', '(offered 2027-2028 ...)' were moved to offering_note. Where the catalog prints a note such as 'Reading 2, Year 1 IXL 401-650' as a group label between entries it was dropped. credits_text is the catalog's credit line (which includes the credit area, e.g. 'Science', 'Fine Arts', 'Elective'); BCL credits = sum of its three credit lines (2.0). Length: stated in the text for ~30 courses; otherwise inferred from credits (1.0 or more = year, 0.5 = semester; 0.25-credit courses and entries without credits = unknown; ranges = variable) - the catalog gives no general rule, so treat inferred lengths as soft. Level: AP / honors from the title; Instructional Support entries (IEP/504 referral courses) tagged special_program; everything else standard. honors_option true where the catalog says earned honors is available (English 9: Humanities, Humanities: Civics and World Societies, Earth Systems Science, and the 11th-grade American History offerings per the department table). fulfills_text holds verbatim 'This course fulfills ...' sentences plus requirement statements from the department tables (labelled as such). Garbled reading order in the PDF text fixed by hand from the page image / sentence order: Humanities: Civics and World Societies (p.55), AP English Literature (p.25), Spanish 4 (p.103). Pre-Calculus Part I / Part II descriptions appear swapped in the catalog itself; copied as printed and flagged in notes. Programs with descriptions added as one record each (notes 'program'): Independent Studies (Deeper Learning), SUCCEED, LINK, Bridging at Champlain Community Services, Online Learning (VTVLC), Dual Enrollment, Concurrent Dual Enrollment (Saint Michael's), Year-End Studies (YES); Burlington City & Lake Semester and the UVM Introduction to Philosophy dual-enrollment class are coded entries. Four courses appear only in department tables with no description (Principles of Engineering I, Computer Science 2, AP 3D Art and Design, Latin 4) - listed with description null; they are not offered in 2026-27 or have no description. Courses explicitly marked as offered in a later year but with full descriptions (Computer Science III, Fear in America) are included with offering_note. NOT extracted: Burlington Technical Center (9 programs, names only, no descriptions; BTC has its own catalog) and Center for Technology, Essex (no programs listed) - out of scope per CLAUDE.md and skill rule (no descriptions); Vermont Adult Learning, Summer Transitions Program, Hippocampus Peer Tutoring (service organization, 0.5 elective credit/semester; not a course entry), the EL 'Accelerated English program (AEP)' mentioned only in a placement table, and middle-school classes. Catalog states BHS address as 67 Cherry Street (temporary campus). Graduation requirements are from p.7 (printed page 6) with department-level requirement statements added to other[]. Page numbers (source_page) are the PAGE markers of the text file (PDF page), which are one higher than the printed page numbers.",
  "graduation_requirements": {
   "total_credits": 24,
   "by_area": [
@@ -22,12 +22,12 @@
    {
     "area": "Mathematics",
     "credits": 3,
-    "notes": "p.71: one of the three recommended credits for graduation is Integrated Math"
+    "notes": "p.72: one of the three recommended credits for graduation is Integrated Math"
    },
    {
     "area": "Science",
     "credits": 3,
-    "notes": "p.87: required courses Earth Systems Science (9th), Biology (10th), Chemistry and or / Physics (10th, 11th, or 12th)"
+    "notes": "p.88: required courses Earth Systems Science (9th), Biology (10th), Chemistry and or / Physics (10th, 11th, or 12th)"
    },
    {
     "area": "Social Studies",
@@ -42,7 +42,7 @@
    {
     "area": "Physical Education",
     "credits": 1.5,
-    "notes": "p.81: at least 1.0 credit must be earned in BHS PE courses; 0.5 may be Interscholastic Sports; only 0.5 may be PE Capstone"
+    "notes": "p.82: at least 1.0 credit must be earned in BHS PE courses; 0.5 may be Interscholastic Sports; only 0.5 may be PE Capstone"
    },
    {
     "area": "Fine Arts",
@@ -52,7 +52,7 @@
    {
     "area": "Health",
     "credits": 0.5,
-    "notes": "p.81 Health 0.5 credits; Health course described as a BHS and State graduation requirement"
+    "notes": "p.82 Health 0.5 credits; Health course described as a BHS and State graduation requirement"
    },
    {
     "area": "Electives",
@@ -64,11 +64,11 @@
    "10 hours Community Service per year of enrollment",
    "0.25 credit Year End Studies Program (YES) per year of enrollment",
    "Completion of a Personalized Learning Plan (PLP)",
-   "English: 11th and 12th grade credits must include .5 credit from Writing and .5 credit from Literature (p.19)",
+   "English: 11th and 12th grade credits must include .5 credit from Writing and .5 credit from Literature (p.20)",
    "Required sequence: English 9 and English 10 (Humanities English 9 or Honors; English 10 or English 10 Honors: Genre); Humanities: Civics and World Societies (9th); World History or World History Honors (10th); American History (11th-12th)",
-   "Earth Systems Science is required for all 9th grade students (p.89)",
-   "Up to 3 embedded credits for two years of a Burlington Technical Center program toward English, fine arts, math, science, or social studies (p.7)",
-   "Enrolling in a required course fulfills the requirement regardless of final grade (p.7)"
+   "Earth Systems Science is required for all 9th grade students (p.90)",
+   "Up to 3 embedded credits for two years of a Burlington Technical Center program toward English, fine arts, math, science, or social studies (p.8)",
+   "Enrolling in a required course fulfills the requirement regardless of final grade (p.8)"
   ],
   "source_page": 7,
   "raw_text": "BHS students must complete a minimum of 24 credits to earn a diploma.\nCREDITS REQUIRED FOR GRADUATION\n4 credits English\n3 credits mathematics\n3 credits science\n3 credits social studies (including 1 credit American History)\n2 credits world language (completion of two sequential levels)\n1.5 credits physical education\n1 credit fine art\n0.5 credits health\n6 credits electives (may include annual 0.25 YES credit)\nADDITIONAL REQUIREMENTS\n10 hours Community Service per year of enrollment\n0.25 credit Year End Studies Program (YES) per year of enrollment\nCompletion of a Personalized Learning Plan (PLP)\nYEAR-END STUDIES (YES)\nIn the fourth and final academic quarter of the school year, all students participate in the Year-End Studies (YES)\nSession. Students select one full-day or two half-day, ten-day mini-courses in order to deepen learning interests\nand apply academic skills and knowledge. A culminating showcase allows students, parents, and community\nmembers to learn from each other and celebrate YES accomplishments. Students will sign up during the third\nacademic quarter and informed of their courses in the spring. Information on the current year’s offerings can be\nfound on the BHS website.\nCOMMUNITY SERVICE\nAll students must complete ten (10) hours of community service per year of enrollment at BHS. Community\nservice prompts students to apply their skills and knowledge locally to learn the responsibility citizens have in a\ndemocratic society. Hours may be accrued beginning the summer preceding 9th grade through 12th grade. The\ndeadline to submit community service hours to confirm participation in commencement ceremonies is the last\nday of Quarter 4 of the student’s graduating year. Students are responsible for tracking their hours and submitting\ndocumentation to the School Counseling Office.\nPERSONALIZED LEARNING PLAN (PLP)\nIn addition to academic credit accrual, students are required to develop and maintain a Personalized Learning\nPlan (PLP) in order to meet graduation requirements. Students will utilize the PLP to set, review, and document\ngoal progress towards academic proficiencies in consultation with an advisor and their parents/guardians.\nStudents will collect high-quality evidence (e.g. projects, essays, performances, YES, and experiential learning) in\na digital portfolio. Students will be provided time and structure in Advisories and classroom courses to regularly\nupdate and reflect upon this work."
@@ -207,7 +207,7 @@
    ],
    "credits": null,
    "credits_text": "0.25-1.0 Credit (Elective)",
-   "length": "semester",
+   "length": "variable",
    "prerequisites": "Recommendation of the instructor.",
    "level": "standard",
    "honors_option": false,
@@ -617,7 +617,7 @@
    "course_name": "AP English Literature",
    "course_code": "52132",
    "department": "English",
-   "description": "This year-long course is designed for students who want to expand their awareness of language, strengthen their critical reading of poetry and fiction, and further develop their writing style. To understand the power of the written word students will be reading and evaluating the works of established writers, while also writing and evaluating their own writing using the writing process of drafting, editing and revising. Students will be active readers as well as writers, engaging in thoughtful discussions about the role of the writer and the individual in an ever-changing world. This course is concerned with the individual's search for identity, embracing not just the issue of freedom, but also the problems of responsibility and commitment. Novels, short stories, poems and essays are used to examine the themes of fate and free will, illusion and reality, the nature of justice and the question of identity. While examining such themes, students will read critically to determine an author’s purpose, audience, literary strategies, and style and provide evidence of their understanding through class discussions and writings. Students should expect to read and write extensively in this This course provides preparation for the AP examination in English Literature and course. Composition. Major works to be studied may include but are not limited to: Man's Search for Meaning, Blood Dazzler, Slaughterhouse Five, Crime and Punishment, Frankenstein, One Flew Over the Cuckoo's Nest, The Stranger, Waiting for Godot, Beloved, and Invisible Man. Students taking this course are able to demonstrate the ability to do college level work by analyzing literature in depth and writing multiple essays of analysis. Completion of a summer assignment is required for enrollment in this course.",
+   "description": "This year-long course is designed for students who want to expand their awareness of language, strengthen their critical reading of poetry and fiction, and further develop their writing style. To understand the power of the written word students will be reading and evaluating the works of established writers, while also writing and evaluating their own writing using the writing process of drafting, editing and revising. Students will be active readers as well as writers, engaging in thoughtful discussions about the role of the writer and the individual in an ever-changing world. This course is concerned with the individual's search for identity, embracing not just the issue of freedom, but also the problems of responsibility and commitment. Novels, short stories, poems and essays are used to examine the themes of fate and free will, illusion and reality, the nature of justice and the question of identity. While examining such themes, students will read critically to determine an author’s purpose, audience, literary strategies, and style and provide evidence of their understanding through class discussions and writings. Students should expect to read and write extensively in this course. This course provides preparation for the AP examination in English Literature and Composition. Major works to be studied may include but are not limited to: Man's Search for Meaning, Blood Dazzler, Slaughterhouse Five, Crime and Punishment, Frankenstein, One Flew Over the Cuckoo's Nest, The Stranger, Waiting for Godot, Beloved, and Invisible Man. Students taking this course are able to demonstrate the ability to do college level work by analyzing literature in depth and writing multiple essays of analysis. Completion of a summer assignment is required for enrollment in this course.",
    "grade_levels": [
     12
    ],
@@ -633,7 +633,7 @@
    "offering_note": null,
    "source_page": 25,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Personal Development; Effective Communication. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.112 of main catalog as 'AP Literature and Language' (Flexible Pathways); text differs from this entry | Concurrent enrollment option (p.110): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
+   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Personal Development; Effective Communication. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.112 of main catalog as 'AP Literature and Language' (Flexible Pathways); text differs from this entry | Concurrent enrollment option (p.111): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
   },
   {
    "course_name": "Cinema Studies",
@@ -1042,7 +1042,7 @@
    "course_name": "English 2",
    "course_code": "52156",
    "department": "Department of Multilingual Learners",
-   "description": "The goal of this course is to provide language instruction to English language learners in order to continue to develop students’ English language proficiency in all four language domains of reading, writing, speaking and listening in English. Prerequisite: ELP Level 2.",
+   "description": "The goal of this course is to provide language instruction to English language learners in order to continue to develop students’ English language proficiency in all four language domains of reading, writing, speaking and listening in English.",
    "grade_levels": [
     9,
     10,
@@ -1052,7 +1052,7 @@
    "credits": 1.0,
    "credits_text": "1.0 Credit (Elective)",
    "length": "year",
-   "prerequisites": null,
+   "prerequisites": "ELP Level 2.",
    "level": "standard",
    "honors_option": false,
    "delivery": "in_person",
@@ -1836,7 +1836,7 @@
    "offering_note": null,
    "source_page": 48,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Curiosity & Creativity; Critical Thinking & Problem Solving. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.112 of main catalog as 'AP Music Theory' (Flexible Pathways) | Concurrent enrollment option (p.110): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
+   "notes": "Primary Graduate Expectations: Curiosity & Creativity; Critical Thinking & Problem Solving. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.112 of main catalog as 'AP Music Theory' (Flexible Pathways) | Concurrent enrollment option (p.111): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
   },
   {
    "course_name": "Chamber Choir",
@@ -2113,7 +2113,7 @@
    "course_name": "Piano I",
    "course_code": "527181",
    "department": "Fine Arts: Music & Theater",
-   "description": "This Piano I class meets students where they are at in their piano journey, whether that is a brand new beginner, or a student who has dabbled in piano before and looking for more experience. Using keyboards provided by the school, students will learn the basics of playing, reading, and/or writing piano music. In this course, students will learn to play songs designed for their level, chords, melodies and read music in standard notation. Music will be chosen from folk, classical, and popular styles. Primary Graduate Expectations: Curiosity & Creativity; Critical Thinking & Problem Solving",
+   "description": "This Piano I class meets students where they are at in their piano journey, whether that is a brand new beginner, or a student who has dabbled in piano before and looking for more experience. Using keyboards provided by the school, students will learn the basics of playing, reading, and/or writing piano music. In this course, students will learn to play songs designed for their level, chords, melodies and read music in standard notation. Music will be chosen from folk, classical, and popular styles.",
    "grade_levels": [
     9,
     10,
@@ -2132,7 +2132,7 @@
    "offering_note": null,
    "source_page": 52,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": null
+   "notes": "Primary Graduate Expectations: Curiosity & Creativity; Critical Thinking & Problem Solving"
   },
   {
    "course_name": "Piano II",
@@ -2235,7 +2235,7 @@
    "course_name": "Humanities: Civics and World Societies",
    "course_code": "523010",
    "department": "History & Social Studies",
-   "description": "This year-long course, coordinated with Humanities English 9, will explore the themes of power, liberty, security and conflict. Our examinations of these themes will be filtered through the lens of American government and culture, and will also include global differences and impact. Students are expected to demonstrate their understanding of how our democratic republic functions and their roles and responsibilities as citizens. In addition, students examine issues and Constitutional protections connected to human rights. We will also consider global geography, politics, economics, Students have the option to earn Honors status and culture, including religion, in the study of history. in this class by demonstrating learning of core concepts, skills, and knowledge on identified assignments and assessments during the school year at an honors level. The earned honors designation will be awarded at the end of the year. This class is co-assigned and team-taught with English 9: Humanities.",
+   "description": "This year-long course, coordinated with Humanities English 9, will explore the themes of power, liberty, security and conflict. Our examinations of these themes will be filtered through the lens of American government and culture, and will also include global differences and impact. Students are expected to demonstrate their understanding of how our democratic republic functions and their roles and responsibilities as citizens. In addition, students examine issues and Constitutional protections connected to human rights. We will also consider global geography, politics, economics, and culture, including religion, in the study of history. Students have the option to earn Honors status in this class by demonstrating learning of core concepts, skills, and knowledge on identified assignments and assessments during the school year at an honors level. The earned honors designation will be awarded at the end of the year. This class is co-assigned and team-taught with English 9: Humanities.",
    "grade_levels": [
     9
    ],
@@ -2388,7 +2388,7 @@
    "offering_note": null,
    "source_page": 58,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.53) says earned Honors available for the 11th-grade American History offerings"
+   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.54) says earned Honors available for the 11th-grade American History offerings"
   },
   {
    "course_name": "Ethnic Studies: A People’s History Part II",
@@ -2411,7 +2411,7 @@
    "offering_note": null,
    "source_page": 59,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.53) says earned Honors available for the 11th-grade American History offerings"
+   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.54) says earned Honors available for the 11th-grade American History offerings"
   },
   {
    "course_name": "Resist! - Protest in U.S. History",
@@ -2434,7 +2434,7 @@
    "offering_note": null,
    "source_page": 59,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.53) says earned Honors available for the 11th-grade American History offerings"
+   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.54) says earned Honors available for the 11th-grade American History offerings"
   },
   {
    "course_name": "US Labor History",
@@ -2457,7 +2457,7 @@
    "offering_note": null,
    "source_page": 59,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication. | Department table (p.53) says earned Honors available for the 11th-grade American History offerings"
+   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication. | Department table (p.54) says earned Honors available for the 11th-grade American History offerings"
   },
   {
    "course_name": "Women in American History",
@@ -2480,7 +2480,7 @@
    "offering_note": null,
    "source_page": 60,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.53) says earned Honors available for the 11th-grade American History offerings"
+   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.54) says earned Honors available for the 11th-grade American History offerings"
   },
   {
    "course_name": "Why We Fight: History of America & War",
@@ -2503,7 +2503,7 @@
    "offering_note": null,
    "source_page": 60,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.53) says earned Honors available for the 11th-grade American History offerings"
+   "notes": "Primary Graduate Expectations: Critical Thinking and Problem Solving; Cultural Understanding and Civic Engagement; Effective Communication; Curiosity and Creativity; and Personal Development. | Department table (p.54) says earned Honors available for the 11th-grade American History offerings"
   },
   {
    "course_name": "AP U.S. Government and Politics",
@@ -2525,7 +2525,7 @@
    "offering_note": null,
    "source_page": 61,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Effective Communication; Critical Thinking & Problem Solving; Cross-Cultural Understanding & Civic Engagement. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.111 of main catalog as 'AP U.S. Government and Politics' (Flexible Pathways); text differs from this entry; prerequisite there: Teacher recommendation. | Concurrent enrollment option (p.110): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
+   "notes": "Primary Graduate Expectations: Effective Communication; Critical Thinking & Problem Solving; Cross-Cultural Understanding & Civic Engagement. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.111 of main catalog as 'AP U.S. Government and Politics' (Flexible Pathways); text differs from this entry; prerequisite there: Teacher recommendation. | Concurrent enrollment option (p.111): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
   },
   {
    "course_name": "AP World History",
@@ -2676,7 +2676,7 @@
    ],
    "credits": null,
    "credits_text": "0.5-1.0 Credit, or 20-40 hours of community service",
-   "length": "semester",
+   "length": "variable",
    "prerequisites": null,
    "level": "standard",
    "honors_option": false,
@@ -3252,7 +3252,7 @@
    "course_name": "Integrated Math 3B",
    "course_code": "524431",
    "department": "Mathematics",
-   "description": "This course is designed to prepare students for Integrated Math 3 by reteaching the necessary",
+   "description": "This course is designed to prepare students for Integrated Math 3 by reteaching the necessary prerequisite skills. The units that are covered include: Systems of equations and inequalities, Quadratic and polynomial functions, Exponential functions, Rational functions, Literal equations, Single variable statistics, and Circle geometry",
    "grade_levels": [
     11,
     12
@@ -3260,7 +3260,7 @@
    "credits": 1.0,
    "credits_text": "1.0 Credit (Math)",
    "length": "year",
-   "prerequisites": "skills. The units that are covered include: Systems of equations and inequalities, Quadratic and polynomial functions, Exponential functions, Rational functions, Literal equations, Single variable statistics, and Circle geometry Prerequisite: Completion of Integrated Math 2 and teacher recommendation.",
+   "prerequisites": "Completion of Integrated Math 2 and teacher recommendation.",
    "level": "standard",
    "honors_option": false,
    "delivery": "in_person",
@@ -3362,7 +3362,7 @@
    "offering_note": "Fall only",
    "source_page": 78,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Effective Communication"
+   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Effective Communication | Catalog text appears swapped/inconsistent: the description printed under Part I refers to students who have already completed Part I, and the one under Part II describes Part I (trigonometry); copied as printed (pp.78-79)"
   },
   {
    "course_name": "Pre-Calculus Part II",
@@ -3385,7 +3385,7 @@
    "offering_note": "Spring only",
    "source_page": 79,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Effective Communication"
+   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Effective Communication | Catalog text appears swapped/inconsistent: the description printed under Part I refers to students who have already completed Part I, and the one under Part II describes Part I (trigonometry); copied as printed (pp.78-79)"
   },
   {
    "course_name": "AP Statistics",
@@ -3953,7 +3953,7 @@
    "offering_note": null,
    "source_page": 93,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Effective Communication. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.113 of main catalog as 'Physics 1 Honors' (Flexible Pathways); text differs from this entry; prerequisite there: Concurrent enrollment in or completion of Pre-Calculus 1 and 2, or by permission of Physics 1 Honors teacher | Concurrent enrollment option (p.110): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
+   "notes": "Primary Graduate Expectations: Critical Thinking & Problem Solving; Effective Communication. | *BHS partners with Saint Michael’s College to offer this course as a concurrent enrollment class. This means that you could earn college credit for this class, in addition to BHS credit. If a student opts in concurrent college enrollment for this course, they will need to submit a dual enrollment voucher form to Saint Michael’s. See Ms. Stein (kstein@bsdvt.org) for details and support. | Also listed on p.113 of main catalog as 'Physics 1 Honors' (Flexible Pathways); text differs from this entry; prerequisite there: Concurrent enrollment in or completion of Pre-Calculus 1 and 2, or by permission of Physics 1 Honors teacher | Concurrent enrollment option (p.111): BHS partners with St. Michael’s College (SMC) to offer college credit for the equivalent of AP US Government, AP Literature, Honors Physics and AP Music Theory."
   },
   {
    "course_name": "AP Biology",
@@ -3966,7 +3966,7 @@
    ],
    "credits": 2.0,
    "credits_text": "2.0 Credits (Science)",
-   "length": "semester",
+   "length": "year",
    "prerequisites": "Successful completion of Biology I, Chemistry I, and Algebra II, and recommendation from current science teacher.",
    "level": "AP",
    "honors_option": false,
@@ -3989,7 +3989,7 @@
    ],
    "credits": 2.0,
    "credits_text": "2.0 Credits (Science)",
-   "length": "semester",
+   "length": "year",
    "prerequisites": "Successful completion of Algebra II & Chemistry I or Chemistry I Honors and recommendation from current science teacher.",
    "level": "AP",
    "honors_option": false,
@@ -4013,7 +4013,7 @@
    ],
    "credits": 1.0,
    "credits_text": "1.0 Credit (Science)",
-   "length": "semester",
+   "length": "year",
    "prerequisites": "Successful completion of Integrated Math I or Geometry, concurrent enrollment in or successful completion of Biology 1 or Honors Biology, and recommendation from current science teacher.",
    "level": "AP",
    "honors_option": false,
@@ -4418,7 +4418,7 @@
    "course_name": "Spanish 4",
    "course_code": "52224",
    "department": "World Language",
-   "description": "Students may elect to continue their study of the Spanish language and Hispanic culture through this course which fosters the enhancement of communication skills through expanding content and higher expectations. The course is conducted almost entirely in Spanish. The content will range from self-related topics (family, friends, home, school, activities, likes and dislikes, shopping, clothes, and pets) through less personal concerns (geography, history, directions, weather, cultural/historical figures, places and events, transportation and travel, food and eating customs, and work/professions), to broader topics culturally pertinent to the target language (art, literature, ). music, current affairs, and civilization Students begin to analyze cultural behaviors, recognize and use idiomatic expressions, and interact appropriately in realistic situations. Proficiency is assessed throughout the year.",
+   "description": "Students may elect to continue their study of the Spanish language and Hispanic culture through this course which fosters the enhancement of communication skills through expanding content and higher expectations. The course is conducted almost entirely in Spanish. The content will range from self-related topics (family, friends, home, school, activities, likes and dislikes, shopping, clothes, and pets) through less personal concerns (geography, history, directions, weather, cultural/historical figures, places and events, transportation and travel, food and eating customs, and work/professions), to broader topics culturally pertinent to the target language (art, literature, music, current affairs, and civilization). Students begin to analyze cultural behaviors, recognize and use idiomatic expressions, and interact appropriately in realistic situations. Proficiency is assessed throughout the year.",
    "grade_levels": [
     10,
     11,
@@ -4617,7 +4617,7 @@
    ],
    "credits": 1.0,
    "credits_text": "1.0 Credit (World Language)",
-   "length": "semester",
+   "length": "year",
    "prerequisites": "B- or higher in German 3 and/or recommendation of the German teacher",
    "level": "honors",
    "honors_option": false,
@@ -4679,7 +4679,7 @@
    "course_name": "Burlington City & Lake Semester",
    "course_code": "52983",
    "department": "Flexible Pathways",
-   "description": "Program Description The Burlington City & Lake Semester (BCL) is an intensive semester program that offers students the opportunity to use the city as their classroom and curriculum for one semester of their high school journey. Students will dedicate their entire Blue Day schedule to explore real world issues, build deeper relationships with a diverse group of 20 peers, and take action alongside adults to improve the community. BCL participants are ambitious and excited for the deeper, student-centered learning that is possible in an experiential program. The curriculum features a cross-disciplinary exploration of five core themes through four units of study. Students may earn one half (0.5) credit each in English and Social Studies, as well as one (1.0) elective credit in Applied Research upon successful completion of BCL. Applications may be submitted here and more information can be found at btvcityandlake.org. *Please note that only the 0.5 English credit is NCAA-approved.",
+   "description": "The Burlington City & Lake Semester (BCL) is an intensive semester program that offers students the opportunity to use the city as their classroom and curriculum for one semester of their high school journey. Students will dedicate their entire Blue Day schedule to explore real world issues, build deeper relationships with a diverse group of 20 peers, and take action alongside adults to improve the community. BCL participants are ambitious and excited for the deeper, student-centered learning that is possible in an experiential program. The curriculum features a cross-disciplinary exploration of five core themes through four units of study. Students may earn one half (0.5) credit each in English and Social Studies, as well as one (1.0) elective credit in Applied Research upon successful completion of BCL. Applications may be submitted here and more information can be found at btvcityandlake.org. *Please note that only the 0.5 English credit is NCAA-approved.",
    "grade_levels": [
     11,
     12
@@ -4853,7 +4853,7 @@
    "offering_note": null,
    "source_page": 109,
    "source_file": "catalogs/burlington-high-school/catalog_2026-27.pdf",
-   "notes": "program | Separate \"VIRTUAL LEARNING\" paragraph (p.109-110): students with 6 (six) or more high school credits (10th, 11th, or 12th grader) may take online classes"
+   "notes": "program | Separate \"VIRTUAL LEARNING\" paragraph (p.110-111): students with 6 (six) or more high school credits (10th, 11th, or 12th grader) may take online classes"
   },
   {
    "course_name": "Dual Enrollment Courses",
