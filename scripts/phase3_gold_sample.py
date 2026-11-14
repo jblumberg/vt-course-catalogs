@@ -27,7 +27,7 @@ def main():
     n = int(args[args.index("--n") + 1]) if "--n" in args else 100
     vs = args[args.index("--vs") + 1] if "--vs" in args else None
     skip = {i for k in ("--n", "--vs", "--out") if k in args for i in (args.index(k), args.index(k) + 1)}
-    pos = [a for i, a in enumerate(args) if i not in skip]
+    pos = [a for i, a in enumerate(args) if i not in skip and a != "--no-cte"]
     run, sids = pos[0], pos[1:]
     random.seed(42)
     pool = []
@@ -71,7 +71,7 @@ def main():
                          "agree (Y/N)": "", "correct_subject": "", "correct_credits": "", "note": ""})
     flagged = [p for p in pool if p["why_sampled"] != "random check"]
     cte = [p for p in flagged if "CTE" in p["why_sampled"]]
-    flagged = [p for p in flagged if "CTE" not in p["why_sampled"]] + cte[:4]       # cap CTE examples
+    flagged = [p for p in flagged if "CTE" not in p["why_sampled"]] + ([] if "--no-cte" in args else cte[:4])   # cap CTE examples
     random.shuffle(flagged)
     flagged.sort(key=lambda p: "models disagree" not in p["why_sampled"])            # disagreements first
     pick = flagged[: int(n * 0.6)]

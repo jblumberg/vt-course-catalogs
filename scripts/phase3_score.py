@@ -3,7 +3,7 @@
 Gold for a row: if the reviewer agreed (Y), the mappings shown in the sheet (model_credits); if not (N), the
 reviewer's correct_credits ("ELECTIVE" or blank = no mapping). Rows with a blank agree column (CTE) are skipped.
 
-Run:  python3 -I scripts/phase3_score.py <run_suffix> [<run_suffix> ...]
+Run:  python3 -I scripts/phase3_score.py [--labels file.csv] <run_suffix> [<run_suffix> ...]
       reads phase3/pilot/<school_id>.<suffix>.json (or phase3/classified/<school_id>.json for suffix 'classified')
 """
 import csv, json, re, sys
@@ -34,8 +34,11 @@ def load(sid, run):
 
 
 def main():
-    labels = [r for r in csv.DictReader((ROOT / "phase3/gold/labels.csv").open()) if r["agree (Y/N)"].strip()]
-    for run in sys.argv[1:]:
+    args = sys.argv[1:]
+    lab = args[args.index("--labels") + 1] if "--labels" in args else "labels.csv"
+    runs = [a for i, a in enumerate(args) if a != "--labels" and (i == 0 or args[i - 1] != "--labels")]
+    labels = [r for r in csv.DictReader((ROOT / "phase3/gold" / lab).open()) if r["agree (Y/N)"].strip()]
+    for run in runs:
         cache, exact, reqs, strong, misses = {}, 0, 0, 0, []
         for r in labels:
             sid, i = r["key"].split("#")

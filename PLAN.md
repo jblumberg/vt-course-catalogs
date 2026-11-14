@@ -92,6 +92,7 @@ because every course lists all its mappings.
 - What the human taught us: be generous (descriptions undersell courses). Use the school's core sequence to infer grade levels.
   Algebra II always counts for STATS-ALG2, and Pre-Algebra counts as a math elective. Don't trust catalog equivalency claims
   (Woodworking for English) — record them in `catalog_claims`. Forensics isn't life science. Programming may be a math elective.
+- **Holdout spot-check:** Montpelier (not used for tuning), 30 courses, CTE excluded: [sheet](https://docs.google.com/spreadsheets/d/19nHEialU0fZyoBNCViYmuNIuLMH2IYurcAn7T4gCZcY/edit), local `phase3/gold/montpelier_spotcheck.csv`. Classified with v0.3.1 (`phase3/pilot/montpelier-high-school.haiku3.json`). Score with `--labels montpelier_labels.csv`.
 - v0.3.1 tweaks were made after scoring and are untested: CAD/welding keep ARTS `possible`, GPS independent studies keep their
   English `possible` mapping, Business Math that is mostly personal finance → FINLIT `strong`.
 
