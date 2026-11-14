@@ -20,7 +20,7 @@ catalog are kept but tagged.
 | 2. Extract courses | **Paused at 22 schools** (2,604 records) | `phase2/courses/*.json` → `phase2/courses.csv`, `phase2/graduation_requirements.csv` |
 | 3a. Requirements table | **Done** | `data/requirements.csv` |
 | 3b. Classification rubric | **v0.2 draft**, piloted on 2 schools | `.claude/skills/classify-courses/SKILL.md`, `phase3/pilot/` |
-| 3c. Human calibration | **Next**: Google Sheet review of ~100 courses | — |
+| 3c. Human calibration | **With the human**: Google Sheet review of 100 courses | [Review sheet](https://docs.google.com/spreadsheets/d/1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc/edit) (Drive id `1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc`); local copy `phase3/gold/review_sample.csv` |
 | 3d. School profile pass | Planned | — |
 | 3e. Classify all schools | Planned | `phase3/classified/*.json` |
 | 4. Gap analysis + report | Planned | `phase4/` |
@@ -80,7 +80,9 @@ because every course lists all its mappings.
 ### 3b. Classification rubric — v0.2
 - **Pilot:** Danville (64 courses) and Lake Region (150), with Haiku and Sonnet on v0.1. v0.2 fixed the wording problems and added rules for
   equivalency credit, mixed science, paired Humanities courses, dual enrollment, the Financial Literacy department, Speech/Debate, and labs.
-- **Verification:** Haiku is re-running v0.2 on both schools (`*.haiku2.json`).
+- **Verification:** Haiku on v0.2 (`*.haiku2.json`) vs Sonnet: **99% subject, 99% strong-mapping agreement** (214 courses).
+- **Reading the human's answers back:** export the Sheet as CSV with Drive `download_file_content` (`exportMimeType: text/csv`), save it as `phase3/gold/labels.csv`.
+  This session has only the Drive connector, so the Sheet can't be edited in place.
 - **Validator:** `scripts/check_phase3.py <id> [file]`. **Comparison:** `scripts/phase3_review_sheet.py A B <ids...>`.
 
 ### 3c. Human calibration — next
