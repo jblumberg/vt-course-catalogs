@@ -644,13 +644,7 @@
       "subject_area": "Other",
       "bridges": [],
       "other_type": "Technology/Engineering",
-      "credit_mappings": [
-        {
-          "requirement_id": "ARTS",
-          "strength": "possible",
-          "rationale": "CAD drafting and design; design course with art potential"
-        }
-      ],
+      "credit_mappings": [],
       "science_domain": null,
       "has_lab": null,
       "catalog_claims": [],
