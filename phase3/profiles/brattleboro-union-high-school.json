@@ -1,0 +1,49 @@
+{
+  "school_id": "brattleboro-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/brattleboro-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Students are required to meet proficiency indicators in each BUHS course and score a grade of 60% or higher to receive course credit.",
+    "page": 7,
+    "proficiency_scale": "4-step scale: 1 Beginning, 2 Developing, 3 Proficient, 4 Exemplary (used for Habits of Work; Standards use the same 4 steps without numbers)",
+    "min_score_to_earn_credit": "60% course grade or higher (plus proficiency indicators in each course)",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "4x4 block",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "Students in grades 9-11 must be scheduled in four blocks of classes earning a minimum of 12 credits. Seniors must be scheduled in three blocks of classes earning a minimum of 10 credits.",
+    "page": 7
+  },
+  "credit_definition": {
+    "text": "BUHS credits: a semester course is listed as 4 credits and a year-long course as 8 credits (some semester courses are 2 credits, e.g. single-semester band). Fully enrolled = at least 14 credits per semester.",
+    "credit_per_course_term": 4,
+    "evidence": "INTRO TO JOURNALISM (Journalism 1) 4 Credits Curriculum Outline Semester (course listing; column layout in source)",
+    "page": 27
+  },
+  "course_load": {
+    "min_courses_or_credits": "14 credits per semester to be fully enrolled; grade 12 students must have 10 credits per semester",
+    "evidence": "To be fully enrolled, students must take at least 14 credits per semester. Grade 12 students must have ten (10) credits per semester.",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": 96,
+    "unit": "credits",
+    "total_in_credits": null,
+    "conversion_note": "Total is in BUHS credits (semester course = 4, year-long = 8, as listed in course descriptions). The catalog gives no conversion to standard credits (1 = full-year course), so total_in_credits is null. Also requires 40 hours of community service (p.7-8)."
+  },
+  "flexible_pathways_listed": [
+    "FLEX program (student-designed courses)",
+    "independent study",
+    "dual enrollment (concurrent and traditional)",
+    "community-based learning (internships)",
+    "virtual high school",
+    "outside college courses (elective credit with approval)"
+  ],
+  "cte_centers": [
+    "Windham Regional Career Center (WRCC)"
+  ],
+  "notes": "Required credits (p.8): English 16 (must take English in grades 9, 10 and 11), Social Studies 12, Mathematics 12, Science 12, Physical Education 6 (4 until the Class of 2030; the Graduation Checklist still lists 4), Health 2, Fine Arts 4, Electives 32. Career Center courses may serve as equivalents for some required courses. Virtual High School may fill elective credit only. Proficiency indicators must be met in each course, and 60% is the course-credit threshold (p.7). Habits of Work are scored on the same 4-step scale (p.12). Students must document progress toward BUHS transferable skills (p.7). Block schedule: four blocks per semester for grades 9-11, three for seniors (p.7); the daily block count is not stated, so the 4x4 label rests on the four-blocks-per-semester wording. Community service: 40 hours, prorated to 5 hours per semester for students who transfer after 9th grade (p.8). Early graduation after 3.5 years is possible (p.7)."
+}

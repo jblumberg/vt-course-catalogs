@@ -59,8 +59,12 @@ def main():
                      "max_credits_4yr": (s["courses_per_term"] * s["terms_per_year"] * 4 * c["credit_per_course_term"]
                                          if all(isinstance(x, (int, float)) for x in (s.get("courses_per_term"), s.get("terms_per_year"),
                                                                                       c.get("credit_per_course_term"))) else None),
+                     "share_of_schedule_required": None,
                      "flexible_pathways": "; ".join(d.get("flexible_pathways_listed") or []),
                      "cte_centers": "; ".join(d.get("cte_centers") or []), "notes": d.get("notes")})
+    for r in prof:
+        if r["max_credits_4yr"] and isinstance(r["local_total"], (int, float)):
+            r["share_of_schedule_required"] = round(r["local_total"] / r["max_credits_4yr"], 2)
     if prof:
         with (ROOT / "phase3/profiles.csv").open("w", newline="") as fh:
             w = csv.DictWriter(fh, fieldnames=list(prof[0]))

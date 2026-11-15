@@ -1,0 +1,50 @@
+{
+  "school_id": "bellows-falls-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/bellows-falls-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Each course taken will have a set of proficiencies associated with the class. Success on those proficiencies will determine if a student will earn credit for the class.",
+    "page": 3,
+    "proficiency_scale": "1-4 (1 Little to no Evidence; 2 Nearly or partially Meets Standards; 3 Meets Standards; 4 Exceeds Standards)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Many Career Center Programs meet ONE BLOCK for one or two semesters, allowing students to retain a full schedule that prepares them for post-secondary success.",
+    "page": 46
+  },
+  "credit_definition": {
+    "text": "not_stated as a general rule. Course listings show 1/2 credit for many semester courses (e.g., Social Skills, Printmaking) but 1 credit for some semester-long courses (English 10 Enrichment); full-year English 9 Enrichment = 2 credits.",
+    "credit_per_course_term": null,
+    "evidence": "Social Skills 1/2 credit Semester /Block",
+    "page": 45
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "not_stated",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": 28,
+    "unit": "credits",
+    "total_in_credits": 28,
+    "conversion_note": "Credits as stated in the catalog; no conversion needed. Also requires a Senior Project and 40 hours of community service (non-credit). Promotion minimums: 6 credits to grade 10, 13 to grade 11, 20 to grade 12."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment",
+    "early college",
+    "work-based learning",
+    "independent study",
+    "VTVLC/online",
+    "Vermont Adult Learning High School Completion Program"
+  ],
+  "cte_centers": [
+    "River Valley Technical Center (Springfield)",
+    "Windham Regional Career Center (Brattleboro)"
+  ],
+  "notes": "Graduation (p.2): English 4, Social Studies 3 (incl. 1 U.S. History and 1 modern world studies), Science 3, Math 4 (incl. Algebra I), Fine Arts 1, PE 1.5, Health 1, World Language 1, Electives 9.5; Senior Project required; 40 community service hours non-credit. Grades are both a four-point proficiency scale and traditional letter grades; GPA is weighted by level. Schedule: courses described as 'full block', 'half block', 'semester /Block'; number of blocks per day and whether the day is 4x4 or A/B is not stated, so type is 'other' and courses_per_term is null. Credit per course is not given as one general rule (see credit_definition). Algebra I Part I and Part II are each listed as '2 credits*' (asterisk not explained in the excerpt read). RVTC can give embedded academic credit for some 2-year programs (p.46)."
+}

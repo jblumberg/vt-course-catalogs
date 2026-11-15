@@ -1,0 +1,52 @@
+{
+  "school_id": "blue-mountain-union-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/blue-mountain-union-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "In addition to earning the required credits, listed below by subject distribution, students in their senior year must also demonstrate a minimum of proficiency for each of the BMU Graduation Proficiencies/Transferable Skills and the corresponding results indicators.",
+    "page": 12,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Bucks Block - Advisory is a dedicated, small-group period designed to support students' ...",
+    "page": 15
+  },
+  "credit_definition": {
+    "text": "not_stated as a general rule. Course listings show 1 credit for year-long courses and 0.25 or 0.5 credit for semester courses (e.g., Chorus and Band are 0.25 credit semester courses).",
+    "credit_per_course_term": null,
+    "evidence": "Chorus ... 0.25 Credit (05110) Semester Course",
+    "page": 18
+  },
+  "course_load": {
+    "min_courses_or_credits": "5 credits per year to be full-time enrolled; a student may not drop a course if not maintaining 6.5 credits (add/drop rule)",
+    "evidence": "Each student will maintain a minimum of 5 credits each year to be full time enrolled.",
+    "page": 12
+  },
+  "local_grad_requirements": {
+    "total": 26,
+    "unit": "credits",
+    "total_in_credits": 26,
+    "conversion_note": "Credits as stated in the BMU Credit Breakdown (p.12); no conversion needed. Also requires senior-year demonstration of BMU Graduation Proficiencies/Transferable Skills (p.12-13) and an E-Portfolio."
+  },
+  "flexible_pathways_listed": [
+    "independent study",
+    "early college",
+    "dual enrollment",
+    "VTVLC/online",
+    "internships",
+    "virtual and blended learning",
+    "concurrent enrollment"
+  ],
+  "cte_centers": [
+    "River Bend Career and Technical Center",
+    "Lyndon Institute Career and Technical Education",
+    "Saint Johnsbury Academy Career & Technical Education"
+  ],
+  "notes": "Required courses for all students: Algebra/Geometry, US History, Health, PE, Senior Seminar (p.4). Credit breakdown (p.12): English 4, Math 4, Social Sciences 3, Sciences 3, PE 1.5, Health 1, Financial Literacy 1, Fine Arts 1.5 (incl. 0.5 Digital Literacy from Class of 2029), Capstone 1 (senior year), Electives 5 (incl. Bucks Block 1, Enrichment/Game Time/J-Term 1, 0.5 Online Course by recommendation, 0.5 Driver's Education, 1 World Language). Grade-credit alignment (p.11): 0-6 credits = 9th; 6.5-12.5 = 10th; 13-19 = 11th; 19.5-26 = 12th; no retention. Schedule structure (number of periods/blocks per day, A/B or 4x4) is not stated; 'marking period' and semester courses are referenced, so type is 'other' and courses_per_term is null. Grading uses letter grades with GPA plus P/WP/WF. Proficiency scale is not stated; course levels are Conceptual/General/Applied, Common Core (Proficient), and Common Core Honors (p.6)."
+}

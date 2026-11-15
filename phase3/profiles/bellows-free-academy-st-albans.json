@@ -1,0 +1,48 @@
+{
+  "school_id": "bellows-free-academy-st-albans",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/bellows-free-academy-st-albans.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Minimum of 24 credits are required for graduation.",
+    "page": 6,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "rotating",
+    "courses_per_term": 7,
+    "terms_per_year": 2,
+    "evidence": "Bellows Free Academy's school year is divided into two semesters of approximately 88 days each. BFA's schedule has seven periods, three days a week, for 45 minutes. Two days a week, students have each period once for 80 minutes.",
+    "page": 4
+  },
+  "credit_definition": {
+    "text": "Credit is awarded at the end of each course, one-half credit per semester and one credit per year-long course.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Credit is awarded at the end of each course, one-half credit per semester and one credit per year-long course.",
+    "page": 4
+  },
+  "course_load": {
+    "min_courses_or_credits": "at least five academic classes to be full-time (for athletics and honors eligibility)",
+    "evidence": "To be considered a full-time student—and to remain eligible for athletics and honors—students must be enrolled in at least five academic classes.",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Credits as stated (one credit = year-long course; .5 = semester course); no conversion needed. Also requires 10 hours of approved senior community service (p.5) and a PLP each year."
+  },
+  "flexible_pathways_listed": [
+    "PBL courses",
+    "dual enrollment",
+    "work-based learning",
+    "early college",
+    "flexible pathways elective or content-area credit"
+  ],
+  "cte_centers": [
+    "Northwest Career and Technical Center (NCTC)"
+  ],
+  "notes": "Minimum credit count is stated (24, p.6), and the English and Math sections label their requirements 'Proficiency-Based Graduation Requirements' (English p.13; Math p.19); Vermont Transferable Skills are required at Basic Proficiency (p.5). Hence hybrid, but the proficiency scale and credit threshold are not stated. Credit-area minimums (p.5): English 4, Math 3, Science 3, Social Studies 3, Personal Finance 0.5, Fine Arts 1, Health 0.5, PE 1.5, Electives 7.5. Schedule: seven periods on a three-day/two-day pattern (rotating); students carry seven classes per semester (p.4). Promotion requires 5 credits (to grade 10), 11 (to 11), 17 (to 12). Required PLP each year and a PBL course in grade 11 or 12 (p.5)."
+}

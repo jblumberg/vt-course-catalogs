@@ -1,0 +1,50 @@
+{
+  "school_id": "bellows-free-academy-middle-high-school-fairfax",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/bellows-free-academy-middle-high-school-fairfax.txt",
+  "grading_system": {
+    "value": "proficiency",
+    "evidence": "Students must demonstrate proficiency in the following areas: English Language Arts, Math, Science, Global Citizenship, Physical Education & Health, Artistic Expression & Transferable Skills",
+    "page": 3,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "trimester",
+    "courses_per_term": 4,
+    "terms_per_year": 3,
+    "evidence": "Students will have the opportunity to take 4 classes each Trimester and most classes will last for a Trimester. When completing course checklists year long classes should be counted as three courses.",
+    "page": 4
+  },
+  "credit_definition": {
+    "text": "not_stated (no credit unit). Class-equivalence rule: a year-long class counts as three trimester classes; a semester-long college class counts as two BFA trimester courses.",
+    "credit_per_course_term": null,
+    "evidence": "When completing course checklists year long classes should be counted as three courses.",
+    "page": 4
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "not_stated",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "classes",
+    "total_in_credits": null,
+    "conversion_note": "No total stated and no credit conversion given. Requirements are stated as proficiency areas and as class counts on the course planning checklists (p.59-60); e.g. English 8 trimester classes, Math 6 classes, Global Citizenship 4 electives plus required courses. Not converted."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment",
+    "online learning (VTVLC; Edmentum Plato)",
+    "work-based learning",
+    "student internships",
+    "independent study"
+  ],
+  "cte_centers": [
+    "Center for Technology Essex",
+    "Burlington Technical Center",
+    "Northwest Career & Technical Center"
+  ],
+  "notes": "Proficiency-based graduation (p.3) with students submitting Sophomore and Senior PLP Portfolios and Exhibitions. The catalog gives no credit counts for graduation, so grading_system is proficiency, not hybrid. Proficiency scale and earning threshold are not stated in the front matter. Graduation with Distinction and Project Based Learning options (p.4). Required proficiency areas per the checklist include Science (incl. one lab elective), Math, ELA, Global Citizenship, PE/Health, and Artistic Expression (p.59-60). Alternate PE counts for only one required PE class (p.46)."
+}

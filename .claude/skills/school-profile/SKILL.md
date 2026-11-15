@@ -28,7 +28,8 @@ Every judgment field has an `evidence` quote (≤ 40 words, verbatim) and its `p
               "terms_per_year": 2,              // 1 = full-year courses, 2 = semesters, 3 = trimesters, 4 = quarters
               "evidence": "...", "page": 6},
  "credit_definition": {"text": "what one credit means, as stated (e.g. 'a full-year course', 'one semester block')",
-                       "credit_per_course_term": 0.5,   // credit for one course over one term (number or null)
+                       "credit_per_course_term": 0.5,   // credit for one course over one term, IN THE SAME UNIT AS local_grad_requirements.total
+                                                        // (Brattleboro: 4 BUHS credits per semester course; most schools: 0.5 or 1)
                        "evidence": "...", "page": 6},
  "course_load": {"min_courses_or_credits": "as stated, or not_stated", "evidence": "...", "page": null},
  "local_grad_requirements": {"total": 24, "unit": "credits | points | semesters | classes | proficiencies | not_stated",
@@ -47,6 +48,9 @@ Every judgment field has an `evidence` quote (≤ 40 words, verbatim) and its `p
   so many schools will be hybrid — say exactly what the evidence shows.
 - `courses_per_term`: how many classes a student takes at the same time (e.g. 4 in a 4x4 block, 8 in an A/B block over two days, 6–7
   in traditional periods). If only "periods per day" or "blocks per day" is stated, use that and say so in `schedule.evidence`.
+- **Units must match:** `credit_per_course_term` and `local_grad_requirements.total` use the school's own unit, so that
+  (courses_per_term × terms_per_year × 4 × credit_per_course_term) is the most a student could earn in the same unit.
+- `courses_per_term`: if the schedule is stated only as blocks/periods per day, and every class meets daily, that is the number.
 - Unit conversions: Brattleboro's points, Danville's semesters, BFA Fairfax's classes, etc. Convert only with a stated rule.
 
 ## Process
