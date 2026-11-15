@@ -1335,13 +1335,7 @@
    "subject_area": "Other",
    "bridges": [],
    "other_type": "CTE program",
-   "credit_mappings": [
-    {
-     "requirement_id": "ARTS",
-     "strength": "possible",
-     "rationale": "Media production program; creative media arts content."
-    }
-   ],
+   "credit_mappings": [],
    "science_domain": null,
    "has_lab": null,
    "catalog_claims": [],
