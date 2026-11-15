@@ -1,0 +1,56 @@
+{
+  "school_id": "mt-abraham-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/mt-abraham-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Graduation requirements are met by earning a total of 24 proficiency credits in the required content areas indicated below. Beginning 2026-2027, course proficiency credit is earned by achieving a 2.0 or higher in a course academic mastery score and a course transferable skill mastery score.",
+    "page": 5,
+    "proficiency_scale": "4 Extending, 3 Proficient, 2 Developing, 1 Getting Started, U Insufficient Evidence",
+    "min_score_to_earn_credit": "2.0 in both academic mastery and transferable skill mastery",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": 8,
+    "terms_per_year": 2,
+    "evidence": "Mt. Abraham works on a rotating schedule of Maroon (M) and White (W) days ... Block 1M/1W through Block 4M/4W (four blocks each day, so eight classes across the rotation). The catalog also says 'VHS is a class scheduled into a student's 8 block rotation.'",
+    "page": 15
+  },
+  "credit_definition": {
+    "text": "Requirements are counted in proficiency credits. The catalog states a credit value for some courses (for example, AP courses are 'a full year, one credit course'), but does not state a credit value for each semester course. Credit is awarded at 0.5 credits per semester of college coursework in the dual enrollment note.",
+    "credit_per_course_term": null,
+    "evidence": "Advanced Placement European History is a full year, one credit course that introduces students to European History",
+    "page": 25
+  },
+  "course_load": {
+    "min_courses_or_credits": "6 courses per semester to be considered full time and eligible for co-curricular activities",
+    "evidence": "***6 courses per semester needed to be considered full time and eligible for co-curricular activities",
+    "page": 53
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": null,
+    "conversion_note": "The catalog calls these 24 proficiency credits (7.5 elective or choice). Area requirements: Literacy 4, Social Studies 3.5, Mathematics 3, Science 3, Physical Education 1.5, Health Education 0.5, Artistic Expression 1 (World Language not required). Catalog gives no conversion from proficiency credits to standard credits (1 = full-year course), so total_in_credits is null. Also requires a Personalized Learning Plan (PLP) and PLP exhibition."
+  },
+  "flexible_pathways_listed": [
+    "Independent Learning Opportunities (ILO)",
+    "Virtual High School (VHS) courses",
+    "Early College",
+    "Dual enrollment (online dual enrollment)",
+    "Middlebury College course",
+    "Advanced Placement (AP) classes",
+    "work-based learning",
+    "service learning",
+    "mentorships",
+    "Do Unto Others (DUO)",
+    "Continued Learning Opportunities (CLO)",
+    "Course Choice options at Vergennes Union"
+  ],
+  "cte_centers": [
+    "Patricia A. Hannaford Career Center (Middlebury)",
+    "Center for Technology Essex (Cosmetology, Computer Systems and Dental Assisting only)"
+  ],
+  "notes": "Catalog is the 2026-27 Program of Studies. Graduation is proficiency-based (PBGRs, p.4-5): 24 proficiency credits, 2.0 minimum in both academic mastery and transferable skill mastery per course, and a PLP exhibition. The four transferable skill areas are Personal Development, Community Connections, Innovative Thinking and Effective Communication (p.4). Full-time status requires 6 courses per semester (p.53). Schedule uses M/W days with four blocks each day, plus an advisory and FIT block (p.15). The catalog does not state the number of semester-course credits per course; the conversion for college courses is 0.5 credit per semester (p.10). Some HS courses are marked as full year, and the catalog does not give standard credits for each course."
+}

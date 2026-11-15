@@ -1,0 +1,49 @@
+{
+  "school_id": "leland-gray-union-middle-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/leland-gray-union-middle-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Leland and Gray Graduation Requirements (26 total credits) ... Successful Demonstration of Transferable Skills (through PBL work) ... Proficiency Based Graduation Requirements (PBGRs): under the EQS (VT Rule 2000), students must be able to demonstrate proficiency in identified areas",
+    "page": 3,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Since most high school courses meet for one semester, students can accelerate by taking two math courses each year in grades 10-12 (p.14). Most courses are one semester; some are year-long (e.g. AP English Literature, two semesters). The catalog does not state a number of periods, blocks, or classes per term.",
+    "page": 14
+  },
+  "credit_definition": {
+    "text": "One semester course earns 1 credit (e.g. the one-semester Civics course is 1 credit); two-semester courses earn 2 credits (AP English Literature, two semesters, 2 credits); Senior Survival earns 1/2 credit.",
+    "credit_per_course_term": 1.0,
+    "evidence": "This one-semester foundational course will focus on American citizenship and government. ... Advanced Placement English Literature (Two Semesters) ... 2 credits",
+    "page": 11
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Grade level determined by credit: Grade 9 under 6.5 earned credits; Grade 10 6.5-12.75; Grade 11 13-17.75; Grade 12 18-26 earned credits.",
+    "page": 3
+  },
+  "local_grad_requirements": {
+    "total": 26,
+    "unit": "credits",
+    "total_in_credits": 26,
+    "conversion_note": "Catalog states requirements directly in credits (English 4, Math 4, Science 4, Social Studies 3, PE 2, Health 0.5, Fine Arts 1, Electives 7.5; total 26). Credits here are the same unit as course credits (1 credit = one semester course). No conversion needed."
+  },
+  "flexible_pathways_listed": [
+    "Advanced Placement (exam-based college credit)",
+    "dual enrollment (VT State Colleges; external dual-enrollment classes)",
+    "independent study (DUO program)",
+    "Journey Away (semester experience)",
+    "Windham Regional Career Center (WRCC) programs",
+    "Proficiency Based Graduation Requirements / transferable skills via PBL work"
+  ],
+  "cte_centers": [
+    "Windham Regional Career Center (WRCC), located in Brattleboro Union High School"
+  ],
+  "notes": "Local requirements beyond credits: Personalized Learning Plan, updated annually (p.3); 40 hours of community service (p.3); Senior Survival, a 1/2-credit Grade 12 course embedded within Financial Literacy (p.3, p.41); successful demonstration of transferable skills through PBL work (p.3); PBGRs under EQS (p.3). Civics, 19th Century and 20th Century social studies may be satisfied by equivalent courses (p.3, footnote *). Local content: Level-1 English (grades 9-10) and Level-2 English (grades 11-12) are required in specified numbers (p.4, p.7). Catalog is the 2025-26 Program of Studies (the Phase 2 courses file notes 2026-27 handbook figures for the graduation requirements); the handbook's 2026-27 figures are recorded in the courses file, not this profile. Catalog's transfer-grade conversion table (1-100 to 1-4) is a transfer-record conversion, not a proficiency scale (p.39)."
+}

@@ -1,0 +1,54 @@
+{
+  "school_id": "missisquoi-valley-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/missisquoi-valley-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Beginning with MVU's class of 2022, each student must demonstrate proficiency in the identified standards in order to graduate.",
+    "page": 6,
+    "proficiency_scale": "0-4 MVU Academic Content Scale: 4 Proficient with Distinction, 3 Proficient, 2 Progressing, 1 Beginning, 0 No Evidence (Habits of Work use a separate 1-4 scale)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Ninth grade students will follow the high school schedule with an A/B rotation and 82 minute classes. The number of periods per day is not stated, so courses_per_term is null.",
+    "page": 14
+  },
+  "credit_definition": {
+    "text": "Credit is printed per course: a full-year course is 1 credit and a one-semester course is .5 credit. Requirements are stated in credits, and proficiency is also required.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Gr. 9 ... 2 semesters ... 1 credit (ELA course listing, PAGE 15); Gr. 11-12 ... 1 semester ... .5 credit (Program of Studies course listings, PAGE 16)",
+    "page": 15
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Not stated in the Program of Studies text.",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": 25,
+    "unit": "credits",
+    "total_in_credits": 25,
+    "conversion_note": "Total is 25 credits, taken from the separate grad_requirements_2026-27.pdf sheet in catalogs/missisquoi-valley-union-high-school/ (not in the Program of Studies text). Area credits on that sheet: English 4, Social Studies 3.5, Science 3, Math 3, PE 1.5, Fine Art 1, Health 0.5, Business Education 1, Elective 7.5. Credits are already in standard units, so no conversion is needed. The catalog text states some of these minimums (for example 'three credits in math as a requirement for graduation' and 'three and a half years of social studies'). Proficiency is required in addition to the credit total."
+  },
+  "flexible_pathways_listed": [
+    "VT Dual Enrollment (CCV and participating Vermont colleges)",
+    "Early College Program (ECP)",
+    "VAST (Vermont Academy of Science and Technology, senior-year early college)",
+    "Advanced Placement (AP)",
+    "Virtual learning (Vermont Virtual Learning Cooperative and Edmentum)",
+    "Credit Recovery",
+    "Pathways Flex-Elective (independent executive function curriculum)",
+    "Personal Learning Plan (PLP)",
+    "work-based learning",
+    "personalized courses of study",
+    "NEST advisory (.25 credit, grades 9-11)"
+  ],
+  "cte_centers": [
+    "Northwest Career and Technical Center (NCTC)"
+  ],
+  "notes": "Catalog is the 2026-27 Program of Studies (grades 9-12). Credit-based graduation totals and area minimums come from a separate grad_requirements_2026-27.pdf sheet, not from the Program of Studies text; the catalog itself describes proficiency-based grading (p.6-7). Academic content is scored on the 0-4 MVU scale and Habits of Work on a separate 1-4 learning scale (p.7-8).  Courses are awarded credit on course listings, but graduation depends on proficiency. NCTC Human Services, Medical Professions and Cosmetology programs can count toward English credit (PAGE 17 credit options). Ninth grade is organized into two core teams. Full-year courses are listed as 1 credit (2 semesters) and one-semester courses as .5 credit. The catalog does not state the number of periods per day."
+}

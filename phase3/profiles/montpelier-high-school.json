@@ -1,0 +1,50 @@
+{
+  "school_id": "montpelier-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/montpelier-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Total number of core credits required: 23. Total number of areas in which to demonstrate proficiency: 8 (Including demonstration of proficiency in Montpelier High School's 8 Learning Expectations)",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": 8,
+    "terms_per_year": 2,
+    "evidence": "Students can take a '4th block class both Green and White days'. The catalog implies four blocks a day across Green and White days (4 blocks x 2 day types = 8 courses at once); the catalog does not state this count directly.",
+    "page": 62
+  },
+  "credit_definition": {
+    "text": "Courses are listed in credits per semester or per year. A semester course is 0.5 credit and a full-year course is 1 credit. Requirements are stated in credits and in proficiency areas.",
+    "credit_per_course_term": 0.5,
+    "evidence": "0.5 Credit per Semester",
+    "page": 9
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Not stated in the Program of Studies text.",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": 23,
+    "unit": "credits",
+    "total_in_credits": 23,
+    "conversion_note": "Catalog states 23 core credits and no conversion is needed (credits are standard units, 0.5 per semester course). Areas: English Language Arts 4, Math 3, Science 3, Global Citizenship 3, Visual & Performing Arts 1, PE 1.5, Health 0.5, plus 7 additional choice credits (p.4). Proficiency must be demonstrated in each area and in all 8 Learning Expectations (including Habits for Success/Preparedness)."
+  },
+  "flexible_pathways_listed": [
+    "Senior Capstone",
+    "Community Based Learning (CBL)",
+    "Online Learning (VTVLC and BYU)",
+    "Dual Enrollment",
+    "Early College",
+    "flexible pathways block in schedule",
+    "Central Vermont Career Center (CVCC) programs"
+  ],
+  "cte_centers": [
+    "Central Vermont Career Center (CVCC)"
+  ],
+  "notes": "Catalog is the 2026-27 Program of Studies. Graduation is proficiency-based with a 23-credit core total plus 7 additional choice credits (p.4). Learning Expectations (transferable skills) are required for graduation and reported as a running average in PowerSchool (p.4-5); LE 6.1 Habits of Success: Preparedness is graded separately. Courses use proficiency indicators (p.4). The catalog gives no numeric proficiency scale. Schedule uses Green and White days with a 4th block on both (p.62); the number of blocks per day is inferred from that wording. Transportation to CVCC leaves at 8:00 AM for students attending the career center (p.62). Senior Capstone is listed under Flexible Pathways (p.59-60)."
+}

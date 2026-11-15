@@ -1,0 +1,53 @@
+{
+  "school_id": "mill-river-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/mill-river-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "At Mill River, we use a proficiency-based grading system to provide clear, meaningful information about student learning. Instead of averaging scores or awarding points for extra credit, this approach focuses on whether students have met specific learning goals, known as proficiencies.",
+    "page": 17,
+    "proficiency_scale": "1 to 4 in 0.5 steps (Beginning 1, Beginning 1.5, Approaching 2, Proficient 2.5, Proficient 3, Exceeding 3.5, Exceeding 4)",
+    "min_score_to_earn_credit": "2 (Approaching 2 is the Minimum Passing Score)",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Course list shows Full Year and Semester courses; add/drop and schedule references are to 'the semester'. The catalog does not state the number of classes per term, periods per day, or a block pattern.",
+    "page": 18
+  },
+  "credit_definition": {
+    "text": "Full-year courses carry 1 credit; semester courses carry 0.50 (1/2) credit (e.g. 'Personal Finance Semester 0.50 Credit'; 'English 9 Full Year 1 Credit').",
+    "credit_per_course_term": 0.5,
+    "evidence": "English 9 Full Year 1 Credit ... Personal Finance Semester 0.50 Credit",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Most students will satisfy graduation requirements during a four-year experience; however, students may fulfill the requirements for a diploma in a time period that is accelerated or lengthened, based on their individual needs.",
+    "page": 15
+  },
+  "local_grad_requirements": {
+    "total": 26,
+    "unit": "credits",
+    "total_in_credits": 26,
+    "conversion_note": "Catalog states requirements directly in credits (English 4, Arts 1, Health 0.5, Math 3, PE 1.5, Social Studies 3.5, Civics 0.5, Science 3, World Language 1, Electives 8.5; total 26). No conversion needed. The catalog's own listed areas sum to 26.5 as printed (3.5 social studies); the Phase 2 extraction used 3 for social studies to reconcile the total, which is not stated in the catalog."
+  },
+  "flexible_pathways_listed": [
+    "Early College / Dual Enrollment (up to two college courses, Vermont State Colleges)",
+    "Vermont Adult Learning",
+    "Career and Technical Education (Stafford Technical Center)",
+    "online / virtual learning (VTVLC)",
+    "alternative / at-risk programming",
+    "internships and additional field work",
+    "exchange experiences",
+    "independent study",
+    "work experience",
+    "PE credits for varsity sports"
+  ],
+  "cte_centers": [
+    "Stafford Technical Center"
+  ],
+  "notes": "Local requirements beyond credits: Personal Learning Plans for all students (p.15-16); learning options must be approved and documented, and must demonstrate proficiency in the graduation standards in the student's PLP (p.16); Graduation Endorsements (Performing or Visual Arts) with commitment forms due June of sophomore year (Endorsement) or junior year (Concentration), beginning 2027-28 (p.3-4). Academic Assessment is proficiency-based with 1-4 symbols; incompletes evaluated at 1 if make-up is not completed in 10 days (p.17). The 'Graduation Progress' section is referenced (p.4-5) but is not present in the text, and no promotion or credit-count rule was found in the front matter. The graduation section's 'Social Studies Three and a half (3) credits' is printed as 3.5 in the catalog; the Phase 2 courses file records 3 (see local_grad_requirements.conversion_note)."
+}

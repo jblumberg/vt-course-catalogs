@@ -1,0 +1,51 @@
+{
+  "school_id": "middlebury-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/middlebury-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Students must earn a minimum of 22.5 credits with the following distribution ... Successful completion of these courses indicates proficiency (a Criterion Level Total score of 15 or higher with no individual scores below 3).",
+    "page": 8,
+    "proficiency_scale": "Four subject-specific criteria; Criterion Level Total (CLT) ranges 15-32 (individual criterion scale not stated)",
+    "min_score_to_earn_credit": "CLT of 15 or higher with no individual criterion score below 3",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students at MUHS are required to carry a minimum of seven academic credits per year in grades 9 through 11. The catalog does not state the number of blocks or periods per day for MUHS courses. Hannaford Career Center courses are listed as 'Full year • 80-minute block • Alternating days' (p.49) and some as 'Half-day • Every day' (p.41-49).",
+    "page": 8
+  },
+  "credit_definition": {
+    "text": "Full-year courses carry 1 credit; semester courses carry 1/2 credit (e.g. 'Popular Fiction: Science Fiction, Fantasy & Horror ... 1/2 Credit'; most course entries show '1 Credit').",
+    "credit_per_course_term": 0.5,
+    "evidence": "Popular Fiction: Science Fiction, Fantasy & Horror (Grade 11 or 12) ... ½ Credit. Most full-year course entries list 1 Credit.",
+    "page": 15
+  },
+  "course_load": {
+    "min_courses_or_credits": "minimum 7 academic credits per year in grades 9-11; minimum 6 credits in grade 12",
+    "evidence": "Students at MUHS are required to carry a minimum of seven academic credits per year in grades 9 through 11. Students in grade 12 are required to carry a minimum of 6 credits.",
+    "page": 8
+  },
+  "local_grad_requirements": {
+    "total": 22.5,
+    "unit": "credits",
+    "total_in_credits": 22.5,
+    "conversion_note": "Catalog states requirements directly in credits (Language and Literature 4, Language Acquisition 1, Individuals and Societies 3, Sciences 3, Mathematics 3, Arts/Design 2, PE 1.5, Health 1, Theory of Knowledge 0.5, Electives 3.5). No conversion needed."
+  },
+  "flexible_pathways_listed": [
+    "Branching Out (independent study projects)",
+    "Raven Ridge alternative program",
+    "virtual high school courses (VHS Learning, VTVLC)",
+    "Dual Enrollment",
+    "Early College",
+    "IB Diploma Program / IB certificates (DP courses for MUHS credit)",
+    "Personal Learning Plan (PLP) and Grade 10 Personal Project (0.25 elective credit)",
+    "Hannaford Career Center programs"
+  ],
+  "cte_centers": [
+    "Patricia A. Hannaford Career Center"
+  ],
+  "notes": "Local requirements beyond credits: Personalized Learning Plan in grades 9-12, including the Grade 10 Personal Project (pass/fail; passing earns 0.25 elective credit) (p.8); Physical Education 1.5 credits and Health Education 1 credit; Theory of Knowledge 0.5 credit (TOK Part 1 or Midd Core TOK Part 1 required) (p.8-9); Language Acquisition: one year of a language required, two recommended (p.8); Arts/Design 2 credits (p.30); Sciences and Mathematics each require at least two credits through MUHS offerings (p.25, p.28 per Phase 2 extraction). Courses 'Credits will be awarded based on demonstrations of proficiency' (p.9 footnote 1). Credit-distribution table gives typical credits by grade (p.9). Required Course Load and proficiency assessment are described on p.8 and p.10-11. Quarterly report cards (p.11). Hannaford Career Center technical programs earn 3-6 credits per year per program (p.41)."
+}
