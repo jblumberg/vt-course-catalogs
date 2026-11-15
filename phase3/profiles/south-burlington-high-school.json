@@ -1,0 +1,51 @@
+{
+  "school_id": "south-burlington-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/south-burlington-high-school.txt (SBHS Programs of Study, catalog_2026-27 text, pp.1-43)",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "SBHS students will meet the requirements for graduation when the student demonstrates evidence of proficiency in academic content-areas and student learning expectations (SLEs)",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students may change their schedules during an adjustment period of two weeks at the beginning of the first semester and one week at the beginning of the second semester. Courses run as full-year, semester or quarter-long (p.7). Daily period or block pattern is not stated.",
+    "page": 7
+  },
+  "credit_definition": {
+    "text": "A full-year course is 1 credit; a one-semester course is .5 credit; quarter-long and some elective courses are .25 or .5 credit.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Astronomy Course 384: .5 credit. Astronomy is a one-semester course",
+    "page": 24
+  },
+  "course_load": {
+    "min_courses_or_credits": "at least 5.0 credits to maintain full-time student status (period not stated)",
+    "evidence": "To maintain full-time student status, individuals must carry at least 5.0 credits.",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "not_stated",
+    "total_in_credits": null,
+    "conversion_note": "No total is stated. Program minimums in years (full-year = 1 credit per course listing): English 4, Social Studies 3.5 (incl. Public Issues and Financial Literacy), Mathematics 3, Science 3, Physical Education 1.5, Visual and Performing Arts 1, Health 0.5, Information Technology 0.5, plus Personal Finance 0.5 for class of 2026 and later (p.5). Sum of listed minimums is 17.5 years, but the catalog does not state a total."
+  },
+  "flexible_pathways_listed": [
+    "Vermont Virtual Learning Cooperative online courses",
+    "dual enrollment (up to two free college courses, Vermont Dual Enrollment Program)",
+    "early college (Vermont State Colleges or accredited private postsecondary programs)",
+    "SBx internship (field-based internship with Professional Skills prerequisite)",
+    "independent study",
+    "alternative and student support programs",
+    "credit for non-SBHS courses (accredited institutions, pre-approved)"
+  ],
+  "cte_centers": [
+    "Burlington Technical Center",
+    "Center for Technology, Essex (CTE)"
+  ],
+  "notes": "Graduation-level proficiency assessed in grades 11-12; pre-graduation level in grades 9-10 (p.13). Student Learning Expectations (SB1-SB5): Clear & Effective Communication, Self-direction, Creative & Practical Problem Solving, Responsible & Involved Citizenship, Informed & Integrative Thinking (pp.4, 6). Personal Finance 0.5 required beginning with class of 2026, separate from IT (p.5). Social Studies includes Public Issues and Financial Literacy (p.5). Physical Education requires 1.5 credits (p.20). A repeated course's new grade counts for GPA and credit; the original grade stays on the transcript but not in the cumulative GPA (p.7). Partial credit only in listed exceptions (p.7). Catalog states no daily block or period structure for the regular school day; the CTE (Essex) program runs a full-day flexible block schedule with students returning for one SBHS class at the end of the day (p.42). Catalog is labelled 2026-27."
+}

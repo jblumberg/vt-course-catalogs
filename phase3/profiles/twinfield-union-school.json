@@ -1,0 +1,49 @@
+{
+  "school_id": "twinfield-union-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/twinfield-union-school.txt",
+  "grading_system": {
+    "value": "proficiency",
+    "evidence": "To graduate, you must demonstrate proficiency or distinction in Twinfield's twenty-eight content standards.",
+    "page": 5,
+    "proficiency_scale": "Started / Progressing / Proficient / Distinguished (per 2022-23 Proficiency-based Graduation guide, catalogs/twinfield-union-school/grad_requirements_2022-23.pdf)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Course listings are marked Full Year, Fall Semester, Spring Semester, Semester 1, Semester 2, or Both semesters (Science section, page 6 of text). Number of classes taken at once is not stated.",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "not_stated: the 2026-27 Program of Studies gives no credit values; graduation is counted in content standards (proficiencies), not credits.",
+    "credit_per_course_term": null,
+    "evidence": "No credit values are stated in the 2026-27 Program of Studies text.",
+    "page": null
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "No course-load requirement is stated in the 2026-27 Program of Studies text.",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": 28,
+    "unit": "proficiencies",
+    "total_in_credits": null,
+    "conversion_note": "Requirement is 28 content standards (proficiency or distinction), not credits; the catalog gives no conversion to credits. Each indicator is met at least once unless marked (e.g. 4x). Also Graduation Portfolio required, and Health requires proficiency in 7 of 13 health indicators."
+  },
+  "flexible_pathways_listed": [
+    "Renaissance personalized learning experiences (internships, school-to-work, service learning, project-based, purposeful travel)",
+    "dual enrollment (VSU and area colleges)",
+    "Early College",
+    "VT Virtual Learning Coop",
+    "independent projects / individualized studies",
+    "college courses at area colleges (e.g. SNHU at Danville)"
+  ],
+  "cte_centers": [
+    "Central Vermont Career Center (per 2022-23 Student Guide; not named in 2026-27 Program of Studies text)"
+  ],
+  "notes": "Graduation is by proficiency (no credit count); source for graduation statements is catalogs/twinfield-union-school/grad_requirements_2022-23.pdf (2022-23 guide, p.5), not the 2026-27 Program of Studies text, which does not contain the graduation section. Required items: Graduation Portfolio; Personalized Learning Plan updated yearly (2022-23 guide); Passage Presentations; Habits of Mind (Engagement and Responsibility) assessed; 80 hours of community service by end of senior year (honor-roll criteria, per 2022-23 guide). Probability & Statistics and Financial Literacy are required graduation indicators. 9th and 10th grade English and 9th grade Physical Science are described as required classes in the 2026-27 text. The 2026-27 text names no credit values and no graduation credit total."
+}
