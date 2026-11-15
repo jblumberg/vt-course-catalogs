@@ -1,0 +1,50 @@
+{
+  "school_id": "craftsbury-schools",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/craftsbury-schools.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Our standards-based grading language and scale is comparable to the 4.0 scale which is used in many schools and colleges.",
+    "page": 5,
+    "proficiency_scale": "1.0-4.0 (standards-based performance descriptors; 4.0 = exceeded standard, 3.0 = met standard, 2.0 = progressing, 1.0 = beginning; Inc. = no evidence)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Each quarter and semester, a course grade is reported on report cards. It is important to note that a semester grade is a grade for the entire semester.",
+    "page": 5
+  },
+  "credit_definition": {
+    "text": "Courses are listed as full year (1.0 credit) or semester (0.5 credit), e.g. 'Driver Education ... Semester, 0.5 Credit'; flexible pathway courses carry .5 or 1 elective credit.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Driver Education Semester, 0.5 Credit",
+    "page": 20
+  },
+  "course_load": {
+    "min_courses_or_credits": "minimum 5 credits per year (students below 5 are not full-time)",
+    "evidence": "All students in grades 9-12 must carry a minimum of 5 credits per year. Students who take fewer than 5 credits will not be considered full-time.",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 22,
+    "unit": "credits",
+    "total_in_credits": 22,
+    "conversion_note": "Catalog states requirements directly in credits; no conversion needed. Required: English/Language Arts 4, social studies 3, math 3 (Algebra I, Geometry, Algebra II, Precalculus, AP Calculus pathways), science 3, world language 2, PE 1.5, fine arts 1, senior capstone 0.5, electives 4. Advancement: 5 credits to grade 10, 11 to grade 11, 15 to grade 12, 22 to graduate."
+  },
+  "flexible_pathways_listed": [
+    "service learning",
+    "work-based learning",
+    "dual enrollment",
+    "early college",
+    "VTVLC online courses",
+    "off-campus learning and study abroad",
+    "independent study"
+  ],
+  "cte_centers": [
+    "Green Mountain Technical and Career Center (GMTCC)"
+  ],
+  "notes": "Diploma requires 22 credits (p.3). Grading is standards-based (1.0-4.0 performance levels, p.5-6); transferable skills (timeliness and preparedness, self-awareness and responsibility) are assessed and factored into course grades (p.5). The catalog does not explicitly say proficiency is a condition of graduation, so hybrid is recorded on that basis. Credit-passing threshold is not stated. Senior Capstone (0.5 credit, required) has no course entry in the catalog. Work-Based Learning requires permission of instructor and Leadership class (p.21). Dual enrollment: two college courses tuition-free, principal approval required (p.22). Schedule structure (blocks, periods) is not described in the catalog. Catalog is the 2026-27 Google Doc export (24 pages), updated August 2026."
+}

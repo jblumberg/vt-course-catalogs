@@ -1,0 +1,49 @@
+{
+  "school_id": "hazen-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/hazen-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Total Credits Required: 22 ... For promotion ... students in grades 9-12 must accumulate the following credits ... Demonstrated Proficiency in Content Areas, 22 credits",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students in grades 9-11 must carry a minimum of 7 courses; grade 12 must carry a minimum of 6 1/2 credits per year. Courses are listed as Full Year or Semester; the catalog does not state a number of periods or a block pattern (it mentions 'period 7' and a 'Pathways Block' only).",
+    "page": 4
+  },
+  "credit_definition": {
+    "text": "Full-year courses carry 1 credit; semester courses carry 1/2 credit (e.g. 'Government & Civics Semester 1/2 Credit'; 'World Literature Full Year 1 Credit').",
+    "credit_per_course_term": 0.5,
+    "evidence": "World Literature Full Year 1 Credit ... Wayfinding Semester 1/2 Credit",
+    "page": 5
+  },
+  "course_load": {
+    "min_courses_or_credits": "Grades 9-11: minimum 7 courses; grade 12: minimum 6 1/2 credits per year; exceptions in writing to Principal and Counseling Office",
+    "evidence": "All students in grade 12 must carry a minimum of 6 1/2 credits per year. Students in grades 9-11 must carry a minimum of 7 courses.",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 22,
+    "unit": "credits",
+    "total_in_credits": 22,
+    "conversion_note": "Catalog states requirements directly in credits (22 total: English 4.0, Performance Arts 0.5, Global Citizenship 2.5, Government 0.5, Mathematics 3.0, Science 3.0, Physical Education 1.5, Fine Arts 1.0, Health 0.5, electives balance). No conversion needed."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment (CCV)",
+    "online learning (VTVLC)",
+    "independent / individually-designed learning experience",
+    "work-based learning (internships)",
+    "career and technical programs (GMTCC)",
+    "Pathways Block"
+  ],
+  "cte_centers": [
+    "Green Mountain Technology & Career Center (GMTCC)"
+  ],
+  "notes": "Local requirements beyond credits: 30 hours of community service before graduation; Personalized Learning Plan (PLP) required (Act 77 of 2013); credits can be earned through proficiency in a traditional course, integrated program, or individually-designed learning experience (p.3). Promotion requires proficiency-based credit accumulation at each grade (5.5/11/16.5/22). Hazen uses the district's graduation proficiencies (p.3). Performance Arts 0.5 credit may be waived by a speaking role in three shows or presentations; PE 1.5 credits may be reduced by four high school sports seasons (1/2 credit) (p.13, p.20). Driver's Ed earns 0.5 elective credit (p.23). Some courses operate on a two-year departmental rotation (p.4)."
+}

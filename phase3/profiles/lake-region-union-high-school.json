@@ -1,0 +1,48 @@
+{
+  "school_id": "lake-region-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/lake-region-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Students must earn a minimum of 23 credits to receive a Lake Region diploma. ... Receiving a Lake Region diploma is contingent upon preparation, submission, presentation and approval of an LRfolio.",
+    "page": 2,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "minimum passing grade is 65",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students in grades 9 to 12 are required to carry a minimum of 2 classes per term to be eligible for participation in extracurricular activities (p.15). The course summary lists credit 'Per Sem./Yr.' (p.8); other passages refer to quarters/terms and semesters. The catalog does not state the number of classes in a full course load or a block pattern.",
+    "page": 15
+  },
+  "credit_definition": {
+    "text": "Semester courses carry 1/2 credit and year-long courses carry 1 credit (Course Summary column 'Credit Per Sem./Yr.'); some courses carry 1/4 credit.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Course Summary for 2026-2027 ... Credit Per Sem./Yr. ... Fitness/Weightlifting 1/2 Credit; Yearbook Class- 1 credit (must complete full year)",
+    "page": 8
+  },
+  "course_load": {
+    "min_courses_or_credits": "minimum 2 classes per term for extracurricular eligibility; grade-level minimums of 5 3/4 (sophomore), 11 1/2 (junior), 17 1/4 (senior) credits earned; full course of study expected",
+    "evidence": "Students in grades 9 to 12 are required to carry a minimum of 2 classes per term to be eligible for participation in extracurricular activities.",
+    "page": 15
+  },
+  "local_grad_requirements": {
+    "total": 23,
+    "unit": "credits",
+    "total_in_credits": 23,
+    "conversion_note": "Catalog states requirements directly in credits (23 total, including 4.5 elective credits and 0.5 community service credit). No conversion needed."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment",
+    "VTVLC/online (Dual Enrollment and VTVLC)",
+    "independent learning opportunities (Learning Agreement)",
+    "home study (credit determined after review)",
+    "North Country Career Center programs"
+  ],
+  "cte_centers": [
+    "North Country Career Center (NCCC)"
+  ],
+  "notes": "Local requirements beyond credits: LRfolio (four-year portfolio, presentation and approval) is a final graduation requirement in addition to passing courses (p.3); composition course required (p.3); core courses required: World History (9), US History (10), Global Citizenship (11; may be waived by two AP courses), Earth Science and Biology, math each of freshman/sophomore/junior year (p.2-3, p.15); Health Education semester course in grade 9; Technology Applications 0.5 credit includes 0.25 for LRfolio presentation; 40 hours community service (up to 1 additional credit). Personalized Learning Plan developed with advisor (p.3). Catalog also refers to quarter/term deadlines (p.12-13) alongside semester courses; terms_per_year recorded as 2 because credit is listed per semester. Some courses carry 1/4 credit (p.14). Schedule structure and courses per term in a full load are not stated."
+}
