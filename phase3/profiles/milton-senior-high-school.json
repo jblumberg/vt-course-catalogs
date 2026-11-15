@@ -1,0 +1,56 @@
+{
+  "school_id": "milton-senior-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/milton-senior-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Graduation is based upon both credits earned and the demonstration of our Proficiency Based Graduation Requirements.",
+    "page": 11,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Course listings are marked 'Credits: 1 (Full Year A Day or B Day)' and 'One Semester A Day or B Day'; the number of blocks per day is not stated, so courses_per_term is null. Courses also run one quarter, three quarters, or four quarters.",
+    "page": 22
+  },
+  "credit_definition": {
+    "text": "Credits are printed per course: 1 credit for a one-semester course, 2 for a full-year course, .5 for a one-quarter course. Requirements are stated in credits.",
+    "credit_per_course_term": 1,
+    "evidence": "Course #: 01061OW Credits: 1 (One Semester). Course #: 01065HH Credits: .5 (One Quarter). Course #: 01005 Credits: 2 (Full Year).",
+    "page": 23
+  },
+  "course_load": {
+    "min_courses_or_credits": "Freshman 8 credits; Sophomore 6; Junior 6; Senior 6; at least three credits per semester",
+    "evidence": "All students in grades 9-12 will be enrolled in a minimum of three credits each semester and attend school for a minimum of 5.5 hours excluding lunch.",
+    "page": 11
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Catalog already uses credits (1 = one-semester course, 2 = full-year course in its course listings); no conversion needed. Area minimums: English 4, Social Studies 4, Math 3.5, Science 3, PE 1.5, Fine Arts 1, Health 0.5, Service Learning/Internships 0.5, Technology 0.5, World Language 1. The catalog states a traditional 24-credit pathway and separately requires proficiency-based graduation requirements."
+  },
+  "flexible_pathways_listed": [
+    "Advanced Placement (AP) courses",
+    "dual enrollment (CCV / college courses, up to two vouchers)",
+    "Introduction to College & Careers (CCV, non-credit)",
+    "early college",
+    "VHS Learning virtual/online courses",
+    "work-based learning",
+    "service learning / internships",
+    "independent study (Studio Art Independent Study)",
+    "ACT 129 / High School Choice",
+    "credits for home-schooled students",
+    "Burlington Technical Center two-year programs (six high school credits)",
+    "Center for Technology Essex full-day programs"
+  ],
+  "cte_centers": [
+    "Burlington Technical Center (BTC)",
+    "Center for Technology, Essex (CTE)"
+  ],
+  "notes": "Catalog is 2026-27 (76-page PDF). Milton has both a traditional 24-credit pathway and Proficiency Based Graduation Requirements (PBGR); catalog states no proficiency scale or minimum score. Letter grades with a 4.33 GPA scale are used for courses (p.15). Promotion standing requires 6 (sophomore), 11 (junior) and 17 (senior) credits (p.11). Seniors must complete Service Learning by the end of semester one (sample four-year plan, PAGE 10). Required English 9 and 10; juniors and seniors choose AP or Seminar for English. Math sequence: Algebra I, Geometry, Algebra II and Statistics/AP Stats/Principles of Math. Schedule block count is not stated; the A Day/B Day course markers indicate an A/B schedule. Report card and transcript reflect the Center for Technology Essex grade scale for CTE courses (p.75)."
+}

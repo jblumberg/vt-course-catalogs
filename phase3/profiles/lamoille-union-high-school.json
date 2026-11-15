@@ -1,0 +1,51 @@
+{
+  "school_id": "lamoille-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/lamoille-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "In order to graduate from Lamoille Union High School, students are required to demonstrate proficiency in content areas as well as in transferable skills. ... Total Credits: 24",
+    "page": 3,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students in grades 10, 11 & 12 commit to EPIC for a semester and will engage in the program for two blocks on either blue or gold days. Most course entries are 'Course Length: Semester' or 'Year'. The catalog does not state how many blocks a student takes per day or per term.",
+    "page": 5
+  },
+  "credit_definition": {
+    "text": "Not stated as a general rule. The catalog states that a semester two-block science experience (EPIC: Rewild) earns 1.0 credit; full-year and semester course entries carry no credit amount in the course descriptions.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Students can earn 1.0 credit of science in this 2-block experience. (EPIC: Rewild, a semester experience on blue or gold days). 0.5 per semester course is derived from that figure, not separately stated.",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Schedules can be modified to incorporate traditional classes as well as the EPIC experience.",
+    "page": 3
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Catalog states requirements directly in credits (English 4, Math 3, Science 3, Social Studies 3, PE 1.5, Art 1, Health 0.5, Capstone 0.5, Electives 7.5; total 24). No conversion needed."
+  },
+  "flexible_pathways_listed": [
+    "EPIC (project-based, grades 10-12)",
+    "independent study",
+    "extended learning opportunity (outside-school activities)",
+    "early college",
+    "dual enrollment (VT college courses)",
+    "online learning (VTVLC and PLATO)",
+    "YouthBuild",
+    "career and technical programs (GMTCC)"
+  ],
+  "cte_centers": [
+    "Green Mountain Technology and Career Center (GMTCC)"
+  ],
+  "notes": "Local requirements beyond credits: demonstrated proficiency in content areas and transferable skills (p.3); Capstone Project 0.5 credit (Capstone Seminar course entry, p.27); Health half year required (p.29); half year/one semester of PE, Strength and Conditioning or Lifetime Fitness must be passed (p.30); Introduction to Dance can satisfy either the Art or PE requirement (p.17). Courses are listed as semester or year length; the catalog gives no courses-per-term count, so courses_per_term is null. Proficiency scores appear only as course prerequisites (e.g. 'proficiency of 2.6 or higher', p.16), with no stated scale or graduation threshold. The GMTCC section (p.4) lists full-day programs for juniors and seniors without credit amounts."
+}
