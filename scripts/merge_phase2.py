@@ -8,6 +8,8 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+# District catalogs that cover several schools and are stored in one school's folder.
+SHARED_CATALOGS = {"poultney-high-school": ("catalogs/proctor-junior-senior-high-school/catalog_undated.pdf",)}
 COURSE_FIELDS = ["school_id", "school_name", "su_sd", "catalog_school_year", "department", "course_code",
                  "course_name", "description", "grade_levels", "credits", "credits_text", "length",
                  "prerequisites", "level", "honors_option", "delivery", "provider", "fulfills_text", "offering_note",
@@ -106,7 +108,7 @@ def check(d):
     for sf in d.get("source_files") or []:
         if not (ROOT / sf).exists():
             err.append(f"source file not found: {sf}")
-        elif not sf.startswith(f"catalogs/{sid}/"):
+        elif not sf.startswith(f"catalogs/{sid}/") and sf not in SHARED_CATALOGS.get(sid, ()):
             err.append(f"source file belongs to another school: {sf}")
     seen = Counter((c.get("course_name") or "").strip().lower() + "|" + str(c.get("course_code"))
                    for c in courses)
