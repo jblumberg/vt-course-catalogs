@@ -1,0 +1,49 @@
+{
+  "school_id": "twin-valley-middle-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/twin-valley-middle-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "TWIN VALLEY MIDDLE HIGH SCHOOL GRADUATION REQUIREMENTS: Area of Study - Proficiency Based Credits Required (English 4.00 ... TOTAL CREDITS: 22.00).",
+    "page": 7,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students should be prepared to earn 7 credits per year over four years. Some courses are listed as semester courses (e.g. 'Fall Semester Course'). Number of classes taken at once and the meeting pattern are not stated.",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "Semester courses are generally listed as .50 Credits and year-long courses as 1 Credit; some semester courses are listed as 1 Credit.",
+    "credit_per_course_term": 0.5,
+    "evidence": "ENTREPRENEURIAL STUDIES 1: .50 Credits (course listing, p.21). Some listings show 1 Credit for full-year courses.",
+    "page": 21
+  },
+  "course_load": {
+    "min_courses_or_credits": "7 credits per year over four years, as recommended",
+    "evidence": "Students should be prepared to earn 7 credits per year over four years to meet those requirements.",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": 22,
+    "unit": "credits",
+    "total_in_credits": 22,
+    "conversion_note": "Catalog states 22 credits; course listings use the standard unit (year-long = 1 Credit, semester = .50). Area minimums: English 4, Social Studies 3, Math 3, Science 3, Health 0.5, PE 1.5, Fine Arts 1, Pipelines & Pathways 0.5, Electives 5.5. Also 40 service-learning hours (or 10 hours for each year attending TVMHS)."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment (CCV)",
+    "Virtual High School",
+    "junior/senior internship",
+    "work-based learning / career readiness experiences",
+    "Advanced Placement courses (not a pathway; listed for context)",
+    "Academy of Arts, Communication & Entrepreneurship (AAEC)"
+  ],
+  "cte_centers": [
+    "Windham Regional Career Center (WRCC)"
+  ],
+  "notes": "Required local items: Pipelines & Pathways 0.5 credit; PE required of all students in grades 9-12 (p.23); Health is part of the ninth-grade personal development class (p.23); 40 service-learning hours (or 10 per year attending TVMHS). WRCC students should complete as many graduation requirements at TVMHS as possible and must still complete academic course requirements (p.25). Catalog describes courses as proficiency-based but does not state the score needed to earn credit."
+}
