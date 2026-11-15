@@ -1,0 +1,54 @@
+{
+  "school_id": "green-mountain-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/green-mountain-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "each student must, at minimum, reach proficiency in 92 enduring graduation proficiencies in the following courses areas ... 23.5 total credits",
+    "page": 2,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": null,
+    "evidence": "Students are able to take eight courses each year in order to prepare for further education or the workplace.",
+    "page": 2
+  },
+  "credit_definition": {
+    "text": "not_stated. Course listings give no per-course credit values in the catalog text; River Valley and Stafford Technical Center programs are described as four-credit, year-long programs (p.4).",
+    "credit_per_course_term": null,
+    "evidence": "These four credit programs are year-long and involve students spending one half of their school day at the technical center.",
+    "page": 4
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Students are able to take eight courses each year in order to prepare for further education or the workplace.",
+    "page": 2
+  },
+  "local_grad_requirements": {
+    "total": 23.5,
+    "unit": "credits",
+    "total_in_credits": 23.5,
+    "conversion_note": "Total is the Class of 2028 figure (Personal Finance and Environmental Science added, p.2): English 4, Social Sciences 3.5, Mathematics 3.5, Science 3.5, Health/PE 2, Creative Arts 1, Foreign Language 1, Electives 5. The Class of 2027 table (p.2) totals 22.5 credits. Credits are treated as standard credits because the catalog uses the same credit unit in its requirement table; no per-course conversion is stated, so this is recorded as stated."
+  },
+  "flexible_pathways_listed": [
+    "Vermont Virtual Learning Cooperative (VTVLC) online courses",
+    "Brigham Young University (BYU) online courses",
+    "Dual enrollment (two free classes after sophomore year)",
+    "Early College (senior year at local colleges)",
+    "Dartmouth College Special Community Student Program",
+    "Community Based Learning",
+    "Independent studies and long-term projects through a Personal Learning Plan",
+    "Flexible Pathways classroom",
+    "River Valley Technical Center programs",
+    "Stafford Technical Center programs"
+  ],
+  "cte_centers": [
+    "River Valley Technical Center",
+    "Stafford Technical Center"
+  ],
+  "notes": "Current catalog is 2025-26; the file is named catalog_2025-26.pdf and the 2026-27 catalog was not in the input. Graduation rests on 92 enduring graduation proficiencies plus credit totals (p.2). Science requires proficiency in the seven enduring standards across at least three science content areas, with Environmental Science required from the Class of 2028 (p.8). Requirements for the Class of 2027 and 2028 differ: the Class of 2027 table lists 22.5 credits and the Class of 2028 table 23.5 credits (the Class of 2027 table heading reads 'addition of 5 elective credits', which is unclear). Students must have a Personal Learning Plan (p.3). Schedule type, courses per term and credit per course are not stated in the catalog text. The Dartmouth program runs on a trimester basis (p.4), but that is Dartmouth's calendar, not the school's. The school sends students to two technical centers (River Valley and Stafford) (p.4). Transferable Skills proficiencies are gathered through Community Based Learning (p.4), but the catalog does not state them as a graduation requirement."
+}

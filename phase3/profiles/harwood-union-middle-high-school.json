@@ -1,0 +1,54 @@
+{
+  "school_id": "harwood-union-middle-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/harwood-union-middle-high-school.txt",
+  "grading_system": {
+    "value": "proficiency",
+    "evidence": "all students will need to demonstrate that they have achieved proficiency through course and Learning Expectation requirements to receive a high school diploma.",
+    "page": 4,
+    "proficiency_scale": "1-4: beginning (1), emerging (2), proficient (3), advanced (4); Score key: 4.0-3.4 Advanced, 3.3-2.6 Proficient, 2.5-1.8 Emerging, 1.7-0.0 Beginning (p.5)",
+    "min_score_to_earn_credit": "overall course score of 2.6 or greater (proficient range) to complete a course (p.5)",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students may drop classes up to 10 school days after Quarter 1 ends (or Quarter 3 for a semester 2 class) with no impact on their transcript.",
+    "page": 7
+  },
+  "credit_definition": {
+    "text": "not_stated. The catalog uses no credit counts; graduation is stated as years or semesters of each subject plus Learning Expectations. Course listings give Duration: Semester or Full Year.",
+    "credit_per_course_term": null,
+    "evidence": "English 4 years; Social Studies 3 years; Mathematics 3 years; Science 3 years; Visual or Performing Arts 2 semesters or 1 year; Physical Education 3 semesters; Health 1 semester.",
+    "page": 5
+  },
+  "course_load": {
+    "min_courses_or_credits": "minimum of six classes for full-time status (term basis not stated); part-time requires an approved written academic plan",
+    "evidence": "In order to be considered a full-time student at Harwood Unified Union High School, a student needs to be enrolled in a minimum of six classes.",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": 32,
+    "unit": "semesters",
+    "total_in_credits": null,
+    "conversion_note": "Subject minimums in semesters: English 8 (4 years), Social Studies 6, Mathematics 6, Science 6, Visual or Performing Arts 2, Physical Education 3, Health 1 = 32 semesters (p.5). Also requires 4 Electives (learning opportunities, unit not stated) and an overall proficient score (2.6 or greater) in each of the six Learning Expectations (p.6). The catalog gives no conversion to standard credits, so total_in_credits is null."
+  },
+  "flexible_pathways_listed": [
+    "Extended Studies (add-on in core 9th and 10th grade English, Science and Social Studies)",
+    "Career and Technical Centers (Exploratory Tech for sophomores; training programs for juniors and seniors)",
+    "Dual Enrollment (2 Vermont college courses after sophomore year, using an AOE voucher)",
+    "Early College (senior year at a Vermont college)",
+    "Harwood Community Learning Center (HCLC) for juniors and seniors",
+    "online learning",
+    "internships",
+    "apprenticeships",
+    "independent study",
+    "student-designed learning opportunities that meet graduation criteria",
+    "Extended Learning Opportunity (ELO) series"
+  ],
+  "cte_centers": [
+    "Central Vermont Career Center (CVCC)"
+  ],
+  "notes": "Current catalog is 2026-27 (the file is catalog_2026-27 per the text header). Graduation is proficiency-based: course requirements by year or semester in each subject plus an overall proficient score (2.6 or greater) in each of six Learning Expectations: Communication and Creative Expression, Integrative Thinking, Literacy, Personal and Global Engagement, Problem Solving, and Self Direction (p.4-6). The catalog gives no credit totals. Community service is 10 hours for 2026-27 students taking two or more classes at Harwood (p.6). Transcript codes include NYC (Not Yet Complete) and INC (Incomplete) (p.4). The school runs quarters for grading (Quarter 1 and Quarter 3 are referenced) and semester course durations, but does not state the number of blocks per day or courses per term; courses_per_term is null. Teacher Advisory and ELO (mandatory, in all students' schedules) are described (p.6-7). Full-time status is a minimum of six classes (p.6)."
+}

@@ -1,0 +1,52 @@
+{
+  "school_id": "fair-haven-union-middle-and-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/fair-haven-union-middle-and-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "All students graduating in the class of 2020 and beyond must accumulate a minimum of 24 credits, maintain their Personalized Learning Plan, and demonstrate evidence of proficiency in the areas listed below.",
+    "page": 5,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "traditional periods",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "At the end of each semester (January and June) academic progress will be calculated as a final grade. Full-time: traditional courses or other experiences equivalent to at least 4 credits per school year (p.4-5).",
+    "page": 14
+  },
+  "credit_definition": {
+    "text": "A full-year course earns one credit, a half-year course one-half credit.",
+    "credit_per_course_term": 0.5,
+    "evidence": "A full-year course earns one credit, a half-year course, one-half credit.",
+    "page": 5
+  },
+  "course_load": {
+    "min_courses_or_credits": "equivalent to at least 4 credits per school year to be full-time (Classes of 2022 and beyond)",
+    "evidence": "to be considered a full-time student at FHUMHS, students in grades 9-12 should be enrolled in traditional courses or other educational experiences ... equivalent to at least 4 credits per school year.",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Already in standard credits (1 = full-year course, per p.5). Subject minimums: English Language Arts & Literacy 4, Mathematics 3, Science 3, Global Citizenship 3 (must include U.S. History), Additional Core Flex 1, Physical Education 1.5, Health .5, Arts 1 (Music or Visual Arts), Electives 7. Beginning with the Class of 2030, 14 core credits are required, including a Flex credit (ELA, Math, Science or Social Studies) (p.5)."
+  },
+  "flexible_pathways_listed": [
+    "Early College / Dual Enrollment courses",
+    "Career and Technical Education programming",
+    "Online / Virtual Learning",
+    "Alternative programming (FHUMHS Alternative Education Program)",
+    "Internships and fieldwork / exchange experiences",
+    "Independent Study or long-term projects",
+    "Personal Learning Plans (PLP) defining how proficiency is shown when a pathway replaces core experiences",
+    "Academic Success Program",
+    "Academic concentrations: Global Humanities and Quantitative Literacy"
+  ],
+  "cte_centers": [
+    "Stafford Technical Center"
+  ],
+  "notes": "Current catalog is 2026-27. Requirements are 24 credits, a PLP, and proficiency evidence (p.5); the catalog says the school 'will continue to track credits' alongside proficiencies. Latin honors use a Proficiency-Based Scoring Average (Summa 3.75, Magna 3.50, Cum Laude 3.25) (p.14); the scale's maximum is not stated. Co-curricular eligibility requires an average proficiency score of at least 2.5 in each class and transferable skill, which is not a graduation rule (p.16). Weighted course levels are Advanced (6), Honors (5), General (4) for GPA purposes only (p.5-6). Full-time status is stated as 4 credits per school year, not as a course count. The catalog says each class meets for 'periods' (e.g., a 3-period outdoor pursuits course), but the number of periods per day is not stated, so schedule.type is traditional periods and courses_per_term is null. The Transferable Skills (five) are listed (p.10), but the catalog does not state them as a graduation requirement, so transferable_skills_required is null. Physical education: 1.5 credits, at least 30 minutes of physical activity offered daily (p.10)."
+}

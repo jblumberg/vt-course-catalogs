@@ -1,0 +1,50 @@
+{
+  "school_id": "canaan-schools",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/canaan-schools.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "In order accordance with Vermont Law Act 77 and the Vermont Education Quality Standards, students will be able to demonstrate proficiency in the following areas",
+    "page": 14,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "70 (numeric; CMHS passing grade is 70%)",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "All high school students are required to take 8 courses per year (4 per semester). Free blocks are never permitted.",
+    "page": 25
+  },
+  "credit_definition": {
+    "text": "Courses carry credit as listed in the course tables: full-year courses are 1 credit and semester courses are 1/2 credit (e.g. 'four upper level 1/2 credit and 1 full credit art courses').",
+    "credit_per_course_term": 0.5,
+    "evidence": "There are four upper level ½ credit and 1 full credit art courses offered",
+    "page": 34
+  },
+  "course_load": {
+    "min_courses_or_credits": "8 courses per year (4 per semester)",
+    "evidence": "All high school students are required to take 8 courses per year (4 per semester).",
+    "page": 25
+  },
+  "local_grad_requirements": {
+    "total": 28.5,
+    "unit": "credits",
+    "total_in_credits": 28.5,
+    "conversion_note": "Catalog states requirements directly in credits; no conversion needed. Requirements: 4 English (incl. American Literature and one senior English), 4 math (incl. Personal Finance and one senior math), 3 social studies (U.S. History), 3 science (Physics, Chemistry, Biology), 1.5 PE, 1 visual art, 1 music, 0.5 health, 0.5 computer applications, 10 electives."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment (Vermont's Dual Enrollment Program)",
+    "early college (Early College at Your High School, WMCC; Early College Program)",
+    "work-based learning",
+    "online courses (VHS, VTVLC)",
+    "independent study",
+    "mentorships",
+    "High School Completion Program (HSCP, with NEKLS)"
+  ],
+  "cte_centers": [
+    "North Country Career Center (Newport, VT)"
+  ],
+  "notes": "Credit-based graduation (28.5 credits, p.10) with grade promotion by credit minimums (p.10-11). Grades are numeric (p.11) with a 70% passing grade (p.15). The proficiency-based learning section (p.14) lists six proficiency areas and says students 'will be able to demonstrate proficiency'; the catalog does not explicitly say proficiency is a condition of graduation, so hybrid is recorded on that basis. Required local courses: American Literature; Personal Finance; Physics, Chemistry and Biology (starting Class of 2027, p.52); U.S. History (p.56); Health (p.44); Computer Applications (p.37); 1 credit visual art (p.32); 1 credit music (p.48). PE: 1.5 credits, minimum 1 credit in PE classroom, up to 0.5 from sports seasons (p.49). Catalog is the 2025-26 program of studies (68 PDF pages); no 2026-27 version was found in Phase 1."
+}

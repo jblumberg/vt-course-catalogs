@@ -1,0 +1,55 @@
+{
+  "school_id": "hartford-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/hartford-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "To graduate from Hartford High School, a student must earn a total of 26 credits and must meet all local and state graduation requirements ... In addition to the credit criteria, students must also demonstrate proficiency in certain, identified standards-based graduation requirements.",
+    "page": 5,
+    "proficiency_scale": "Standards grading scale: E (Exceeds Expectations) 4.33, NE (Near Exceeds) 4.0, PR (Proficient) 3.0, NP (Near Proficient) 2.0, DP (Developing Proficiency) 1.0, BP (Beginning Progress) 0, NSE (Not Sufficient Evidence) 0 (GPA values, p.6)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "The daily schedule is made up of four blocks of time, each consisting of 70 minutes. All students will be scheduled into an Advisory each day.",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "Credits are awarded per course. The catalog gives a credit value per course listing (for example 1 credit or .5 credit), but no explicit rule converting one-block semester courses or full-year courses to a credit count. A retaken course earns one credit, not two.",
+    "credit_per_course_term": null,
+    "evidence": "the student will receive one credit for the course (not two) and their grades will be averaged to determine their final grade for that course.",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "Grade 9 and 10: 8 credits (9 if in band/choir); Grade 11: 8 credits (9 if in band/choir; HACTC students 7); Grade 12: 8 credits (HACTC students 7)",
+    "evidence": "Hartford High School students are required to take a minimum of the following credits: Grade 9 8 credits (9 credits if enrolled in band/choir)",
+    "page": 5
+  },
+  "local_grad_requirements": {
+    "total": 26,
+    "unit": "credits",
+    "total_in_credits": null,
+    "conversion_note": "Catalog gives no conversion to standard credits (1 = full-year course), so total_in_credits is null. Distribution: English 4, Mathematics 3, Science 3 (includes a physical science and biology semester), Social Studies 3 (one must be US History), Fine Arts 1, Wellness 0.5, Physical Education 2, Required Courses 16.5, Elective Courses 9.5 (p.5). Recommended promotion credits: 6 for Grade 10, 12 for Grade 11, 19 for Grade 12 (p.5)."
+  },
+  "flexible_pathways_listed": [
+    "Dual enrollment (Act 77, college courses; PLP required first)",
+    "Extended learning opportunities (ELOs) and community-based learning",
+    "Independent study",
+    "Work-Based Learning",
+    "Online courses (QUEST, Edmentum)",
+    "Summer school",
+    "Students may satisfy one required credit (English, Math, Science, Social Studies or Art) with certain two-year career/technical programs",
+    "Credit for courses taken abroad (international exchange, up to 8 credits per school year)",
+    "Dartmouth College classes",
+    "Honors Program (capstone project)",
+    "Personalized Learning Plan (PLP)",
+    "Regional Alternative Program (RAP) and Regional Resource Center (RRC)"
+  ],
+  "cte_centers": [
+    "Hartford Area Career & Technology Center (HACTC)"
+  ],
+  "notes": "Current catalog is 2026-27 (headers are 2025-26 and 2026-27 text as printed). Graduation requires 26 credits plus identified standards-based proficiencies, culminating in a student-led conference in senior year (p.5). Student-level credit targets are 8 per year in grades 9-12 (p.5). Grading has two scales: an A-F alpha scale with GPA values, and a standards scale (E, NE, PR, NP, DP, BP, NSE) (p.6). Only AP courses are weighted (+1.00) (p.6). Daily schedule: four 70-minute blocks, plus Block 5 (flexible support) and Blocks 6-7 (placeholders) (p.6). Courses are listed as 'Fall / Spring' (semester, one block) or 'Full Year' (p.11-12 listings). Day-level course count is inferred as 4 from the four-block daily schedule; the catalog does not state courses per term directly. Students must complete a Personalizing Pathways half-credit course in grade 9 (p.5). Community service requirement is being reviewed; 2026 graduates need 5 hours (p.6). Some course listings are scrambled in the text layout, so the one-credit-per-course reading is not reliable and credit_per_course_term is left null."
+}

@@ -1,0 +1,40 @@
+{
+  "school_id": "cabot-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/cabot-school.txt",
+  "grading_system": {
+    "value": "not_stated",
+    "evidence": "not_stated",
+    "page": null,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Block grid for SEMESTER II: 'Block 1 - PE/Health Senior X ... AP Biology Business Algebra I' with time slots (8:20-9:12, 9:13-10:30, 10:33-10:57 'Crew', 11:00-12:12, 12:45-2:00) and 'STUDIO ONE / STUDIO TWO / STUDIO THREE' rows; courses are labeled SEMESTER ONE or SEMESTER TWO. Number of classes per student is not stated.",
+    "page": 2
+  },
+  "credit_definition": {
+    "text": "not_stated",
+    "credit_per_course_term": null,
+    "evidence": "not_stated",
+    "page": null
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "not_stated",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "not_stated",
+    "total_in_credits": null,
+    "conversion_note": "Graduation requirements are not in the catalog text. The catalog's Academics page links a 'Cabot HS Graduation Handbook' Google Doc that requires sign-in and was not downloaded (per Phase 1 record, cabot-school.json)."
+  },
+  "flexible_pathways_listed": [],
+  "cte_centers": [],
+  "notes": "Source is a 2025-26 catalog covering Semester II only (14 pages): a block grid (p.2) plus descriptions for rotating interdisciplinary 'Studio' courses (pp.5-14). No graduation, grading, credit, course-load, flexible-pathway or CTE policy appears in the text, so most judgment fields are not_stated. Studio offerings rotate by semester, so the course list is not a stable program of studies. The Phase 1 record notes the district is weighing closing Cabot High School in 2027/28 (school board page, not catalog content). Profile limited to catalog text; the graduation handbook was not available."
+}

@@ -1,0 +1,57 @@
+{
+  "school_id": "champlain-valley-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/champlain-valley-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "A student meets the requirements for graduation when the student demonstrates evidence of proficiency in these curriculum content areas, and when they meet the additional graduation requirements described in the Personalized Learning Process.",
+    "page": 6,
+    "proficiency_scale": "composite score 0-4.0, converted to letter grades (A+ 3.9-4.0 ... F 0-0.9); see GRADING table",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "First year students spend two-to-three of their four daily blocks with their Core. Year-long and semester courses are both offered; the catalog does not name a block pattern (e.g. A/B or 4x4).",
+    "page": 15
+  },
+  "credit_definition": {
+    "text": "Courses typically are either one semester long and earn .5 credit or one year long and earn one credit; a one-semester dual enrollment class earns 1 full credit at CVU.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Courses typically are either one semester long and earn .5 credit or one year long and earn one credit.",
+    "page": 7
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "In the Core program in grade 9, students' core program fills five of their eight blocks",
+    "page": 7
+  },
+  "local_grad_requirements": {
+    "total": 22,
+    "unit": "credits",
+    "total_in_credits": 22,
+    "conversion_note": "Catalog states requirements directly in credits; no conversion needed. Required: English 4, math 3, science 3, social studies 3, health 0.5, PE 1.5, practical arts 0.5, fine arts 0.5, senior exit experience 0.5, electives 3.5, RISE 2. Minimum for grades 9-11 is 22 credits; the catalog notes most students graduate with more."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment (Vermont Dual Enrollment Program)",
+    "early college (Early College Program, ECP)",
+    "concurrent CCV courses",
+    "online courses (BYU, VTVLC and other sites)",
+    "alternative programs",
+    "independent study (ELL)",
+    "work-based learning (school-to-work placement; Work Crew)",
+    "Field and Forest",
+    "NEXUS Seminar",
+    "Construction 101",
+    "Power Reading",
+    "CVU Summer Academy",
+    "technical center programs"
+  ],
+  "cte_centers": [
+    "Burlington Technical Center (BTC)",
+    "Center for Technology, Essex (CTE)"
+  ],
+  "notes": "Proficiency-based graduation policy (p.6): proficiency in literacy, mathematics, scientific inquiry, global citizenship, physical education, artistic expression and transferable skills, plus PLP requirements; credits are used to document proficiency. Grading is on a proficiency scale converted to letters, with a separate GPA table (p.7). Minimum graduation requirement for grades 9-11 is 22 credits (p.5). RISE is 2 credits (0.5 per year at CVU, p.6). Required local courses: Integrated Environmental Science (9th), Integrated Biology (10th), Grade 10 Humanities (two blocks), one block of US and the Modern World in grade 11 (p.7); Personal Fitness is part of the 1.5 PE credits (p.6). Strongly suggested but not required: 0.5 Expository Writing and 1.0 Elective English between 11th and 12th grade. Catalog is the 2026-27 Course Offering Booklet (62 pages); the 2025-26 PDF was not used per Phase 1."
+}
