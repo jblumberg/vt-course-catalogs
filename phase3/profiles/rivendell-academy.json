@@ -1,0 +1,48 @@
+{
+  "school_id": "rivendell-academy",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/rivendell-academy.txt (two undated saved Google Site pages: Curriculum Handbook home page and Academic Program page; the text uses SECTION markers, not page numbers)",
+  "grading_system": {
+    "value": "not_stated",
+    "evidence": "not_stated",
+    "page": null,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": null,
+    "evidence": "Creating of a schedule that responds to the needs of learners (design principles). 9th and 10th grades take full-year classes in math, science, English and social studies (Academic Program page). No block, period or course-load pattern is stated.",
+    "page": null
+  },
+  "credit_definition": {
+    "text": "not_stated. The saved pages give no credit values or course lengths.",
+    "credit_per_course_term": null,
+    "evidence": "not_stated",
+    "page": null
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "not_stated",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "not_stated",
+    "total_in_credits": null,
+    "conversion_note": "No graduation requirements, credit totals or proficiency counts appear in the saved catalog text."
+  },
+  "flexible_pathways_listed": [
+    "Extended Learning Opportunities",
+    "career exploration through an internship or self-directed project (Upper House Project & Internship)",
+    "classes at Dartmouth College",
+    "classes at the Community College of Vermont"
+  ],
+  "cte_centers": [
+    "Riverbend Career and Technical Center",
+    "Hartford Area Career and Technology Center"
+  ],
+  "notes": "Catalog is thin: the saved pages are a Curriculum Handbook home page (course titles from the navigation menu only) and the Academic Program page. Neither states graduation requirements, grading scale, credit values or schedule structure, so those are not_stated. District facts: Rivendell Interstate School District is an interstate VT/NH district; the school is in Orford, NH and serves VT towns (data/schools.csv). Learning Expectations (Effective Communication, Effective Problem Solving, Responsible Citizenship) are demonstrated in every class; Exit Exhibitions occur at the end of grades 8, 10 and 12, and portfolio Roundtables in grades 8, 10 and 12. The catalog does not say whether these are graduation requirements. Common Assessments in grades 7-10 are four math and four Language Arts assessments of proficiency. Per-course subpages were not saved, so no course-level credit or schedule data is available here. Re-download the course pages in Phase 1 before profiling again if the Phase 3 questions need them."
+}

@@ -1,0 +1,50 @@
+{
+  "school_id": "spaulding-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/spaulding-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Twenty-Four (24) credits are required for a Spaulding diploma. Students must complete all graduation requirements and graduation proficiencies as determined by the BUUSD.",
+    "page": 4,
+    "proficiency_scale": "0-4 point scale (teachers indicate level of proficiency)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "The Spaulding Band meets every day during our AM block (p.48). Semester-long courses are listed throughout (e.g. WBL300, p.58). Number of courses taken at once is not stated.",
+    "page": 48
+  },
+  "credit_definition": {
+    "text": "Semester-long course listed as 1 credit; year-long courses listed as 2 credits; some semester courses are 0.5 credit (e.g. band, chorus).",
+    "credit_per_course_term": 1,
+    "evidence": "WBL300 - Site Experience, 1 Credit. This elective is a semester-long course (internship).",
+    "page": 58
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Sophomore status requires minimum of 6 completed credits; Junior status requires minimum of 12 completed credits; Senior status requires minimum of 18 completed credits.",
+    "page": 5
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Catalog states 24 credits; course listings use the standard credit unit (semester course = 1 credit, year-long = 2). Required areas: English 4, Social Studies 3.5 (incl. .5 Civics), Science 3, Math 3, PE 1.5, Health 0.5, Arts 1 (visual arts or music), Financial Literacy 0.5, electives 7. Also 40 hours community service (10 per school year)."
+  },
+  "flexible_pathways_listed": [
+    "work-based learning",
+    "community-based learning (internships)",
+    "personalized flexible pathway (independent study with a teacher)",
+    "dual enrollment (CCV concurrent courses and traditional)",
+    "early college",
+    "VTVLC/online (Virtual High School)",
+    "CTE / Fast Forward college courses at CVCC"
+  ],
+  "cte_centers": [
+    "Central Vermont Career Center (CVCC)"
+  ],
+  "notes": "Required local courses: Financial Literacy (BUS106, 0.5 credit) for all students. Community service: 10 hours per school year, minimum 40 hours total (adopted by school board 2018). Graduation requires proficiencies per BUUSD policy. Courses graded on proficiency-based 0-4 scale. Dual enrollment: two vouchers available to juniors and seniors. Virtual High School is described as an option for classes not offered at SHS or schedule conflicts; the catalog does not state its credit limits. Sophomore/junior/senior class progression thresholds are listed above."
+}

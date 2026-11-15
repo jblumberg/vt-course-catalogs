@@ -1,0 +1,49 @@
+{
+  "school_id": "richford-junior-senior-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/richford-junior-senior-high-school.txt (catalog_2026-27.pdf pp.1-35 only; pp.36-74 are a duplicate, older copy per Phase 1 notes)",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "To Graduate-at least 24 credits earned (in all required categories). The class of 2028 ... graduation requirements are a set of skills that students must demonstrate as evidence",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "70 (percent; equivalent to a C-)",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Course changes for year long classes and first semester classes need to be made within (5) five school days at the beginning of the school year. Grades are reported for Semester 1 and Semester 2 (p.7). No block, period or course-load pattern is stated.",
+    "page": 3
+  },
+  "credit_definition": {
+    "text": "Credit values are generally not stated per course (the catalog gives credit totals by requirement area). Dual enrollment concurrent courses offer one (1) credit per completed college course.",
+    "credit_per_course_term": null,
+    "evidence": "RJSHS will offer one (1) credit for successful completion of a college course (college transcript must be submitted to the guidance office).",
+    "page": 10
+  },
+  "course_load": {
+    "min_courses_or_credits": "credit benchmarks: at least 6 credits by grade 10, 12 by grade 11, 18 by grade 12 (classes of 2025-2027); number of courses per term not stated",
+    "evidence": "Grade 11-at least 12 credits earned Grade 12-at least 18 credits earned",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Stated directly in credits 'or equivalent' for classes of 2025-2027: English 4, Math 3, Science 3, Global Citizenship 3, Visual and Performing Arts 1, Practical Arts 1, Computer Science 1, PE 1.5, Health 0.5, Consumer Economics 0.5, electives 5.5 choice credits; plus 30 hours of community service (p.4, p.12). Classes of 2028 and beyond have no credit total; they must demonstrate FNESU Portrait of a Learner skills (p.4)."
+  },
+  "flexible_pathways_listed": [
+    "VTVLC online courses (credit recovery and variety; prior guidance approval)",
+    "dual enrollment (two free college courses by voucher; Richford-taught concurrent classes)",
+    "early college (senior year of high school plus first college year, tuition free)",
+    "Flexible Pathways Academy (online, in-person, project-based, work-based; traditional or Mastery Based transcript)",
+    "work-based learning (WBL)",
+    "extended learning opportunities (ELO)"
+  ],
+  "cte_centers": [
+    "Cold Hollow Career Center (CHCC)"
+  ],
+  "notes": "Two graduation tiers in the catalog: classes of 2025-2027 (24 credits, 70 minimum to earn credit, promotion benchmarks) and classes of 2028 and beyond (skill-based evidence in Richer Picture PLP) (p.4). Community Service Learning Project: 30 hours by May 1 of senior year, a graduation requirement (p.12). Consumer Economics is required for seniors. Students may earn up to 5 elective credits and 1 embedded core credit at CHCC after two consecutive years (p.11). Grading: letter/percentage conversion to a 4.0 GPA scale and weighted 5.0 scale (pp.7-8). The schedule (blocks, periods, courses per term) is not stated in the catalog text."
+}
