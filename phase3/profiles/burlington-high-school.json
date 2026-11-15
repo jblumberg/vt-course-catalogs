@@ -1,0 +1,53 @@
+{
+  "school_id": "burlington-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/burlington-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "In addition to academic credit accrual, students are required to develop and maintain a Personalized Learning Plan (PLP) in order to meet graduation requirements.",
+    "page": 7,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 8,
+    "terms_per_year": 2,
+    "evidence": "All 9th and 10th graders are required to be fully scheduled for eight (8) blocks. 11th graders are required to be scheduled for a minimum of seven (7) blocks. Semester 1 and semester 2 courses are listed separately; the catalog does not name a block pattern (e.g. A/B or 4x4).",
+    "page": 10
+  },
+  "credit_definition": {
+    "text": "Credits are listed per course: year-long courses carry 1.0 credit and semester courses carry 0.5 credit (e.g. 'Computer Science I: Creative Computing (Fall Semester) 0.5 Credit (Elective)').",
+    "credit_per_course_term": 0.5,
+    "evidence": "Computer Science I: Creative Computing (Fall Semester) 0.5 Credit (Elective). Year-long courses are listed as 1.0 Credit (e.g. 1.0 Credit (English)).",
+    "page": 14
+  },
+  "course_load": {
+    "min_courses_or_credits": "9th and 10th: fully scheduled (8 blocks); 11th: minimum 7 blocks; 12th: minimum 6 blocks unless approved by administration",
+    "evidence": "All 9th and 10th graders are required to be fully scheduled for eight (8) blocks. 11th graders are required to be scheduled for a minimum of seven (7) blocks.",
+    "page": 10
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Catalog states requirements directly in credits; no conversion needed. Requirements: 4 English, 3 math, 3 science, 3 social studies (incl. 1 American History), 2 world language, 1.5 PE, 1 fine art, 0.5 health, 6 electives (may include 0.25 YES per year)."
+  },
+  "flexible_pathways_listed": [
+    "online learning (VTVLC)",
+    "independent study (Deeper Learning)",
+    "alternative programs",
+    "dual enrollment",
+    "concurrent enrollment",
+    "early college",
+    "Burlington City & Lake Semester",
+    "career and technical programs",
+    "work-based learning (BTC)"
+  ],
+  "cte_centers": [
+    "Burlington Technical Center (BTC)",
+    "Center for Technology-Essex (CTE)"
+  ],
+  "notes": "Local requirements beyond credits: 10 hours community service per year of enrollment; 0.25 credit Year End Studies (YES) per year of enrollment; completion of a Personalized Learning Plan (PLP) with a digital portfolio of evidence (p.7). Required local courses: Earth Systems Science in 9th grade (p.90); English 9 and English 10 sequence; Humanities Civics & World Societies (9th), World History (10th), American History (11th-12th). Up to 3 embedded credits for two years of a BTC program (p.8). Enrolling in a required course satisfies the requirement regardless of final grade (p.8). Grading: quarterly grades and a 4th-quarter-based GPA are referenced, but no grading scale is stated in the front matter. Scheduling blocks are referenced throughout (e.g. 'meets for 2 Blocks'); the block pattern is not stated."
+}

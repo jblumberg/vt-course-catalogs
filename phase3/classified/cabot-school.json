@@ -1,0 +1,322 @@
+{
+ "school_id": "cabot-school",
+ "rubric_version": "v0.3.2",
+ "classified_on": "2026-11-15",
+ "model_note": "Classified by Claude Haiku 5.5 per classify-courses rubric v0.3.2",
+ "courses": [
+  {
+   "course_index": 0,
+   "course_name": "American Military History",
+   "subject_area": "Social Studies",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "SS-USHIST",
+     "strength": "strong",
+     "rationale": "US military history across 250 years of US history."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "high"
+  },
+  {
+   "course_index": 1,
+   "course_name": "Chemistry of Color",
+   "subject_area": "Science",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "SCI-PHYS",
+     "strength": "strong",
+     "rationale": "Chemistry course: elements, reactions, light and matter."
+    }
+   ],
+   "science_domain": "Chemistry",
+   "has_lab": "unknown",
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "high"
+  },
+  {
+   "course_index": 2,
+   "course_name": "Survival",
+   "subject_area": "ELA",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "ELA-MASTERY",
+     "strength": "possible",
+     "rationale": "Reading novels and analyzing characters; grades not stated."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 3,
+   "course_name": "ALGEBRA II",
+   "subject_area": "Mathematics",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "MATH-STATS-ALG2",
+     "strength": "strong",
+     "rationale": "Algebra II at any level; graphical relationships and data."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "high"
+  },
+  {
+   "course_index": 4,
+   "course_name": "American Horror Story",
+   "subject_area": "Social Studies",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "SS-USHIST",
+     "strength": "possible",
+     "rationale": "Traces US history and culture through horror genre; history content only partly described."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 5,
+   "course_name": "World Religions & Belief",
+   "subject_area": "Social Studies",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "SS-WORLD",
+     "strength": "strong",
+     "rationale": "Survey of world belief systems and cultures."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "high"
+  },
+  {
+   "course_index": 6,
+   "course_name": "A Bridge Too Far",
+   "subject_area": "Science",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "SCI-PHYS",
+     "strength": "possible",
+     "rationale": "Structural engineering principles (bridges, towers, columns); physics content not explicit. Schedule lists Science."
+    }
+   ],
+   "science_domain": "Physics",
+   "has_lab": "unknown",
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 7,
+   "course_name": "Interpretations!",
+   "subject_area": "ELA",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "ELA-MASTERY",
+     "strength": "possible",
+     "rationale": "Literary interpretation and transformation of texts; grades not stated."
+    },
+    {
+     "requirement_id": "ARTS",
+     "strength": "possible",
+     "rationale": "Creating reinterpretations in art, film, music and performance media."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 8,
+   "course_name": "PE/Health",
+   "subject_area": "PE & Health",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "PE",
+     "strength": "possible",
+     "rationale": "Combined PE/Health course; title only."
+    },
+    {
+     "requirement_id": "HEALTH",
+     "strength": "possible",
+     "rationale": "Combined PE/Health course; title only."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 9,
+   "course_name": "AP Biology",
+   "subject_area": "Science",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "SCI-LIFE",
+     "strength": "strong",
+     "rationale": "AP Biology is a standard life-science course."
+    }
+   ],
+   "science_domain": "Life",
+   "has_lab": "unknown",
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 10,
+   "course_name": "Business Algebra I",
+   "subject_area": "Mathematics",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "MATH-ALG1",
+     "strength": "possible",
+     "rationale": "Business Algebra I; title only, equivalence to Algebra I unconfirmed."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 11,
+   "course_name": "AP Composition",
+   "subject_area": "ELA",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "ELA-MASTERY",
+     "strength": "possible",
+     "rationale": "AP-level composition course; title only; grades not stated."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 12,
+   "course_name": "Spanish",
+   "subject_area": "World Language/ASL",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "WL",
+     "strength": "strong",
+     "rationale": "Spanish world language course."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 13,
+   "course_name": "Art Studio",
+   "subject_area": "Arts",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "ARTS",
+     "strength": "strong",
+     "rationale": "Art studio course."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 14,
+   "course_name": "Music Studio",
+   "subject_area": "Arts",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "ARTS",
+     "strength": "strong",
+     "rationale": "Music studio course."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  },
+  {
+   "course_index": 15,
+   "course_name": "Design Studio",
+   "subject_area": "Arts",
+   "bridges": [],
+   "other_type": null,
+   "credit_mappings": [
+    {
+     "requirement_id": "ARTS",
+     "strength": "possible",
+     "rationale": "Design studio; title only, content not shown."
+    }
+   ],
+   "science_domain": null,
+   "has_lab": null,
+   "catalog_claims": [],
+   "finlit_type": null,
+   "confidence": "medium"
+  }
+ ]
+}

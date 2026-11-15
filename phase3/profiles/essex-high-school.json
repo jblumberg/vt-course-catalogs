@@ -1,0 +1,55 @@
+{
+  "school_id": "essex-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/essex-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "To receive a diploma, students must have a working personalized learning plan (PLP) and must earn a minimum of 24 credits by demonstrating documented course proficiencies",
+    "page": 11,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 6,
+    "terms_per_year": 2,
+    "evidence": "Full time students are enrolled for a minimum of 6 blocks of class during each semester. The academic year includes four quarters, each approximately nine weeks in length (p.6).",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "Credit per course depends on course length and seat time: .5, 1, 1.5 or 2 credits. A full-year course is 1 credit; a one-semester course is .5 credit. Students may register for up to 8 EHS credits per year.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Students may earn .5 credit, 1 credit, 1.5 credit, or 2 credits per course depending on the course length in the school year and the seat time in the course.",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "6 blocks of class each semester for full-time status (5 blocks plus one split block is allowed as an exception); Part-time students are not eligible for athletics or honor roll",
+    "evidence": "Full time students are enrolled for a minimum of 6 blocks of class during each semester.",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Already in standard credits: 1 credit = full-year course (p.6, a year-long course is 1 credit and a semester course is .5). Required subject minimums: English 4, Math 3, Science 3, Social Studies 3, World Language 1, Fine Arts 1, Practical Arts .5, PE 1.5, Health .5, Computer Applications .5, electives 6 (p.11)."
+  },
+  "flexible_pathways_listed": [
+    "Discovery (self-designed project, Course Z977)",
+    "Career and Technical Education (Center for Technology - Essex; Burlington Technical Center)",
+    "independent programs (counselor approval before starting)",
+    "community service and work experience (.5 credit per 60 hours, max 2 credits)",
+    "independent study",
+    "dual enrollment (college voucher; EHS records .5 credit per 3- or 4-credit college course)",
+    "on-campus dual enrollment courses",
+    "online learning courses",
+    "Vermont Virtual High School (VHS)",
+    "Alternative Center for Education (ACE) Program",
+    "internship courses (e.g., F427, M130/M132)"
+  ],
+  "cte_centers": [
+    "Center for Technology - Essex (CTE)",
+    "Burlington Technical Center (BTC)"
+  ],
+  "notes": "Current catalog is 2026-27. Academic year has four quarters (p.6), but full-time status and course enrollment are stated per semester, so terms_per_year is recorded as 2. Schedule is block-based but the number of blocks per day is not stated; type recorded as other. Proficiency-based graduation under Act 77 covers seven areas (literacy; mathematics; science and engineering; global citizenship; physical and health education; artistic expression; ethnic and social equity studies) (p.4). Course proficiency is set by each course's essential standards (p.5). Local requirements (p.11): 4 credits English incl. 9th and 10th grade English and 2 more credits under a quadrant system; 11th/12th English must include .5 each of Composition, Foundational Literature, Special Topics and Contemporary Literature (p.22). Social studies requires World Studies, U.S. History, .5 American Government and .5 elective (p.59). Maximum 8 EHS credits per year (p.6). Transferable skills are emphasized, not stated as a graduation requirement, so transferable_skills_required is null."
+}

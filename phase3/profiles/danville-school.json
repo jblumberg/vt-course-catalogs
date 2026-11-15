@@ -1,0 +1,52 @@
+{
+  "school_id": "danville-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/danville-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "graduation from Danville High School is based on three benchmarks: Courses (Class of 2029 and beyond) ... Demonstrated Performance in Areas of Personal Proficiency",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "2.0 on the 4-point grade scale to earn course credit",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "A semester, for the purpose of documenting coursework, is defined as a single-block semester-long course. Courses that meet for 2 blocks will count as two semesters.",
+    "page": 5
+  },
+  "credit_definition": {
+    "text": "Requirements are counted in semesters. One semester = a single-block semester-long course; a course meeting for 2 blocks counts as two semesters. Credit is not used as the unit.",
+    "credit_per_course_term": 1,
+    "evidence": "A semester, for the purpose of documenting coursework, is defined as a single-block semester-long course. Courses that meet for 2 blocks will count as two semesters.",
+    "page": 5
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Students are strongly encouraged to take courses above and beyond these minimum requirements.",
+    "page": 5
+  },
+  "local_grad_requirements": {
+    "total": 42,
+    "unit": "semesters",
+    "total_in_credits": null,
+    "conversion_note": "Class of 2029 and beyond: 8 English + 6 Global Citizenship + 6 Math + 6 Science + 3 PE + 1 Health + 6 arts/CTE/design/engineering + 6 electives = 42 semesters. Classes of 2027-28 need 38 (2 electives). The catalog gives no conversion to standard credits (1 = full-year course), so total_in_credits is null. Also requires a yearlong Senior Capstone Project (waived for Early College students) and a MAP demonstrating the Areas of Personal Proficiency."
+  },
+  "flexible_pathways_listed": [
+    "in-house dual enrollment (SNHU, CCV)",
+    "dual-credit English and Global Citizenship courses",
+    "online learning courses",
+    "work-based internships",
+    "independent study (GPS - Independent Study)",
+    "Pathways individualized studies seminars",
+    "Meaningful Academic Plan (MAP)",
+    "Senior Capstone Project",
+    "Vermont Early College Program",
+    "local college courses",
+    "online courses from other providers if not offered in-house"
+  ],
+  "cte_centers": [],
+  "notes": "Current catalog is 2026-27. Requirements are stated in semesters, not credits, and the catalog gives no courses-per-term count, so courses_per_term is null. The regional technical center is referenced for juniors and seniors in the Woodworking/Pathways program description (p.24) but no center is named. Graduation has three benchmarks (p.4): courses, the Senior Capstone, and demonstrated performance in six Areas of Personal Proficiency (Lead, Express, Solve, Connect, Care, Achieve) via a MAP (p.4, p.6-7). The catalog states no proficiency scale. Equivalent learning opportunities (internships, work-based learning, independent study) may substitute for courses when they document proficiency (p.5)."
+}
