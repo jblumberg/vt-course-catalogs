@@ -1,0 +1,49 @@
+{
+  "school_id": "winooski-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/winooski-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "All students must complete a specified number of courses to demonstrate readiness for graduation. ... All students must achieve an overall score of 2.6 or higher for each GP scored each year to meet requirements.",
+    "page": 5,
+    "proficiency_scale": "4-point: 1.0-1.5 Entering, 1.6-2.5 Developing, 2.6-3.2 Meeting, 3.3-4.0 Exceeding (p.6)",
+    "min_score_to_earn_credit": "2.6",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "4x4 block",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "Currently Winooski High School runs an adapted four by four schedule. With four blocks a day, one of which is sometimes split, students can complete a traditional full year course in one semester.",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "A course at WHS is defined as a full-year course; a traditional full-year course is completed in one semester on the 4x4 schedule. A half-year course meets .5 of a course requirement. Requirements are counted in courses, not credits.",
+    "credit_per_course_term": 1.0,
+    "evidence": "A course at WHS is defined as lasting a full year. A half year course will meet .5 of a course requirement.",
+    "page": 5
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "All students must complete a specified number of courses to demonstrate readiness for graduation. These courses may be completed in a combination of WHS courses or other learning opportunities.",
+    "page": 5
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "classes",
+    "total_in_credits": null,
+    "conversion_note": "No overall total is stated. Stated minimums in courses: English 4, Math 3, Science 3, Social studies 3 (incl. 1 Government/Civics), Performing/Visual Arts 2 (any combo), PE 2, Non-native language 1, Health 1, Financial Literacy 1 (sum of stated minimums = 20 courses, derived here, not stated by the catalog). Half-year course = .5 course. Full-year course = 1 course by catalog definition."
+  },
+  "flexible_pathways_listed": [
+    "iLab (independent, personalized learning and flexible pathways; can be repeated to demonstrate competencies)",
+    "Work-based learning (job shadows, internships, apprenticeships, service learning; may be used for proficiency or Capstone)",
+    "Onion River Schoolhouse (small integrated learning program)",
+    "Dual Enrollment / Early College",
+    "Vermont Virtual Learning Cooperative (VTVLC) online courses",
+    "ReSOURCE YouthBuild co-enrollment (diploma plus trade certifications)",
+    "Meeting course requirements through out-of-school experiences",
+    "Capstone (Creativity Capstone, Senior English & Capstone, Wellbeing Capstone; Expo Weeks)"
+  ],
+  "cte_centers": ["Burlington Technical Center (BTC)", "Center for Technology, Essex (CTE)"],
+  "notes": "Graduation is proficiency-based: Graduation Proficiencies (GPs, 13 listed, including Performing or Visual Arts and Non-Native Language) and Graduate Expectations (GXs in 6 skill areas, assessed through Capstone). Non-native language may be met by French at WHS, a flexible pathway language course (VTVLC, dual enrollment), or ML course. Course Score Average is calculated only on the transcript, and Flexible Pathways scores are not included. Students may change schedules in the first two weeks of each semester (p.6). No total credit or course count is stated; the sum of area minimums (20 courses) is derived here and not in the catalog."
+}

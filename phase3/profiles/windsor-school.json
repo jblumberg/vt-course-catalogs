@@ -1,0 +1,47 @@
+{
+  "school_id": "windsor-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/windsor-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Minimum Cumulative TOTAL 24 credits (class of 2027-2030). Windsor High School graduates are expected to demonstrate proficiency in the following Learning Expectations. Proficiency-based grading uses a 1-4 scale.",
+    "page": 3,
+    "proficiency_scale": "1-4 (1 Progressing, 2 Nearly meets, 3 Meets, 4 Exceeds and Extends the Standard) (p.7)",
+    "min_score_to_earn_credit": "2.25",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Courses are full-year or semester-long: 'Changes... Once the semester has begun, students will have a 2 week add/drop period' and 'grade 9 ... (.5 credit per semester)'. The catalog does not state blocks per day, periods, or courses taken at once, so courses_per_term is null.",
+    "page": 9
+  },
+  "credit_definition": {
+    "text": "Full-year course = 1 credit; semester course = .5 credit per semester (e.g. English 9 is 1 credit over the year, with each semester .5).",
+    "credit_per_course_term": 0.5,
+    "evidence": "Grade 9 (.5 credit per semester) ... Creative Writing 0.5 credit (English elective) *Semester",
+    "page": 14
+  },
+  "course_load": {
+    "min_courses_or_credits": "Grades 9-11: minimum of 7 credits during the 2025/2026 school year. Seniors: enrolled in at least 3 courses, including any courses needed for graduation.",
+    "evidence": "All students in grades 9 through 11 are expected to take a minimum of 7 credits during the course of the 2025/2026 school year. Seniors are required to be enrolled in at least 3 courses",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Credits are standard credits (full-year course = 1), so no conversion needed. Area minimums as stated: English 4; Social Studies 3; Math 3 (incl. Financial Literacy); Science 3.5; Computer Science/Technology 0.5; PE 1.5; Health 0.5; World Language 1; Fine Arts 1; Junior Seminar/Capstone 2 (Capstone 0.5 for class of 2030); Electives 5+. Note: the listed area minimums sum to 20 before electives and 25 with electives 5, but the stated total is 24; the catalog does not reconcile this. Community service 30 hours (required; the course overview says 30 hours)."
+  },
+  "flexible_pathways_listed": [
+    "RVCC dual enrollment (7 courses; up to 3 college credits each, via NH Early College program, distinct from the VT Dual Enrollment/Early College Program)",
+    "Career and technical education at HACTC (Hartford Area Career & Technology Center)",
+    "Interdisciplinary Learning Program (grades 11-12, shortened day, full credit in core areas)",
+    "Career Pathway Project (11th grade independent project with adults outside school)",
+    "Early graduation",
+    "Internships, job shadows, service learning and research (civic engagement)"
+  ],
+  "cte_centers": ["HACTC (Hartford Area Career & Technology Center)"],
+  "notes": "Required: Junior Seminar (1 credit) and Capstone (PLP) per the graduation table; 30 hours of community service must be done before senior year to earn senior open-campus privileges (catalog p.5). Proficiency is reported on a rolling year-long or semester score, and grades are not averaged by quarter (p.8). Learning Expectations list appears only as an image in the text, so transferable skills are not confirmed from text. Course load and promotion figures refer to the 2025/2026 school year in a 2026-27 catalog. Class-standing promotion minimums: 6 to grade 10, 12 to grade 11, 18 to grade 12."
+}

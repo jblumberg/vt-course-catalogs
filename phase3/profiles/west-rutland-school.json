@@ -1,0 +1,49 @@
+{
+  "school_id": "west-rutland-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/west-rutland-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "In order for a student to earn credit in a high school level course, he/she must achieve an overall course grade of at least 1.5. (catalog p.2). Handbook p.10: the building principal must certify that the student has successfully completed all of the proficiency requirements for graduation.",
+    "page": 2,
+    "proficiency_scale": "4.0 scale with half points: 3.5-4.0 Exceeding; 3.0-3.4 Meeting; 2.0-2.9 Approaching; 1.9 and below Beginning (handbook p.10)",
+    "min_score_to_earn_credit": "1.5",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "4x4 block",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "Each student will be expected to carry a course load of four (4) classes each semester (handbook p.14). Bell schedule for grades 9-12 shows Blocks 1-4 each day (handbook p.65). Four classes per semester at once; 4 blocks a day, so courses_per_term is 4, not 8. Type 4x4 is inferred from these two statements.",
+    "page": 14
+  },
+  "credit_definition": {
+    "text": "Credit is labeled per semester-length course: a 1-credit course runs one semester; a two-semester AP course is listed as 2 credits; a .5-credit course is a half-semester course.",
+    "credit_per_course_term": 1.0,
+    "evidence": "AP ENGLISH LITERATURE & COMPOSITION (WRS, PrHS - 2 SEMESTERS) 2 CREDITS",
+    "page": 4
+  },
+  "course_load": {
+    "min_courses_or_credits": "Four classes each semester; full-time grades 9-11 must carry eight (8) credits during the school year (handbook p.14). Senior load set with guidance and administration.",
+    "evidence": "Each student will be expected to carry a course load of four (4) classes each semester unless special arrangements have been made with the Administration. To be considered full-time, students in grades 9 - 11 must carry eight (8) credits during the school year.",
+    "page": 14
+  },
+  "local_grad_requirements": {
+    "total": 28,
+    "unit": "credits",
+    "total_in_credits": 14,
+    "conversion_note": "Local total is 28 QV credits (catalog p.2; handbook p.10). QV credit = one semester-length course, and a two-semester course is listed as 2 credits, so 28 QV credits = 14 standard full-year credits. Area minimums: English 4, Global Citizenship 4 (incl. 1 US History per the catalog table), Math 4, Science 4, PE 2, Health 1, Fine Art/Music 1, World Language/World Culture 1 (class of 2027 and beyond), Electives 7."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment (Vermont Dual Enrollment Program, up to two college courses)",
+    "Early College Program",
+    "online/virtual learning (Virtual High School, VTVLC, Educere)",
+    "independent study (teacher-learner agreement)",
+    "internships/work-study (for credit or paid, not both)",
+    "project based learning",
+    "credit recovery",
+    "Stafford Technical Center programs"
+  ],
+  "cte_centers": ["Stafford Technical Center"],
+  "notes": "Text is the undated Quarry Valley Unified School District Program of Studies (covers Poultney, Proctor and West Rutland high schools); profile is for West Rutland School only. Graduation totals and proficiency details come from the read-only 2026-27 QV handbook (catalogs/west-rutland-school/grad_requirements_2026-27_QV_handbook.pdf), which lists 28 credits and class standing thresholds for 2026-27 (sophomore 7, junior 14, senior 21 credits). The catalog's undated 'Current' table lacks World Language (27 for STC students); the class of 2027+ table includes it and the handbook 'Current' table includes it too, both totaling 28. Principal certifies proficiency; transferable skills are noted with T on transcripts and do not count toward course credit, but the handbook's PBGR list does not name them as a graduation requirement. Habits of Work grades are excluded from the final course grade (catalog p.2). AP and college courses are weighted at 1.1 course credits (handbook p.10)."
+}

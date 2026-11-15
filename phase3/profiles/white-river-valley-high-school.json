@@ -1,0 +1,48 @@
+{
+  "school_id": "white-river-valley-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/white-river-valley-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Students must complete three graduation requirements: 1: Earn 24 credits (starting w/ class of 2029 - all older students are grandfathered into 22 total credits)... and demonstrated proficiency in performance indicators required for graduation.",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Courses are listed as 'Full year (1 Credit)' or 'Half year (0.5 Credit)', and the Capstone 'takes place in the first semester of each academic year'. Some courses 'meet during two blocks'. Number of blocks per day or courses taken at once is not stated, so courses_per_term is null.",
+    "page": 44
+  },
+  "credit_definition": {
+    "text": "Full-year course = 1 credit; half-year course = 0.5 credit.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Capstone Half year (0.5 credit) ... This course takes place in the first semester of each academic year.",
+    "page": 44
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Class Progression: a student's grade status is dependent on credits earned: Sophomore (6 minimum credits earned), Junior (12 minimum), Senior (18 minimum).",
+    "page": 5
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Catalog unit is credits, where a full-year course = 1 credit, so no conversion needed. Students entering before the class of 2029 need 22 total credits. Area minimums: English 4, Global Citizenship 3 (incl. 1 US History), Science 3, Math 3, PE 1.5, The Arts 1 (visual or music), Health 0.5, Electives 8 (incl. 0.5 from Capstone). Capstone class and 40 hours of community service also required."
+  },
+  "flexible_pathways_listed": [
+    "Early College (dual enrollment at CCV, VSU, Norwich; college and high school credit)",
+    "Career and Technical Education (CTE)",
+    "Pre-Tech (sophomore exploration program at RTCC)",
+    "Community-Based Learning (CBL), including internships",
+    "Expanded Learning Opportunities",
+    "Independent Study (only if not offered at WRVHS or cannot fit schedule)",
+    "Virtual Study (VTVLC; max 2 virtual study credits per year; up to two online courses at once)"
+  ],
+  "cte_centers": ["RTCC", "HACTC"],
+  "notes": "Graduation requirements are the 24-credit table (catalog p.4). Required Capstone (senior year, 0.5 credit) and 40 hours of documented community service. Proficiency: 'graduation proficiencies as determined by the WRVSU' and performance indicators per area; the scale and scoring rules are not in this catalog. Schedule type is not stated; 'two blocks' appears only for interdisciplinary courses. Catalog names RTCC and HACTC without expanding the acronyms. Students in a technical program off campus complete the Capstone class only if in the building. Catalog text is the 2026-27 Program of Studies."
+}

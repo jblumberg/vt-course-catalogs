@@ -1,0 +1,51 @@
+{
+  "school_id": "woodstock-union-middle-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/woodstock-union-middle-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "All students are expected to complete the proficiency graduation requirements in Physical Education and Health Education. In order for students to have the opportunity to progress and demonstrate proficiency in the standards prior to graduation, one year of Wellness is required.",
+    "page": 49,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Courses are year-long (1 credit) or semester-long (1/2 credit), e.g. 'Wellness II: Fall ... 1/2 credit'. The text mentions 'at least two academic blocks a week' only for C3 internships, not a daily schedule. Blocks per day and courses taken at once are not stated, so courses_per_term is null.",
+    "page": 56
+  },
+  "credit_definition": {
+    "text": "One credit = a full-year high school course; 1/2 credit = a one-semester high school course (also 1/4 credit per season of sports participation, max 1 credit).",
+    "credit_per_course_term": 0.5,
+    "evidence": "A 1-semester college course counts for 1 credit towards high school graduation (vs. 1/2 credit for a 1-semester high school course).",
+    "page": 58
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Not stated in the text.",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "not_stated",
+    "total_in_credits": null,
+    "conversion_note": "Total credits are not stated in this text (the 'Schedule Changes and Student Graduation Policy' section listed in the table of contents is not present, and the Academic Preparation Chart is an image). Area credit requirements stated in the text: Math 3 credits (p.18), Science 3 credits (p.25), Wellness 2 credits (p.49; one year of Wellness required; sports participation counts .25 per season, max 1 credit). English and Social Studies minimums not stated."
+  },
+  "flexible_pathways_listed": [
+    "Internships (C3 Internship, juniors and seniors)",
+    "Independent studies",
+    "Community service projects",
+    "Teaching assistantships",
+    "Work-based learning",
+    "Online high school-level courses (VHS Learning, VTVLC; over 200 courses)",
+    "College-level courses: Dual Enrollment (VT State Dual Enrollment, two free courses), Early College, Community High School Program at Dartmouth, and concurrent enrollment taught on campus (College Stats, College Algebra)",
+    "Hartford Area Career & Technical Center (HACTC)",
+    "C3 (Center of Community Connections) experiences, Pass/No Credit, usually elective credit",
+    "CRAFT credential (optional pathway; 6 credits in science, wellness, technology and electives)"
+  ],
+  "cte_centers": ["Hartford Area Career & Technical Center (HACTC)"],
+  "notes": "Source is the 2026-27 Course Guide, which contains no separate graduation policy section in the text. Portrait of a Graduate competencies must be demonstrated for C3 internships and other C3 experiences (p.56). Wellness is proficiency-based in PE and Health (p.49). Sports credit and CRAFT credential are optional or partial and are not total graduation requirements. C3 courses appear on transcripts as Pass/No Credit (p.55). The school does not state a grading scale in this text. Text includes a 'Woodstock Union High School Academic Preparation Chart' as an image, which is not captured."
+}
