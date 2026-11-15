@@ -1,0 +1,1749 @@
+{
+  "school_id": "northfield-middle-high-school",
+  "rubric_version": "v0.3.2",
+  "classified_on": "2026-11-15",
+  "model_note": "Classified by claude-haiku-5-5 (subagent) by reading the phase2 file; rubric v0.3.2",
+  "courses": [
+    {
+      "course_index": 0,
+      "course_name": "English I",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "strong",
+          "rationale": "Grade 9 English; required freshman English"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 1,
+      "course_name": "English II",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "strong",
+          "rationale": "Grade 10 English; required sophomore English"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 2,
+      "course_name": "CCV English Composition 1061",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Dual-enrollment college composition; junior English requirement"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 3,
+      "course_name": "American Literature",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Grade 11 American literature; junior English requirement"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 4,
+      "course_name": "VTSU English Gateway to Literature 1101",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Dual-enrollment college literature; senior English requirement"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 5,
+      "course_name": "Senior Seminar",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Senior English seminar; senior English requirement"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 6,
+      "course_name": "CCV Effective Speaking 1070",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "possible",
+          "rationale": "Dual-enrollment public speaking; speaking is ELA content"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 7,
+      "course_name": "Heroes and Villains through time",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Elective English credit; literature and writing central"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 8,
+      "course_name": "Murder and Mystery",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Elective English credit; mystery literature and writing"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 9,
+      "course_name": "Global Perspectives",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Elective English credit; literature read with society and history"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 10,
+      "course_name": "Driver Education",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Driver Ed",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 11,
+      "course_name": "Health I",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "HEALTH",
+          "strength": "strong",
+          "rationale": "Health course; catalog says 0.5 Health credit"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "HEALTH"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 12,
+      "course_name": "Mental Toughness",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "HEALTH",
+          "strength": "strong",
+          "rationale": "Health course on mental resilience; catalog says 0.5 Health credit"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "HEALTH"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 13,
+      "course_name": "Substance Abuse, Crime, and Public Health",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "HEALTH",
+          "strength": "strong",
+          "rationale": "Health course on substance abuse and public health; catalog says Health credit"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "HEALTH"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 14,
+      "course_name": "Health Wisdom",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "HEALTH",
+          "strength": "possible",
+          "rationale": "Student-led school health initiative; catalog lists it as an elective"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 15,
+      "course_name": "PE 9",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Grade 9 physical education"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 16,
+      "course_name": "Nothing But Net Games",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Physical education net games"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 17,
+      "course_name": "Mind and Body",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Mind-body PE course; catalog also claims science credit"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "PE"
+      ],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 18,
+      "course_name": "Personal Fitness",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Personal fitness PE"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 19,
+      "course_name": "Strength and Stovetops",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Fitness and healthy-living course"
+        },
+        {
+          "requirement_id": "HEALTH",
+          "strength": "possible",
+          "rationale": "Fitness and healthy-living course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 20,
+      "course_name": "Game Changers",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Physical education leadership course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 21,
+      "course_name": "Pre-Algebra",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "strong",
+          "rationale": "Pre-Algebra counts as math elective, not Algebra I"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 22,
+      "course_name": "Algebra 1",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-ALG1",
+          "strength": "strong",
+          "rationale": "Algebra 1"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 23,
+      "course_name": "Geometry",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-GEOM",
+          "strength": "strong",
+          "rationale": "Geometry"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 24,
+      "course_name": "Algebra 2",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-STATS-ALG2",
+          "strength": "strong",
+          "rationale": "Algebra 2"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 25,
+      "course_name": "Advanced Placement Pre-Calculus",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "strong",
+          "rationale": "AP Precalculus"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 26,
+      "course_name": "Advanced Placement Calculus A/B",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "strong",
+          "rationale": "AP Calculus AB"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 27,
+      "course_name": "VTSU Statistics (MAT 2021)",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-STATS-ALG2",
+          "strength": "strong",
+          "rationale": "College statistics course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 28,
+      "course_name": "Mathematics of Personal Finance",
+      "subject_area": "Financial Literacy",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "FINLIT",
+          "strength": "strong",
+          "rationale": "Mathematics of personal finance; mainly personal finance content"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": "stand-alone",
+      "confidence": "high"
+    },
+    {
+      "course_index": 29,
+      "course_name": "Math Lab",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Advisory/Support",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 30,
+      "course_name": "High School Stage Band",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "High school stage band ensemble"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 31,
+      "course_name": "High School Chorus",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "High school chorus"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 32,
+      "course_name": "Instrumental Studies",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Instrumental music studies"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 33,
+      "course_name": "Earth Science",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-EARTH",
+          "strength": "strong",
+          "rationale": "Earth science of atmosphere, hydrosphere and lithosphere"
+        }
+      ],
+      "science_domain": "Earth & Space",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 34,
+      "course_name": "Biology & Science Investigations",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Biology course"
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 35,
+      "course_name": "General Chemistry",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "General chemistry; catalog says physical or life science credit"
+        }
+      ],
+      "science_domain": "Chemistry",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 36,
+      "course_name": "VTSU Introductory Chemistry (CHE1020)",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Dual-enrollment chemistry; catalog says physical or life science credit"
+        }
+      ],
+      "science_domain": "Chemistry",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 37,
+      "course_name": "Forensic Science",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "possible",
+          "rationale": "Forensic science course; biology or chemistry content not explicit"
+        },
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "possible",
+          "rationale": "Forensic science course; biology or chemistry content not explicit"
+        }
+      ],
+      "science_domain": "Other",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "low"
+    },
+    {
+      "course_index": 38,
+      "course_name": "Physics",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "General physics course"
+        }
+      ],
+      "science_domain": "Physics",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 39,
+      "course_name": "Anatomy & Physiology",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Anatomy and physiology course"
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 40,
+      "course_name": "VTSU Introduction to Biology (BIO1210)",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Dual-enrollment introductory biology"
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 41,
+      "course_name": "VTSU Introduction to Environmental Science (ENV1080)",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-EARTH",
+          "strength": "possible",
+          "rationale": "Dual-enrollment environmental science; spans Earth and life content"
+        },
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "possible",
+          "rationale": "Dual-enrollment environmental science; spans Earth and life content"
+        }
+      ],
+      "science_domain": "Environmental",
+      "has_lab": "yes",
+      "catalog_claims": [
+        "SCI-PHYS",
+        "SCI-LIFE"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 42,
+      "course_name": "Science Exploratory",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "possible",
+          "rationale": "Exploratory science course; domains not stated"
+        },
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "possible",
+          "rationale": "Exploratory science course; domains not stated"
+        },
+        {
+          "requirement_id": "SCI-EARTH",
+          "strength": "possible",
+          "rationale": "Exploratory science course; domains not stated"
+        }
+      ],
+      "science_domain": "Other",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 43,
+      "course_name": "United States History",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-USHIST",
+          "strength": "strong",
+          "rationale": "Grade 9 U.S. history; required to graduate"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "SS-USHIST"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 44,
+      "course_name": "World History",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "strong",
+          "rationale": "Grade 10 world history"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 45,
+      "course_name": "A.P. World History",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "strong",
+          "rationale": "AP World History"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 46,
+      "course_name": "Government, Politics and Economics",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-CIVICS",
+          "strength": "strong",
+          "rationale": "Grade 11 government, politics and economics"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 47,
+      "course_name": "Advanced Placement US History",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-USHIST",
+          "strength": "strong",
+          "rationale": "AP U.S. History"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 48,
+      "course_name": "Film Studies",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "possible",
+          "rationale": "Film studies; film as artistic and narrative work"
+        },
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Film studies; film as artistic and narrative work"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 49,
+      "course_name": "Film Studies II",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Advanced film studies; creative filmmaking process"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 50,
+      "course_name": "Introduction to Psychology",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 51,
+      "course_name": "Introduction to Sociology",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 52,
+      "course_name": "World Religions",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "strong",
+          "rationale": "World religions and cultures"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 53,
+      "course_name": "Current Events",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 54,
+      "course_name": "Civics",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-CIVICS",
+          "strength": "strong",
+          "rationale": "Civics course on government and citizenship"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 55,
+      "course_name": "Cartography & Culture",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "possible",
+          "rationale": "Maps and culture; world geography content possible"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 56,
+      "course_name": "Foundations of Visual Art",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Visual art foundations"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 57,
+      "course_name": "Advanced Studio: Image, Form & Meaning",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Advanced studio art"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 58,
+      "course_name": "Ceramics I",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Ceramics course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 59,
+      "course_name": "Ceramics II",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Advanced ceramics course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 60,
+      "course_name": "Mixed Media & Experimental Painting",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Mixed media painting course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 61,
+      "course_name": "Russian Exploratory",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Exploratory Russian language course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 62,
+      "course_name": "Spanish Conversation",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish conversation course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 63,
+      "course_name": "Spanish I",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish I"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 64,
+      "course_name": "Spanish II",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish II"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 65,
+      "course_name": "Spanish III Option CCV Course (SPA 1011)",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Dual-enrollment Spanish III"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 66,
+      "course_name": "Spanish IV Option CCV Course (SPA 1012)",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Dual-enrollment Spanish IV"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 67,
+      "course_name": "Independent Studies",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Independent study; flexible pathway with no named credit"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 68,
+      "course_name": "Woodworking",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Technology/Engineering",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 69,
+      "course_name": "Freshman Seminar",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Advisory/Support",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 70,
+      "course_name": "Are U Ready?",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Advisory/Support",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 71,
+      "course_name": "Computer Science Principles",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Computer Science",
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "possible",
+          "rationale": "AP Computer Science Principles; rigorous programming course"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 72,
+      "course_name": "Athlete Prep",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Advisory/Support",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 73,
+      "course_name": "Work-Based Learning Opportunities",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Work-based learning program"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 74,
+      "course_name": "Internships",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Internship program; flexible pathway"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 75,
+      "course_name": "Online Course Opportunities",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Online course program"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 76,
+      "course_name": "CCV’s Introduction to College and Careers",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Advisory/Support",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 77,
+      "course_name": "Service Learning",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Service learning pathway"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 78,
+      "course_name": "Credit Recovery Opportunities",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Credit recovery program"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 79,
+      "course_name": "MY PATH",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Individualized high school completion program"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 80,
+      "course_name": "Dual Enrollment",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Dual-enrollment program entry"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 81,
+      "course_name": "Early College",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Early college program entry"
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 82,
+      "course_name": "Fabrication, Welding & Design",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 83,
+      "course_name": "Diversified Agricultural",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 84,
+      "course_name": "Automotive Technology",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 85,
+      "course_name": "Construction Trades & Management",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 86,
+      "course_name": "Culinary Arts",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 87,
+      "course_name": "Diesel Technology",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 88,
+      "course_name": "Digital Filmmaking",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 89,
+      "course_name": "Electrical Technology",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 90,
+      "course_name": "Baking Arts",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 91,
+      "course_name": "Cosmetology",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 92,
+      "course_name": "Emergency Services",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 93,
+      "course_name": "Exploratory Technology",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 94,
+      "course_name": "Plumbing & Heating",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 95,
+      "course_name": "Design Fabrication",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    }
+  ]
+}
