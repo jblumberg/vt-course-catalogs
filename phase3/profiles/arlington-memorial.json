@@ -1,0 +1,46 @@
+{
+  "school_id": "arlington-memorial",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/arlington-memorial.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Students must complete a minimum of 26 credits, including 16 in the required subject areas below, to be eligible for graduation.",
+    "page": 6,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "traditional periods",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "One credit is earned for the successful completion of a class that is held one period per day, five days a week, all year long. Students are awarded .5 credit for semester (half-year) courses.",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "One credit = a class held one period per day, five days a week, all year long; .5 credit for a semester (half-year) course.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Students are awarded .5 credit for semester (half-year) courses.",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "not_stated",
+    "page": null
+  },
+  "local_grad_requirements": {
+    "total": 26,
+    "unit": "credits",
+    "total_in_credits": 26,
+    "conversion_note": "Catalog credits are standard credits (1 = full-year class, .5 = semester course); no conversion needed. Also requires 32 community service hours (not a credit)."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment",
+    "early college",
+    "work-based learning"
+  ],
+  "cte_centers": [
+    "Southwest Tech (Bennington; formerly CDC)"
+  ],
+  "notes": "Grading is numeric (GPA by quarter; honor roll). Required subject minimums: English 4, Social Studies 3 (incl. U.S. History), Math 3, Science 3, PE 1.5, Health 0.5, Arts 1, Electives 10 (p.6). Hybrid is a judgment: the catalog states a credit minimum (p.6) and says Math A/B Honors and Math 1-3 'have met the proficiency-based graduation requirements for mathematics' (p.16), but states no proficiency scale or general proficiency rule. Courses per term (classes at once) not stated. Wellness is described as a required one-semester course for all students (course descriptions, p.17). No senior project stated in front matter."
+}
