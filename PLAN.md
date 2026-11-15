@@ -14,6 +14,8 @@ catalog are kept but tagged.
 
 ## 1. Status
 
+Data-quality and coverage notes for the final report: `report/DATA_QUALITY.md` (keep it updated).
+
 | Phase | Status | Output |
 |---|---|---|
 | 1. Find catalogs | **Done** (57/57) | `phase1/catalogs.csv`, `phase1/results/*.json`, `catalogs/<id>/` |
