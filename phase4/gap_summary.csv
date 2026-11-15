@@ -1,0 +1,32 @@
+plan,requirement_id,covered,short,possible_only,gap,unknown
+Complete (Class of 2033+),ELA-INTRO,32,3,2,1,16
+Complete (Class of 2033+),ELA-MASTERY,36,0,2,0,16
+Complete (Class of 2033+),MATH-ALG1,26,0,11,0,17
+Complete (Class of 2033+),MATH-GEOM,31,0,4,1,18
+Complete (Class of 2033+),MATH-PATHWAY,36,0,0,1,17
+Complete (Class of 2033+),MATH-STATS-ALG2,37,0,0,0,17
+Complete (Class of 2033+),SCI-PHYS,38,0,0,0,16
+Complete (Class of 2033+),SCI-LIFE,38,0,0,0,16
+Complete (Class of 2033+),SCI-EARTH,25,2,9,1,17
+Complete (Class of 2033+),SS-USHIST,37,0,1,0,16
+Complete (Class of 2033+),SS-CIVICS,31,0,4,2,17
+Complete (Class of 2033+),SS-WORLD,38,0,0,0,16
+Complete (Class of 2033+),ARTS,38,0,0,0,16
+Complete (Class of 2033+),WL,37,0,0,1,16
+Complete (Class of 2033+),FINLIT,34,0,2,1,17
+Complete (Class of 2033+),PE,30,7,1,0,16
+Complete (Class of 2033+),HEALTH,21,15,1,0,17
+Transitional (2031-32),ELA-INTRO,32,3,2,1,16
+Transitional (2031-32),ELA-MASTERY,36,0,2,0,16
+Transitional (2031-32),MATH-ALG1,26,0,11,0,17
+Transitional (2031-32),MATH-GEOM,31,0,4,1,18
+Transitional (2031-32),MATH-PATHWAY,37,0,0,0,17
+Transitional (2031-32),SCI-PHYS,38,0,0,0,16
+Transitional (2031-32),SCI-LIFE,38,0,0,0,16
+Transitional (2031-32),SCI-EARTH,25,2,9,1,17
+Transitional (2031-32),SS-USHIST,37,0,1,0,16
+Transitional (2031-32),SS-CIVICS,31,0,4,2,17
+Transitional (2031-32),SS-WORLD,38,0,0,0,16
+Transitional (2031-32),ARTS,38,0,0,0,16
+Transitional (2031-32),FINLIT,34,0,2,1,17
+Transitional (2031-32),PE-HEALTH-COMBINED,35,2,1,0,16
