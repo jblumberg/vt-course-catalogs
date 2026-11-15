@@ -18,10 +18,10 @@
     "page": 15
   },
   "credit_definition": {
-    "text": "Requirements are counted in proficiency credits. The catalog states a credit value for some courses (for example, AP courses are 'a full year, one credit course'), but does not state a credit value for each semester course. Credit is awarded at 0.5 credits per semester of college coursework in the dual enrollment note.",
+    "text": "Requirements are counted in proficiency credits. The catalog states a credit value for some courses (AP courses are 'a full year, one credit course'), but does not state a credit value for each semester course. For college courses, credit is awarded at 0.5 credits per semester.",
     "credit_per_course_term": null,
     "evidence": "Advanced Placement European History is a full year, one credit course that introduces students to European History",
-    "page": 25
+    "page": 26
   },
   "course_load": {
     "min_courses_or_credits": "6 courses per semester to be considered full time and eligible for co-curricular activities",
@@ -52,5 +52,5 @@
     "Patricia A. Hannaford Career Center (Middlebury)",
     "Center for Technology Essex (Cosmetology, Computer Systems and Dental Assisting only)"
   ],
-  "notes": "Catalog is the 2026-27 Program of Studies. Graduation is proficiency-based (PBGRs, p.4-5): 24 proficiency credits, 2.0 minimum in both academic mastery and transferable skill mastery per course, and a PLP exhibition. The four transferable skill areas are Personal Development, Community Connections, Innovative Thinking and Effective Communication (p.4). Full-time status requires 6 courses per semester (p.53). Schedule uses M/W days with four blocks each day, plus an advisory and FIT block (p.15). The catalog does not state the number of semester-course credits per course; the conversion for college courses is 0.5 credit per semester (p.10). Some HS courses are marked as full year, and the catalog does not give standard credits for each course."
+  "notes": "Catalog is the 2026-27 Program of Studies. Graduation is proficiency-based (PBGRs, p.4-5): 24 proficiency credits, 2.0 minimum in both academic mastery and transferable skill mastery per course, and a PLP exhibition. The four transferable skill areas are Personal Development, Community Connections, Innovative Thinking and Effective Communication (p.4). Full-time status requires 6 courses per semester (p.53). Schedule uses M/W days with four blocks each day, plus an advisory and FIT block (p.15). The catalog does not state the number of semester-course credits per course; the conversion for college courses is 0.5 credit per semester (p.11). Some HS courses are marked as full year, and the catalog does not give standard credits for each course."
 }
