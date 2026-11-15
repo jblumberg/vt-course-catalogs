@@ -1,0 +1,53 @@
+{
+  "school_id": "colchester-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/colchester-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Each department has delineated 2-8 discipline-specific proficiencies that a student is required to meet for graduation.",
+    "page": 7,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 6,
+    "terms_per_year": 2,
+    "evidence": "ALL STUDENTS MUST CARRY 6.0 CREDITS (6 out of 8 mods of academic classes each semester). Students must be enrolled in six (6) classes both semesters.",
+    "page": 13
+  },
+  "credit_definition": {
+    "text": "Courses are listed by duration and credit: a semester course is 0.5 credit (e.g. 'Duration: Semester. Credit: 0.5 Fine Arts.'); the school awards credit upon demonstration of proficiency.",
+    "credit_per_course_term": 0.5,
+    "evidence": "Prerequisite: None. Duration: Semester. Credit: 0.5 Fine Arts.",
+    "page": 21
+  },
+  "course_load": {
+    "min_courses_or_credits": "6 classes (6.0 credits) each semester",
+    "evidence": "ALL STUDENTS MUST CARRY 6.0 CREDITS (6 out of 8 mods of academic classes each semester).",
+    "page": 13
+  },
+  "local_grad_requirements": {
+    "total": 24.5,
+    "unit": "credits",
+    "total_in_credits": 24.5,
+    "conversion_note": "Catalog states requirements directly in credits; no conversion needed. Required: English 4, social studies 3.5 (incl. American History and Senior Seminar), science 3.5 (Biology, ESS or APES, Chemistry or Physics), math 3.5 (Algebra, Geometry), fine arts 1 (visual art or music), health 0.5, PE 1.5 (three semesters), electives 7."
+  },
+  "flexible_pathways_listed": [
+    "career and technical education (BTC, CTE)",
+    "virtual learning (Virtual High School)",
+    "work-based learning",
+    "service learning",
+    "dual enrollment",
+    "early college",
+    "options program (community service, school aide, work study, external credits)",
+    "independent study",
+    "internships, job shadows, employment (Work Study option)"
+  ],
+  "cte_centers": [
+    "Burlington Technical Center (BTC)",
+    "Center for Technology, Essex (CTE)"
+  ],
+  "notes": "Graduation policy (p.7): minimum 24.5 credits, awarded upon demonstration of proficiency; each department has 2-8 discipline-specific proficiencies required for graduation; graduation ceremony requires all 24.5 credits. Credits from other accredited schools are accepted. Required local course structure in the Blue House: English in all four Blue House semesters with 2 English credits in the Blue House (juniors take T.H.E.E. or AP English Language; seniors take Seminar, 0.5 English + 0.5 social studies); social studies in three of four Blue House semesters with 1.5 credits in the Blue House. All students develop a Personal Learning Plan (PLP) grades 9-12 (p.6). Health: one semester required (p.25). PE: three semesters required (p.27). Options credit: up to 2.0 total, elective only (p.10). Schedule: 30-minute Mod 2 block five days a week for Homebase/AT (p.6). The catalog gives no grading scale. Catalog combines the 2026-27 main Program of Studies and the Grade 9 POS."
+}
