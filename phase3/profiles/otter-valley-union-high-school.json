@@ -1,0 +1,53 @@
+{
+ "school_id": "otter-valley-union-high-school",
+ "profiled_on": "2026-11-15",
+ "source": "phase2/text/otter-valley-union-high-school.txt",
+ "grading_system": {
+  "value": "credit",
+  "evidence": "You must meet the following minimum credit requirements in order to graduate from Otter Valley Union High School. ... TOTAL 26.5",
+  "page": 7,
+  "proficiency_scale": "not_stated",
+  "min_score_to_earn_credit": "65 (numeric course grade; 65 is the minimum grade to earn the course credit)",
+  "transferable_skills_required": null
+ },
+ "schedule": {
+  "type": "not_stated",
+  "courses_per_term": null,
+  "terms_per_year": 2,
+  "evidence": "Your schedule may include both full-credit (1.0) and half-credit (0.5) courses. Grades are calculated as the weighted average of two semesters and the final exam.",
+  "page": 10
+ },
+ "credit_definition": {
+  "text": "1.0 credit = a full-credit (year) course; 0.5 credit = a half-credit (semester) course.",
+  "credit_per_course_term": 0.5,
+  "evidence": "Your schedule may include both full-credit (1.0) and half-credit (0.5) courses.",
+  "page": 10
+ },
+ "course_load": {
+  "min_courses_or_credits": "Senior partial day requires a minimum of 3.0 credits of academic courses each semester; full-time course load not stated",
+  "evidence": "Students requesting a senior partial day must register for a minimum of three (3.0) credits of academic courses during each semester.",
+  "page": 11
+ },
+ "local_grad_requirements": {
+  "total": 26.5,
+  "unit": "credits",
+  "total_in_credits": 26.5,
+  "conversion_note": "Catalog credits are standard credits (1.0 = full-credit course, 0.5 = half-credit course); no conversion needed. Distribution: English 5.0, social studies 4.0, math 3.0, science 3.0, PE 1.5, FACS/Health 0.5, fine arts 2.0, personal finance 0.5, electives 7.0. Grade-level minimums: 7.0 (10th), 14.0 (11th), 21.0 (12th)."
+ },
+ "flexible_pathways_listed": [
+  "dual enrollment (CCV, VSU, UVM)",
+  "VTVLC/online (Vermont Virtual Learning Cooperative)",
+  "early college",
+  "internship program",
+  "work-based learning",
+  "paid work experience",
+  "credit for work experience",
+  "extended learning opportunities",
+  "senior partial day schedule"
+ ],
+ "cte_centers": [
+  "Stafford Technical Center (Rutland)",
+  "Hannaford Career Center (Middlebury)"
+ ],
+ "notes": "Credit-based graduation with numeric grading (A-F scale; 65 minimum to earn credit, p.10). No proficiency-based graduation requirement is stated; mission-level 'Essential Vital Results' and course-level 'Content Proficiencies' (p.6, course descriptions) are not graduation rules. Personal Finance 0.5 and FACS/Health 0.5 are required. Weighted courses carry +.05 or +.08 credit weighting for GPA only (p.9). Schedule structure (periods or blocks per day, number of courses at once) is not stated; the only course-count statement is the 3.0-credit senior partial-day minimum per semester. Senior partial-day, PLP needed for dual enrollment voucher (p.7). Pass/Fail option exists for some seniors (p.12). Source is the catalog PDF text (2026-27 program of studies)."
+}
