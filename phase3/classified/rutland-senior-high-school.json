@@ -1898,7 +1898,7 @@
     }
    ],
    "science_domain": "Life",
-   "has_lab": "yes",
+   "has_lab": "unknown",
    "catalog_claims": [],
    "finlit_type": null,
    "confidence": "medium"
@@ -2240,7 +2240,12 @@
     {
      "requirement_id": "SS-CIVICS",
      "strength": "strong",
-     "rationale": "Civics/Economics: American government structure and economic systems."
+     "rationale": "Civics/Economics: government structure and economics including personal finance (embedded)."
+    },
+    {
+     "requirement_id": "FINLIT",
+     "strength": "possible",
+     "rationale": "Civics/Economics: government structure and economics including personal finance (embedded)."
     }
    ],
    "science_domain": null,
@@ -2248,7 +2253,7 @@
    "catalog_claims": [
     "SS-CIVICS"
    ],
-   "finlit_type": null,
+   "finlit_type": "embedded",
    "confidence": "high"
   },
   {
