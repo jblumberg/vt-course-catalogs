@@ -99,3 +99,21 @@ This affects Blue Mountain, Canaan, Hartford, Leland & Gray, Mt. Mansfield, Rand
 - **Catalog claims vs. course content:** schools sometimes award core credit by equivalency (e.g. Woodworking for English or Science credit; web programming for fine arts).
   - The classification records the catalog's claim separately (`catalog_claims`) from a content-based mapping.
   - The report can count where they disagree.
+
+## Phase 3d/3e — profiles and classification (complete 2026-11-15)
+- **Profiles:** 54 schools, by Haiku (`phase3/profiles.csv`).
+  - Grading systems: 43 hybrid, 5 proficiency-only (Mt. Mansfield, U-32, Twinfield, BFA Fairfax, Harwood), 4 credit-only (Otter Valley, Oxbow, Peoples Academy, Stowe) and 2 not stated (Cabot, Rivendell).
+  - Stowe moved from a 4-point proficiency scale to a 100-point scale in 2025-26.
+- **Schedules are poorly documented:**
+  - Only 19 of 54 catalogs say how many classes a student takes at once, and 20 don't describe the schedule.
+  - "Share of schedule needed for local requirements" is computable for 15 schools. 4 of those give impossible results (>100%), flagged `INCONSISTENT - verify`.
+  - Treat the schedule-capacity numbers as needing human verification.
+- **Classification:** all 53 schools with courses (6,061 records), by Haiku with rubric v0.3.2.
+  - Mill River and Rivendell were classified from titles only.
+  - Cabot's catalog is a 16-course partial, so its "gaps" are data gaps.
+  - South Burlington's Psychology description is garbled in the source and was classified from the name.
+- **Catalog claims vs. content:** 904 courses carry an explicit claim of what they fulfill. For 77 (9%), the content-based mapping doesn't support the claim.
+- **Labs:** of 664 science courses, 418 (63%) mention labs or hands-on investigation; the rest don't say.
+- **Algebra I caveat:** 15 schools reach Algebra I only through "possible" courses, mostly Integrated Math 1 or Algebra I split over two courses (Part A/B).
+  - This is a policy question (does Integrated Math 1 count as Algebra I?), not necessarily a gap.
+  - At least one school (Essex, levelled "Algebra I 100/200") is a classifier inconsistency to correct.

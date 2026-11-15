@@ -1146,37 +1146,37 @@ proctor-junior-senior-high-school,Proctor Junior/Senior High School,Transitional
 proctor-junior-senior-high-school,Proctor Junior/Senior High School,Transitional (2031-32),ARTS,1.5,covered,14,16.0,yes,0,Comics & Culture /Character Design and Illustration; Painting I; Advanced Painting; Ceramics I
 proctor-junior-senior-high-school,Proctor Junior/Senior High School,Transitional (2031-32),FINLIT,0.5,covered,1,1.0,yes,0,Financial Literacy
 proctor-junior-senior-high-school,Proctor Junior/Senior High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,7,5.5,yes,2,Physical Education; Fitness and Nutrition; Lifetime Fitness; Fitness and Nutrition
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-randolph-union-high-school,Randolph Union High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,3,,no,0,Writing Children's Literature; English 9; English 10
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,7,,no,2,"Advanced Placement Language and Composition; Advanced Placement (AP) Literature and Composition; American Literature; Narrator Reliability in Literature, Media, and Film"
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-ALG1,1.0,possible_only,0,,yes,1,"AGS 1 (Algebra, Geometry & Statistics 1)"
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,,no,0,"AGS 2 (Algebra, Geometry & Statistics 2)"
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,3,,no,4,Precalculus; AP Calculus AB / Calculus (non-AP); Probability and Statistics
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,2,,no,0,"AGS 3 (Algebra, Geometry & Statistics 3); Probability and Statistics"
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,3,,no,3,Chemistry; AP Physics 1: Algebra-Based; Physics
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,2,,no,4,Human Anatomy and Physiology; AP Biology
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,1,,no,3,Integrated Science III: Space Physics
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,3,,no,2,US History I (Grade 9); US History II (1865 - present); AP US History
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,,no,0,RU Youth Policy Lab- Rock the Vote
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,3,,no,0,Modern World History (Grade 10); AP World History; World Religions
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),ARTS,1.5,covered,13,,no,1,Music for The People PBL; Digital Photography I: Fundamentals; Art History; Elements of Art
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),WL,1.0,covered,7,,no,0,French I; Advanced French; Spanish 1; Spanish 2
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),FINLIT,0.5,possible_only,0,,yes,1,Introduction to Economics
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),PE,1.5,covered,2,,no,1,My Physical Best I; My Physical Best II
+randolph-union-high-school,Randolph Union High School,Complete (Class of 2033+),HEALTH,1.0,covered,1,,no,1,Health Education
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),ELA-INTRO,2.0,covered,3,,no,0,Writing Children's Literature; English 9; English 10
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,7,,no,2,"Advanced Placement Language and Composition; Advanced Placement (AP) Literature and Composition; American Literature; Narrator Reliability in Literature, Media, and Film"
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),MATH-ALG1,1.0,possible_only,0,,yes,1,"AGS 1 (Algebra, Geometry & Statistics 1)"
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,,no,0,"AGS 2 (Algebra, Geometry & Statistics 2)"
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,4,,no,4,"Precalculus; AP Calculus AB / Calculus (non-AP); AGS 3 (Algebra, Geometry & Statistics 3); Probability and Statistics"
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SCI-PHYS,1.0,covered,3,,no,3,Chemistry; AP Physics 1: Algebra-Based; Physics
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SCI-LIFE,1.0,covered,2,,no,4,Human Anatomy and Physiology; AP Biology
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SCI-EARTH,1.0,covered,1,,no,3,Integrated Science III: Space Physics
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SS-USHIST,1.0,covered,3,,no,2,US History I (Grade 9); US History II (1865 - present); AP US History
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,,no,0,RU Youth Policy Lab- Rock the Vote
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),SS-WORLD,1.0,covered,3,,no,0,Modern World History (Grade 10); AP World History; World Religions
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),ARTS,1.5,covered,13,,no,1,Music for The People PBL; Digital Photography I: Fundamentals; Art History; Elements of Art
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),FINLIT,0.5,possible_only,0,,yes,1,Introduction to Economics
+randolph-union-high-school,Randolph Union High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,3,,no,2,My Physical Best I; My Physical Best II; Health Education
 richford-junior-senior-high-school,Richford Junior/Senior High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,,no,0,Readers’ and Writers’ Workshop; English 10
 richford-junior-senior-high-school,Richford Junior/Senior High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,5,,no,2,Communications; Contemporary World Lit.; Current Events and Lit.; Civil War and Lit
 richford-junior-senior-high-school,Richford Junior/Senior High School,Complete (Class of 2033+),MATH-ALG1,1.0,possible_only,0,,yes,1,Integrated Math I
@@ -1239,437 +1239,437 @@ rivendell-academy,Rivendell Academy,Transitional (2031-32),SS-WORLD,1.0,covered,
 rivendell-academy,Rivendell Academy,Transitional (2031-32),ARTS,1.5,covered,10,,no,1,Fall & Spring Productions; HS Performance Skills; Music Studio/Creative Studio; Rock Band
 rivendell-academy,Rivendell Academy,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
 rivendell-academy,Rivendell Academy,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,2,,no,2,High School Physical Education; High School Social and Emotional Health
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-south-burlington-high-school,South Burlington High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-springfield-high-school,Springfield High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-stowe-high-school,Stowe High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-twinfield-union-school,Twinfield Union School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-west-rutland-school,West Rutland School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-white-river-valley-high-school,White River Valley High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-windsor-school,Windsor School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-windsor-school,Windsor School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-winooski-high-school,Winooski High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),ELA-INTRO,2.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),ELA-MASTERY,2.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-ALG1,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-GEOM,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SCI-PHYS,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SCI-LIFE,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SCI-EARTH,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SS-USHIST,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SS-CIVICS,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SS-WORLD,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),ARTS,1.5,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),WL,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),FINLIT,0.5,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),PE,1.5,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),HEALTH,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),ELA-INTRO,2.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),ELA-MASTERY,2.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),MATH-ALG1,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),MATH-GEOM,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),MATH-PATHWAY,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SCI-PHYS,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SCI-LIFE,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SCI-EARTH,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SS-USHIST,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SS-CIVICS,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SS-WORLD,1.0,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),ARTS,1.5,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),FINLIT,0.5,unknown,0,,yes,0,
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,unknown,0,,yes,0,
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,4,4.0,yes,2,English 1 College Prep: Appreciation of Literature; English 1 Honors: Appreciation of Literature; English 2 College Prep: Introduction to World Literature; English 2 Honors: Introduction to World Literature
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,7,10.0,yes,3,English 3 College Prep: American Literature; English 3 Honors: American Literature; Advanced Placement English Language and Composition; American Voices: American Literature and History
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-ALG1,1.0,possible_only,0,,yes,2,Integrated Math 1 College Prep; Integrated Math 1 Honors
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-GEOM,1.0,possible_only,0,,yes,4,Integrated Math 2 College Prep; Integrated Math 2 Honors; Integrated Math 4 College Prep; Integrated Math 4 Honors
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,5,8.0,yes,8,Integrated Math Foundations; Calculus Honors; Advanced Placement Calculus AB; Statistics College Prep
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,2,3.0,yes,3,Statistics College Prep; Advanced Placement Statistics
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,8,12.0,yes,2,Chemistry; Chemistry College Prep; Chemistry Honors; Advanced Placement Chemistry
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,5,8.0,yes,5,Biology; Biology College Prep; Biology Honors; Advanced Placement Biology
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,2,2.0,yes,4,Earth Science College Prep; Earth Science Honors
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,4,6.0,yes,2,American Voices: American Literature and History; U.S. History; U.S. History Honors; Advanced Placement U.S. History
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,2,2.0,yes,2,Civics/Economics; Advance Placement US Government & Politics
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,5,5.0,yes,3,World History I: Origins of Modern Societies; World History I: Origins of Modern Societies Honors; World History II: Global Connections College Prep; World History II: Global Connections Honors
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),ARTS,1.5,covered,33,23.0,yes,0,Art Foundations; Ceramics Foundations; Drawing Foundations; Painting Foundations
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),WL,1.0,covered,15,15.0,yes,0,French 1 College Prep; French 2 College Prep; French 2 Honors; French 3 College Prep
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,1.0,yes,1,Applied Math - Finance College Prep
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),PE,1.5,covered,8,4.0,yes,0,PE Required 9; PE Elective; PE Elective; Project Adventure
+rutland-senior-high-school,Rutland Senior High School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,0,Healthy Living
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),ELA-INTRO,2.0,covered,4,4.0,yes,2,English 1 College Prep: Appreciation of Literature; English 1 Honors: Appreciation of Literature; English 2 College Prep: Introduction to World Literature; English 2 Honors: Introduction to World Literature
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,7,10.0,yes,3,English 3 College Prep: American Literature; English 3 Honors: American Literature; Advanced Placement English Language and Composition; American Voices: American Literature and History
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),MATH-ALG1,1.0,possible_only,0,,yes,2,Integrated Math 1 College Prep; Integrated Math 1 Honors
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),MATH-GEOM,1.0,possible_only,0,,yes,4,Integrated Math 2 College Prep; Integrated Math 2 Honors; Integrated Math 4 College Prep; Integrated Math 4 Honors
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,5,8.0,yes,9,Integrated Math Foundations; Calculus Honors; Advanced Placement Calculus AB; Statistics College Prep
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SCI-PHYS,1.0,covered,8,12.0,yes,2,Chemistry; Chemistry College Prep; Chemistry Honors; Advanced Placement Chemistry
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SCI-LIFE,1.0,covered,5,8.0,yes,5,Biology; Biology College Prep; Biology Honors; Advanced Placement Biology
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SCI-EARTH,1.0,covered,2,2.0,yes,4,Earth Science College Prep; Earth Science Honors
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SS-USHIST,1.0,covered,4,6.0,yes,2,American Voices: American Literature and History; U.S. History; U.S. History Honors; Advanced Placement U.S. History
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SS-CIVICS,1.0,covered,2,2.0,yes,2,Civics/Economics; Advance Placement US Government & Politics
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),SS-WORLD,1.0,covered,5,5.0,yes,3,World History I: Origins of Modern Societies; World History I: Origins of Modern Societies Honors; World History II: Global Connections College Prep; World History II: Global Connections Honors
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),ARTS,1.5,covered,33,23.0,yes,0,Art Foundations; Ceramics Foundations; Drawing Foundations; Painting Foundations
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),FINLIT,0.5,covered,1,1.0,yes,1,Applied Math - Finance College Prep
+rutland-senior-high-school,Rutland Senior High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,9,4.5,yes,0,PE Required 9; PE Elective; PE Elective; Project Adventure
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,4,7.0,yes,0,English 9; American Studies: Embedded Honors Model; Honors American Studies; Honors American Studies
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,6,5.0,yes,1,Advanced Placement Language and Composition; Advanced Placement English Literature; Literature and Composition; Creative Writing
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-ALG1,1.0,possible_only,0,,yes,2,Math 1 by 2 Years; Math 1
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-GEOM,1.0,possible_only,0,,yes,1,Math 2
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,8,8.0,yes,3,Discrete Math: Creative Ways of Counting; Foundations of Calculus; Advanced Placement Calculus (AB); Advanced Placement Calculus (BC)
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,5,5.0,yes,0,Math 3; Math 3 Calculus Prep; Statistics 1; Statistics 2
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,5,4.5,yes,0,Advanced Placement Chemistry; Chemistry; Advanced Placement Physics; Physics
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,3,3.0,yes,3,Living Systems; Biology for Medical Professions; Advanced Placement Biology
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,3,2.5,yes,3,"Earth/Space Systems (ESS); Weather, Climate, and Atmospheric Studies; Astronomy"
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,5,7.5,yes,0,American Studies: Embedded Honors Model; Honors American Studies; Social Studies 9; Honors American Studies
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SS-CIVICS,1.0,short,1,0.5,yes,1,AP U.S. Government and Politics
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,3,2.5,yes,1,Holocaust Studies; AP World History: Modern; Public Issues and World Affairs (PIWA)
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),ARTS,1.5,covered,19,10.5,no,1,Art I; Draw It; Pottery; Painting
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),WL,1.0,covered,22,22.0,yes,0,Spanish 1; Spanish 2; Spanish 3; Spanish 4
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,,no,1,Personal Finance
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),PE,1.5,covered,12,4.0,yes,0,Mindful Movement; Empower Fitness Training; Personal Fitness; Recreational Sports
+south-burlington-high-school,South Burlington High School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,0,Health and Human Development Issues
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),ELA-INTRO,2.0,covered,4,7.0,yes,0,English 9; American Studies: Embedded Honors Model; Honors American Studies; Honors American Studies
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,6,5.0,yes,1,Advanced Placement Language and Composition; Advanced Placement English Literature; Literature and Composition; Creative Writing
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),MATH-ALG1,1.0,possible_only,0,,yes,2,Math 1 by 2 Years; Math 1
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),MATH-GEOM,1.0,possible_only,0,,yes,1,Math 2
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,9,9.0,yes,3,Discrete Math: Creative Ways of Counting; Foundations of Calculus; Advanced Placement Calculus (AB); Advanced Placement Calculus (BC)
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),SCI-PHYS,1.0,covered,5,4.5,yes,0,Advanced Placement Chemistry; Chemistry; Advanced Placement Physics; Physics
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),SCI-LIFE,1.0,covered,3,3.0,yes,3,Living Systems; Biology for Medical Professions; Advanced Placement Biology
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),SCI-EARTH,1.0,covered,3,2.5,yes,3,"Earth/Space Systems (ESS); Weather, Climate, and Atmospheric Studies; Astronomy"
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),SS-USHIST,1.0,covered,5,7.5,yes,0,American Studies: Embedded Honors Model; Honors American Studies; Social Studies 9; Honors American Studies
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),SS-CIVICS,1.0,short,1,0.5,yes,1,AP U.S. Government and Politics
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),SS-WORLD,1.0,covered,3,2.5,yes,1,Holocaust Studies; AP World History: Modern; Public Issues and World Affairs (PIWA)
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),ARTS,1.5,covered,19,10.5,no,1,Art I; Draw It; Pottery; Painting
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),FINLIT,0.5,covered,1,,no,1,Personal Finance
+south-burlington-high-school,South Burlington High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,13,4.5,yes,0,Mindful Movement; Empower Fitness Training; Personal Fitness; Recreational Sports
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,2.0,yes,4,English I; English II
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,7,8.0,yes,6,"Gothic, Mystery, & Horror Stories; World Mythology; Holocaust, Internment, & Genocide Literature; Dystopian Fiction"
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,4,Algebra I Honors
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,2,2.0,yes,0,Geometry Honors; Geometry
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,9,13.0,yes,2,Connections; Foundations (Grade 10); Foundations (Grade 9 only); Pre-Calculus Honors
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,4,4.0,yes,0,Algebra II Honors; Algebra II; Statistics; AP Statistics
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,4,5.0,yes,1,Physical Science; Physics; Chemistry; AP Chemistry
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,2,2.0,yes,2,Life Science; Anatomy & Physiology
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SCI-EARTH,1.0,gap,0,,yes,0,
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,2,3.0,yes,2,U.S. History; AP United States History
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,2,1.5,yes,3,Civics; AP US Government & Politics
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,5,4.5,yes,2,World History; Modern World History; Cultural Geography; CCV World History
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),ARTS,1.5,covered,16,12.0,yes,1,Art Studio Introduction; Digital Photography; Advanced Art; Cinematography
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),WL,1.0,covered,11,10.5,yes,0,French Culture and Language; French I; French II; French III
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,0,Financial Literacy
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),PE,1.5,covered,6,4.0,yes,1,"Mind, Body & Soul; Introductory Physical Education; Personal Fitness; Team & Recreation"
+spaulding-union-high-school,Spaulding Union High School,Complete (Class of 2033+),HEALTH,1.0,covered,3,2.5,yes,0,Wellness; Health; Nutrition
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),ELA-INTRO,2.0,covered,2,2.0,yes,4,English I; English II
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,7,8.0,yes,6,"Gothic, Mystery, & Horror Stories; World Mythology; Holocaust, Internment, & Genocide Literature; Dystopian Fiction"
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,4,Algebra I Honors
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),MATH-GEOM,1.0,covered,2,2.0,yes,0,Geometry Honors; Geometry
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,10,14.0,yes,2,Connections; Foundations (Grade 10); Foundations (Grade 9 only); Pre-Calculus Honors
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SCI-PHYS,1.0,covered,4,5.0,yes,1,Physical Science; Physics; Chemistry; AP Chemistry
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SCI-LIFE,1.0,covered,2,2.0,yes,2,Life Science; Anatomy & Physiology
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SCI-EARTH,1.0,gap,0,,yes,0,
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SS-USHIST,1.0,covered,2,3.0,yes,2,U.S. History; AP United States History
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SS-CIVICS,1.0,covered,2,1.5,yes,3,Civics; AP US Government & Politics
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),SS-WORLD,1.0,covered,5,4.5,yes,2,World History; Modern World History; Cultural Geography; CCV World History
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),ARTS,1.5,covered,16,12.0,yes,1,Art Studio Introduction; Digital Photography; Advanced Art; Cinematography
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,0,Financial Literacy
+spaulding-union-high-school,Spaulding Union High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,9,6.5,yes,1,"Mind, Body & Soul; Introductory Physical Education; Personal Fitness; Team & Recreation"
+springfield-high-school,Springfield High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,7,7.0,yes,2,Foundations of Reading & Writing 9; English 9; Honors English 9; Foundations of Reading & Writing 10
+springfield-high-school,Springfield High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,7,6.5,yes,5,Foundations of Reading & Writing 11; English 11; AP English Literature & Composition; Foundations of Reading & Writing 12
+springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,2,3.0,yes,2,Algebra I - Part 1 (Year); Honors Algebra I (Part 1 and 2 - Semester)
+springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,2,2.0,yes,1,Geometry; Honors Geometry
+springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,8,7.5,yes,2,Honors Precalculus; Calculus (Dual Enrollment); Calculus AB (Advanced Placement); Calculus AB Lab (Advanced Placement)
+springfield-high-school,Springfield High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,4,4.0,yes,0,Algebra II; Statistics (Dual Enrollment); Statistics; Data and Decision Making
+springfield-high-school,Springfield High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,9,8.5,yes,2,Introduction to Chemistry & Physics (9th Grade); Honors Introduction to Chemistry and Physics (9th Grade); Introduction to Physical Science; Honors Physics
+springfield-high-school,Springfield High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,3,3.5,yes,3,Biology; AP Biology; Life Skills and Living Systems
+springfield-high-school,Springfield High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,1,1.0,yes,2,Earth & Space Science
+springfield-high-school,Springfield High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,3,2.5,yes,1,U.S. History; Modern History Through Film; History and Civics
+springfield-high-school,Springfield High School,Complete (Class of 2033+),SS-CIVICS,1.0,possible_only,0,,yes,3,Introduction to Social Studies; Save Your Money. Know Your Rights.; History and Civics
+springfield-high-school,Springfield High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,2,2.0,yes,2,Ancient World History; China/Korea/Japan
+springfield-high-school,Springfield High School,Complete (Class of 2033+),ARTS,1.5,covered,15,9.5,yes,1,Theater Production; Art I: The Creative Process; Art II: Drawing; Art II: Photography
+springfield-high-school,Springfield High School,Complete (Class of 2033+),WL,1.0,covered,5,5.0,yes,0,Spanish I; Spanish II; Spanish III (DE); Honors Spanish IV
+springfield-high-school,Springfield High School,Complete (Class of 2033+),FINLIT,0.5,covered,3,2.5,yes,3,Financial Literacy; Save Your Money. Know Your Rights.; Financial Math and Business Skills
+springfield-high-school,Springfield High School,Complete (Class of 2033+),PE,1.5,covered,4,2.0,yes,1,Physical Education; Personal Fitness; Weight Training; Varsity Team Sports Management
+springfield-high-school,Springfield High School,Complete (Class of 2033+),HEALTH,1.0,covered,2,1.0,yes,1,Intro to Wellness (Health I); Personal Health (Health II)
+springfield-high-school,Springfield High School,Transitional (2031-32),ELA-INTRO,2.0,covered,7,7.0,yes,2,Foundations of Reading & Writing 9; English 9; Honors English 9; Foundations of Reading & Writing 10
+springfield-high-school,Springfield High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,7,6.5,yes,5,Foundations of Reading & Writing 11; English 11; AP English Literature & Composition; Foundations of Reading & Writing 12
+springfield-high-school,Springfield High School,Transitional (2031-32),MATH-ALG1,1.0,covered,2,3.0,yes,2,Algebra I - Part 1 (Year); Honors Algebra I (Part 1 and 2 - Semester)
+springfield-high-school,Springfield High School,Transitional (2031-32),MATH-GEOM,1.0,covered,2,2.0,yes,1,Geometry; Honors Geometry
+springfield-high-school,Springfield High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,9,8.5,yes,2,Honors Precalculus; Calculus (Dual Enrollment); Calculus AB (Advanced Placement); Calculus AB Lab (Advanced Placement)
+springfield-high-school,Springfield High School,Transitional (2031-32),SCI-PHYS,1.0,covered,9,8.5,yes,2,Introduction to Chemistry & Physics (9th Grade); Honors Introduction to Chemistry and Physics (9th Grade); Introduction to Physical Science; Honors Physics
+springfield-high-school,Springfield High School,Transitional (2031-32),SCI-LIFE,1.0,covered,3,3.5,yes,3,Biology; AP Biology; Life Skills and Living Systems
+springfield-high-school,Springfield High School,Transitional (2031-32),SCI-EARTH,1.0,covered,1,1.0,yes,2,Earth & Space Science
+springfield-high-school,Springfield High School,Transitional (2031-32),SS-USHIST,1.0,covered,3,2.5,yes,1,U.S. History; Modern History Through Film; History and Civics
+springfield-high-school,Springfield High School,Transitional (2031-32),SS-CIVICS,1.0,possible_only,0,,yes,3,Introduction to Social Studies; Save Your Money. Know Your Rights.; History and Civics
+springfield-high-school,Springfield High School,Transitional (2031-32),SS-WORLD,1.0,covered,2,2.0,yes,2,Ancient World History; China/Korea/Japan
+springfield-high-school,Springfield High School,Transitional (2031-32),ARTS,1.5,covered,15,9.5,yes,1,Theater Production; Art I: The Creative Process; Art II: Drawing; Art II: Photography
+springfield-high-school,Springfield High School,Transitional (2031-32),FINLIT,0.5,covered,3,2.5,yes,3,Financial Literacy; Save Your Money. Know Your Rights.; Financial Math and Business Skills
+springfield-high-school,Springfield High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,6,3.0,yes,2,Physical Education; Personal Fitness; Weight Training; Varsity Team Sports Management
+stowe-high-school,Stowe High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,2.0,yes,0,English 9; English 10
+stowe-high-school,Stowe High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,3,3.0,yes,3,English 11; English Senior Seminar; AP English Literature and Composition
+stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra I
+stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,7,6.5,yes,8,Pre-Algebra; PreCalculus; Calculus; AP Calculus AB
+stowe-high-school,Stowe High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,4,3.5,yes,1,Foundations of Algebra II; Algebra II; Statistics; AP Statistics
+stowe-high-school,Stowe High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,4,3.5,yes,1,Chemistry; Physics; AP Physics 1: Algebra Based; Food Science
+stowe-high-school,Stowe High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,2,1.5,yes,1,Biology; Human Physiology
+stowe-high-school,Stowe High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,1,1.0,yes,1,Earth Science
+stowe-high-school,Stowe High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,2,2.0,yes,0,United States History; AP United States History
+stowe-high-school,Stowe High School,Complete (Class of 2033+),SS-CIVICS,1.0,short,1,0.5,yes,0,Civics: State & Local Government
+stowe-high-school,Stowe High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,3,3.0,yes,4,World History 9; World History 10; AP World History
+stowe-high-school,Stowe High School,Complete (Class of 2033+),ARTS,1.5,covered,22,12.0,no,5,2D Graphic Design I; 2D Graphic Design II; 2D Graphic Design III; 2D Graphic Design IV
+stowe-high-school,Stowe High School,Complete (Class of 2033+),WL,1.0,covered,10,10.0,yes,0,French I; French II; French III; French IV
+stowe-high-school,Stowe High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,0,Financial Literacy
+stowe-high-school,Stowe High School,Complete (Class of 2033+),PE,1.5,covered,3,1.5,yes,1,Team Game PE; Individual & Dual PE Activities; Strength & Conditioning
+stowe-high-school,Stowe High School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,1,Health
+stowe-high-school,Stowe High School,Transitional (2031-32),ELA-INTRO,2.0,covered,2,2.0,yes,0,English 9; English 10
+stowe-high-school,Stowe High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,3,3.0,yes,3,English 11; English Senior Seminar; AP English Literature and Composition
+stowe-high-school,Stowe High School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra I
+stowe-high-school,Stowe High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+stowe-high-school,Stowe High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,8,7.5,yes,8,Pre-Algebra; PreCalculus; Calculus; AP Calculus AB
+stowe-high-school,Stowe High School,Transitional (2031-32),SCI-PHYS,1.0,covered,4,3.5,yes,1,Chemistry; Physics; AP Physics 1: Algebra Based; Food Science
+stowe-high-school,Stowe High School,Transitional (2031-32),SCI-LIFE,1.0,covered,2,1.5,yes,1,Biology; Human Physiology
+stowe-high-school,Stowe High School,Transitional (2031-32),SCI-EARTH,1.0,covered,1,1.0,yes,1,Earth Science
+stowe-high-school,Stowe High School,Transitional (2031-32),SS-USHIST,1.0,covered,2,2.0,yes,0,United States History; AP United States History
+stowe-high-school,Stowe High School,Transitional (2031-32),SS-CIVICS,1.0,short,1,0.5,yes,0,Civics: State & Local Government
+stowe-high-school,Stowe High School,Transitional (2031-32),SS-WORLD,1.0,covered,3,3.0,yes,4,World History 9; World History 10; AP World History
+stowe-high-school,Stowe High School,Transitional (2031-32),ARTS,1.5,covered,22,12.0,no,5,2D Graphic Design I; 2D Graphic Design II; 2D Graphic Design III; 2D Graphic Design IV
+stowe-high-school,Stowe High School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,0,Financial Literacy
+stowe-high-school,Stowe High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,4,2.0,yes,2,Team Game PE; Individual & Dual PE Activities; Strength & Conditioning; Health
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,4,4.0,yes,2,English 9; Honors English 9; English 10; Honors English 10
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,6,5.0,yes,3,English 11; AP English Literature and Composition; English 12; English Composition - CCV Dual Enrollment
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra 1
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,3,2.0,no,2,Intro to Mathematics; Pre-Calculus; Statistics - CCV Dual Enrollment
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,2,2.0,yes,0,Algebra 2; Statistics - CCV Dual Enrollment
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,3,2.5,yes,1,Physical Science; Introduction to Chemistry - CCV Dual Enrollment; Kitchen Chemistry
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,3,2.5,yes,3,Biology; AP Biology; The Brain
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,1,1.0,yes,2,Earth/Space Science
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,3,3.0,yes,2,American Studies; Honors American Studies; AP US History
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,2,2.0,yes,0,Civics; AP US Government & Politics
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,3,2.5,yes,0,World History; Honors World History; Revolutionary History
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),ARTS,1.5,covered,12,7.5,yes,4,"Interarts I: AACE Prep; Ceramics, Pottery, & Sculpture; Drawing; Painting"
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),WL,1.0,covered,3,3.0,yes,0,Spanish 1; Spanish 2; Spanish 3
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,3,Pipelines & Pathways
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),PE,1.5,short,1,,no,0,Physical Education
+twin-valley-middle-high-school,Twin Valley Middle High School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,0,Health
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),ELA-INTRO,2.0,covered,4,4.0,yes,2,English 9; Honors English 9; English 10; Honors English 10
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,6,5.0,yes,3,English 11; AP English Literature and Composition; English 12; English Composition - CCV Dual Enrollment
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra 1
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,4,3.0,no,2,Intro to Mathematics; Pre-Calculus; Algebra 2; Statistics - CCV Dual Enrollment
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SCI-PHYS,1.0,covered,3,2.5,yes,1,Physical Science; Introduction to Chemistry - CCV Dual Enrollment; Kitchen Chemistry
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SCI-LIFE,1.0,covered,3,2.5,yes,3,Biology; AP Biology; The Brain
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SCI-EARTH,1.0,covered,1,1.0,yes,2,Earth/Space Science
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SS-USHIST,1.0,covered,3,3.0,yes,2,American Studies; Honors American Studies; AP US History
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SS-CIVICS,1.0,covered,2,2.0,yes,0,Civics; AP US Government & Politics
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),SS-WORLD,1.0,covered,3,2.5,yes,0,World History; Honors World History; Revolutionary History
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),ARTS,1.5,covered,12,7.5,yes,4,"Interarts I: AACE Prep; Ceramics, Pottery, & Sculpture; Drawing; Painting"
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,3,Pipelines & Pathways
+twin-valley-middle-high-school,Twin Valley Middle High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,2,0.5,no,0,Physical Education; Health
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,3,,no,0,9th Grade English; 10th Grade English; 10th Grade Human Impact on the Biosphere/ELA Integrated
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,6,,no,3,11/12 English; Honors Literature; Intro to Gateway to Literature; Gateway to Literature
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,,no,0,Algebra 1
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,,no,0,Geometry
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,3,,no,2,Pre-Calculus; Calculus I; Probability & Statistics
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,2,,no,0,Algebra 2; Probability & Statistics
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,3,,no,1,Physics; 9th Grade Physical Science; Honors Chemistry
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SCI-LIFE,1.0,possible_only,0,,yes,5,Bioethics; 10th Grade Human Impact on the Biosphere/ELA Integrated; Riparian Systems; ELA and SCI Integrated Studies
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SCI-EARTH,1.0,possible_only,0,,yes,4,9th Grade Physical Science; 10th Grade Human Impact on the Biosphere/ELA Integrated; Riparian Systems; Field Science: Exploring Nature Outdoors
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SS-USHIST,1.0,covered,1,,no,0,US History
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,,no,2,Civics
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),SS-WORLD,1.0,covered,2,,no,0,Modern World History; Society and Activism
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),ARTS,1.5,covered,4,,no,0,"Introduction to Art & Design; Photo, Film and Animation; Painting & Printmaking; Band and Chorus"
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),WL,1.0,covered,3,,no,1,Novice High; Intermediate Low; Intermediate Mid
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),FINLIT,0.5,covered,1,,no,0,Financial Literacy
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),PE,1.5,covered,3,,no,0,Physical Education; Outdoor Adventures; Physical Ed.
+twinfield-union-school,Twinfield Union School,Complete (Class of 2033+),HEALTH,1.0,covered,1,,no,0,Health
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),ELA-INTRO,2.0,covered,3,,no,0,9th Grade English; 10th Grade English; 10th Grade Human Impact on the Biosphere/ELA Integrated
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),ELA-MASTERY,2.0,covered,6,,no,3,11/12 English; Honors Literature; Intro to Gateway to Literature; Gateway to Literature
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,,no,0,Algebra 1
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,,no,0,Geometry
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,4,,no,2,Pre-Calculus; Calculus I; Algebra 2; Probability & Statistics
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),SCI-PHYS,1.0,covered,3,,no,1,Physics; 9th Grade Physical Science; Honors Chemistry
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),SCI-LIFE,1.0,possible_only,0,,yes,5,Bioethics; 10th Grade Human Impact on the Biosphere/ELA Integrated; Riparian Systems; ELA and SCI Integrated Studies
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),SCI-EARTH,1.0,possible_only,0,,yes,4,9th Grade Physical Science; 10th Grade Human Impact on the Biosphere/ELA Integrated; Riparian Systems; Field Science: Exploring Nature Outdoors
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),SS-USHIST,1.0,covered,1,,no,0,US History
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,,no,2,Civics
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),SS-WORLD,1.0,covered,2,,no,0,Modern World History; Society and Activism
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),ARTS,1.5,covered,4,,no,0,"Introduction to Art & Design; Photo, Film and Animation; Painting & Printmaking; Band and Chorus"
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),FINLIT,0.5,covered,1,,no,0,Financial Literacy
+twinfield-union-school,Twinfield Union School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,4,,no,0,Physical Education; Outdoor Adventures; Physical Ed.; Health
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,,no,0,Composition and Literature Pt I & Pt II; Humanities 10 Part 1 & Part 2
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,6,,no,2,Advanced Expository Writing; American Writers; Creative Writing; Expository Writing
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,,no,0,Algebra I
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,,no,0,Geometry
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,7,,no,4,Pre-Calculus; AP Pre-Calculus; AP Calculus; Mathematics Modeling
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,4,,no,1,Algebra II; Algebra II STEM; Statistics (Dual enrollment via Norwich Univ); Statistics in Sports
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,7,,no,0,9th Grade Earth/Physical Science; College Prep Chemistry; Advanced Chemistry; AP Chemistry
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,2,,no,3,Biology; Anatomy & Physiology
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SCI-EARTH,1.0,possible_only,0,,yes,3,9th Grade Earth/Physical Science; Environmental/Horticultural Science; Forest Ecology
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,2,1.0,no,0,United States History; AP United States History
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,,no,0,Democratic Roots
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,2,,no,2,Global Studies; Advanced World History
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),ARTS,1.5,covered,25,,no,6,Jazz Band; Modern Band; HS Chorus; Music & Technology
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),WL,1.0,covered,10,,no,1,French I; Spanish I; French II; Spanish II
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,,no,1,Financial Literacy
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),PE,1.5,covered,6,,no,0,PE1A; PE1B; PE II—Life Time Games & Activities; PE II Fitness for Life: Hybrid (Online/ In-person)
+u-32-middle-high-school,U-32 Middle & High School,Complete (Class of 2033+),HEALTH,1.0,covered,1,,no,0,Health
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),ELA-INTRO,2.0,covered,2,,no,0,Composition and Literature Pt I & Pt II; Humanities 10 Part 1 & Part 2
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,6,,no,2,Advanced Expository Writing; American Writers; Creative Writing; Expository Writing
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,,no,0,Algebra I
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,,no,0,Geometry
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,8,,no,4,Pre-Calculus; AP Pre-Calculus; AP Calculus; Mathematics Modeling
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SCI-PHYS,1.0,covered,7,,no,0,9th Grade Earth/Physical Science; College Prep Chemistry; Advanced Chemistry; AP Chemistry
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SCI-LIFE,1.0,covered,2,,no,3,Biology; Anatomy & Physiology
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SCI-EARTH,1.0,possible_only,0,,yes,3,9th Grade Earth/Physical Science; Environmental/Horticultural Science; Forest Ecology
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SS-USHIST,1.0,covered,2,1.0,no,0,United States History; AP United States History
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,,no,0,Democratic Roots
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),SS-WORLD,1.0,covered,2,,no,2,Global Studies; Advanced World History
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),ARTS,1.5,covered,25,,no,6,Jazz Band; Modern Band; HS Chorus; Music & Technology
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),FINLIT,0.5,covered,1,,no,1,Financial Literacy
+u-32-middle-high-school,U-32 Middle & High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,7,,no,0,PE1A; PE1B; PE II—Life Time Games & Activities; PE II Fitness for Life: Hybrid (Online/ In-person)
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,2.0,yes,1,9th Grade English Literature and Composition; American Literature and Composition
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,6,6.0,yes,0,English Seminar; British Literature; Visual Literacy; Voices in Literature
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-ALG1,1.0,possible_only,0,,yes,1,Math 1
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,1.0,yes,1,Geometry
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,6,7.0,yes,4,Problem-Solving; Advanced Mathematical Topics; Pre-Calculus; Calculus
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,1,1.0,yes,1,Statistics
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,5,5.0,yes,4,Introduction to Physics (formerly Physical Science); Introduction to Chemistry (formerly Physical Science); Chemistry; Physics
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,4,5.0,yes,3,Biology: Anatomy and Physiology (formerly Human Biology); Biology: Ecology (formally Wildlife Biology); Biology: Genetics and Evolution; Advanced Placement Biology
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,1,1.0,yes,0,Earth and Environmental Science
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,1,1.0,yes,1,United States History
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,2,2.0,yes,0,Modern Citizenship; Advanced Placement Government and Politics
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,1,1.0,yes,1,World Geography and Cultures
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),ARTS,1.5,covered,20,13.0,yes,0,Theatre Arts; Symphonic Band; Concert Choir; Guitar Class
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),WL,1.0,covered,11,11.0,yes,0,Level I (German); Level I (Spanish); Level II (German); Level II (Spanish)
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,0,Personal Finance
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),PE,1.5,covered,5,2.5,yes,0,Adventure Physical Education; Healthy Living and Fitness; Personal Fitness; Physical Education 1
+vergennes-union-high-school,Vergennes Union High School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,1,Health
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),ELA-INTRO,2.0,covered,2,2.0,yes,1,9th Grade English Literature and Composition; American Literature and Composition
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,6,6.0,yes,0,English Seminar; British Literature; Visual Literacy; Voices in Literature
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),MATH-ALG1,1.0,possible_only,0,,yes,1,Math 1
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,1.0,yes,1,Geometry
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,6,7.0,yes,5,Problem-Solving; Advanced Mathematical Topics; Pre-Calculus; Calculus
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SCI-PHYS,1.0,covered,5,5.0,yes,4,Introduction to Physics (formerly Physical Science); Introduction to Chemistry (formerly Physical Science); Chemistry; Physics
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SCI-LIFE,1.0,covered,4,5.0,yes,3,Biology: Anatomy and Physiology (formerly Human Biology); Biology: Ecology (formally Wildlife Biology); Biology: Genetics and Evolution; Advanced Placement Biology
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SCI-EARTH,1.0,covered,1,1.0,yes,0,Earth and Environmental Science
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SS-USHIST,1.0,covered,1,1.0,yes,1,United States History
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SS-CIVICS,1.0,covered,2,2.0,yes,0,Modern Citizenship; Advanced Placement Government and Politics
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),SS-WORLD,1.0,covered,1,1.0,yes,1,World Geography and Cultures
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),ARTS,1.5,covered,20,13.0,yes,0,Theatre Arts; Symphonic Band; Concert Choir; Guitar Class
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,0,Personal Finance
+vergennes-union-high-school,Vergennes Union High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,6,3.0,yes,1,Adventure Physical Education; Healthy Living and Fitness; Personal Fitness; Physical Education 1
+west-rutland-school,West Rutland School,Complete (Class of 2033+),ELA-INTRO,2.0,possible_only,0,,yes,3,Literature and Composition; World Literature; Foundations of English
+west-rutland-school,West Rutland School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,4,4.0,no,7,AP English Literature & Composition; AP English Language & Composition; CCV English Composition - Dual Enrollment Credit; CCV Contemporary World Literature - Dual Enrollment Credit
+west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra I
+west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,4,3.0,no,2,Pre-Algebra; Pre-Calculus; AP Calculus; CCV Statistics
+west-rutland-school,West Rutland School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,2,2.0,yes,0,Algebra II; CCV Statistics
+west-rutland-school,West Rutland School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,1,1.0,yes,0,Chemistry
+west-rutland-school,West Rutland School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,1,1.0,yes,2,Biology
+west-rutland-school,West Rutland School,Complete (Class of 2033+),SCI-EARTH,1.0,covered,1,1.0,yes,1,Earth Science
+west-rutland-school,West Rutland School,Complete (Class of 2033+),SS-USHIST,1.0,covered,3,2.0,no,1,U.S. History; Modern U.S. History; AP United States History
+west-rutland-school,West Rutland School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,1.0,yes,1,Civics
+west-rutland-school,West Rutland School,Complete (Class of 2033+),SS-WORLD,1.0,covered,1,1.0,yes,1,Global Studies
+west-rutland-school,West Rutland School,Complete (Class of 2033+),ARTS,1.5,covered,6,6.0,yes,1,Studio Art; Chorus; Band; Hit Stuff - World Percussion
+west-rutland-school,West Rutland School,Complete (Class of 2033+),WL,1.0,covered,4,4.0,yes,0,Spanish I; Spanish II; Spanish III; Spanish IV
+west-rutland-school,West Rutland School,Complete (Class of 2033+),FINLIT,0.5,covered,1,1.0,yes,1,Financial Literacy
+west-rutland-school,West Rutland School,Complete (Class of 2033+),PE,1.5,covered,3,2.0,yes,0,Physical Education; Lifetime Fitness; Fitness and Nutrition
+west-rutland-school,West Rutland School,Complete (Class of 2033+),HEALTH,1.0,covered,1,1.0,yes,1,Health
+west-rutland-school,West Rutland School,Transitional (2031-32),ELA-INTRO,2.0,possible_only,0,,yes,3,Literature and Composition; World Literature; Foundations of English
+west-rutland-school,West Rutland School,Transitional (2031-32),ELA-MASTERY,2.0,covered,4,4.0,no,7,AP English Literature & Composition; AP English Language & Composition; CCV English Composition - Dual Enrollment Credit; CCV Contemporary World Literature - Dual Enrollment Credit
+west-rutland-school,West Rutland School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra I
+west-rutland-school,West Rutland School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+west-rutland-school,West Rutland School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,5,4.0,no,2,Pre-Algebra; Pre-Calculus; AP Calculus; Algebra II
+west-rutland-school,West Rutland School,Transitional (2031-32),SCI-PHYS,1.0,covered,1,1.0,yes,0,Chemistry
+west-rutland-school,West Rutland School,Transitional (2031-32),SCI-LIFE,1.0,covered,1,1.0,yes,2,Biology
+west-rutland-school,West Rutland School,Transitional (2031-32),SCI-EARTH,1.0,covered,1,1.0,yes,1,Earth Science
+west-rutland-school,West Rutland School,Transitional (2031-32),SS-USHIST,1.0,covered,3,2.0,no,1,U.S. History; Modern U.S. History; AP United States History
+west-rutland-school,West Rutland School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,1.0,yes,1,Civics
+west-rutland-school,West Rutland School,Transitional (2031-32),SS-WORLD,1.0,covered,1,1.0,yes,1,Global Studies
+west-rutland-school,West Rutland School,Transitional (2031-32),ARTS,1.5,covered,6,6.0,yes,1,Studio Art; Chorus; Band; Hit Stuff - World Percussion
+west-rutland-school,West Rutland School,Transitional (2031-32),FINLIT,0.5,covered,1,1.0,yes,1,Financial Literacy
+west-rutland-school,West Rutland School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,4,3.0,yes,1,Physical Education; Lifetime Fitness; Fitness and Nutrition; Health
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,3,3.0,yes,4,World Literature; Honors World Studies: Literature; English Explorations
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,11,7.5,yes,4,American Literature I; American Literature II; Honors American Studies: Literature; Vermont Experience
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,3,3.0,yes,0,Algebra I Foundations; Algebra I; Algebra I Honors
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,3,3.0,yes,0,Geometry Foundations; Geometry; Geometry Honors
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,6,6.0,yes,0,Pre-Algebra; AP Pre-Calculus; AP Calculus AB; Algebra II
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,4,4.0,yes,0,Algebra II Foundations; Algebra II; Algebra II Honors; Statistics
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,7,7.0,yes,0,Conceptual Physics; Honors Conceptual Physics; Foundations of Conceptual Physics; Foundations in Chemistry
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,5,4.0,yes,2,Biology; Honors Biology; Human Anatomy and Physiology I; Human Anatomy and Physiology II
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SCI-EARTH,1.0,possible_only,0,,yes,2,Vermont Ecology and Traditions; AP Environmental Science
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,4,3.0,yes,0,U.S. History I; U.S. History II; American Studies: US History; AP U.S. History
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,1.0,yes,2,Introduction to Civics
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,3,3.0,yes,0,Global Studies and Geography I; Honors Global Studies and Geography; Global Studies and Geography II
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),ARTS,1.5,covered,10,6.0,no,1,Pixel and Vector: Introduction to Digital Illustration and Graphic Design; Get Fired Up! Introduction to Sculpture and Ceramics; Capture This! A Look at Digital Photography and Video Production; Brush and Beyond: The Basics of Drawing and Painting
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),WL,1.0,covered,9,9.0,yes,0,French I; French II; French III; French IV
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,1,Financial Literacy
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),PE,1.5,covered,5,2.5,yes,0,Physical Education I; Physical Education II; Fitness; Advanced Physical Education I
+white-river-valley-high-school,White River Valley High School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,0,Health and Wellness
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),ELA-INTRO,2.0,covered,3,3.0,yes,4,World Literature; Honors World Studies: Literature; English Explorations
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,11,7.5,yes,4,American Literature I; American Literature II; Honors American Studies: Literature; Vermont Experience
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),MATH-ALG1,1.0,covered,3,3.0,yes,0,Algebra I Foundations; Algebra I; Algebra I Honors
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),MATH-GEOM,1.0,covered,3,3.0,yes,0,Geometry Foundations; Geometry; Geometry Honors
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,7,7.0,yes,0,Pre-Algebra; AP Pre-Calculus; AP Calculus AB; Algebra II Foundations
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SCI-PHYS,1.0,covered,7,7.0,yes,0,Conceptual Physics; Honors Conceptual Physics; Foundations of Conceptual Physics; Foundations in Chemistry
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SCI-LIFE,1.0,covered,5,4.0,yes,2,Biology; Honors Biology; Human Anatomy and Physiology I; Human Anatomy and Physiology II
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SCI-EARTH,1.0,possible_only,0,,yes,2,Vermont Ecology and Traditions; AP Environmental Science
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SS-USHIST,1.0,covered,4,3.0,yes,0,U.S. History I; U.S. History II; American Studies: US History; AP U.S. History
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,1.0,yes,2,Introduction to Civics
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),SS-WORLD,1.0,covered,3,3.0,yes,0,Global Studies and Geography I; Honors Global Studies and Geography; Global Studies and Geography II
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),ARTS,1.5,covered,10,6.0,no,1,Pixel and Vector: Introduction to Digital Illustration and Graphic Design; Get Fired Up! Introduction to Sculpture and Ceramics; Capture This! A Look at Digital Photography and Video Production; Brush and Beyond: The Basics of Drawing and Painting
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,1,Financial Literacy
+white-river-valley-high-school,White River Valley High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,6,3.0,yes,0,Physical Education I; Physical Education II; Fitness; Advanced Physical Education I
+windsor-school,Windsor School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,4,4.0,yes,0,English 9; English 9 Intensive; World Literature; World Literature Intensive
+windsor-school,Windsor School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,13,7.5,yes,2,"Modern American Literature; Postmodern American Literature; Creative Writing; Science Fiction, Fantasy & Horror"
+windsor-school,Windsor School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,1,Algebra I
+windsor-school,Windsor School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,2,2.0,yes,0,Geometry; Honors Geometry
+windsor-school,Windsor School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,5,5.5,yes,1,Algebra A; Pre-Calculus and Trigonometry; Calculus; Honors Algebra II
+windsor-school,Windsor School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,3,3.0,yes,0,Algebra II; Honors Algebra II; Statistics
+windsor-school,Windsor School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,3,3.0,yes,2,Physical Science; Chemistry; Physics
+windsor-school,Windsor School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,3,3.5,yes,3,Biology 1; Human Biology; Genetics and Evolution
+windsor-school,Windsor School,Complete (Class of 2033+),SCI-EARTH,1.0,possible_only,0,,yes,1,Earth & the Environment
+windsor-school,Windsor School,Complete (Class of 2033+),SS-USHIST,1.0,covered,1,1.0,yes,0,U.S. History
+windsor-school,Windsor School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,1.0,yes,0,Civics
+windsor-school,Windsor School,Complete (Class of 2033+),SS-WORLD,1.0,covered,4,3.0,yes,2,World Studies; The Humanities in Western Culture; The Making of the Modern World; Human Geography & Cultures
+windsor-school,Windsor School,Complete (Class of 2033+),ARTS,1.5,covered,7,4.5,yes,2,Studio Art; Photography; Theater Arts: Performance Styles; Theater Arts: Theater History
+windsor-school,Windsor School,Complete (Class of 2033+),WL,1.0,covered,6,5.0,yes,0,Spanish I; Spanish II; Spanish III; Spanish IV
+windsor-school,Windsor School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,0,Financial Literacy
+windsor-school,Windsor School,Complete (Class of 2033+),PE,1.5,covered,4,2.0,yes,1,Physical Education; Personal Fitness; Outdoor Pursuits; Theater Arts: Creative Movement
+windsor-school,Windsor School,Complete (Class of 2033+),HEALTH,1.0,short,1,0.5,yes,0,Health
+windsor-school,Windsor School,Transitional (2031-32),ELA-INTRO,2.0,covered,4,4.0,yes,0,English 9; English 9 Intensive; World Literature; World Literature Intensive
+windsor-school,Windsor School,Transitional (2031-32),ELA-MASTERY,2.0,covered,13,7.5,yes,2,"Modern American Literature; Postmodern American Literature; Creative Writing; Science Fiction, Fantasy & Horror"
+windsor-school,Windsor School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,1,Algebra I
+windsor-school,Windsor School,Transitional (2031-32),MATH-GEOM,1.0,covered,2,2.0,yes,0,Geometry; Honors Geometry
+windsor-school,Windsor School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,6,6.5,yes,1,Algebra A; Pre-Calculus and Trigonometry; Calculus; Algebra II
+windsor-school,Windsor School,Transitional (2031-32),SCI-PHYS,1.0,covered,3,3.0,yes,2,Physical Science; Chemistry; Physics
+windsor-school,Windsor School,Transitional (2031-32),SCI-LIFE,1.0,covered,3,3.5,yes,3,Biology 1; Human Biology; Genetics and Evolution
+windsor-school,Windsor School,Transitional (2031-32),SCI-EARTH,1.0,possible_only,0,,yes,1,Earth & the Environment
+windsor-school,Windsor School,Transitional (2031-32),SS-USHIST,1.0,covered,1,1.0,yes,0,U.S. History
+windsor-school,Windsor School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,1.0,yes,0,Civics
+windsor-school,Windsor School,Transitional (2031-32),SS-WORLD,1.0,covered,4,3.0,yes,2,World Studies; The Humanities in Western Culture; The Making of the Modern World; Human Geography & Cultures
+windsor-school,Windsor School,Transitional (2031-32),ARTS,1.5,covered,7,4.5,yes,2,Studio Art; Photography; Theater Arts: Performance Styles; Theater Arts: Theater History
+windsor-school,Windsor School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,0,Financial Literacy
+windsor-school,Windsor School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,5,2.5,yes,1,Physical Education; Personal Fitness; Outdoor Pursuits; Theater Arts: Creative Movement
+winooski-high-school,Winooski High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,2.0,yes,2,English 9; American Literature
+winooski-high-school,Winooski High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,5,4.0,yes,1,Creative Writing; Literature and Composition; AP Literature and Composition; Gothic Literature
+winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra 1
+winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,3,3.0,yes,1,Pre-Algebra; Pre-Calculus; Introduction to Statistics and Probability
+winooski-high-school,Winooski High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,2,2.0,yes,0,Algebra 2; Introduction to Statistics and Probability
+winooski-high-school,Winooski High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,2,2.0,yes,0,Conceptual Physics; Chemistry
+winooski-high-school,Winooski High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,1,1.0,yes,1,Biology
+winooski-high-school,Winooski High School,Complete (Class of 2033+),SCI-EARTH,1.0,gap,0,,yes,0,
+winooski-high-school,Winooski High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,3,3.0,yes,0,Challenging Systems of Oppression: From Reconstruction to Black Lives Matter; US History; SMC: African-American Experience
+winooski-high-school,Winooski High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,1,1.0,yes,1,Civics
+winooski-high-school,Winooski High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,3,3.0,yes,0,"Global Explorations: Somalia, Nepal, and the DRC; Overview of World History; AP World History"
+winooski-high-school,Winooski High School,Complete (Class of 2033+),ARTS,1.5,covered,10,6.5,yes,0,Chorus; Band; Guitar; Piano
+winooski-high-school,Winooski High School,Complete (Class of 2033+),WL,1.0,covered,4,4.0,yes,0,French 1; French 2; French 3; French 4
+winooski-high-school,Winooski High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,1.0,yes,0,Personal Finance
+winooski-high-school,Winooski High School,Complete (Class of 2033+),PE,1.5,covered,3,2.5,yes,0,Physical Education 1; Physical Education 2; Weight Training
+winooski-high-school,Winooski High School,Complete (Class of 2033+),HEALTH,1.0,covered,3,2.0,yes,0,Health; Food & Culture; Health & Culture
+winooski-high-school,Winooski High School,Transitional (2031-32),ELA-INTRO,2.0,covered,2,2.0,yes,2,English 9; American Literature
+winooski-high-school,Winooski High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,5,4.0,yes,1,Creative Writing; Literature and Composition; AP Literature and Composition; Gothic Literature
+winooski-high-school,Winooski High School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra 1
+winooski-high-school,Winooski High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+winooski-high-school,Winooski High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,4,4.0,yes,1,Pre-Algebra; Pre-Calculus; Algebra 2; Introduction to Statistics and Probability
+winooski-high-school,Winooski High School,Transitional (2031-32),SCI-PHYS,1.0,covered,2,2.0,yes,0,Conceptual Physics; Chemistry
+winooski-high-school,Winooski High School,Transitional (2031-32),SCI-LIFE,1.0,covered,1,1.0,yes,1,Biology
+winooski-high-school,Winooski High School,Transitional (2031-32),SCI-EARTH,1.0,gap,0,,yes,0,
+winooski-high-school,Winooski High School,Transitional (2031-32),SS-USHIST,1.0,covered,3,3.0,yes,0,Challenging Systems of Oppression: From Reconstruction to Black Lives Matter; US History; SMC: African-American Experience
+winooski-high-school,Winooski High School,Transitional (2031-32),SS-CIVICS,1.0,covered,1,1.0,yes,1,Civics
+winooski-high-school,Winooski High School,Transitional (2031-32),SS-WORLD,1.0,covered,3,3.0,yes,0,"Global Explorations: Somalia, Nepal, and the DRC; Overview of World History; AP World History"
+winooski-high-school,Winooski High School,Transitional (2031-32),ARTS,1.5,covered,10,6.5,yes,0,Chorus; Band; Guitar; Piano
+winooski-high-school,Winooski High School,Transitional (2031-32),FINLIT,0.5,covered,1,1.0,yes,0,Personal Finance
+winooski-high-school,Winooski High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,covered,6,4.5,yes,0,Physical Education 1; Physical Education 2; Weight Training; Health
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),ELA-INTRO,2.0,covered,2,2.0,yes,0,English I; English II
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),ELA-MASTERY,2.0,covered,4,4.0,yes,0,English III; English IV; AP English Language & Composition; AP English Literature & Composition
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra I
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-PATHWAY,1.0,covered,6,5.0,yes,7,College Algebra; AP Precalculus; AP Calculus AB; College/AP Statistics
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),MATH-STATS-ALG2,1.0,covered,4,3.0,yes,0,Algebra II; College/AP Statistics; Data Science I; Data Science II
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SCI-PHYS,1.0,covered,5,5.0,yes,1,Chemistry; Physics; AP Chemistry; AP Physics 1
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SCI-LIFE,1.0,covered,2,2.0,yes,5,Biology; AP Biology
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SCI-EARTH,1.0,short,1,0.5,yes,3,Astronomy
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SS-USHIST,1.0,covered,2,2.0,yes,0,United States History; AP United States History
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SS-CIVICS,1.0,covered,2,2.0,yes,2,U.S. Government and Politics; AP U.S. Government and Politics
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),SS-WORLD,1.0,covered,1,1.0,yes,1,Modern World History
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),ARTS,1.5,covered,15,11.0,yes,0,AP Art History; Digital Art and Design; Digital Photography; Drawing
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),WL,1.0,covered,16,15.5,yes,0,French I; French II; French III; French IV
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),FINLIT,0.5,covered,1,0.5,yes,5,Personal Finance
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),PE,1.5,short,1,,no,3,Unified Wellness
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Complete (Class of 2033+),HEALTH,1.0,possible_only,0,,yes,8,Wellness; Wellness II: Fall; Wellness II: Spring; Future You
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),ELA-INTRO,2.0,covered,2,2.0,yes,0,English I; English II
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),ELA-MASTERY,2.0,covered,4,4.0,yes,0,English III; English IV; AP English Language & Composition; AP English Literature & Composition
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),MATH-ALG1,1.0,covered,1,1.0,yes,0,Algebra I
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),MATH-GEOM,1.0,covered,1,1.0,yes,0,Geometry
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),MATH-PATHWAY,1.0,covered,7,6.0,yes,7,College Algebra; AP Precalculus; AP Calculus AB; Algebra II
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SCI-PHYS,1.0,covered,5,5.0,yes,1,Chemistry; Physics; AP Chemistry; AP Physics 1
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SCI-LIFE,1.0,covered,2,2.0,yes,5,Biology; AP Biology
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SCI-EARTH,1.0,short,1,0.5,yes,3,Astronomy
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SS-USHIST,1.0,covered,2,2.0,yes,0,United States History; AP United States History
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SS-CIVICS,1.0,covered,2,2.0,yes,2,U.S. Government and Politics; AP U.S. Government and Politics
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),SS-WORLD,1.0,covered,1,1.0,yes,1,Modern World History
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),ARTS,1.5,covered,15,11.0,yes,0,AP Art History; Digital Art and Design; Digital Photography; Drawing
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),FINLIT,0.5,covered,1,0.5,yes,5,Personal Finance
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,Transitional (2031-32),PE-HEALTH-COMBINED,1.5,short,1,,no,11,Unified Wellness
