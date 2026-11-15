@@ -17,17 +17,20 @@ catalog are kept but tagged.
 | Phase | Status | Output |
 |---|---|---|
 | 1. Find catalogs | **Done** (57/57) | `phase1/catalogs.csv`, `phase1/results/*.json`, `catalogs/<id>/` |
-| 2. Extract courses | **Paused at 22 schools** (2,604 records) | `phase2/courses/*.json` → `phase2/courses.csv`, `phase2/graduation_requirements.csv` |
+| 2. Extract courses | **Done**: 54 schools, 6,061 records (5,566 non-CTE). Thin or missing: Oxbow (no list, Canva), Rivendell (titles only), Mill River (titles only), Cabot/Twinfield/North Country/Woodstock partial |  `phase2/courses/*.json` → `phase2/courses.csv`, `phase2/graduation_requirements.csv` |
 | 3a. Requirements table | **Done** | `data/requirements.csv` |
 | 3b. Classification rubric | **v0.3**, scored against the human answer key | `.claude/skills/classify-courses/SKILL.md`, `phase3/pilot/` |
-| 3c. Human calibration | **With the human**: Google Sheet review of 100 courses | [Review sheet](https://docs.google.com/spreadsheets/d/1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc/edit) (Drive id `1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc`); local copy `phase3/gold/review_sample.csv` |
+| 3c. Human calibration | **Done**: 97 pilot courses + 30 Montpelier holdout (28/30) | [Review sheet](https://docs.google.com/spreadsheets/d/1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc/edit) (Drive id `1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc`); local copy `phase3/gold/review_sample.csv` |
 | 3d. School profile pass | Planned | — |
 | 3e. Classify all schools | Planned | `phase3/classified/*.json` |
 | 4. Gap analysis + report | Planned | `phase4/` |
 
 **Phase 1 results:** 44 schools have a current (2026-27) catalog, 9 only an older year, 1 is partial, 2 have nothing public
 (Enosburg Falls: "coming soon"; Williamstown: counseling site needs sign-in), and Oxbow's catalog is a Canva design no tool
-could download. The human is chasing these (`data/manual_catalogs.csv` → `scripts/ingest_manual.py`).
+could download. Poultney uses the Quarry Valley district catalog stored in Proctor's folder (`SHARED_CATALOGS` in merge_phase2.py).
+**Phase 2 coverage (non-CTE, 2026-11-15):** description 97%, grade levels 71%, credits 71%, length 69%, prerequisites 46%,
+course code 54%, fulfills text 23%. Several agents report verbatim-check false positives from drop caps, two-column layouts and page footers.
+The human is chasing these (`data/manual_catalogs.csv` → `scripts/ingest_manual.py`).
 
 **Phase 2 schools done (22):** arlington, bfa-fairfax, bfa-st-albans, blue-mountain, brattleboro, burlington, cabot, canaan,
 cvu, colchester, craftsbury, danville, essex, fair-haven, green-mountain, hartford, harwood, hazen, lake-region, lamoille,
