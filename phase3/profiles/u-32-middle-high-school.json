@@ -1,0 +1,51 @@
+{
+  "school_id": "u-32-middle-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/u-32-middle-high-school.txt",
+  "grading_system": {
+    "value": "proficiency",
+    "evidence": "U-32 uses a proficiency-based grading system when reporting grades. Students need 3 proficient products in each of the 6 literacy standards.",
+    "page": 16,
+    "proficiency_scale": "1 Beginning, 2 Developing, 3 Proficient, 4 Advanced (course score 1-4)",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Registration checklist: \"Sign up for at least 14 and select alternatives.\" Courses are listed as 1 semester, 2 semester, or year-long. Number of classes per term is not stated.",
+    "page": 18
+  },
+  "credit_definition": {
+    "text": "not_stated: the catalog gives no credit values; graduation is by proficiencies (SLOs), and no credit conversion is stated.",
+    "credit_per_course_term": null,
+    "evidence": "No credit values are stated in the catalog.",
+    "page": null
+  },
+  "course_load": {
+    "min_courses_or_credits": "full course-load expected; number not stated (registration: at least 14 course requests)",
+    "evidence": "Each student is expected to carry a full course-load.",
+    "page": 16
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "proficiencies",
+    "total_in_credits": null,
+    "conversion_note": "Graduation is by proficiency in WCUUSD Student Learning Outcomes, not credits. Areas: Literacy (3 proficient products in each of 6 standards, at least 10 products); Math (4 standards, can be met via Geometry, Algebra I, Algebra II); Science (proficiency once in each PI for every standard in at least 3 domains); PE & Health (5 standards); Artistic Expression (4 standards); Financial Literacy (3 standards); Global Citizenship/World Language (3 standards); Transferable Skills (6 standards). No total credit count stated."
+  },
+  "flexible_pathways_listed": [
+    "PILOT and CO PILOT programs",
+    "Vermont Virtual Learning Cooperative (VTVLC)",
+    "Early College Program (ECP)",
+    "Vermont Dual Enrollment (two tuition-free college courses for juniors and seniors)",
+    "concurrent dual enrollment with Community College of Vermont",
+    "Branching Out (personalized learning)",
+    "Multi-Year Plan / alternate credit accrual plan (IEP/504)",
+    "study abroad (proficiency via portfolio and educator review)"
+  ],
+  "cte_centers": [
+    "Central Vermont Career Center (CVCC)"
+  ],
+  "notes": "Proficiency-based graduation; no credit total is stated. Required local items: Personalized Learning Plan reviewed and updated annually (p.16); English Graduation Portfolio; Health and PE via PE1A, PE1B, PE II and Health; Financial Literacy course; Global Studies, Democratic Roots and US History courses. Full-time status requires a full course-load; part-time status is subject to administrative approval. Early College requires five college classes per semester in senior year. GPA is unweighted: course score 4 = 4.0, 3 = 3.5, 2 = 2.5, 1 = 1.5 (p.16). Only courses meeting SLO proficiency factor into GPA. The catalog does not state courses per term or a schedule type (block vs. period)."
+}

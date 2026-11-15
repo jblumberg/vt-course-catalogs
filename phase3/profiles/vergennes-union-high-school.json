@@ -1,0 +1,53 @@
+{
+  "school_id": "vergennes-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/vergennes-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "A student meets the requirements for graduation by providing evidence of proficiency credit in all required curriculum areas. Each Vergennes Union High School graduate will meet graduation requirements through a minimum of 22.5 credits",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "2.5",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Each year of high school, students typically earn up to 8 credits through their daily course schedule. Courses are semester-based (Add/drop during first five days of each semester); the catalog does not state how many courses run at once, so courses_per_term is null.",
+    "page": 4
+  },
+  "credit_definition": {
+    "text": "Course units are labeled 'Block/credit': 1 Block/credit for a full-year course, .5 Block/credit for a semester course (so one semester course = .5 credit).",
+    "credit_per_course_term": 0.5,
+    "evidence": "Driver Education .5 Block/credit Grades 9-12 (course listing; semester courses carry .5 credit)",
+    "page": 16
+  },
+  "course_load": {
+    "min_courses_or_credits": "not_stated",
+    "evidence": "Students typically earn up to 8 credits through their daily course schedule.",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 22.5,
+    "unit": "credits",
+    "total_in_credits": 22.5,
+    "conversion_note": "Credits are the catalog's unit and standard credits (1 = full-year course); no conversion needed. Area minimums: English 4, Math 3, Science 3, Social Studies 3 (incl. US History 1 and Civics .5), Visual/Performing Arts 1, PE 1.5, Health .5, Technology .5, Financial Literacy .5, Electives 5.5."
+  },
+  "flexible_pathways_listed": [
+    "independent study",
+    "online courses (VTVLC and other approved online programs)",
+    "career and technical center programs",
+    "internships",
+    "dual enrollment",
+    "early college",
+    "community-based learning",
+    "expanded learning opportunities (student-designed courses/projects)",
+    "Middlebury College courses",
+    "Mount Abraham Union High School courses",
+    "Walden Year (outdoor education program)",
+    "early graduation"
+  ],
+  "cte_centers": ["Patricia Hannaford Career Center (PAHCC)"],
+  "notes": "Flexible pathways require prior approval and must appear in the student's Personalized Learning Plan. Proficiency is scored on a final course score (2.5 or higher earns proficiency credit); the numeric scale is in a separate Proficiency-Based Learning guide, not in this catalog. Transferable skills are assessed within academic classes. Required content areas for proficiency: literacy, mathematics, scientific inquiry, global citizenship, physical education, artistic expression, transferable skills. Individualized alternate pathways (IEP, Multi Year Plan) are referred to the Student and Family Handbook. Catalog is the 2026-27 Program of Studies (updated 8/26)."
+}
