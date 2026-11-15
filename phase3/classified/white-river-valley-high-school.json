@@ -1,0 +1,1934 @@
+{
+  "school_id": "white-river-valley-high-school",
+  "rubric_version": "v0.3.2",
+  "classified_on": "2026-11-15",
+  "model_note": "claude-haiku-5-5 subagent; classified from phase2 text per SKILL.md v0.3.2",
+  "courses": [
+    {
+      "course_index": 0,
+      "course_name": "World Literature",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "strong",
+          "rationale": "Grade 9 core English; world literature and writing."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 1,
+      "course_name": "Honors World Studies: Literature",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "strong",
+          "rationale": "English record of paired honors course; grade 9 core literature."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 2,
+      "course_name": "American Literature I",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "American Literature for grades 10-11; deep analytic writing."
+        },
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "possible",
+          "rationale": "Grade 10 is intro-range; grade 11 is mastery."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 3,
+      "course_name": "American Literature II",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "American Literature II for grades 10-11; deep analytic writing."
+        },
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "possible",
+          "rationale": "Grade 10 is intro-range; grade 11 is mastery."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 4,
+      "course_name": "Honors American Studies: Literature",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "English record of honors American Studies, grades 10-11, literary analysis."
+        },
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "possible",
+          "rationale": "Grade 10 is intro-range; grade 11 is mastery."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 5,
+      "course_name": "English Explorations",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "strong",
+          "rationale": "Builds on World Literature foundational skills; grades 9-12 open."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 6,
+      "course_name": "Vermont Experience",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Reading, writing and analysis for grades 10-12; catalog says English credit."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "ELA-INTRO",
+        "ELA-MASTERY"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 7,
+      "course_name": "Short Fiction",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Short fiction analysis and critical reading, grades 10-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 8,
+      "course_name": "Creative Writing I",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "possible",
+          "rationale": "Creative writing workshop; grades 9-12 open."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 9,
+      "course_name": "Creative Writing II",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "possible",
+          "rationale": "Creative writing workshop II; grades 9-12 open."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 10,
+      "course_name": "Page to Stage",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Dramatic literature analysis and language study, grades 10-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 11,
+      "course_name": "Reading and Writing Poetry",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Poetry reading, analysis and writing, grades 10-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 12,
+      "course_name": "Rhetoric: The Art of Persuasive Writing and Public Speaking",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Argument writing and literary analysis for grades 11-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 13,
+      "course_name": "Writing Lab I",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-INTRO",
+          "strength": "possible",
+          "rationale": "Credit-bearing writing support lab for grades 9-10."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 14,
+      "course_name": "Writing Lab II",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "possible",
+          "rationale": "Credit-bearing writing support lab for grades 11-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 15,
+      "course_name": "Perspectives in Literature",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "Literary analysis essays on a literary form, grades 11-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 16,
+      "course_name": "Newspaper Production and Journalism",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "possible",
+          "rationale": "Journalism: expository writing and interviewing; grades 9-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 17,
+      "course_name": "AP English Language and Composition",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "AP Language and Composition: rhetoric and argument writing, grades 11-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 18,
+      "course_name": "AP English Literature and Composition",
+      "subject_area": "ELA",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ELA-MASTERY",
+          "strength": "strong",
+          "rationale": "AP Literature and Composition: literary analysis, grades 11-12."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 19,
+      "course_name": "Pre-Algebra",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "strong",
+          "rationale": "Pre-Algebra: prepares for Algebra I; counts as math elective."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 20,
+      "course_name": "Algebra I Foundations",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-ALG1",
+          "strength": "strong",
+          "rationale": "Algebra I Foundations: linear equations, functions, slope."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 21,
+      "course_name": "Algebra I",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-ALG1",
+          "strength": "strong",
+          "rationale": "Algebra I: linear models, systems, functions."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 22,
+      "course_name": "Algebra I Honors",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-ALG1",
+          "strength": "strong",
+          "rationale": "Algebra I Honors: linear equations, functions, systems."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 23,
+      "course_name": "Geometry Foundations",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-GEOM",
+          "strength": "strong",
+          "rationale": "Geometry Foundations: segment, angle and geometric relationships."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 24,
+      "course_name": "Geometry",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-GEOM",
+          "strength": "strong",
+          "rationale": "Geometry: terminology, formulas, geometric relationships."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 25,
+      "course_name": "Geometry Honors",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-GEOM",
+          "strength": "strong",
+          "rationale": "Geometry Honors: regular Geometry content."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 26,
+      "course_name": "Algebra II Foundations",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-STATS-ALG2",
+          "strength": "strong",
+          "rationale": "Algebra II Foundations: Algebra II at any level, strong by default."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 27,
+      "course_name": "Algebra II",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-STATS-ALG2",
+          "strength": "strong",
+          "rationale": "Algebra II: polynomial, rational, logarithmic functions."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 28,
+      "course_name": "Algebra II Honors",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-STATS-ALG2",
+          "strength": "strong",
+          "rationale": "Algebra II Honors: Algebra II at honors level."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 29,
+      "course_name": "Statistics",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-STATS-ALG2",
+          "strength": "strong",
+          "rationale": "Statistics: categorical and quantitative data, inference, hypothesis testing."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 30,
+      "course_name": "AP Pre-Calculus",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "strong",
+          "rationale": "AP Pre-Calculus: polynomial, exponential and trigonometric functions."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 31,
+      "course_name": "AP Calculus AB",
+      "subject_area": "Mathematics",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "MATH-PATHWAY",
+          "strength": "strong",
+          "rationale": "AP Calculus AB: college Calculus I content."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 32,
+      "course_name": "Conceptual Physics",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Conceptual Physics: forces, motion, collisions, experiments."
+        }
+      ],
+      "science_domain": "Physics",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 33,
+      "course_name": "Honors Conceptual Physics",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Honors Conceptual Physics: physics with experiments and data."
+        }
+      ],
+      "science_domain": "Physics",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 34,
+      "course_name": "Foundations of Conceptual Physics",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Foundations of Conceptual Physics: physics concepts with math support."
+        }
+      ],
+      "science_domain": "Physics",
+      "has_lab": "unknown",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 35,
+      "course_name": "Biology",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Biology: molecules, cells, evolution, ecology."
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "unknown",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 36,
+      "course_name": "Honors Biology",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Honors Biology: molecules, cells, evolution, ecology."
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "unknown",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 37,
+      "course_name": "Foundations in Chemistry",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Foundations in Chemistry: all major chemistry topics with math support; lab work."
+        }
+      ],
+      "science_domain": "Chemistry",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 38,
+      "course_name": "Chemistry",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Chemistry: states of matter, bonding, reactions; lab work."
+        }
+      ],
+      "science_domain": "Chemistry",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 39,
+      "course_name": "Honors Chemistry",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Honors Chemistry: fundamental chemistry; lab writeups."
+        }
+      ],
+      "science_domain": "Chemistry",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 40,
+      "course_name": "Physics",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-PHYS",
+          "strength": "strong",
+          "rationale": "Physics: kinematics, forces, energy, waves; investigations with data."
+        }
+      ],
+      "science_domain": "Physics",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 41,
+      "course_name": "Human Anatomy and Physiology I",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Human Anatomy and Physiology I: body systems."
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "unknown",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 42,
+      "course_name": "Human Anatomy and Physiology II",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "Human Anatomy and Physiology II: body systems."
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "unknown",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 43,
+      "course_name": "Vermont Ecology and Traditions",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "possible",
+          "rationale": "Vermont native plants, plant uses and propagation; plant biology."
+        },
+        {
+          "requirement_id": "SCI-EARTH",
+          "strength": "possible",
+          "rationale": "Soils, riparian zones and ecosystems content."
+        }
+      ],
+      "science_domain": "Environmental",
+      "has_lab": "unknown",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 44,
+      "course_name": "AP Biology",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "strong",
+          "rationale": "AP Biology: evolution, cellular processes, genetics; laboratory work."
+        }
+      ],
+      "science_domain": "Life",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 45,
+      "course_name": "AP Environmental Science",
+      "subject_area": "Science",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SCI-EARTH",
+          "strength": "possible",
+          "rationale": "Environmental science: Earth systems and energy transfer; field work."
+        },
+        {
+          "requirement_id": "SCI-LIFE",
+          "strength": "possible",
+          "rationale": "Environmental science: species interactions and ecology."
+        }
+      ],
+      "science_domain": "Environmental",
+      "has_lab": "yes",
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 46,
+      "course_name": "Global Studies and Geography I",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "strong",
+          "rationale": "Global Studies I: Paleolithic to classical societies and trade networks."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 47,
+      "course_name": "Honors Global Studies and Geography",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "strong",
+          "rationale": "Honors Global Studies: social studies record of paired course; ancient world history."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 48,
+      "course_name": "Global Studies and Geography II",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-WORLD",
+          "strength": "strong",
+          "rationale": "Global Studies II: Enlightenment through globalization."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 49,
+      "course_name": "U.S. History I",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-USHIST",
+          "strength": "strong",
+          "rationale": "U.S. History I: colonial foundations through Civil War."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "SS-USHIST"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 50,
+      "course_name": "U.S. History II",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-USHIST",
+          "strength": "strong",
+          "rationale": "U.S. History II: Reconstruction to Cold War."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "SS-USHIST"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 51,
+      "course_name": "American Studies: US History",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-USHIST",
+          "strength": "strong",
+          "rationale": "American Studies: US History, colonies through Cold War; honors level."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [
+        "SS-USHIST"
+      ],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 52,
+      "course_name": "AP U.S. History",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-USHIST",
+          "strength": "strong",
+          "rationale": "AP U.S. History: earliest settlement to present."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 53,
+      "course_name": "Macroeconomics",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 54,
+      "course_name": "Microeconomics",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "FINLIT",
+          "strength": "possible",
+          "rationale": "Microeconomics mentions developing financial skills; embedded only."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": "embedded",
+      "confidence": "medium"
+    },
+    {
+      "course_index": 55,
+      "course_name": "Global Issues",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-CIVICS",
+          "strength": "possible",
+          "rationale": "Current events and government policy impacts on individuals."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 56,
+      "course_name": "American Law",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-CIVICS",
+          "strength": "possible",
+          "rationale": "Legal frameworks, civil liberties and civil rights."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 57,
+      "course_name": "Introduction to Civics",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "SS-CIVICS",
+          "strength": "strong",
+          "rationale": "Introduction to Civics: Constitution, separation of powers, civil liberties."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 58,
+      "course_name": "Student Voice I",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 59,
+      "course_name": "Student Voice II",
+      "subject_area": "Social Studies",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 60,
+      "course_name": "French I",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "French I: introductory world language."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 61,
+      "course_name": "French II",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "French II: world language level 2."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 62,
+      "course_name": "French III",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "French III: world language level 3."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 63,
+      "course_name": "French IV",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "French IV: world language level 4."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 64,
+      "course_name": "Spanish I",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish I: introductory world language."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 65,
+      "course_name": "Spanish II",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish II: world language level 2."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 66,
+      "course_name": "Spanish III",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish III: world language level 3."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 67,
+      "course_name": "Spanish IV",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish IV: world language level 4."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 68,
+      "course_name": "Spanish V",
+      "subject_area": "World Language/ASL",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "WL",
+          "strength": "strong",
+          "rationale": "Spanish V: world language level 5."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 69,
+      "course_name": "Pixel and Vector: Introduction to Digital Illustration and Graphic Design",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Digital illustration, graphic design and visual storytelling; creating central."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 70,
+      "course_name": "Get Fired Up! Introduction to Sculpture and Ceramics",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Sculpture and ceramics studio art."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 71,
+      "course_name": "Capture This! A Look at Digital Photography and Video Production",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Digital photography and video production; visual storytelling."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 72,
+      "course_name": "Brush and Beyond: The Basics of Drawing and Painting",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Drawing and painting studio art."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 73,
+      "course_name": "Press & Impress: Basics of Printmaking Techniques",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Printmaking studio art."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 74,
+      "course_name": "Sketch to Screen: Exploration of Illustration and Animation",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Illustration and animation; original visual narratives."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 75,
+      "course_name": "Portfolio Development: Advanced Level Studio Art",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Advanced studio art portfolio development."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 76,
+      "course_name": "Concert Choir",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Concert Choir performing ensemble."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 77,
+      "course_name": "Concert Band",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "Concert Band performing ensemble."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 78,
+      "course_name": "AP Music Theory",
+      "subject_area": "Arts",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "strong",
+          "rationale": "AP Music Theory: musicianship, harmony, analysis, composition."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 79,
+      "course_name": "Computer-Aided Design and Modeling",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Technology/Engineering",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 80,
+      "course_name": "Introduction to Mechanical Technologies",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Technology/Engineering",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 81,
+      "course_name": "Woodworking I",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Technology/Engineering",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 82,
+      "course_name": "Woodworking II",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Technology/Engineering",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 83,
+      "course_name": "Driver Education",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Driver Ed",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 84,
+      "course_name": "Physical Education I",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Physical Education I: fitness, units and state fitness testing."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 85,
+      "course_name": "Physical Education II",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Physical Education II: fitness, units and state fitness testing."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 86,
+      "course_name": "Fitness",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Fitness: upper-level fitness training, five components."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 87,
+      "course_name": "Advanced Physical Education I",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Advanced PE I: student-led physical activity and fitness."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 88,
+      "course_name": "Advanced Physical Education II",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "PE",
+          "strength": "strong",
+          "rationale": "Advanced PE II: student-led physical activity and fitness."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 89,
+      "course_name": "Health and Wellness",
+      "subject_area": "PE & Health",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "HEALTH",
+          "strength": "strong",
+          "rationale": "Health and Wellness: Vermont health standards and health topics."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 90,
+      "course_name": "Fashion Design I",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Family & Consumer Science",
+      "credit_mappings": [
+        {
+          "requirement_id": "ARTS",
+          "strength": "possible",
+          "rationale": "Apparel and textile design; design-based creating, not fine art."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 91,
+      "course_name": "Introduction to Culinary Arts",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Family & Consumer Science",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 92,
+      "course_name": "Introduction to Baking Arts",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Family & Consumer Science",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 93,
+      "course_name": "Principles of Family and Conservation Sciences: Life Skills",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Family & Consumer Science",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 94,
+      "course_name": "Financial Literacy",
+      "subject_area": "Financial Literacy",
+      "bridges": [],
+      "other_type": null,
+      "credit_mappings": [
+        {
+          "requirement_id": "FINLIT",
+          "strength": "strong",
+          "rationale": "Personal finance: budgeting, banking, credit, taxes, insurance, investing."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": "stand-alone",
+      "confidence": "high"
+    },
+    {
+      "course_index": 95,
+      "course_name": "Capstone",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Advisory/Support",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "medium"
+    },
+    {
+      "course_index": 96,
+      "course_name": "Pre-Tech",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 97,
+      "course_name": "Career and Technical Education (CTE)",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "CTE program",
+      "credit_mappings": [],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 98,
+      "course_name": "Community-Based Learning (CBL)",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Community-based learning; catalog says elective or academic credit."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 99,
+      "course_name": "Dual Enrollment (DE)",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Dual enrollment program entry; subject varies by college course."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 100,
+      "course_name": "Early College (EC)",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Early College program entry; college courses for credit."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 101,
+      "course_name": "Expanded Learning Opportunities",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Expanded learning opportunities; credit determined per experience."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 102,
+      "course_name": "Independent Study",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "Independent study; credit by student-designed learning."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    },
+    {
+      "course_index": 103,
+      "course_name": "Virtual Study",
+      "subject_area": "Other",
+      "bridges": [],
+      "other_type": "Flexible pathway",
+      "credit_mappings": [
+        {
+          "requirement_id": "FLEX-ANY",
+          "strength": "possible",
+          "rationale": "VTVLC virtual study course; subject varies."
+        }
+      ],
+      "science_domain": null,
+      "has_lab": null,
+      "catalog_claims": [],
+      "finlit_type": null,
+      "confidence": "high"
+    }
+  ]
+}
