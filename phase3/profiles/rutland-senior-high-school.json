@@ -1,0 +1,52 @@
+{
+  "school_id": "rutland-senior-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/rutland-senior-high-school.txt (Rutland High School 2026-2027 Academic Program of Studies, catalog_2026-27.pdf)",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "A student shall meet the requirements for graduation when he or she demonstrates evidence of proficiency. These proficiency based graduation requirements include: Clear and Effective Communication",
+    "page": 7,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "Students normally take the equivalent of three or four courses per day, per semester. (A/B-S) courses meet every other day (p.20). 4 is the upper stated figure.",
+    "page": 7
+  },
+  "credit_definition": {
+    "text": "One credit is generally awarded for a semester (S) course; quarter (Q) courses are .5 credit. Year-long (Y) course credit is listed inconsistently (1 or 2 credits).",
+    "credit_per_course_term": 1.0,
+    "evidence": "CONCEPTS OF ENGLISH (S) 1 credit; DRIVER EDUCATION (Q) .5 credit",
+    "page": 21
+  },
+  "course_load": {
+    "min_courses_or_credits": "minimum 7 credits per year for grades 9-12; minimum 3 credits per semester",
+    "evidence": "The minimum course load is seven credits for all students grades nine through twelve.",
+    "page": 7
+  },
+  "local_grad_requirements": {
+    "total": 26,
+    "unit": "credits",
+    "total_in_credits": 26,
+    "conversion_note": "Stated directly in credits: English 4.0, Mathematics 3.0, Science 3.0, Social Studies 3.0, Physical Education 2.0, Fine Arts 1.0, Life Skills 0.5, Information Technology 1.0, Electives 8.5 (total 26.0). Also requires proficiency evidence in five graduation areas and a completed Year End Studies (YES) Plan each year of attendance (unless the school did not offer one) (p.7)."
+  },
+  "flexible_pathways_listed": [
+    "Vermont State Dual Enrollment Program (college and high school credit)",
+    "DUO dual enrollment courses (maximum 1 credit per year)",
+    "Virtual High School courses (maximum 1 credit per semester)",
+    "Year End Studies (YES) Plan",
+    "Work Based Learning and PLACE internship program",
+    "independent study",
+    "credit recovery",
+    "MOOCs (pre-approved, for STEM and Global Studies endorsements)",
+    "Global Studies and STEM concentrations (designated on the diploma)"
+  ],
+  "cte_centers": [
+    "Stafford Technical Center (STC)"
+  ],
+  "notes": "Graduation requires a completed Year End Studies (YES) Plan in each year of attendance (p.7). Five proficiency-based graduation areas: Clear and Effective Communication, Self-Direction, Creative and Practical Problem Solving, Responsible and Involved Citizenship, Informed and Integrative Thinking (p.7). Habits of Work is a standard in all courses (p.4). Global Studies and STEM concentrations are designated on the diploma and require a capstone, YES Plan focus and fair participation (pp.7-10). Freshman core classes meet in blocks A, B and C every day (p.4). Advisory and Flex block are part of the schedule (p.5). Catalog inconsistency: (Y) courses are listed at 1 credit in some entries and 2 credits in others (e.g. AP English Language (Y) 2 credits p.23; English 2 (A/B-Y) 1 credit p.22). Credit values for the 26-credit total are not reconciled to a per-course rule in the catalog. The STC program schedule (full-day, flexible block) and STC second-year rules are on pp.11-19."
+}

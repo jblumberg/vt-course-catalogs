@@ -1,0 +1,50 @@
+{
+  "school_id": "stowe-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/stowe-high-school.txt",
+  "grading_system": {
+    "value": "credit",
+    "evidence": "All Stowe High School students must earn the 24 credits listed to graduate. Students who do not complete their required 40 hours of service will not be eligible to graduate.",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "For students in grades 9-11, their course load of 8 classes may include one Raider Academic Block (RAB). Courses are listed as semester (.5 credit) or full-year (1 credit). How many classes are taken at once is not stated.",
+    "page": 4
+  },
+  "credit_definition": {
+    "text": "Full-year course = 1 credit; semester course = .5 credit. Yearly credit registration expectation is 8 (grades 9-11) and 6 (grade 12).",
+    "credit_per_course_term": 0.5,
+    "evidence": "Course Description: This course is designed to be taken by students for a full year (Credit: 1). Semester courses are listed as Credit: .5.",
+    "page": 17
+  },
+  "course_load": {
+    "min_courses_or_credits": "Yearly credit registration expectation: 8 credits in grades 9-11 (may include one Raider Academic Block); 6 credits in grade 12",
+    "evidence": "Yearly Course Registration Expectations: 9th 8, 10th 8, 11th 8, 12th 6. For students in grades 9-11, their course load of 8 classes may include one Raider Academic Block (RAB).",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": 24,
+    "conversion_note": "Catalog states 24 credits; course listings use the standard unit (full-year = 1, semester = .5). Area minimums: English 4, Math 3, Science 3, Global Citizenship 3.5, Fine Arts 1 (up to .5 via Alternative Arts), PE 1 (up to .5 via Alternative PE after one semester PE; cannot replace Health), Health 0.5, Additional credits 8. Also 40 community service hours (minimum 10 per year)."
+  },
+  "flexible_pathways_listed": [
+    "flexible pathways courses (VTVLC, BYU)",
+    "VT Dual Enrollment (vouchers)",
+    "Fast Forward (technical center dual enrollment)",
+    "VT Early College",
+    "independent study",
+    "SHINE (Stowe High Internship Experience) work-based learning",
+    "home study programs (not accepted for credit)"
+  ],
+  "cte_centers": [
+    "Green Mountain Technology and Career Center (GMTCC)"
+  ],
+  "notes": "Required local items: Project Anagnorisis four-year portfolio with senior defense before a teacher panel, required for graduation; 40 hours community service (10 per year); Drivers Education through BeCool Driving School. Catalog states the school is moving from a 4-point proficiency scale to a traditional 100-point grading scale beginning 2025-26; graduation is by credit count. Courses taken in middle school (Algebra 1, World Language) do not earn high school credit. Flexible pathways grades do not factor into SHS GPA. Virtual offerings cannot replace required courses except in special circumstances."
+}

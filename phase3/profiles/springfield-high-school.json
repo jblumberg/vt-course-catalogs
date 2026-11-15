@@ -1,0 +1,51 @@
+{
+  "school_id": "springfield-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/springfield-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "By earning all required 27 credits, students will demonstrate proficiency in all Springfield High School graduation standards (including both content standards and transferable skills).",
+    "page": 8,
+    "proficiency_scale": "0-4: Beginning 0-1.49, Developing 1.5-2.49, Proficient 2.5-3.49, Expanding 3.5-4",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "A/B block",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Courses meet every day or every other day (\"1 full meeting for a course that meets every-other day\"); grade 12 may have \"one open block each day.\" Number of blocks per day and courses taken at once are not stated.",
+    "page": 13
+  },
+  "credit_definition": {
+    "text": "A full semester course meeting daily is listed as 1.0 credit; some semester electives and health/PE courses are 0.5 credit; full-year courses are listed as 2.0 credits in some cases.",
+    "credit_per_course_term": 1.0,
+    "evidence": "FOUNDATIONS OF READING & WRITING 10: Credit: 1.0 English. Duration: One Semester, meets daily.",
+    "page": 20
+  },
+  "course_load": {
+    "min_courses_or_credits": "Grades 9-11: full schedule required; grade 12: one open block per day if senior privileges earned (number of blocks not stated)",
+    "evidence": "Students in grades 9 through 11 are required to carry a full schedule of classes. Students in grade 12 will be permitted one open block each day if they have earned senior privileges.",
+    "page": 13
+  },
+  "local_grad_requirements": {
+    "total": 27,
+    "unit": "credits",
+    "total_in_credits": 27,
+    "conversion_note": "Catalog states 27 credits for the Class of 2027 and beyond; course listings use the same credit unit (semester course meeting daily = 1.0). Area minimums: English 4, Social Studies 3 (incl. 1 course on American history and government), Math 3 (Algebra 1 required), Science 3, World Language 1, Health 1, Art 1, PE 1.5, Financial Literacy 0.5, electives 9. Also 40 community service hours."
+  },
+  "flexible_pathways_listed": [
+    "Cosmos U flexible pathways",
+    "dual enrollment",
+    "Early College",
+    "work-based learning",
+    "independent study",
+    "online learning / VTVLC",
+    "expanded learning opportunities (ELOs)",
+    "courses at River Valley Technical Center"
+  ],
+  "cte_centers": [
+    "River Valley Technical Center (RVTC)"
+  ],
+  "notes": "Required local items: Algebra I must be passed (Algebra I Part 2 required for graduation if starting Part 1); Financial Literacy applies to Class of 2027 and beyond (met by Financial Literacy or Save Your Money. Know Your Rights.); Modern Society/Introduction to Social Studies required in grade 9; 40 community service hours required for all students (grade-promotion schedule lists 10/20/30 hours by year). Grade promotion thresholds: 10th 6 credits, 11th 13 credits, 12th 19 credits. Proficiency-based grading with GPA; catalog does not state a minimum score to earn credit."
+}
