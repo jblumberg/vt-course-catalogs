@@ -1,0 +1,47 @@
+{
+ "school_id": "oxbow-union-high-school",
+ "profiled_on": "2026-11-15",
+ "source": "catalogs/oxbow-union-high-school/school_profile_2026-27.pdf (pdftotext; phase2/text not available; phase2/courses/oxbow-union-high-school.json consulted)",
+ "grading_system": {
+  "value": "credit",
+  "evidence": "The credits required to graduate are 23 as distributed below: English 4 Math 3 Science 3 (At least 1 Life and 1 Physical) Social Studies 4 Physical Education 1.5 Health .5 Fine Arts 1 Electives as needed to total 23",
+  "page": 1,
+  "proficiency_scale": "not_stated",
+  "min_score_to_earn_credit": "not_stated",
+  "transferable_skills_required": null
+ },
+ "schedule": {
+  "type": "traditional periods",
+  "courses_per_term": null,
+  "terms_per_year": 2,
+  "evidence": "Courses are taught on a semester system. SCHEDULE: Classes meet every day for 45 minutes for one semester and are worth .5 credit. Band and Chorus meet every other day and earn .25 credit for one semester.",
+  "page": 1
+ },
+ "credit_definition": {
+  "text": "0.5 credit = one 45-minute class meeting daily for one semester; Band and Chorus earn 0.25 credit per semester (meet every other day).",
+  "credit_per_course_term": 0.5,
+  "evidence": "Classes meet every day for 45 minutes for one semester and are worth .5 credit.",
+  "page": 1
+ },
+ "course_load": {
+  "min_courses_or_credits": "not_stated",
+  "evidence": "not_stated",
+  "page": null
+ },
+ "local_grad_requirements": {
+  "total": 23,
+  "unit": "credits",
+  "total_in_credits": 23,
+  "conversion_note": "Catalog credits are standard credits (0.5 = semester course, 0.25 = semester band/chorus); no conversion needed. Distribution: English 4, math 3, science 3 (at least 1 life and 1 physical), social studies 4, PE 1.5, health 0.5, fine arts 1, electives as needed to total 23. Also required: pass one credit of English and one credit of math, and earn the requisite credits in freshman and sophomore years to be promoted."
+ },
+ "flexible_pathways_listed": [
+  "dual enrollment / concurrent enrollment (Vermont, New Hampshire, Maine, Massachusetts, New York and other college partners)",
+  "early college",
+  "AP courses through VTVLC",
+  "River Bend Career & Tech Center half-day or full-day programs (juniors and seniors who meet criteria)"
+ ],
+ "cte_centers": [
+  "River Bend Career & Tech Center"
+ ],
+ "notes": "Source is a two-page school profile PDF (2026-27), not a full catalog; no phase2/text file exists, so this profile is built from the PDF plus phase2/courses/oxbow-union-high-school.json. Grading is a letter/numeric scale with GPA on a 4.0 unweighted scale; F is below 65, but the catalog does not state the credit-earning cutoff. No proficiency-based or hybrid graduation requirement is stated. Number of classes per day is not stated, so courses_per_term is null. Core course lists for 11th and 12th grade are choices, not specific required titles. No senior project or community service requirement is stated in the profile."
+}

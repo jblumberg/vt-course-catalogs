@@ -1,0 +1,51 @@
+{
+  "school_id": "proctor-junior-senior-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/proctor-junior-senior-high-school.txt (Quarry Valley district Program of Studies, undated); policy facts from catalogs/proctor-junior-senior-high-school/grad_requirements_2026-27.pdf (Quarry Valley Student/Family Handbook, updated July 2026; 'hb p.N' = that PDF's page)",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "the building principal must certify that the student has successfully completed all of the proficiency requirements for graduation",
+    "page": 10,
+    "proficiency_scale": "4.0 scale with half points; 3.5-4.0 Exceeding, 3.0-3.4 Meeting, 2.0-2.9 Approaching, 1.9 & below Beginning Proficiency",
+    "min_score_to_earn_credit": "1.5 (overall course grade; catalog p.2)",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "4x4 block",
+    "courses_per_term": 4,
+    "terms_per_year": 2,
+    "evidence": "Each student will be expected to carry a course load of four (4) classes each semester. Bell schedule shows Blocks 1-4 plus a daily WIN block (hb p.65). '4x4' is not named; label inferred from four blocks a day and four classes per semester.",
+    "page": 14
+  },
+  "credit_definition": {
+    "text": "A semester course is worth 1 credit (a course listed as '2 SEMESTERS' is 2 credits); half-credit courses are 0.5. Catalog example: 'CHORUS (PoHS) 0.50 CREDITS PER SEMESTER'. Grades 9-11 full-time load is eight credits per school year (hb p.14).",
+    "credit_per_course_term": 1.0,
+    "evidence": "AP ENGLISH LITERATURE & COMPOSITION (WRS, PrHS - 2 SEMESTERS) 2 CREDITS; CHORUS (PoHS) 0.50 CREDITS PER SEMESTER",
+    "page": 4
+  },
+  "course_load": {
+    "min_courses_or_credits": "four classes each semester; grades 9-11 must carry eight credits during the school year; senior load set with guidance and administration",
+    "evidence": "Each student will be expected to carry a course load of four (4) classes each semester unless special arrangements have been made with the Administration. To be considered full-time, students in grades 9 - 11 must carry eight (8) credits during the school year.",
+    "page": 14
+  },
+  "local_grad_requirements": {
+    "total": 28,
+    "unit": "credits",
+    "total_in_credits": 28,
+    "conversion_note": "Stated directly in credits (catalog p.2): English 4.0, Global Citizenship 4.0 (incl. 1.0 U.S. History in the current tier), Mathematics 4.0, Science 4.0, PE 2.0, Health 1.0, Fine Art/Music 1.0, World Language/World Culture 1.0 (class of 2027 and beyond), Electives 7.0. Total 28 (27 for Stafford Technical Center students in the older tier). Also: students must pass a course with a grade of at least 1.5 to earn credit; AP and college courses are weighted at 1.1 course credits (handbook p.11)."
+  },
+  "flexible_pathways_listed": [
+    "dual enrollment (CCV courses)",
+    "early college program",
+    "virtual learning opportunities",
+    "independent study",
+    "project based learning",
+    "internships/work-study",
+    "credit recovery",
+    "high school completion program (Vermont Adult Learning)"
+  ],
+  "cte_centers": [
+    "Stafford Technical Center (STC)"
+  ],
+  "notes": "Page numbers for grading_system, schedule and course_load are handbook PDF pages (grad_requirements_2026-27.pdf); credit_definition and the 28-credit table are catalog pages. Schedule and grading-scale facts come from the handbook, not the catalog text; the catalog text (phase2/text) has course listings and the 28-credit requirement table only. The 28-credit requirement and the 1.5 credit threshold are on catalog p.2. Local requirements beyond credits: principal certifies proficiency in the PBGR content areas (English Language Arts & Literacy, Mathematics, Science, Global Citizenship, PE, Health, Fine Arts) (handbook p.10); students must be pursuing proficiency in six content areas per year; each student keeps a personalized learning plan (PLP) (handbook p.10). Class standing for 2026-27: sophomore 7, junior 14, senior 21 credits (handbook p.10). Handbook says the 'Current' tier and the class-of-2027 tier differ (World Language required for class of 2027 and beyond). Transferable Skills (marked T) are part of the posted final grade but are excluded from the 1.5 credit threshold (catalog p.2); whether they are required for graduation is not stated. Catalog year is undated (probably 2025-26); the handbook is the 2026-27 edition."
+}

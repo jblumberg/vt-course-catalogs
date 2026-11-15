@@ -1,0 +1,52 @@
+{
+ "school_id": "poultney-high-school",
+ "profiled_on": "2026-11-15",
+ "source": "phase2/text/poultney-high-school.txt (Quarry Valley program of studies); graduation, grading and schedule policy from catalogs/west-rutland-school/grad_requirements_2026-27_QV_handbook.pdf (read-only; PDF page numbers)",
+ "grading_system": {
+  "value": "hybrid",
+  "evidence": "In order to be awarded a diploma and to participate in the graduation ceremony the building principal must certify that the student has successfully completed all of the proficiency requirements for graduation. ... Total: 28 credits",
+  "page": 10,
+  "proficiency_scale": "4.0 scale in half points: 3.5-4.0 Exceeding, 3.0-3.4 Meeting, 2.0-2.9 Approaching, 1.9 and below Beginning",
+  "min_score_to_earn_credit": "1.5 (overall course grade)",
+  "transferable_skills_required": null
+ },
+ "schedule": {
+  "type": "4x4 block",
+  "courses_per_term": 4,
+  "terms_per_year": 2,
+  "evidence": "Each student will be expected to carry a course load of four (4) classes each semester unless special arrangements have been made with the Administration. The bell schedule shows four class blocks (B1-B4) per day plus a WIN block, so 4 courses run at once, not 8.",
+  "page": 14
+ },
+ "credit_definition": {
+  "text": "One semester course = 1 credit (full-time for grades 9-11 is 8 credits per school year = 4 classes x 2 semesters); year-long AP courses are listed as 2 credits; some half-credit courses exist (e.g. .5 credit Comics & Culture).",
+  "credit_per_course_term": 1,
+  "evidence": "To be considered full-time, students in grades 9 - 11 must carry eight (8) credits during the school year.",
+  "page": 14
+ },
+ "course_load": {
+  "min_courses_or_credits": "four (4) classes each semester; 8 credits per school year for full-time in grades 9-11",
+  "evidence": "Each student will be expected to carry a course load of four (4) classes each semester unless special arrangements have been made with the Administration.",
+  "page": 14
+ },
+ "local_grad_requirements": {
+  "total": 28,
+  "unit": "credits",
+  "total_in_credits": 28,
+  "conversion_note": "Catalog credits are the school's own credits, and the handbook uses the same unit as the course listings (1 credit per semester course per the 8-credit full-time rule); no conversion needed. Distribution: English 4, global citizenship 4 (incl. 1 US history), math 4, science 4, PE 2, health 1, fine art/music 1, world language/world culture 1, electives 7. Stafford Technical Center students: English 4 and total 27 in the older 'current' table in the program of studies; the handbook gives 28 for the class of 2027 and beyond. Also requires proficiency in six content areas per year and PBGRs (ELA, math, science, global citizenship, PE, health, fine arts)."
+ },
+ "flexible_pathways_listed": [
+  "Vermont dual enrollment (up to two college courses; vouchers used junior or senior year)",
+  "Vermont Early College Program (full-time college programs, tuition free)",
+  "Vermont Virtual Learning Cooperative (VTVLC)",
+  "Virtual High School (VHS)",
+  "Educere online courses",
+  "independent study (learner and teacher agreement)",
+  "internships / work-study (for credit or paid, not both)",
+  "project based learning",
+  "high school completion program"
+ ],
+ "cte_centers": [
+  "Stafford Technical Center (Rutland)"
+ ],
+ "notes": "Source is the Quarry Valley Unified District (Poultney, Proctor, West Rutland) program of studies, so the policies apply district-wide. Graduation and grading come from the 2026-27 QV handbook (PDF pages 10-11), which is the authoritative policy source. Required proficiency areas are the seven PBGRs in the handbook (PDF page 10). Credit: 1 per semester course is derived from the full-time 8-credit rule and the 'AP U.S. History (2 semesters) 2 credits' listing; some half-credit courses exist. Class standing thresholds: sophomore 7, junior 14, senior 21 credits. Weighting: college and AP courses at 1.1 course credits. Early graduation requires an application signed by principal and guidance director. Course changes must be made within 10 school days of semester start. Bell schedule: blocks B1-B4 plus WIN (handbook PDF page 54)."
+}

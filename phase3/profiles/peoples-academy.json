@@ -1,0 +1,49 @@
+{
+ "school_id": "peoples-academy",
+ "profiled_on": "2026-11-15",
+ "source": "phase2/text/peoples-academy.txt (PDF page 4 and page 5 are image-only; read visually from catalogs/peoples-academy/catalog_2026-27.pdf)",
+ "grading_system": {
+  "value": "credit",
+  "evidence": "The completion of a minimum of 34 credits is required with the following distribution: English, Math, Science, Global Citizenship, and Electives require six (6) credits in each subject area; Physical Education requires two (2) credits; Health, Visual/Performing Arts require one (1) credit each.",
+  "page": 5,
+  "proficiency_scale": "not_stated",
+  "min_score_to_earn_credit": "not_stated",
+  "transferable_skills_required": null
+ },
+ "schedule": {
+  "type": "traditional periods",
+  "courses_per_term": 6,
+  "terms_per_year": 2,
+  "evidence": "Our academic program is organized in a six period schedule with each class being 55 minutes in length. The maximum number of credits per semester is six. Recommended Course Load: fully enrolled throughout the entire school year (6 periods + flex).",
+  "page": 4
+ },
+ "credit_definition": {
+  "text": "Maximum 6 credits per semester over six periods, so one semester class = 1 credit (derived from the two stated figures; the catalog does not state a per-course credit value).",
+  "credit_per_course_term": 1,
+  "evidence": "The maximum number of credits per semester is six.",
+  "page": 4
+ },
+ "course_load": {
+  "min_courses_or_credits": "fully enrolled throughout the school year (6 periods + flex)",
+  "evidence": "Recommended Course Load: The expectation is that students in grade 9-12 will be fully enrolled throughout the entire school year (6 periods + flex).",
+  "page": 9
+ },
+ "local_grad_requirements": {
+  "total": 34,
+  "unit": "credits",
+  "total_in_credits": 34,
+  "conversion_note": "Catalog credits are the school's own credits; no conversion needed under credit_per_course_term = 1 (one semester class). Distribution: English 6, math 6, science 6, global citizenship 6, electives 6, PE 2, health 1, visual/performing arts 1. Applies to class of 2027 as printed."
+ },
+ "flexible_pathways_listed": [
+  "Vermont dual enrollment (up to two college courses; juniors and seniors)",
+  "Vermont early college (senior year at VSU, CCV or Norwich)",
+  "VTVLC online courses",
+  "individual studies",
+  "community based learning",
+  "volunteering / community service (listed as enrichment)"
+ ],
+ "cte_centers": [
+  "Green Mountain Technology and Career Center (GMTCC), Hyde Park"
+ ],
+ "notes": "Graduation requirements and the schedule statement are on image-only PDF pages (4 and 5), read visually; the phase2 courses JSON's 34-credit block matches. Credit per class is derived (max six credits per semester over six periods), so credit_per_course_term = 1 is inferred, not printed; set to null if the reviewer disallows derivation. Required courses stated in the text: all ninth graders take year-long ninth grade English; all students take Integrated Science 9, Biology and Chemistry; students are expected to take World History I and II and US History before other Global Citizenship courses. Grading moved to a 100-point scale in 2025-26 with unweighted GPA, and transfer, Pass/Fail and flexible-pathway grades are not in GPA. No proficiency-based graduation requirement is stated; the catalog says the 100-point scale keeps 'strengths of standards based learning'. The JSON's 'Schedule: maximum six credits per semester' note is confirmed on PDF page 4. Senior-year early college and dual enrollment details are on text page 7 (printed 6)."
+}

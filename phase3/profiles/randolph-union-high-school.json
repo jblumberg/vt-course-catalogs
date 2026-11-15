@@ -1,0 +1,51 @@
+{
+  "school_id": "randolph-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/randolph-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "Learning a diploma from RU means that students have demonstrated proficiency in our graduation standards. Pathways toward proficiency typically involve a blend of common/required experiences",
+    "page": 6,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": 7,
+    "terms_per_year": 2,
+    "evidence": "In a normal school year, one common expectation is that all students are expected to carry 7 courses each semester. Block/period pattern is not stated.",
+    "page": 6
+  },
+  "credit_definition": {
+    "text": "Credit is awarded for semester courses; courses are labelled 'Full Year Course' or 'Semester Course'. The catalog states no per-course credit value, so credit per course-term is not stated.",
+    "credit_per_course_term": null,
+    "evidence": "awarding credit for all semester courses. To be promoted from one grade/class to another",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "7 courses each semester in a normal school year (expectation); promotion counts of 4, 9, 14 and 20 full-year courses at the end of grades 9-12",
+    "evidence": "all students are expected to carry 7 courses each semester. This typically includes the pathway requirements listed below.",
+    "page": 6
+  },
+  "local_grad_requirements": {
+    "total": null,
+    "unit": "not_stated",
+    "total_in_credits": null,
+    "conversion_note": "No graduation total is stated. Common pathway requirements are given in full years: English 4, Mathematics 3, Science 3, US History 1, Social Studies 2, Physical Education 1.5, Health/Life Skills 0.5/0.5, Fine Arts 1, World Languages (standards met through multiple pathways), plus the Senior Project. Full-year equivalents cannot be converted to credits without a stated rule."
+  },
+  "flexible_pathways_listed": [
+    "early college (Vermont State Colleges, CCV, Norwich University)",
+    "dual enrollment at Vermont State Colleges and CCV (two college courses tuition-free)",
+    "Community High School Program at Dartmouth College",
+    "work-based learning (Independent Learning Opportunity, ILO)",
+    "Vermont Virtual Learning Consortium (VTVLC)",
+    "Advanced Placement courses",
+    "project-based learning (PBL)",
+    "community-based learning (CBL)"
+  ],
+  "cte_centers": [
+    "Randolph Technical Career Center (RTCC)"
+  ],
+  "notes": "Proficiency-based graduation: content-area standards (Foundational Knowledge & Skills) and Habits of Community & Work transferable skill standards (p.3). Senior Project required (six parts: proposal, paper, product of at least 30 hours, portfolio, display, defense) (pp.6, 11). Students entering RTCC must have completed set course counts before senior year (p.47). Catalog year is SY 2026-27. Promotion counts are not graduation requirements. The phase2 graduation_requirements block lists 'Life Skills 0.5' separately from Health; the catalog states them as 'Health/Life Skills 0.5/0.5 years'. World Languages: standards addressed through pathways, no fixed credit count (p.6)."
+}
