@@ -18,7 +18,7 @@
     "page": 22
   },
   "credit_definition": {
-    "text": "Credits are printed per course: 1 credit for a one-semester course, 2 for a full-year course, .5 for a one-quarter course. Requirements are stated in credits.",
+    "text": "Credits are printed per course: 1 credit for a one-semester course, .5 for a one-quarter course, and 1 or 2 for full-year courses as printed. Requirements are stated in credits; proficiency is also required.",
     "credit_per_course_term": 1,
     "evidence": "Course #: 01061OW Credits: 1 (One Semester). Course #: 01065HH Credits: .5 (One Quarter). Course #: 01005 Credits: 2 (Full Year).",
     "page": 23
@@ -31,8 +31,8 @@
   "local_grad_requirements": {
     "total": 24,
     "unit": "credits",
-    "total_in_credits": 24,
-    "conversion_note": "Catalog already uses credits (1 = one-semester course, 2 = full-year course in its course listings); no conversion needed. Area minimums: English 4, Social Studies 4, Math 3.5, Science 3, PE 1.5, Fine Arts 1, Health 0.5, Service Learning/Internships 0.5, Technology 0.5, World Language 1. The catalog states a traditional 24-credit pathway and separately requires proficiency-based graduation requirements."
+    "total_in_credits": null,
+    "conversion_note": "Catalog uses credits as printed. Course listings are inconsistent: one-semester courses are printed as 1 credit (e.g. 'Credits: 1 (One Semester)') and full-year courses as 1 or 2 (e.g. English 9 = 1, AP = 2), so the catalog gives no clear conversion to standard credits (1 = full-year course); total_in_credits is null. Area minimums: English 4, Social Studies 4, Math 3.5, Science 3, PE 1.5, Fine Arts 1, Health 0.5, Service Learning/Internships 0.5, Technology 0.5, World Language 1. The catalog states a traditional 24-credit pathway and separately requires proficiency-based graduation requirements."
   },
   "flexible_pathways_listed": [
     "Advanced Placement (AP) courses",

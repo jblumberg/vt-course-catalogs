@@ -1,0 +1,51 @@
+{
+ "school_id": "northfield-middle-high-school",
+ "profiled_on": "2026-11-15",
+ "source": "phase2/text/northfield-middle-high-school.txt",
+ "grading_system": {
+  "value": "hybrid",
+  "evidence": "To meet graduation requirements, students demonstrate proficiency through a minimum of the above courses and/or by accessing equivalent learning through Flexible Pathways. ... students must attain an overall course score of 2.01 or higher.",
+  "page": 14,
+  "proficiency_scale": "0-4 summative scale (4 Exemplary, 3 Proficient, 2 Approaching, 1 Beginning, 0 No Evidence); course scores also on this scale",
+  "min_score_to_earn_credit": "2.01",
+  "transferable_skills_required": true
+ },
+ "schedule": {
+  "type": "not_stated",
+  "courses_per_term": null,
+  "terms_per_year": 2,
+  "evidence": "The Drop/Add period is normally one week BEFORE and AFTER the new semester begins. Full-year courses are also listed. The catalog does not state blocks, periods, or how many courses run at once.",
+  "page": 17
+ },
+ "credit_definition": {
+  "text": "1.0 credit = a full-year course with 9+ performance indicators; 0.5 credit = a semester course with 4-8 performance indicators.",
+  "credit_per_course_term": 0.5,
+  "evidence": "For a ½ credit course, 4-8 PIs (content and Habits of Success) are offered and assessed. For a 1 credit course 9+ PIs (content and Habits of Success) are offered and assessed.",
+  "page": 15
+ },
+ "course_load": {
+  "min_courses_or_credits": "not_stated",
+  "evidence": "not_stated",
+  "page": null
+ },
+ "local_grad_requirements": {
+  "total": 21.5,
+  "unit": "credits",
+  "total_in_credits": 21.5,
+  "conversion_note": "Catalog credits are standard credits (1.0 = full-year course, 0.5 = semester course); no conversion needed. Distribution: English 4, science 3, math 3, global studies 3 (1 US History), fine arts 1, health 0.5, PE 1.5, electives 5.5. Proficiency in each Graduation Proficiency is also required."
+ },
+ "flexible_pathways_listed": [
+  "dual enrollment (up to seven VSU/CCV classes, 21 credits, free, taught at NMHS)",
+  "early college (Norwich University or CCV, senior year)",
+  "VAST program (Vermont State University)",
+  "work-based learning",
+  "online classes",
+  "internships (one semester or full year)",
+  "concurrent college classes on campus"
+ ],
+ "cte_centers": [
+  "Randolph Technical Career Center",
+  "Central Vermont Career Center"
+ ],
+ "notes": "Source is the PDF program of studies (phase2/text, PDF page markers used as page numbers; printed page numbers are one lower). Graduation is proficiency-based (PBGRs) with the course-credit distribution listed as 'TOTAL: 21.5' on PDF p.14. Hybrid is a judgment: credit distribution and proficiency in each graduation proficiency are both required (p.14); the catalog does not state a total credit count separate from the distribution. Habits of Success (cross-curricular) are required for graduation. A conversion chart to traditional GPA exists for college applications (p.11); it is not used for credit. Students who attain below 2.01 (B-) do not receive credit in CVSU (p.11). Schedule structure is not stated in the catalog. Early graduation requires written request (p.15). Senior Seminar is a required senior course (p.21 area)."
+}

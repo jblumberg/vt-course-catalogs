@@ -1,0 +1,51 @@
+{
+ "school_id": "north-country-union-high-school",
+ "profiled_on": "2026-11-15",
+ "source": "phase2/text/north-country-union-high-school.txt",
+ "grading_system": {
+  "value": "hybrid",
+  "evidence": "25 North Country credits are required for graduation. ... NCUHS utilizes a proficiency-based system. Demonstrating proficiency on established standards ensures students graduate ready for college and career.",
+  "page": 1,
+  "proficiency_scale": "1-4 (performance indicators)",
+  "min_score_to_earn_credit": "not_stated",
+  "transferable_skills_required": null
+ },
+ "schedule": {
+  "type": "other",
+  "courses_per_term": 4,
+  "terms_per_year": 2,
+  "evidence": "Students are expected to be fully-scheduled with at least four blocks scheduled, or the equivalent thereof. Courses are listed as Semester or Year-Long. The catalog does not name a 4x4 or A/B pattern; 4 is the stated minimum of blocks scheduled, not a per-day count.",
+  "page": 1
+ },
+ "credit_definition": {
+  "text": "1 credit = a year-long course; 0.5 credit = a semester course (derived from the stated distribution, e.g. 3 semesters of PE = 1.5 credits).",
+  "credit_per_course_term": 0.5,
+  "evidence": "3 semesters of physical education (1.5 credits) ... 1 semester of health education (.5 credits)",
+  "page": 1
+ },
+ "course_load": {
+  "min_courses_or_credits": "at least four blocks scheduled, or the equivalent thereof",
+  "evidence": "Students are expected to be fully-scheduled with at least four blocks scheduled, or the equivalent thereof.",
+  "page": 1
+ },
+ "local_grad_requirements": {
+  "total": 25,
+  "unit": "credits",
+  "total_in_credits": 25,
+  "conversion_note": "Catalog credits are standard credits (1 = year-long course, 0.5 = semester course); no conversion needed. Distribution: English 4, social studies 3, science 3, math 3, PE 1.5, health 0.5, fine arts 1, electives 9."
+ },
+ "flexible_pathways_listed": [
+  "dual enrollment",
+  "early college",
+  "VTVLC/online (Edmentum or VTVLC; one online class per semester)",
+  "work-based learning",
+  "expanded learning opportunities (internships, independent studies, summer programs)",
+  "study abroad",
+  "community service learning",
+  "mentor program"
+ ],
+ "cte_centers": [
+  "North Country Career Center"
+ ],
+ "notes": "Front matter (p.1) is the only policy source for graduation; course descriptions were not used for policy. Hybrid is a judgment: the catalog states a 25-credit minimum and describes its grading as proficiency-based, but does not state an explicit rule that proficiency must be demonstrated for the diploma. Min score 2.0 appears only as the make-up-course eligibility rule for a failed core course (not a credit threshold). Freshmen and juniors take the state Cognia assessment. Schedule type 'other' because the block structure is not named. Required courses by area are listed in the distribution, not as specific titles."
+}

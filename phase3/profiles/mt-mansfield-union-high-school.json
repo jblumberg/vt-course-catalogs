@@ -1,0 +1,54 @@
+{
+  "school_id": "mt-mansfield-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/mt-mansfield-union-high-school.txt",
+  "grading_system": {
+    "value": "proficiency",
+    "evidence": "To receive a diploma from Mt. Mansfield Union High School, students must demonstrate proficiency in the following Graduation Areas: Literacy, Mathematical Content and Practices, Scientific Inquiry and Content Knowledge, Global Citizenship, Physical and Health Education, Artistic Expression, and Transferable Skills",
+    "page": 5,
+    "proficiency_scale": "W Working Toward Expectations, M Meets Expectations, E Exceeds Expectations (NP = not met or not assessed in class)",
+    "min_score_to_earn_credit": "M (Meets Expectations) on the PBGRs assessed in class",
+    "transferable_skills_required": true
+  },
+  "schedule": {
+    "type": "not_stated",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Only semester grades are recorded on a student's transcript.",
+    "page": 7
+  },
+  "credit_definition": {
+    "text": "The catalog gives no credit value per course and no credit total for graduation. It counts classes instead: students are classified by number of classes completed, and a class counts as completed when its PBGR is met.",
+    "credit_per_course_term": null,
+    "evidence": "Students are classified by grade according to the total number of classes successfully completed and the number of English courses completed. Successful completion is defined as having met the PBGR associated with a class.",
+    "page": 7
+  },
+  "course_load": {
+    "min_courses_or_credits": "five classes (or an approved course of study) to be considered a full time student",
+    "evidence": "Students must be enrolled in five classes, or an approved course of study, to be considered full time.",
+    "page": 5
+  },
+  "local_grad_requirements": {
+    "total": 7,
+    "unit": "proficiencies",
+    "total_in_credits": null,
+    "conversion_note": "Diploma requires proficiency in 7 Graduation Areas (Literacy; Mathematical Content and Practices; Scientific Inquiry and Content Knowledge; Global Citizenship; Physical and Health Education; Artistic Expression; Transferable Skills) plus the Advisory Program and the Personalized Learning Plan. The catalog states no credit counts for graduation (the NCAA core-unit table is a separate, athletic-eligibility requirement). Senior Seminar (one semester) is required. Total is the number of graduation areas, not credits, so total_in_credits is null."
+  },
+  "flexible_pathways_listed": [
+    "Virtual Learning Cooperative (VTVLC)",
+    "Dual Enrollment (including Fast Forward vouchers at technical centers)",
+    "Community college (CCV) courses",
+    "Advanced Placement (AP) courses",
+    "Off-campus / approved summer school, evening, correspondence and college courses",
+    "Personalized Learning Plan (PLP)",
+    "Senior Seminar",
+    "9th Grade Cooperative",
+    "Advisory Program",
+    "Half-day technical center programs"
+  ],
+  "cte_centers": [
+    "Burlington Technical Center (BTC)",
+    "Center for Technology, Essex (CTE)"
+  ],
+  "notes": "Catalog is the 2026-27 Program of Studies. Mt. Mansfield is proficiency-based (PBGRs, p.5) and records semester grades (traditional letter grades are for postsecondary planning only and do not decide diploma eligibility, p.7). Grade classification uses number of classes completed (10th: 5, 11th: 10, 12th: 15 classes), not credits (p.7). Students must be enrolled in five classes to be full time (p.5). The catalog text does not describe the block, period or day structure. PBGR ratings are W, M and E, with progress reports each quarter and PBGR results at the end of each semester (p.7). Burlington Technical Center half-day sessions run 9:35-11:47 am or 12:09-2:21 pm (p.31). The CTE full-day block schedule runs 10:05am-2:45pm (p.40). Senior Seminar (one semester) is required for seniors per the catalog's graduation summary."
+}

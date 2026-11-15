@@ -1,0 +1,50 @@
+{
+  "school_id": "mt-anthony-senior-union-high-school",
+  "profiled_on": "2026-11-15",
+  "source": "phase2/text/mt-anthony-senior-union-high-school.txt",
+  "grading_system": {
+    "value": "hybrid",
+    "evidence": "MAUHS requires 24 credits for graduation. Course requirements for graduation meet local and state standards.",
+    "page": 4,
+    "proficiency_scale": "not_stated",
+    "min_score_to_earn_credit": "not_stated",
+    "transferable_skills_required": null
+  },
+  "schedule": {
+    "type": "other",
+    "courses_per_term": null,
+    "terms_per_year": 2,
+    "evidence": "Students in grades 9-12 are required to take a full daily schedule of classes each semester. Courses run in 67-minute long blocks and 47-minute short blocks; the number of blocks per day is not stated, so courses_per_term is null.",
+    "page": 4
+  },
+  "credit_definition": {
+    "text": "Credit per course is not stated as a single value. The catalog gives 0.5 credit for a special-education short block and 1 whole credit for a whole block in an IEP case. Dual enrollment college courses are converted (3-credit college course = 1.0 HS credit; 1-credit = 0.25; 2-credit = 0.5).",
+    "credit_per_course_term": null,
+    "evidence": "the student shall earn an equivalent of 1 whole credit for the whole block",
+    "page": 6
+  },
+  "course_load": {
+    "min_courses_or_credits": "full daily schedule each semester (number of courses not stated); honor roll requires at least 2 credits per semester",
+    "evidence": "Students in grades 9-12 are required to take a full daily schedule of classes each semester.",
+    "page": 4
+  },
+  "local_grad_requirements": {
+    "total": 24,
+    "unit": "credits",
+    "total_in_credits": null,
+    "conversion_note": "Catalog says 'MAUHS requires 24 credits for graduation' and lists area credits: English 4, Global Citizenship 3, Math 3, Science 3 (1 Life, 1 Physical), PE 1.5, Health 0.5, Art 1, Technology 0.5, Other electives 6.5, plus Class of 2029 Civics/Financial Literacy 1. The catalog does not define 1 credit as a full-year course, so total_in_credits is null. Class of 2029 requires Civics/Financial Literacy 1 credit (Civics & Government .5 and Financial Literacy .5). Students must also meet proficiency-based graduation requirements (Vermont EQS)."
+  },
+  "flexible_pathways_listed": [
+    "Dual Enrollment / college course credit",
+    "Early College",
+    "Virtual High School (VHS) courses",
+    "Advanced Placement (AP) courses, including AP through VHS",
+    "Personalized Learning Plan (PLP)",
+    "independent study / audit options",
+    "NCAA-approved college courses"
+  ],
+  "cte_centers": [
+    "Southwest Technology Center (SWT)"
+  ],
+  "notes": "Catalog is the 2026-27 course guide (Mount Anthony Union High School, Bennington). Beginning with the Class of 2024 graduation is proficiency-based under Act 77 (p.4); the catalog gives no proficiency scale. Some Southwest Tech programs have embedded graduation credits (p.4). Promotion minimums: 5 credits to grade 10, 11 to grade 11, 18 to grade 12, and 24 to graduate (p.4). Honor roll for grades 9-11 requires a full daily schedule with at least 2 credits per semester of MAU classes (p.10). Students taking college courses must be enrolled in at least two long block courses to qualify for honor roll (p.14). Dual enrollment: most college courses are 3 credits and awarded 1 high school credit (p.13). Class of 2020 completion of Personalized Learning Plan (4 years) is printed in the requirements list (p.4)."
+}
