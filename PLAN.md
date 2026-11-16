@@ -14,6 +14,7 @@ catalog are kept but tagged.
 
 ## 1. Status
 
+**NEXT: write the report — follow `report/REPORT_PLAN.md`** (seven themes from the human, scripts to write, fix list).
 Data-quality and coverage notes for the final report: `report/DATA_QUALITY.md` (keep it updated).
 
 | Phase | Status | Output |
@@ -23,9 +24,9 @@ Data-quality and coverage notes for the final report: `report/DATA_QUALITY.md` (
 | 3a. Requirements table | **Done** | `data/requirements.csv` |
 | 3b. Classification rubric | **v0.3**, scored against the human answer key | `.claude/skills/classify-courses/SKILL.md`, `phase3/pilot/` |
 | 3c. Human calibration | **Done**: 97 pilot courses + 30 Montpelier holdout (28/30) | [Review sheet](https://docs.google.com/spreadsheets/d/1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc/edit) (Drive id `1Q-grm7L2jiT9P973gsT75nBqwqJHxzgJal_Uk-RROyc`); local copy `phase3/gold/review_sample.csv` |
-| 3d. School profile pass | Planned | — |
-| 3e. Classify all schools | Planned | `phase3/classified/*.json` |
-| 4. Gap analysis + report | Planned | `phase4/` |
+| 3d. School profile pass | **Done** (54, Haiku) | `phase3/profiles.csv` |
+| 3e. Classify all schools | **Done** (53, Haiku, v0.3.2) | `phase3/classified.csv` |
+| 4. Gap analysis + report | Gap analysis done; report next | `phase4/`, `report/REPORT_PLAN.md` |
 
 **Phase 1 results:** 44 schools have a current (2026-27) catalog, 9 only an older year, 1 is partial, 2 have nothing public
 (Enosburg Falls: "coming soon"; Williamstown: counseling site needs sign-in), and Oxbow's catalog is a Canva design no tool
