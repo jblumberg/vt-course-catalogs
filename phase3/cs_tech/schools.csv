@@ -28,10 +28,10 @@ missisquoi-valley-union-high-school,Missisquoi Valley Union High School,71,yes,0
 montpelier-high-school,Montpelier High School,81,yes,3,7,1
 mt-abraham-union-high-school,Mt. Abraham Union High School,75,yes,1,4,0
 mt-anthony-senior-union-high-school,Mt. Anthony Senior Union High School,83,yes,2,2,0
-mt-mansfield-union-high-school,Mt. Mansfield Union High School,124,yes,3,18,4
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,124,yes,3,18,0
 north-country-union-high-school,North Country Union High School,93,yes,3,5,3
 northfield-middle-high-school,Northfield Middle/High School,59,yes,1,3,1
-otter-valley-union-high-school,Otter Valley Union High School,93,yes,0,4,3
+otter-valley-union-high-school,Otter Valley Union High School,93,yes,0,7,0
 oxbow-union-high-school,Oxbow Union High School,0,yes,0,0,0
 peoples-academy,Peoples Academy,45,yes,0,7,0
 poultney-high-school,Poultney High School,38,yes,0,4,0
@@ -39,17 +39,17 @@ proctor-junior-senior-high-school,Proctor Junior/Senior High School,37,yes,0,4,0
 randolph-union-high-school,Randolph Union High School,64,yes,1,11,0
 richford-junior-senior-high-school,Richford Junior/Senior High School,49,yes,4,7,0
 rivendell-academy,Rivendell Academy,17,yes,0,0,1
-rutland-senior-high-school,Rutland Senior High School,114,NO,0,0,114
+rutland-senior-high-school,Rutland Senior High School,114,yes,5,11,0
 south-burlington-high-school,South Burlington High School,116,yes,5,11,2
 spaulding-union-high-school,Spaulding Union High School,72,yes,2,6,0
-springfield-high-school,Springfield High School,114,yes,1,9,4
-stowe-high-school,Stowe High School,78,NO,0,0,78
-twin-valley-middle-high-school,Twin Valley Middle High School,76,NO,0,0,76
+springfield-high-school,Springfield High School,114,yes,1,11,0
+stowe-high-school,Stowe High School,78,yes,3,13,1
+twin-valley-middle-high-school,Twin Valley Middle High School,76,yes,0,6,0
 twinfield-union-school,Twinfield Union School,30,yes,1,1,0
-u-32-middle-high-school,U-32 Middle & High School,87,NO,0,0,87
-vergennes-union-high-school,Vergennes Union High School,64,NO,0,0,64
-west-rutland-school,West Rutland School,31,NO,0,0,31
-white-river-valley-high-school,White River Valley High School,56,NO,0,0,56
-windsor-school,Windsor School,61,NO,0,0,61
-winooski-high-school,Winooski High School,39,NO,0,0,39
-woodstock-union-middle-high-school,Woodstock Union Middle/High School,94,NO,0,0,94
+u-32-middle-high-school,U-32 Middle & High School,87,yes,2,7,0
+vergennes-union-high-school,Vergennes Union High School,64,yes,1,7,0
+west-rutland-school,West Rutland School,31,yes,0,1,0
+white-river-valley-high-school,White River Valley High School,56,yes,0,6,0
+windsor-school,Windsor School,61,yes,1,6,1
+winooski-high-school,Winooski High School,39,yes,0,1,0
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,94,yes,8,10,0
