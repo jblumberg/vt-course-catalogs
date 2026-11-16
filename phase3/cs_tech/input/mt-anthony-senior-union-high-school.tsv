@@ -1,0 +1,83 @@
+0	Adobe Photoshop	Art	standard
+1	Art 1 Basic Drawing and Design	Art	standard
+2	Art 2 Exploration of Media	Art	standard
+3	Art 3 Visual Concepts	Art	standard
+4	Art Seminar	Art	standard
+5	Ceramics 1	Art	standard
+6	Ceramics 2	Art	standard
+7	Ceramics 3	Art	standard
+8	Ceramics Seminar	Art	standard
+9	Printmaking	Art	standard
+10	Quilting and Sewing	Art	standard
+11	Studio Art: MashUp	Art	standard
+12	Black and White Photography	Art	standard
+13	Chorus	Music	standard
+14	Popular Music	Music	standard
+15	Symphonic Band	Music	standard
+16	Music Theory and Composition	Music	standard
+17	Introduction to Guitar and Keyboard	Music	standard
+60	AP Statistics	Mathematics	AP
+61	AP Pre-Calculus	Mathematics	AP
+62	VSU Calculus 1	Mathematics	dual_enrollment
+63	Calculus Honors	Mathematics	honors
+64	Geometry Honors	Mathematics	honors
+65	Algebra 2/Trig. Honors	Mathematics	honors
+66	Algebra 1	Mathematics	standard
+67	Algebra 2	Mathematics	standard
+68	Geometry	Mathematics	standard
+69	Algebra 2/Trig.	Mathematics	standard
+70	Pre-Calculus	Mathematics	standard
+71	Statistics	Mathematics	standard
+72	Math Basic	Mathematics	standard
+73	Algebra/Geometry Connections	Mathematics	standard
+74	Business Math	Mathematics	standard
+75	AP Biology	Science	AP
+76	AP Chemistry	Science	AP
+77	AP Environmental Science	Science	AP
+78	AP Physics	Science	AP
+79	Unified Science Honors	Science	honors
+80	Biology Honors	Science	honors
+81	Chemistry Honors	Science	honors
+82	Physics Honors	Science	honors
+83	Unified Science	Science	standard
+84	Biology	Science	standard
+85	Anatomy	Science	standard
+86	Anatomy & Physiology	Science	standard
+87	Animal Science	Science	standard
+88	Earth Science	Science	standard
+89	Environmental Science	Science	standard
+90	Chemistry	Science	standard
+91	Physical Science	Science	standard
+92	Physics	Science	standard
+93	Unified Science General	Science	standard
+94	Biology General	Science	standard
+95	Earth Science General	Science	standard
+96	Computer Programming	Technology	standard
+97	3D Printing & Robotics	Technology	standard
+98	College Course	College Opportunities	dual_enrollment
+99	English As A Second Language	English as a Second Language	special_program
+100	Community Based Learning	School to Work	special_program
+102	Financial Literacy	Civics/Financial Literacy Required Courses	standard
+104	SB Astronomy	Electives	standard
+105	SB Bioethics	Electives	standard
+107	SB Calligraphy	Electives	standard
+108	SB Ceramics	Electives	standard
+109	SB Chess	Electives	standard
+110	SB Computer Relay	Electives	standard
+111	SB Crafts & Games	Electives	standard
+114	SB Drama & Theater	Electives	standard
+115	SB Driver’s Education	Electives	standard
+116	SB Film Studies	Electives	standard
+117	SB Games and Logic	Electives	standard
+126	SB Lapidary	Electives	standard
+128	SB Math Skills and Concepts	Electives	standard
+130	SB Meteorology/Water Study	Electives	standard
+131	SB Music As Poetry	Electives	standard
+133	SB Quilting	Electives	standard
+135	SB Renewable Energy	Electives	standard
+136	SB SAT Success	Electives	standard
+138	SB Scientific Inquiry	Electives	standard
+141	SB Statistics Thru Sports	Electives	standard
+150	Dual Enrollment	College Opportunities	dual_enrollment
+151	Early College Program	College Opportunities	early_college
+152	Virtual High School (VHS)	Virtual High School	online

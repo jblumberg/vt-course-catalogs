@@ -1,0 +1,124 @@
+0	Advisory Program	Other Programs	special_program
+1	Senior Seminar	Other Programs	standard
+2	Alternative Education Program	Other Programs	special_program
+3	College Testing Preparation Class	Other Programs	special_program
+4	LEAD Club	Other Programs	special_program
+5	Learning Lab	Other Programs	special_program
+6	Learning Strategies	Other Programs	special_program
+7	Vermont Virtual Learning Cooperative (VTVLC)	Other Programs	online
+21	Advanced Placement Calculus AB	Mathematics	AP
+22	Advanced Placement Computer Science Principles	Mathematics	AP
+23	Math 4	Mathematics	standard
+24	Statistics and Probability	Mathematics	standard
+25	Advanced Placement Statistics and Probability	Mathematics	AP
+26	Math 3	Mathematics	standard
+27	Math 3 Honors	Mathematics	honors
+28	Math 2	Mathematics	standard
+29	Math 2 Honors	Mathematics	honors
+30	Math 1	Mathematics	standard
+31	Math 1 A/B	Mathematics	standard
+32	Math 1 Honors	Mathematics	honors
+33	Algebra Prep	Mathematics	standard
+34	Exploration of Common Core Math Concepts	Mathematics	standard
+35	Advanced Manufacturing	Mathematics	standard
+36	Advanced Placement Physics	Science	AP
+37	Physics	Science	standard
+38	Astronomy & the Physics of Space	Science	standard
+39	Advanced Placement Chemistry	Science	AP
+40	Advanced Placement Biology	Science	AP
+41	Engineering & Design Principles 1	Science	standard
+42	Engineering & Design Principles 2	Science	standard
+43	Chemistry - Honors	Science	honors
+44	Chemistry	Science	standard
+45	Physical Science	Science	standard
+46	Human Biology	Science	standard
+47	Human Biology 2	Science	standard
+48	Forensics	Science	standard
+49	Biology - Honors	Science	honors
+50	Biology	Science	standard
+51	Survey of Biology	Science	standard
+52	Environmental Studies	Science	standard
+53	Integrated Earth Systems	Science	standard
+54	The Vermont Sustainability Project: Fieldwork, Research, and Community Action	Science	standard
+80	XB: Business Management and Leadership	Business	standard
+81	Woodworking	Visual Arts	standard
+82	Introduction to Visual Arts	Visual Arts	standard
+83	Drawing/Painting 1	Visual Arts	standard
+84	Drawing/Painting 2	Visual Arts	standard
+85	Graphic Arts & Design 1	Visual Arts	standard
+86	Graphic Arts & Design 2	Visual Arts	standard
+87	Fine Metals 1	Visual Arts	standard
+88	Fine Metals 2	Visual Arts	standard
+89	Photography 1	Visual Arts	standard
+90	Photography 2	Visual Arts	standard
+91	Pottery 1	Visual Arts	standard
+92	Pottery 2	Visual Arts	standard
+93	Advanced Placement Studio Art	Visual Arts	AP
+94	Band	Music	standard
+95	String Ensemble	Music	standard
+96	Wind Ensemble	Music	standard
+97	Concert Choir	Music	standard
+98	Advanced Placement Music Theory and Composition	Music	AP
+99	Guitar 1	Music	standard
+100	Guitar 2	Music	standard
+101	Piano/Keyboard 1	Music	standard
+102	Piano/Keyboard 2	Music	standard
+103	Driver Education	Driver Education	standard
+109	Automotive Science and Technology I	Burlington Technical Center	CTE
+110	Automotive Science and Technology II	Burlington Technical Center	CTE
+111	Aviation and Aerospace Technology I	Burlington Technical Center	CTE
+112	Aviation and Aerospace Technology II	Burlington Technical Center	CTE
+113	Design and Illustration I	Burlington Technical Center	CTE
+114	Design and Illustration II	Burlington Technical Center	CTE
+115	Design, Engineering & Fabrication I	Burlington Technical Center	CTE
+116	Design, Engineering & Fabrication II	Burlington Technical Center	CTE
+117	Digital Media Lab I	Burlington Technical Center	CTE
+118	Digital Media Lab II	Burlington Technical Center	CTE
+119	Education Training & Leadership I	Burlington Technical Center	CTE
+120	Education Training & Leadership II	Burlington Technical Center	CTE
+121	Health Sciences Academy I	Burlington Technical Center	CTE
+122	Health Sciences Academy II	Burlington Technical Center	CTE
+123	Homeland Security & Criminal Justice I	Burlington Technical Center	CTE
+124	Homeland Security & Criminal Justice II	Burlington Technical Center	CTE
+125	Introduction to Healthcare	Burlington Technical Center	CTE
+126	Automotive Technology I	Center for Technology, Essex	CTE
+127	Automotive Technology II	Center for Technology, Essex	CTE
+128	Building Technology: Residential I	Center for Technology, Essex	CTE
+129	Building Technology: Residential II	Center for Technology, Essex	CTE
+130	Building Technology: Mechanical Systems, HVAC I	Center for Technology, Essex	CTE
+131	Building Technology: Mechanical Systems, HVAC II	Center for Technology, Essex	CTE
+132	Childhood Education & Human Services I	Center for Technology, Essex	CTE
+133	Childhood Education & Human Services II	Center for Technology, Essex	CTE
+134	Computer Systems Technology I	Center for Technology, Essex	CTE
+135	Computer Systems Technology II	Center for Technology, Essex	CTE
+136	Cosmetology Arts & Sciences I	Center for Technology, Essex	CTE
+137	Cosmetology Arts & Sciences II: Salon Management	Center for Technology, Essex	CTE
+138	Dental Assisting I	Center for Technology, Essex	CTE
+139	Dental Assisting II	Center for Technology, Essex	CTE
+140	Design & Creative Media I	Center for Technology, Essex	CTE
+141	Design & Creative Media II	Center for Technology, Essex	CTE
+142	Emergency Services I	Center for Technology, Essex	CTE
+143	Engineering/Architectural Design I	Center for Technology, Essex	CTE
+144	Engineering/Architectural Design II	Center for Technology, Essex	CTE
+145	Game Animation & Web Development I	Center for Technology, Essex	CTE
+146	Game Animation & Web Development II	Center for Technology, Essex	CTE
+147	Health Professions	Center for Technology, Essex	CTE
+148	Natural Resources & Agriscience Technology - Forestry	Center for Technology, Essex	CTE
+149	Natural Resources & Agriscience Technology - Mechanical & Small Engines	Center for Technology, Essex	CTE
+150	Professional Food Services I	Center for Technology, Essex	CTE
+151	Professional Food Services II	Center for Technology, Essex	CTE
+152	Apprenticeship Training	Center for Technology, Essex	CTE
+153	Pre-Technical Explorations 1: BASES (Building, Arts, and Small Engine Systems)	Center for Technology, Essex	CTE
+154	Pre-Technical Explorations 2: Information Technology, Design, Engineering & Arts - IDEA	Center for Technology, Essex	CTE
+155	Pre-Technical Exploration 3: Health & Human Development	Center for Technology, Essex	CTE
+156	Pre-Technical Foundations: Natural Resources	Center for Technology, Essex	CTE
+160	Personal Finance	Center for Technology, Essex	CTE
+161	Geometry (CTE Essex)	Center for Technology, Essex	CTE
+162	Algebra 2	Center for Technology, Essex	CTE
+163	Biology (CTE Essex)	Center for Technology, Essex	CTE
+164	Chemistry (CTE Essex)	Center for Technology, Essex	CTE
+167	Multilingual Learner - English for Academic and Professional Purposes	Center for Technology, Essex	CTE
+168	Multilingual Learner - Independent Study	Center for Technology, Essex	CTE
+169	Driver Education (CTE Essex)	Center for Technology, Essex	CTE
+172	Vermont State University Technical Math 1 & 2 (Pre-Calculus)	Center for Technology, Essex	dual_enrollment
+173	Senior Portfolio	Center for Technology, Essex	CTE

@@ -1,0 +1,43 @@
+0	High School Chorus	Arts	standard
+1	High School Band	Arts	standard
+2	Jazz Ensemble	Arts	standard
+3	Rock Band	Arts	standard
+4	Music Production and Digital Media	Arts	standard
+5	Guitar	Arts	standard
+6	Music in Film	Arts	standard
+7	Drawing	Arts	standard
+8	2D Marketing and Design	Arts	standard
+9	Painting	Arts	standard
+10	Ceramics	Arts	standard
+11	Advanced Art	Arts	standard
+12	High School Woodshop 1	Arts	standard
+13	High School Woodshop 2	Arts	standard
+14	Fine Furniture	Arts	standard
+15	Jewelry Design and Metalworking 1	Arts	standard
+16	Jewelry Design and Metalworking 2	Arts	standard
+31	Advanced Placement Calculus AB	Mathematics	AP
+32	Advanced Placement Statistics	Mathematics	AP
+33	Math A Honors	Mathematics	honors
+34	Math B Honors	Mathematics	honors
+35	Math 1	Mathematics	standard
+36	Math 2	Mathematics	standard
+37	Math 3	Mathematics	standard
+38	Foundations of Mathematics	Mathematics	standard
+39	Honors Pre-Calculus	Mathematics	honors
+40	Financial Literacy	Mathematics	standard
+44	Earth Science	Science	standard
+45	Biology	Science	standard
+46	Anatomy and Physiology	Science	standard
+47	AP Biology	Science	AP
+48	Chemistry	Science	standard
+49	Physics	Science	standard
+50	Introduction to Engineering Design (IED)	Science	standard
+51	Food Science	Science	standard
+52	Science and Art	Science	standard
+53	Forensic Science	Science	standard
+54	One Health: Animal Science	Science	standard
+70	Learning Center English Language Arts	Special Education	special_program
+71	Learning Center Mathematics	Special Education	special_program
+82	Vermont Dual Enrollment Program	Off-Campus Options	dual_enrollment
+83	Early College Program	Off-Campus Options	early_college
+84	Work Study	Off-Campus Options	other

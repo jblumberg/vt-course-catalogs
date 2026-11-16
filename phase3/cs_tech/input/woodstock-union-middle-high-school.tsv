@@ -1,0 +1,94 @@
+0	Algebra I	Math	standard
+1	Geometry	Math	standard
+2	Algebra II	Math	standard
+3	College Algebra	Math	standard
+4	AP Precalculus	Math	AP
+5	AP Calculus AB	Math	AP
+6	AP Calculus BC	Math	AP
+7	College/AP Statistics	Math	AP
+8	CAD (Computer-Aided Design)	Math	standard
+9	Data Science I	Math	standard
+10	Data Science II	Math	standard
+11	Personal Finance	Math	standard
+12	Computer Programming: Game Design	Computer Science	standard
+13	Computer Programming: Robotics	Computer Science	standard
+14	AP Computer Science A	Computer Science	AP
+15	AP Computer Science Principles	Computer Science	AP
+16	Artificial Intelligence I	Computer Science	standard
+17	Artificial Intelligence II	Computer Science	standard
+18	Integrated Environmental Science (IES)	Science	standard
+19	Chemistry	Science	standard
+20	Physics	Science	standard
+21	Biology	Science	standard
+22	AP Biology	Science	AP
+23	AP Chemistry	Science	AP
+24	AP Physics 1	Science	AP
+25	AP Physics 2	Science	AP
+26	AP Environmental Science	Science	AP
+27	Skill-Building for Innovation	Science	standard
+28	Astronomy	Science	standard
+29	Innovation Studio	Science	standard
+30	Introduction to Marine Biology	Science	standard
+36	AP Art History	Social Studies	AP
+50	Literacy Study	English	standard
+51	Advanced Literacy Study	English	standard
+52	Supported Study	English	standard
+69	Digital Art and Design	Visual Arts	standard
+70	Digital Photography	Visual Arts	standard
+71	Drawing	Visual Arts	standard
+72	Eco Art	Visual Arts	standard
+73	Painting	Visual Arts	standard
+74	Pottery	Visual Arts	standard
+75	Advanced Digital Photography and Design	Visual Arts	standard
+76	Pottery II	Visual Arts	standard
+77	Painting and Drawing II	Visual Arts	standard
+78	Advanced Art	Visual Arts	standard
+79	AP Art	Visual Arts	AP
+80	Chorale: Woodstock Voices	Performing Arts	standard
+81	Symphonic Band	Performing Arts	standard
+82	Jazz/Funk Band	Performing Arts	standard
+86	Driver Education	Driver Education	standard
+87	CRAFT Immersive Semester	CRAFT	standard
+88	Stewardship Action Projects	CRAFT	standard
+89	C3 Internship	Flexible Pathways	special_program
+90	C3 Independent Study	Flexible Pathways	special_program
+91	C3 Service Learning	Flexible Pathways	special_program
+92	C3 Teaching Assistant	Flexible Pathways	special_program
+93	C3 Work-Based Learning	Flexible Pathways	special_program
+94	Future You	Flexible Pathways	standard
+96	Directed Study	Center for Learning Opportunities	special_program
+97	Life Skills I	Center for Learning Opportunities	special_program
+98	Life Skills II	Center for Learning Opportunities	special_program
+99	Life Skills III	Center for Learning Opportunities	special_program
+100	Life Skills IV	Center for Learning Opportunities	special_program
+101	Life Skills Math	Center for Learning Opportunities	special_program
+102	Life Skills Literacy	Center for Learning Opportunities	special_program
+104	Math Skills	Center for Learning Opportunities	special_program
+105	Senior Seminar: Transition to Adulthood	Center for Learning Opportunities	special_program
+106	Structured Literacy I	Center for Learning Opportunities	special_program
+107	Structured Literacy II	Center for Learning Opportunities	special_program
+108	Structured Literacy III	Center for Learning Opportunities	special_program
+109	Structured Literacy IV	Center for Learning Opportunities	special_program
+110	Structured Literacy V	Center for Learning Opportunities	special_program
+111	Structured Writing	Center for Learning Opportunities	special_program
+112	Regenerative Agriculture	Science	standard
+113	Sustainable Food Systems	Science	standard
+114	Online High School-Level Courses	Flexible Pathways	online
+115	Dual Enrollment	Flexible Pathways	dual_enrollment
+116	Early College	Flexible Pathways	early_college
+117	Community High School Program at Dartmouth	Flexible Pathways	dual_enrollment
+118	Autobody, Motorsport and Customs (formerly Collision Repair and Refinishing)	Flexible Pathways	CTE
+119	Automotive Technology	Flexible Pathways	CTE
+120	Building Trades	Flexible Pathways	CTE
+121	Business Administration	Flexible Pathways	CTE
+122	Career and Technology Exploration	Flexible Pathways	CTE
+123	Cosmetology	Flexible Pathways	CTE
+124	Culinary Arts	Flexible Pathways	CTE
+125	Design, Illustration and Media Arts (DIMA)	Flexible Pathways	CTE
+126	Health Sciences	Flexible Pathways	CTE
+127	Industrial Mechanics and Welding	Flexible Pathways	CTE
+128	Information Technology	Flexible Pathways	CTE
+129	Advanced Information Technology	Flexible Pathways	CTE
+130	Natural Resources	Flexible Pathways	CTE
+131	Science Technology Engineering and Math (STEM): Introduction to Engineering Design	Flexible Pathways	CTE
+132	Science Technology Engineering and Math (STEM): Principles of Engineering	Flexible Pathways	CTE

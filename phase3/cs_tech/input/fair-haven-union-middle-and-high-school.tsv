@@ -1,0 +1,93 @@
+0	Dual Enrollment	Flexible Pathways	dual_enrollment
+1	Early College	Flexible Pathways	early_college
+2	Annex	Annex	special_program
+3	Annex Mindfulness 1-4	Annex	special_program
+4	Annex P.E. 1-4	Annex	special_program
+5	Annex English 1-4	Annex	special_program
+6	Annex Social Studies 1-4	Annex	special_program
+7	Annex Math 1-4	Annex	special_program
+8	Annex Science 1-4	Annex	special_program
+9	Annex Career Explorations 1-4	Annex	special_program
+10	Annex Journalism 1-4	Annex	special_program
+11	Driver Education	Driver Education	standard
+13	Concepts in Reading and Language (Wilson Reading)	English	standard
+19	English as a Second Language	English	standard
+30	Adulting 101	Family & Consumer Science	standard
+31	Child Development	Family & Consumer Science	standard
+32	Foods	Family & Consumer Science	standard
+33	Ethnic and Advanced Foods	Family & Consumer Science	standard
+34	Advanced Baking & Pastry Arts	Family & Consumer Science	standard
+35	Fashion Design	Family & Consumer Science	standard
+36	Ceramics/Sculpture I	Fine Arts	standard
+37	Ceramics/Sculpture II	Fine Arts	standard
+38	Drawing I	Fine Arts	standard
+39	Painting I	Fine Arts	standard
+40	Drawing/Painting II	Fine Arts	standard
+41	Studio Art	Fine Arts	standard
+42	3D Design	Fine Arts	standard
+43	Graphic Design	Fine Arts	standard
+44	Advanced Graphic Design Studio	Fine Arts	honors
+45	Social Media Content Creation & Marketing	Fine Arts	honors
+46	Concert Choir	Fine Arts	standard
+47	Honors Concert Choir	Fine Arts	honors
+48	Concert Band	Fine Arts	standard
+49	Honors Concert Band	Fine Arts	honors
+50	Modern Music	Fine Arts	standard
+51	Piano I-IV	Fine Arts	standard
+52	Guitar I-IV	Fine Arts	standard
+53	Music in Film	Fine Arts	standard
+60	Life Skills Program	Life Skills	special_program
+61	Outdoor Pursuits	Mathematics	special_program
+62	Math Concepts	Mathematics	standard
+63	Integrated Math 1	Mathematics	standard
+64	Integrated Math 2	Mathematics	standard
+65	Algebra I	Mathematics	standard
+66	Honors Algebra I	Mathematics	honors
+67	Applied Geometry	Mathematics	standard
+68	Geometry	Mathematics	standard
+69	Honors Geometry	Mathematics	honors
+70	Algebra II	Mathematics	standard
+71	Honors Algebra II	Mathematics	honors
+72	Business Math	Mathematics	standard
+73	Probability and Statistics	Mathematics	standard
+74	Advanced Placement Pre-Calculus	Mathematics	AP
+75	Honors Pre-Calculus	Mathematics	honors
+76	Advanced Placement Calculus AB	Mathematics	AP
+77	Honors SAT/ACT Prep: Mathematics	Mathematics	honors
+78	Direct Math Instruction	Mathematics	standard
+84	Life Skills Science	Science	standard
+85	Introduction Earth & Physical Science	Science	standard
+86	Earth Science	Science	standard
+87	Honors Earth & Physical Science	Science	honors
+88	Biology	Science	standard
+89	Honors Biology	Science	honors
+90	Horticulture 1	Science	standard
+91	Horticulture 2	Science	standard
+92	Engineering	Science	standard
+93	Advanced Placement Biology	Science	AP
+94	Advanced Placement Physics (Dual Enrollment)	Science	AP
+95	Survey of Physical Science	Science	standard
+96	Honors Chemistry	Science	honors
+97	Honors Anatomy & Physiology	Science	honors
+98	Environmental Science	Science	standard
+99	Honors Geology	Science	honors
+121	Work-Based Learning	Careers and Business	special_program
+122	Career Exploration	Careers and Business	standard
+123	Innovation & Entrepreneurship	Careers and Business	standard
+124	D.U.O.	Careers and Business	special_program
+125	Post Secondary Transition Course	Careers and Business	standard
+126	Learning Lab	Careers and Business	standard
+127	Auto Body Repair	Stafford Technical Education Programs	CTE
+128	Automotive Technology	Stafford Technical Education Programs	CTE
+129	Construction Technology	Stafford Technical Education Programs	CTE
+130	Cosmetology	Stafford Technical Education Programs	CTE
+131	Culinary Arts	Stafford Technical Education Programs	CTE
+132	Digital Arts	Stafford Technical Education Programs	CTE
+133	Electrical and Plumbing	Stafford Technical Education Programs	CTE
+134	Engineering / STEM Academy	Stafford Technical Education Programs	CTE
+135	Health Careers	Stafford Technical Education Programs	CTE
+136	Education and Human Services	Stafford Technical Education Programs	CTE
+137	Natural Resources and Forestry	Stafford Technical Education Programs	CTE
+138	Public Safety and Criminal Justice	Stafford Technical Education Programs	CTE
+139	Video Communications	Stafford Technical Education Programs	CTE
+140	Welding and Metal Fabrication	Stafford Technical Education Programs	CTE

@@ -1,0 +1,78 @@
+8	Literacy Lab	English	special_program
+9	2D Graphic Design I	Fine Arts	standard
+10	2D Graphic Design II	Fine Arts	standard
+11	2D Graphic Design III	Fine Arts	standard
+12	2D Graphic Design IV	Fine Arts	standard
+13	3D Design Ceramics I	Fine Arts	standard
+14	3D Design Ceramics II	Fine Arts	standard
+15	3D Design Ceramics III	Fine Arts	standard
+16	3D Design Ceramics IV	Fine Arts	standard
+17	Advanced Art I	Fine Arts	standard
+18	Advanced Art II	Fine Arts	standard
+19	Advanced Art III	Fine Arts	standard
+20	Studio Art	Fine Arts	standard
+21	Photography I	Fine Arts	standard
+22	Photography II	Fine Arts	standard
+23	Photography III	Fine Arts	standard
+24	Photography IV	Fine Arts	standard
+25	Mixed Media Art	Fine Arts	standard
+38	Financial Literacy	Global Citizenship	standard
+41	Elements of Math	Math	standard
+42	Pre-Algebra	Math	standard
+43	Algebra I	Math	standard
+44	Geometry	Math	standard
+45	Foundations of Algebra II	Math	standard
+46	Algebra II	Math	standard
+47	PreCalculus	Math	standard
+48	Calculus	Math	standard
+49	AP Calculus AB	Math	AP
+50	Statistics	Math	standard
+51	AP Statistics	Math	AP
+52	Probability and Decision Making	Math	standard
+53	Math Lab	Math	special_program
+54	Concert Band	Performing Arts	standard
+55	Chorus	Performing Arts	standard
+56	Guitar	Performing Arts	standard
+57	High School Musical (Alternative Arts)	Performing Arts	special_program
+58	Intro to Music Production	Performing Arts	standard
+59	Music History - A Study of The Human Affinity For Sound	Performing Arts	standard
+63	Athletics (Alternative PE)	Physical/Health Education	special_program
+65	Cultures Through Cuisine	Physical/Health Education	standard
+66	Earth Science	Science	standard
+67	Biology	Science	standard
+68	Chemistry	Science	standard
+69	Physics	Science	standard
+70	AP Biology	Science	AP
+71	AP Environmental Science	Science	AP
+72	AP Physics 1: Algebra Based	Science	AP
+73	Food Science	Science	standard
+74	Human Physiology	Science	standard
+75	The Science of Things	Science	standard
+76	S.T.E.A.M. I	Technology Education	standard
+77	S.T.E.A.M. II	Technology Education	standard
+78	S.T.E.A.M. III	Technology Education	standard
+79	S.T.E.A.M. IV	Technology Education	standard
+80	Introduction to Coding Part 1	Technology Education	standard
+81	Introduction to Coding Part 2	Technology Education	standard
+82	Introduction to Robotics	Technology Education	standard
+93	Independent Study	Student Learning Opportunities & Flexible Pathways	special_program
+94	SHINE: Stowe High Internship Experience	Student Learning Opportunities & Flexible Pathways	special_program
+95	Flexible Pathways	Student Learning Opportunities & Flexible Pathways	special_program
+96	Exploratory Pre-Technology	Student Learning Opportunities & Flexible Pathways	CTE
+97	Allied Health	Green Mountain Technology and Career Center	CTE
+98	Automotive Technology	Green Mountain Technology and Career Center	CTE
+99	Business Administration	Green Mountain Technology and Career Center	CTE
+100	Computer Networking Technology	Green Mountain Technology and Career Center	CTE
+101	Construction Technology	Green Mountain Technology and Career Center	CTE
+102	Creative Media Art & Design	Green Mountain Technology and Career Center	CTE
+103	Culinary Arts	Green Mountain Technology and Career Center	CTE
+104	Electrical Technology	Green Mountain Technology and Career Center	CTE
+105	Engineering	Green Mountain Technology and Career Center	CTE
+106	Forestry/Land Management	Green Mountain Technology and Career Center	CTE
+107	Heating-Ventilation and Air Conditioning	Green Mountain Technology and Career Center	CTE
+108	Sustainable Agriculture & Food Systems	Green Mountain Technology and Career Center	CTE
+109	VT Dual Enrollment Program	Post-Secondary Program Options	dual_enrollment
+110	Fast Forward Program	Post-Secondary Program Options	dual_enrollment
+111	VT Early College Program	Post-Secondary Program Options	early_college
+112	Introduction to College and Careers (ICC)	Post-Secondary Program Options	dual_enrollment
+113	VT Academy of Science and Technology Program	Post-Secondary Program Options	early_college

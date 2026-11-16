@@ -1,0 +1,482 @@
+school_id,course_index,course_name,department,label,pass,note
+arlington-memorial,4,Music Production and Digital Media,Arts,TECH,1,Music production and digital audio media
+arlington-memorial,8,2D Marketing and Design,Arts,TECH,1,"2D graphic design and marketing, digital media"
+arlington-memorial,50,Introduction to Engineering Design (IED),Science,TECH,1,"Introduction to Engineering Design, engineering and design"
+arlington-memorial,82,Vermont Dual Enrollment Program,Off-Campus Options,MORE_INFO,2,program description names no subject
+arlington-memorial,83,Early College Program,Off-Campus Options,MORE_INFO,2,program description names no subject
+bellows-falls-union-high-school,104,Audio Video Production,Career and Technical Education,TECH,1,Digital audio and video production (digital media)
+bellows-falls-union-high-school,109,Information Technology,Career and Technical Education,TECH,1,IT and computer applications; not programming-centered
+bellows-falls-union-high-school,111,Advanced Manufacturing and Engineering Program,Career and Technical Education,TECH,1,Advanced manufacturing and engineering program
+bellows-falls-union-high-school,112,RVTC pre-technical program,Career and Technical Education,MORE_INFO,2,no description
+bellows-falls-union-high-school,116,Filmaking & Digital Editing,Career and Technical Education,TECH,1,Filmmaking and digital editing (video production)
+bellows-free-academy-middle-high-school-fairfax,1,Introduction to Graphic Design,Artistic Expression,TECH,1,"Graphic design is digital media, not programming"
+bellows-free-academy-middle-high-school-fairfax,4,Digital Photography,Artistic Expression,TECH,1,"Digital photography is digital media, not programming"
+bellows-free-academy-middle-high-school-fairfax,10,Cybersecurity Part 1,Artistic Expression,CS,1,"Cybersecurity course, computing security content"
+bellows-free-academy-middle-high-school-fairfax,11,"An Introduction to HTML, CSS and Javascript Coding",Artistic Expression,CS,1,"Teaches HTML, CSS and JavaScript coding"
+bellows-free-academy-middle-high-school-fairfax,12,Using Unity to Create Interactive Games,Artistic Expression,CS,1,Game development by writing code in Unity
+bellows-free-academy-middle-high-school-fairfax,27,Digital Media & Performances: The Student Show,English Language Arts,TECH,2,Student video/audio production and digital media show
+bellows-free-academy-middle-high-school-fairfax,89,Introduction to Programming,Math,CS,1,Introduction to programming course
+bellows-free-academy-st-albans,49,PBL Principles of Engineering I,Science,TECH,1,"Engineering principles and design coursework, not programming"
+bellows-free-academy-st-albans,50,PBL Principles of Engineering II,Science,TECH,1,"Engineering principles and design coursework, not programming"
+bellows-free-academy-st-albans,51,PBL Principles of Engineering III,Science,TECH,1,"Engineering principles and design coursework, not programming"
+bellows-free-academy-st-albans,74,Advanced Architectural CAD Interior & Landscape Design,Design Technology,TECH,1,Architectural CAD design course
+bellows-free-academy-st-albans,76,Architectural CAD Interior & Landscape Design,Design Technology,TECH,1,Architectural CAD design course
+bellows-free-academy-st-albans,77,Graphic Arts: Digital Design and Product Creation,Design Technology,TECH,1,Digital graphic design and product creation
+bellows-free-academy-st-albans,78,Electricity & Electronics,Design Technology,TECH,1,Electricity and electronics technology
+bellows-free-academy-st-albans,79,Introduction to Computer-Aided Design (CAD),Design Technology,TECH,1,Introductory computer-aided design (CAD)
+bellows-free-academy-st-albans,108,Music Technology,Fine Arts,TECH,1,"Music production technology, digital audio"
+blue-mountain-union-school,12,Digital Literacy,Fine Arts,TECH,1,Digital literacy and computer applications
+blue-mountain-union-school,13,Graphic Design,Fine Arts,TECH,1,Graphic design is digital media production
+blue-mountain-union-school,14,Digital Video/Audio Visual Production,Fine Arts,TECH,1,Digital video and audio visual production
+blue-mountain-union-school,15,Robotics Through STEM,Fine Arts,CS,2,Robotics where students build and program robots
+blue-mountain-union-school,61,Cybersecurity,Career & Technical Education,CS,1,"Cybersecurity is computing security, a CS field"
+blue-mountain-union-school,69,21st Century Media & Design,Career & Technical Education,TECH,1,21st century media and design is digital media
+brattleboro-union-high-school,35,Television Production,English,TECH,1,Television production: digital video production
+brattleboro-union-high-school,36,Television Production 2,English,TECH,1,Television production: digital video production
+brattleboro-union-high-school,59,Intro to Coding and Computer Science,Mathematics,CS,1,Introductory coding and computer science course
+brattleboro-union-high-school,73,Independent Study,Science,MORE_INFO,2,no description
+brattleboro-union-high-school,121,Computer Graphic Design,"Fine, Digital and Practical Arts",TECH,1,Computer graphic design: digital media
+brattleboro-union-high-school,122,Computer Graphic Design II,"Fine, Digital and Practical Arts",TECH,1,Computer graphic design: digital media
+brattleboro-union-high-school,123,Photography I,"Fine, Digital and Practical Arts",TECH,2,Digital photography with Lightroom and Photoshop editing
+brattleboro-union-high-school,124,Photography II,"Fine, Digital and Practical Arts",TECH,2,Digital photography sequence with studio lighting and editing
+brattleboro-union-high-school,125,Photography III,"Fine, Digital and Practical Arts",TECH,2,Continuation of digital photography sequence
+brattleboro-union-high-school,129,Music Production & Sound Recording,Music,TECH,1,Music production and sound recording: audio production
+brattleboro-union-high-school,161,College Courses (outside courses),Flexible Pathways & Educational Options,MORE_INFO,2,no description
+brattleboro-union-high-school,163,STEM Academy,Academies,TECH,2,STEM academy focused on engineering studies
+burlington-high-school,0,AP Computer Science A,Computer Science,CS,1,AP Computer Science A programming course
+burlington-high-school,1,Computer Science I: Creative Computing,Computer Science,CS,1,Computer Science I: creative computing programming
+burlington-high-school,2,Computer Science III: Physical Computing,Computer Science,CS,1,Computer Science III: physical computing programming
+burlington-high-school,3,Web Design,Computer Science,CS,2,"Web Design teaches HTML, CSS and JavaScript coding"
+burlington-high-school,4,Advanced Principles of Engineering II,Design Technology Education,TECH,1,"Engineering design and technology, not programming"
+burlington-high-school,5,Design Technology Independent Study,Design Technology Education,TECH,2,Self-directed design technology/STEAM study
+burlington-high-school,6,Digital Photography/Imaging,Design Technology Education,TECH,1,"Digital photography and imaging, digital media"
+burlington-high-school,7,Fundamentals of Graphic Design,Design Technology Education,TECH,1,"Graphic design, digital media production"
+burlington-high-school,8,Principles of Engineering II,Design Technology Education,TECH,1,"Engineering design and technology, not programming"
+burlington-high-school,78,Digital Music,Fine Arts: Music & Theater,TECH,1,"Digital music production, digital media"
+burlington-high-school,204,Principles of Engineering I,Design Technology Education,TECH,1,"Engineering design and technology, not programming"
+burlington-high-school,205,Computer Science 2,Computer Science,CS,1,Computer Science 2 programming course
+cabot-school,6,A Bridge Too Far,Physics/Engineering,TECH,2,"Engineering principles of bridges, towers, columns; design challenges"
+cabot-school,15,Design Studio,Arts,MORE_INFO,2,no description
+canaan-schools,10,EC Business Computer Applications,Business,TECH,1,"Computer applications and productivity software, not programming"
+canaan-schools,11,Computer Applications,Business,TECH,1,Computer applications course; digital productivity skills
+canaan-schools,15,Intro to Technology & Digital Media,Business,TECH,1,Technology and digital media course
+canaan-schools,17,Publication Design,Business,TECH,1,Publication design; digital graphic design work
+canaan-schools,57,Construction and Design,Career & Technical Education (CTE) Offerings,TECH,2,Computer-aided drafting and design for building projects
+champlain-valley-union-high-school,48,Digital Photography,Essential Arts,TECH,1,Digital photography as digital media production
+champlain-valley-union-high-school,49,Graphic Design: Intro to Communication Design,Essential Arts,TECH,1,Graphic design and digital communication design
+champlain-valley-union-high-school,61,Design & Engineering Technology 1 (CAD),Essential Arts,TECH,1,CAD-based design and engineering technology
+champlain-valley-union-high-school,62,Design & Engineering Technology 2 (CAM),Essential Arts,TECH,1,CAM-based design and fabrication technology
+champlain-valley-union-high-school,63,Design Engineering & Technology 3,Essential Arts,TECH,1,Design and engineering technology sequence course
+champlain-valley-union-high-school,64,Architectural Engineering,Essential Arts,TECH,1,Architectural engineering design coursework
+champlain-valley-union-high-school,65,Robotics,Essential Arts,CS,2,Programming autonomous robots in C++
+champlain-valley-union-high-school,69,Nexus: Robotics Engineering,Essential Arts,TECH,1,"Robotics engineering, design-focused by name"
+champlain-valley-union-high-school,73,Studio Production - Video Basics,Essential Arts,TECH,1,Video production studio basics
+champlain-valley-union-high-school,74,Studio Production,Essential Arts,TECH,1,Studio video production
+champlain-valley-union-high-school,76,Film and Video Production,Essential Arts,TECH,1,Film and video production
+champlain-valley-union-high-school,86,Computer Programming 1,Mathematics,CS,1,Introductory computer programming
+champlain-valley-union-high-school,87,Computer Programming 2,Mathematics,CS,1,Second-level computer programming
+champlain-valley-union-high-school,88,Computer Science Principles 1,Mathematics,CS,1,Computer Science Principles introduction
+champlain-valley-union-high-school,89,Computer Science Principles 2,Mathematics,CS,1,Computer Science Principles continuation
+champlain-valley-union-high-school,90,Data Science,Mathematics,CS,1,Data science with computing component
+colchester-high-school,18,Music Technology,Fine Arts,TECH,1,Music technology; likely audio and digital music production
+colchester-high-school,74,Breaking into Coding,Science,CS,1,Breaking into Coding; introductory programming course
+colchester-high-school,75,Engineering Lab,Science,TECH,1,Engineering lab; engineering and design work
+danville-school,34,Intro to Design and Fabrication,"Pathways, Career & Pre-Technical Education",TECH,1,"Design and fabrication; engineering design, not programming"
+danville-school,44,Renewable Energy Systems,Science,TECH,1,"Applied energy systems engineering technology, not programming"
+danville-school,53,Graphic Design,Visual Arts,TECH,1,Graphic design; digital media production
+danville-school,54,Photography,Visual Arts,TECH,2,Digital photography with photo editing software; digital media
+essex-high-school,23,Computers and Careers,Business Education,TECH,1,Computer applications and careers; digital literacy.
+essex-high-school,59,Media Communications,Fine Arts,TECH,2,"Digital media: Photoshop, Audition, Premiere Pro projects."
+essex-high-school,60,Movie Production,Fine Arts,TECH,1,Video production; digital media.
+essex-high-school,69,Photography,Fine Arts,TECH,2,Digital photography and digital editing in Lightroom and Photoshop.
+essex-high-school,71,Computer Animation I or II,Fine Arts,TECH,1,Digital animation production; digital media.
+essex-high-school,72,Digital and Graphic Design,Fine Arts,TECH,1,Digital graphic design; digital media.
+essex-high-school,99,Introduction to Programming,Mathematics,CS,1,Introductory programming course.
+essex-high-school,100,AP Computer Science A 300,Mathematics,CS,1,AP Computer Science A programming course.
+essex-high-school,110,Building Design,Practical Arts,TECH,2,"Drafting, CAD software and scale model construction."
+essex-high-school,111,Electronics,Practical Arts,TECH,1,Electronics circuits and components; applied technology.
+essex-high-school,129,Designing Solutions,Science,TECH,2,CAD design and 3D printing; engineering problem-solving.
+essex-high-school,136,Robotics,Science,CS,2,Coding Lego robots as central focus; programming challenges.
+fair-haven-union-middle-and-high-school,42,3D Design,Fine Arts,TECH,2,"3D modeling and spatial design software, not programming"
+fair-haven-union-middle-and-high-school,43,Graphic Design,Fine Arts,TECH,1,Graphic design is digital media production
+fair-haven-union-middle-and-high-school,44,Advanced Graphic Design Studio,Fine Arts,TECH,1,Advanced graphic design is digital media production
+fair-haven-union-middle-and-high-school,45,Social Media Content Creation & Marketing,Fine Arts,TECH,2,Video and multimedia content creation for marketing
+fair-haven-union-middle-and-high-school,92,Engineering,Science,TECH,1,"Engineering course, design-focused rather than programming"
+fair-haven-union-middle-and-high-school,132,Digital Arts,Stafford Technical Education Programs,TECH,1,"Digital arts, digital media production"
+fair-haven-union-middle-and-high-school,134,Engineering / STEM Academy,Stafford Technical Education Programs,TECH,1,"Engineering/STEM academy, design and engineering focus"
+fair-haven-union-middle-and-high-school,139,Video Communications,Stafford Technical Education Programs,TECH,1,"Video communications, digital media production"
+green-mountain-union-high-school,42,Introduction to Engineering,Science,TECH,1,"Engineering and design fundamentals, not programming"
+green-mountain-union-high-school,44,Graphic Design,Visual and Performing Arts,TECH,1,Digital graphic design and media production
+green-mountain-union-high-school,45,Digital Photography,Visual and Performing Arts,TECH,1,Digital photography as digital media production
+green-mountain-union-high-school,62,Online Course Offerings (VTVLC and BYU),Program Offerings,MORE_INFO,2,program listing; no course content given
+green-mountain-union-high-school,63,Dual Enrollment and Early College Opportunities,Program Offerings,MORE_INFO,2,program listing; no course content given
+green-mountain-union-high-school,64,Dartmouth College's Special Community Student Program,Program Offerings,MORE_INFO,2,program listing; no course content given
+green-mountain-union-high-school,67,Pre Technical Studies,River Valley Technical Center Program Offerings,MORE_INFO,2,no description
+green-mountain-union-high-school,84,Audio/Video Production I,River Valley Technical Center Program Offerings,TECH,1,Audio/video digital media production
+green-mountain-union-high-school,85,Audio/Video Production II,River Valley Technical Center Program Offerings,TECH,1,Advanced audio/video digital media production
+green-mountain-union-high-school,86,Mechanical Design and Innovation I & II,River Valley Technical Center Program Offerings,TECH,1,CAD and mechanical design and innovation
+green-mountain-union-high-school,87,Information Technology I,River Valley Technical Center Program Offerings,TECH,1,IT and computer systems fundamentals
+green-mountain-union-high-school,88,Information Technology II,River Valley Technical Center Program Offerings,TECH,1,"Advanced IT, networking and systems"
+hartford-high-school,3,Digital Music Production,Art (Performing & Visual Arts),TECH,1,"Digital audio production, a digital media course"
+hartford-high-school,57,Computer Programming,Mathematics,CS,1,Computer programming course
+hartford-high-school,58,Design and Fabrication,Mathematics,TECH,1,"Design and fabrication, engineering-oriented"
+hartford-high-school,60,Introduction to Engineering,Mathematics,TECH,1,Introduction to engineering course
+hartford-high-school,101,3D Modeling & Printing Technologies,Technology,TECH,1,3D modeling and printing course
+hartford-high-school,102,3D Modeling & Printing Technologies (Advanced),Technology,TECH,1,Advanced 3D modeling and printing course
+hartford-high-school,103,Digital Research and Design,Technology,TECH,2,"Engineering design projects, plus some digital media work"
+hartford-high-school,142,"Design, Illustration, and Media Arts",Hartford Area Career & Technology Center,TECH,2,"Digital illustration and graphic design, Adobe software"
+hartford-high-school,145,Information Technology (One-year course in the P.M.),Hartford Area Career & Technology Center,TECH,1,"Information technology, networking and computer systems"
+hartford-high-school,146,Software Engineering (One-year course in the A.M.),Hartford Area Career & Technology Center,CS,1,"Software engineering, coding-focused course"
+hartford-high-school,148,Introduction to Engineering Design (STEM) (One-year course in the P.M.),Hartford Area Career & Technology Center,TECH,1,"Introductory engineering design, STEM"
+hartford-high-school,149,Principles of Engineering/Physics (STEM) (One-year course in the A.M.),Hartford Area Career & Technology Center,TECH,1,"Principles of engineering and physics, STEM"
+harwood-union-middle-high-school,41,Highland Mediaworks,Performing Arts,TECH,2,Builds a media production company: video and audio production
+harwood-union-middle-high-school,45,Electronic Music Production,Performing Arts,TECH,1,Electronic music production is digital audio production
+harwood-union-middle-high-school,57,AP Computer Science Principles,STEM,CS,1,AP Computer Science Principles
+harwood-union-middle-high-school,58,Principles of Engineering,STEM,TECH,1,Principles of Engineering: engineering and design
+harwood-union-middle-high-school,59,Game Design,STEM,CS,2,Video game development in a game engine
+harwood-union-middle-high-school,60,Introduction to Computer Programming,STEM,CS,1,Introduction to computer programming
+harwood-union-middle-high-school,61,Sustainable Engineering,STEM,TECH,1,Sustainable engineering and design
+harwood-union-middle-high-school,64,Graphic Design,Visual Arts,TECH,1,Graphic design is digital media production
+harwood-union-middle-high-school,66,Advanced Digital Art,Visual Arts,TECH,1,Digital art is digital media production
+harwood-union-middle-high-school,72,Digital Photography 1,Visual Arts,TECH,1,Digital photography is digital media
+harwood-union-middle-high-school,73,Digital Photography 2,Visual Arts,TECH,1,Digital photography is digital media
+harwood-union-middle-high-school,112,Exploratory Technology,Central Vermont Career Center,TECH,1,Exploratory technology: tech education
+harwood-union-middle-high-school,118,Digital Media Arts: Graphic Arts,Central Vermont Career Center,TECH,1,Digital media arts: graphic arts
+harwood-union-middle-high-school,126,Digital Media Arts: Videography,Central Vermont Career Center,TECH,1,Digital media arts: videography
+hazen-union-high-school,30,Engineering Science,Science,TECH,1,"Engineering science and design, not primarily programming"
+hazen-union-high-school,38,Digital Art (VTVLC),Art,TECH,1,Digital art is digital media production
+hazen-union-high-school,58,Makerspace,Expanded Pathways,TECH,1,Makerspace: STEM and maker courses
+hazen-union-high-school,61,Exploratory Pre-Technology,Green Mountain Technology & Career Center,TECH,1,Pre-technology tech ed course
+hazen-union-high-school,65,Computer Networking Technology,Green Mountain Technology & Career Center,TECH,1,Computer networking and IT
+hazen-union-high-school,67,Creative Media Art & Design,Green Mountain Technology & Career Center,TECH,1,Digital media art and design
+hazen-union-high-school,69,Electrical Technology,Green Mountain Technology & Career Center,TECH,1,Electrical and electronics technology
+hazen-union-high-school,70,Engineering,Green Mountain Technology & Career Center,TECH,1,Engineering and design technology
+lake-region-union-high-school,0,Technology Applications,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,1,Technology Skills & Leadership in the 21st Century,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,2,Microsoft Word,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,3,Microsoft Excel,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,4,Microsoft Access,Business/Computer,CS,1,Microsoft Access is database software
+lake-region-union-high-school,5,Microsoft PowerPoint,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,6,Computer Applications,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,7,Advanced Office Systems/Independent Study,Business/Computer,TECH,1,"Office and computer applications, digital literacy"
+lake-region-union-high-school,10,Programming for the Web in HTML,Business/Computer,CS,1,Web programming course writing HTML/CSS/JS/PHP code
+lake-region-union-high-school,11,Programming for the Web in CSS,Business/Computer,CS,1,Web programming course writing HTML/CSS/JS/PHP code
+lake-region-union-high-school,12,Programming for the Web in JavaScript,Business/Computer,CS,1,Web programming course writing HTML/CSS/JS/PHP code
+lake-region-union-high-school,13,Programming for the Web in PHP,Business/Computer,CS,1,Web programming course writing HTML/CSS/JS/PHP code
+lake-region-union-high-school,14,C++ Programming for Robotics,Business/Computer,CS,1,C++ programming course for robotics
+lake-region-union-high-school,15,3-D Modeling and Animation with Blender,Business/Computer,TECH,1,"3-D modeling and animation software, digital media"
+lake-region-union-high-school,58,Digital Photography,Fine Arts,TECH,1,"Digital photography, digital media"
+lake-region-union-high-school,117,2-D Computer Aided Design (CAD),Technical/Vocational,TECH,1,Computer-aided design (CAD) drafting
+lake-region-union-high-school,118,3-D Computer Aided Design (CAD),Technical/Vocational,TECH,1,Computer-aided design (CAD) drafting
+lake-region-union-high-school,133,Television/Media Production I,Other,TECH,1,Television and media video production
+lake-region-union-high-school,134,Television/Media Production II,Other,TECH,1,Television and media video production
+lake-region-union-high-school,135,Independent Learning Opportunity,Expanded Learning Opportunities,MORE_INFO,2,Description is about personalized learning agreements; no subject given
+lake-region-union-high-school,136,Dual Enrollment College and VTVLC Online Learning Opportunities,Expanded Learning Opportunities,MORE_INFO,2,Description covers registration only; no subject given
+lake-region-union-high-school,140,Computer Programming & Game Design,North Country Career Center,CS,1,Computer programming and game design course
+lake-region-union-high-school,143,Engineering & Digital Fabrication (formerly STEM),North Country Career Center,TECH,1,Engineering and digital fabrication
+lamoille-union-high-school,12,Television and Video Production,English,TECH,1,"Video production; digital media, not programming"
+lamoille-union-high-school,14,Digital Media Art,Fine Arts,TECH,1,Digital media art; digital media design
+lamoille-union-high-school,33,Sound Mixing 101,Fine Arts,TECH,1,Audio mixing; digital audio production
+lamoille-union-high-school,79,Robotics,Science,CS,2,Robotics with programming component; engineering and coding
+lamoille-union-high-school,80,Robotics Competition,Science,CS,2,Robotics competition with programming component; engineering and coding
+lamoille-union-high-school,118,Computer Networking Technology,Green Mountain Technology and Career Center,TECH,1,"Computer networking; IT, not programming"
+lamoille-union-high-school,120,Creative Media & Design,Green Mountain Technology and Career Center,TECH,1,Creative media and design; digital media
+lamoille-union-high-school,122,Design Engineering for Production,Green Mountain Technology and Career Center,TECH,1,Engineering design for production
+lamoille-union-high-school,126,Pre-Technology Education,Green Mountain Technology and Career Center,TECH,1,Pre-technology education; tech ed
+leland-gray-union-middle-high-school,48,Video and Animation,"Visual Arts, Music, Technology, & Woodworking",TECH,1,Video and animation production is digital media
+leland-gray-union-middle-high-school,49,3D Animation,"Visual Arts, Music, Technology, & Woodworking",TECH,1,3D animation is digital media production
+leland-gray-union-middle-high-school,50,Design Technology,"Visual Arts, Music, Technology, & Woodworking",TECH,2,Design thinking and project-based design/engineering work
+leland-gray-union-middle-high-school,82,Dual Enrollment - College Credit for L&G Courses,Flexible Pathways,MORE_INFO,2,no description of subject
+leland-gray-union-middle-high-school,83,Online Courses,Flexible Pathways,MORE_INFO,2,online VTVLC access; no subject named
+middlebury-union-high-school,56,Technical Design and Build  1 Credit Science or Design,Sciences,TECH,1,Technical design and build; engineering and design
+middlebury-union-high-school,74,Beat Making and Music Production MYP,The Arts,TECH,1,Beat making and music production; digital audio production
+middlebury-union-high-school,92,Photography,The Arts,TECH,2,Digital imaging techniques; fine-art framed photography
+middlebury-union-high-school,99,Artisan Studio 1 (MYP 4),Design,TECH,2,Includes 3D printing and laser fabrication; mostly craft
+middlebury-union-high-school,100,Artisan Studio 2 (MYP5),Design,TECH,2,Includes laser fabrication and 3D design; advanced craft
+middlebury-union-high-school,101,Intro to Computer Technology Design,Design,TECH,1,Intro to computer technology design; digital/IT technology
+middlebury-union-high-school,143,Virtual Learning Courses through VHS or VTVLC,Flexible Pathways,MORE_INFO,2,no description of a subject
+middlebury-union-high-school,144,Dual Enrollment,Flexible Pathways,MORE_INFO,2,no description of a subject
+middlebury-union-high-school,145,Early College Program,Flexible Pathways,MORE_INFO,2,no description of a subject
+middlebury-union-high-school,146,Middlebury College Course,Flexible Pathways,MORE_INFO,2,no description of a subject
+middlebury-union-high-school,148,Independent Study,Flexible Pathways,MORE_INFO,2,no description of a subject
+middlebury-union-high-school,150,External Opportunities,Flexible Pathways,MORE_INFO,2,no description of a subject
+middlebury-union-high-school,153,Intro to STEM,Hannaford Career Center Courses,TECH,1,Intro to STEM; STEM/maker course
+middlebury-union-high-school,154,Mechanical Science,Hannaford Career Center Courses,TECH,1,Mechanical science; engineering/mechanics technology
+middlebury-union-high-school,155,Visual Communications,Hannaford Career Center Courses,TECH,1,Visual communications; digital graphic media
+middlebury-union-high-school,157,Advanced Manufacturing & Engineering,Hannaford Career Center Courses,TECH,1,Advanced manufacturing and engineering; engineering technology
+middlebury-union-high-school,161,Design & Illustration,Hannaford Career Center Courses,TECH,2,"Digital graphic design, illustration and game art software"
+mill-river-union-high-school,36,3D Puzzles & Printing,Mathematics,TECH,1,3D printing and fabrication course
+mill-river-union-high-school,73,Digital Composition,Fine Arts,MORE_INFO,2,no description
+mill-river-union-high-school,84,2D Design: Illustrator & Block Printing,Fine Arts,TECH,1,"Illustrator digital graphic design, not programming"
+mill-river-union-high-school,85,2D Design: Photoshop & Screen Printing,Fine Arts,TECH,1,"Photoshop digital graphic design, not programming"
+mill-river-union-high-school,86,Sports Design: Logos & Emblems,Fine Arts,MORE_INFO,2,no description
+mill-river-union-high-school,87,Sports Design: Promo & Merch,Fine Arts,MORE_INFO,2,no description
+mill-river-union-high-school,92,Photography: Landscape & Camera,Fine Arts,MORE_INFO,2,no description
+mill-river-union-high-school,93,Photography: Light Hunting,Fine Arts,MORE_INFO,2,no description
+mill-river-union-high-school,100,Building for Community (Honors),Fine Arts,MORE_INFO,2,no description
+mill-river-union-high-school,114,Dual Enrollment,Personalized Pathways,MORE_INFO,2,description gives no subject
+mill-river-union-high-school,115,Early College,Personalized Pathways,MORE_INFO,2,description gives no subject
+milton-senior-high-school,43,Statistics & Data Science,Mathematics,CS,1,Statistics and data science: includes data science component
+milton-senior-high-school,55,Engineering,Science,TECH,1,"Engineering course; design-focused, not programming by name"
+milton-senior-high-school,89,Computer Literacy,Computer Science / Technology,TECH,1,Computer literacy: digital literacy and computer applications
+milton-senior-high-school,90,AP Computer Science A,Computer Science / Technology,CS,1,AP Computer Science A: programming
+milton-senior-high-school,91,Computer Animation,Computer Science / Technology,TECH,1,Computer animation: digital media production
+milton-senior-high-school,92,Electronics & Robotics,Computer Science / Technology,TECH,1,Electronics and robotics: not programming-centered by name
+milton-senior-high-school,93,Video Game Design,Computer Science / Technology,CS,1,"Video game design: game development, writes code"
+milton-senior-high-school,94,Introduction to Programming,Computer Science / Technology,CS,1,Introduction to Programming: coding course
+milton-senior-high-school,95,Student Internship,Computer Science / Technology,TECH,2,Student internship assisting with computer literacy and IT support
+milton-senior-high-school,96,Web & Graphic Design,Computer Science / Technology,TECH,1,Web and graphic design: digital media design
+milton-senior-high-school,97,Documentary Filmmaking,Creative Media,TECH,1,Documentary filmmaking: digital video production
+milton-senior-high-school,98,Filmmaking 1,Creative Media,TECH,1,Filmmaking 1: digital video production
+milton-senior-high-school,99,Filmmaking 2,Creative Media,TECH,1,Filmmaking 2: digital video production
+milton-senior-high-school,100,Gold Records and Glory: Audio Engineering Technique,Creative Media,TECH,1,Audio engineering: digital audio production
+milton-senior-high-school,101,Yellow Jacket Television,Creative Media,TECH,1,Television production: digital media
+milton-senior-high-school,133,3D Design & Innovation Studio,Milton Innovation Center,TECH,1,3D design and innovation: design and fabrication
+milton-senior-high-school,134,Wearable Design & Innovation Studio,Milton Innovation Center,TECH,1,Wearable design and innovation: design and fabrication
+milton-senior-high-school,137,Photography and Visual Storytelling,Milton Innovation Center,TECH,1,Photography and visual storytelling: digital photography and media
+milton-senior-high-school,149,"Advanced Manufacturing, Innovation and Design",BTC Program of Studies,TECH,1,"Advanced manufacturing, innovation and design: engineering and design"
+milton-senior-high-school,153,Design and Illustration,BTC Program of Studies,MORE_INFO,2,no description
+milton-senior-high-school,154,Digital Media Lab,BTC Program of Studies,TECH,1,Digital media lab: digital media production
+milton-senior-high-school,159,"Pre-Tech Innovation, Technology and Design",BTC Program of Studies,TECH,1,"Pre-tech innovation, technology and design"
+milton-senior-high-school,164,Computer Animation & Web Page Design I & II,CTE Program of Studies,CS,1,Computer animation and web page design: web development coding
+milton-senior-high-school,165,Computer Systems Technology I & II,CTE Program of Studies,TECH,1,"Computer systems technology: IT, networking and repair"
+milton-senior-high-school,168,Design & Creative Media I & II,CTE Program of Studies,TECH,1,Design and creative media: digital design
+milton-senior-high-school,169,Engineering/Architectural Design I & II,CTE Program of Studies,TECH,1,Engineering and architectural design: CAD and design
+milton-senior-high-school,170,Health Informatics,CTE Program of Studies,MORE_INFO,2,no description
+milton-senior-high-school,177,"Pre-Tech Explorations: IDEA – Information Technology, Design, Engineering, and Arts",CTE Program of Studies,TECH,1,"Pre-tech IDEA: information technology, design, engineering"
+milton-senior-high-school,180,Pre-Tech Foundations: Intro to Engineering,CTE Program of Studies,TECH,1,Pre-tech foundations: introduction to engineering design
+missisquoi-valley-union-high-school,78,GRAPHIC DESIGN I,Fine Arts,TECH,1,"Graphic design course, digital media, not programming"
+missisquoi-valley-union-high-school,79,GRAPHIC DESIGN II,Fine Arts,TECH,1,"Graphic design course, digital media, not programming"
+montpelier-high-school,18,Introduction to Computer Programming,Mathematics,CS,1,Introduction to computer programming course
+montpelier-high-school,19,Advanced Placement Computer Science (AP),Mathematics,CS,1,"AP Computer Science, programming-focused"
+montpelier-high-school,22,Data Science,Mathematics,CS,1,"Data science course, computing and analytics"
+montpelier-high-school,30,Engineering,Science,TECH,1,"Engineering course, design and technology focus"
+montpelier-high-school,50,Music Technology,Visual & Performing Arts (Fine Arts),TECH,1,"Music technology, digital audio production"
+montpelier-high-school,54,Intro to Digital Media,Visual & Performing Arts (Fine Arts),TECH,1,Introductory digital media production
+montpelier-high-school,55,Graphic Design,Visual & Performing Arts (Fine Arts),TECH,1,"Graphic design, digital media"
+montpelier-high-school,113,"Digital Media Arts, Graphic Design",Central Vermont Career Center,TECH,1,"Digital media arts, graphic design CTE"
+montpelier-high-school,114,"Digital Media Arts, Filmmaking",Central Vermont Career Center,TECH,1,"Digital media arts, filmmaking CTE"
+montpelier-high-school,116,Electrical Technology,Central Vermont Career Center,MORE_INFO,2,no description
+montpelier-high-school,118,Exploratory Technology,Central Vermont Career Center,TECH,1,"Exploratory technology, tech education"
+mt-abraham-union-high-school,67,Digital Photography,Artistic Expression,TECH,1,Digital photography is digital media production
+mt-abraham-union-high-school,100,Intro to CAD Technologies,Design & Technology Education,TECH,1,Intro CAD design technology
+mt-abraham-union-high-school,101,Advanced CAD Technologies,Design & Technology Education,TECH,1,Advanced CAD design technology
+mt-abraham-union-high-school,104,Intro to Programming and Robotics,Design & Technology Education,CS,1,Intro programming and robotics; coding is central
+mt-abraham-union-high-school,120,Computer Systems,Flexible Pathways (Career Centers),TECH,1,Computer systems career-center course; IT-oriented
+mt-anthony-senior-union-high-school,0,Adobe Photoshop,Art,TECH,1,"Adobe Photoshop: digital graphic/photo editing, not programming"
+mt-anthony-senior-union-high-school,96,Computer Programming,Technology,CS,1,Computer Programming course
+mt-anthony-senior-union-high-school,97,3D Printing & Robotics,Technology,TECH,1,"3D printing and robotics, not programming-centered"
+mt-anthony-senior-union-high-school,110,SB Computer Relay,Electives,CS,2,Scratch game programming plus HTML/CSS web building
+mt-mansfield-union-high-school,22,Advanced Placement Computer Science Principles,Mathematics,CS,1,AP Computer Science Principles: programming and computing fundamentals
+mt-mansfield-union-high-school,35,Advanced Manufacturing,Mathematics,TECH,1,Advanced Manufacturing: engineering and fabrication technology
+mt-mansfield-union-high-school,41,Engineering & Design Principles 1,Science,TECH,1,Engineering and Design Principles 1: engineering design course
+mt-mansfield-union-high-school,42,Engineering & Design Principles 2,Science,TECH,1,Engineering and Design Principles 2: engineering design course
+mt-mansfield-union-high-school,85,Graphic Arts & Design 1,Visual Arts,TECH,1,Graphic Arts and Design 1: digital graphic design
+mt-mansfield-union-high-school,86,Graphic Arts & Design 2,Visual Arts,TECH,1,Graphic Arts and Design 2: digital graphic design
+mt-mansfield-union-high-school,111,Aviation and Aerospace Technology I,Burlington Technical Center,TECH,1,Aviation and Aerospace Technology I: aerospace applied technology
+mt-mansfield-union-high-school,112,Aviation and Aerospace Technology II,Burlington Technical Center,TECH,1,Aviation and Aerospace Technology II: aerospace applied technology
+mt-mansfield-union-high-school,115,"Design, Engineering & Fabrication I",Burlington Technical Center,TECH,1,"Design, Engineering and Fabrication I: engineering and fabrication"
+mt-mansfield-union-high-school,116,"Design, Engineering & Fabrication II",Burlington Technical Center,TECH,1,"Design, Engineering and Fabrication II: engineering and fabrication"
+mt-mansfield-union-high-school,117,Digital Media Lab I,Burlington Technical Center,TECH,1,Digital Media Lab I: digital media production
+mt-mansfield-union-high-school,118,Digital Media Lab II,Burlington Technical Center,TECH,1,Digital Media Lab II: digital media production
+mt-mansfield-union-high-school,134,Computer Systems Technology I,"Center for Technology, Essex",TECH,1,"Computer Systems Technology I: IT, hardware and networking"
+mt-mansfield-union-high-school,135,Computer Systems Technology II,"Center for Technology, Essex",TECH,1,"Computer Systems Technology II: IT, hardware and networking"
+mt-mansfield-union-high-school,140,Design & Creative Media I,"Center for Technology, Essex",TECH,1,Design and Creative Media I: digital media design
+mt-mansfield-union-high-school,141,Design & Creative Media II,"Center for Technology, Essex",TECH,1,Design and Creative Media II: digital media design
+mt-mansfield-union-high-school,143,Engineering/Architectural Design I,"Center for Technology, Essex",TECH,1,Engineering/Architectural Design I: CAD and design engineering
+mt-mansfield-union-high-school,144,Engineering/Architectural Design II,"Center for Technology, Essex",TECH,1,Engineering/Architectural Design II: CAD and design engineering
+mt-mansfield-union-high-school,145,Game Animation & Web Development I,"Center for Technology, Essex",CS,1,Game Animation and Web Development I: coding games and websites
+mt-mansfield-union-high-school,146,Game Animation & Web Development II,"Center for Technology, Essex",CS,1,Game Animation and Web Development II: coding games and websites
+mt-mansfield-union-high-school,154,"Pre-Technical Explorations 2: Information Technology, Design, Engineering & Arts - IDEA","Center for Technology, Essex",TECH,1,"Pre-Technical Explorations 2: IT, design, engineering and arts"
+north-country-union-high-school,47,Digital Photography,Fine Arts,TECH,1,digital photography is digital media production
+north-country-union-high-school,52,Graphic Design/Yearbook,Fine Arts,TECH,1,graphic design and yearbook digital production
+north-country-union-high-school,59,Video Production,Fine Arts,TECH,1,video production is digital media
+north-country-union-high-school,61,Dual Enrollment,Professional Pursuits-Flexible Pathways-Driver’s Ed-JROTC,MORE_INFO,2,college courses of unspecified subject
+north-country-union-high-school,62,Early College,Professional Pursuits-Flexible Pathways-Driver’s Ed-JROTC,MORE_INFO,2,senior year at college; subject unspecified
+north-country-union-high-school,65,Online Learning,Professional Pursuits-Flexible Pathways-Driver’s Ed-JROTC,MORE_INFO,2,online courses of any subject
+north-country-union-high-school,111,Coding with Math 1,Math,CS,1,coding taught within math course
+north-country-union-high-school,112,Coding with Math 2,Math,CS,1,coding taught within math course
+north-country-union-high-school,136,3D Printing,Science,TECH,1,3D printing is fabrication technology
+north-country-union-high-school,147,Electronics & Electro-Magnetism,Science,TECH,1,electronics circuits technology
+north-country-union-high-school,155,Robotics,Science,CS,2,VEX robotics; building and programming are major components
+northfield-middle-high-school,71,Computer Science Principles,Other Learning Opportunities,CS,1,AP Computer Science Principles: programming and computing fundamentals
+northfield-middle-high-school,82,"Fabrication, Welding & Design",Off-Campus Learning Opportunities,TECH,1,Fabrication and design coursework; includes welding
+northfield-middle-high-school,88,Digital Filmmaking,Off-Campus Learning Opportunities,TECH,1,Digital filmmaking: video production
+northfield-middle-high-school,93,Exploratory Technology,Off-Campus Learning Opportunities,MORE_INFO,2,no description
+northfield-middle-high-school,95,Design Fabrication,Off-Campus Learning Opportunities,TECH,1,Design and fabrication coursework
+otter-valley-union-high-school,50,Media Art,Fine Arts,TECH,2,"Multimedia design and production, digital media focus"
+otter-valley-union-high-school,64,Media Production 1&2,Fine Arts,TECH,2,"Podcast, audio and video production with editing software"
+otter-valley-union-high-school,75,Introduction to Manufacturing,Design & Technology Education,TECH,2,CAD design with additive and subtractive manufacturing projects
+otter-valley-union-high-school,90,21st Century Computer Applications,Business,TECH,1,Computer applications and digital literacy course
+otter-valley-union-high-school,114,Digital Arts,Technical Programs,TECH,1,"Digital arts technical program, digital media and design"
+otter-valley-union-high-school,116,Engineering/Stem Academy,Technical Programs,TECH,1,"Engineering and STEM academy, engineering and design"
+otter-valley-union-high-school,121,Video Communications,Technical Programs,TECH,1,"Video communications, digital video production"
+peoples-academy,48,Digital Photography & Graphic Design,Visual Arts,TECH,1,Digital photography and graphic design; digital media production
+peoples-academy,55,STEM Lab,Design and Technology,TECH,1,STEM lab; hands-on engineering and making projects
+peoples-academy,57,Ultimate Maker Space,Design and Technology,TECH,1,Maker space; hands-on making and fabrication by name
+peoples-academy,63,Pre-Technology Program (GMTCC),Flexible Pathways,TECH,1,Pre-technology exploratory technology education course
+peoples-academy,66,Computer Networking Technology,Green Mountain Technology and Career Center (GMTCC),TECH,1,Computer networking and IT technology training
+peoples-academy,73,Creative Media Art & Design,Green Mountain Technology and Career Center (GMTCC),TECH,1,Creative media art and digital design production
+peoples-academy,74,Engineering,Green Mountain Technology and Career Center (GMTCC),TECH,1,Engineering and design coursework
+poultney-high-school,31,Intro to STEM,Science,TECH,2,"Physics taught through engineering design projects (bridges, cars)"
+poultney-high-school,45,Digital Arts,Fine Art/Music,TECH,2,Digital photography and film manipulation; digital media production
+poultney-high-school,46,Digital Arts II,Fine Art/Music,TECH,2,Advanced digital photography and film production
+poultney-high-school,47,CCV Digital Photography,Fine Art/Music,TECH,1,Digital photography is digital media production
+proctor-junior-senior-high-school,34,Principles of Engineering,Science,TECH,1,"Engineering principles course; design-focused, not programming-centered"
+proctor-junior-senior-high-school,38,Electrical Engineering,Science,TECH,1,"Electrical engineering; circuits and electronics, not programming"
+proctor-junior-senior-high-school,39,Computer Aided Design,Science,TECH,1,Computer-aided design; CAD modeling and drafting
+proctor-junior-senior-high-school,52,Photography and Digital Illustrator,Fine Art/Music,TECH,1,Digital photography and digital illustration; digital media
+randolph-union-high-school,14,Manufacturing 1,CBL Offerings SY 26-27,TECH,1,"Manufacturing course, fabrication and production processes"
+randolph-union-high-school,15,Manufacturing 2,CBL Offerings SY 26-27,TECH,1,"Manufacturing course, fabrication and production processes"
+randolph-union-high-school,16,Innovation Management,CBL Offerings SY 26-27,TECH,2,Maker-space technologies and project design and production
+randolph-union-high-school,17,3D Printing,CBL Offerings SY 26-27,TECH,1,3D printing is digital fabrication
+randolph-union-high-school,18,Digital Photography I: Fundamentals,CBL Offerings SY 26-27,TECH,1,Digital photography is digital media production
+randolph-union-high-school,47,Computer Science Principles,Mathematics,CS,1,"Computer Science Principles, computing course"
+randolph-union-high-school,48,HS Robotics I,Mathematics,TECH,2,"Intro robotics kits, engineering process; little programming focus"
+randolph-union-high-school,49,HS Robotics II,Mathematics,TECH,2,Advanced robot engineering and design; programming secondary
+randolph-union-high-school,78,Electronic Music & Sound Production (EMSP),"Fine Arts: Visual Arts, Music, Theater",TECH,1,Electronic music and sound production is digital audio media
+randolph-union-high-school,90,Pre-Tech Program,Randolph Technical and Career Center,TECH,1,"Pre-Tech program, introductory technology education"
+randolph-union-high-school,92,Digital Filmmaking / Media Arts,Randolph Technical and Career Center,TECH,1,Digital filmmaking and media arts production
+randolph-union-high-school,93,Advanced Manufacturing and Fabrication,Randolph Technical and Career Center,TECH,1,Advanced manufacturing and fabrication
+richford-junior-senior-high-school,18,Introduction to Data Science,Mathematics,CS,1,Data science course: analyzing data with code or tools
+richford-junior-senior-high-school,20,STEM,Science,TECH,1,STEM course: engineering and maker-style applied technology
+richford-junior-senior-high-school,36,PLTW: Computer Science Essentials,Technology,CS,1,PLTW Computer Science Essentials: intro computing and programming
+richford-junior-senior-high-school,37,PLTW: Computer Science Principles,Technology,CS,1,PLTW Computer Science Principles: computing and programming
+richford-junior-senior-high-school,38,PLTW: Intro to Engineering Design,Technology,TECH,1,PLTW Intro to Engineering Design: engineering and CAD design
+richford-junior-senior-high-school,39,PLTW: Digital Electronics,Technology,TECH,1,"PLTW Digital Electronics: circuits and electronics, not programming-centered"
+richford-junior-senior-high-school,40,Video Game Design,Technology,CS,2,Unity game development in C#: writing gameplay code
+richford-junior-senior-high-school,47,Design Technology,Practical Arts,TECH,1,Design technology: applied design and technology course
+richford-junior-senior-high-school,48,PreTech / Business & Manufacturing,Practical Arts,TECH,1,Pre-tech / manufacturing: technology education course
+richford-junior-senior-high-school,55,Cold Hollow Career Center: Pre-Technical Studies,Additional Electives,TECH,1,Pre-technical studies at career center: technology education
+richford-junior-senior-high-school,70,Digital Media Productions,Cold Hollow Career Center,TECH,1,Digital media productions: video and digital media production
+rivendell-academy,14,Music Studio/Creative Studio,Performance Arts,MORE_INFO,2,no description
+rutland-senior-high-school,37,Songwriting and Music Production,Fine Arts,TECH,1,"Music production: digital audio production, not programming"
+rutland-senior-high-school,48,Integrated Technology,Information Technology,TECH,2,Hands-on technology projects; not programming-centered
+rutland-senior-high-school,49,Personal Computing,Information Technology,TECH,1,Personal computing: computer applications and digital literacy
+rutland-senior-high-school,50,21st Century Technology,Information Technology,TECH,2,"Survey of technology topics incl. AI, cybersecurity, IoT"
+rutland-senior-high-school,51,Multimedia,Information Technology,TECH,2,"Digital media: podcasts, video and image editing"
+rutland-senior-high-school,52,Introduction to Robotics,Information Technology,TECH,2,Robot design/build cycle; programming is secondary
+rutland-senior-high-school,53,Introduction to Computer Science Principles,Information Technology,CS,1,Intro to Computer Science Principles
+rutland-senior-high-school,54,Introduction to Computer Science Principles 2,Information Technology,CS,1,"Computer Science Principles, second course"
+rutland-senior-high-school,55,Virtual Reality,Information Technology,CS,2,Students create VR environments and games through coding
+rutland-senior-high-school,56,Coding 101,Information Technology,CS,1,Introductory coding course
+rutland-senior-high-school,57,Advanced Robotics,Information Technology,CS,2,"Advanced robots programmed with ROS, AI and computer vision"
+rutland-senior-high-school,58,Drawing for Innovation,Information Technology,TECH,2,Technical drawing and CAD-style 2D/3D design software
+rutland-senior-high-school,59,RHS Maker Space,Information Technology,TECH,1,Maker space: STEM/maker fabrication course
+rutland-senior-high-school,153,Tech Exploratory,Stafford Technical Center,TECH,1,Tech exploratory: introductory technology education course
+rutland-senior-high-school,159,Digital Arts,Stafford Technical Center,TECH,1,Digital arts: digital media design
+rutland-senior-high-school,162,Engineering,Stafford Technical Center,TECH,1,Engineering and design course
+south-burlington-high-school,81,Advanced Programming,Science and Technology,CS,1,Advanced programming course; coding is the focus
+south-burlington-high-school,82,Engineering and Design,Science and Technology,TECH,1,"Engineering and design coursework, not programming-centered"
+south-burlington-high-school,83,PC Hardware and Software,Science and Technology,TECH,1,PC hardware and software; computer systems and IT
+south-burlington-high-school,84,Introduction to Computer Science,Science and Technology,CS,1,Introduction to computer science
+south-burlington-high-school,85,AP Computer Science (A),Science and Technology,CS,1,"AP Computer Science A, Java programming"
+south-burlington-high-school,86,AP Computer Science Principles,Science and Technology,CS,1,AP Computer Science Principles
+south-burlington-high-school,98,Video Production,Visual and Performing Arts,TECH,1,Video production; digital media
+south-burlington-high-school,99,Graphic Design,Visual and Performing Arts,TECH,1,Graphic design; digital media
+south-burlington-high-school,139,ADVANCED MANUFACTURING,Technical Center Programs,TECH,1,Advanced manufacturing; fabrication and engineering
+south-burlington-high-school,140,INNOVATION & DESIGN,Technical Center Programs,MORE_INFO,2,no description
+south-burlington-high-school,143,AVIATION & AEROSPACE TECHNOLOGY,Technical Center Programs,TECH,1,Aviation and aerospace technology; applied engineering
+south-burlington-high-school,144,DESIGN & ILLUSTRATION,Technical Center Programs,MORE_INFO,2,no description
+south-burlington-high-school,145,DIGITAL MEDIA LAB,Technical Center Programs,TECH,1,Digital media lab
+south-burlington-high-school,154,Computer Animation and Web Page Design I & II,Technical Center Programs,CS,1,Computer animation and web page development; coding
+south-burlington-high-school,155,Engineering/Architectural Design I & II,Technical Center Programs,TECH,1,Engineering and architectural design
+south-burlington-high-school,158,Computer Systems Technology I & II,Technical Center Programs,TECH,1,Computer systems technology; IT and hardware
+south-burlington-high-school,161,Design and Creative Media I & II,Technical Center Programs,TECH,1,Design and creative media; digital media
+south-burlington-high-school,165,"Pre-Tech 2 Education: Information Technology, Design, Engineering, and Arts",Technical Center Programs,TECH,1,"Pre-tech IT, design, engineering explorations"
+spaulding-union-high-school,34,Robotics,Mathematics & Statistics,CS,2,Intro programming (block and written) plus robotics; programming central
+spaulding-union-high-school,35,Engineering,Mathematics & Statistics,TECH,1,"Engineering course; design and engineering practice, not primarily programming"
+spaulding-union-high-school,36,Computer Science,Mathematics & Statistics,CS,1,Computer Science course; programming and computing content
+spaulding-union-high-school,49,Science of Engineering,Science,TECH,1,Engineering-focused science course; design-based technology content
+spaulding-union-high-school,50,STEAM Design Fundamentals,Science,TECH,1,STEAM design fundamentals; maker and design-based STEM course
+spaulding-union-high-school,96,Digital Photography,Fine Arts,TECH,1,Digital photography; digital media production
+spaulding-union-high-school,98,Cinematography,Fine Arts,TECH,1,"Cinematography; video production, digital media"
+spaulding-union-high-school,100,"Industrial Design, Electronic Arts & Craft",Fine Arts,TECH,1,Industrial design and electronic arts; design and digital media
+springfield-high-school,40,Introduction to Computer Science,Mathematics,CS,1,Intro computer science course; coding or programming content
+springfield-high-school,59,Design Workshop,Science,TECH,2,"Engineering design of bridges, rockets, vehicles with tools"
+springfield-high-school,77,Art II: Digital Art,Visual Arts,TECH,1,"Digital art: digital media production, not programming"
+springfield-high-school,120,AVP’s Introduction to Audio Video Production,River Valley Technical Center,TECH,1,Audio/video production introduction: digital media technology
+springfield-high-school,122,Introduction to Information Technology,River Valley Technical Center,TECH,1,Introduction to information technology course
+springfield-high-school,126,Introduction to Advanced Manufacturing and Engineering,River Valley Technical Center,TECH,1,Introduction to advanced manufacturing and engineering
+springfield-high-school,132,Pre Technical Studies,River Valley Technical Center,TECH,2,Pre-tech career-cluster exploration with hands-on tools
+springfield-high-school,133,Audio Video Production I & II,River Valley Technical Center,TECH,1,Audio/video production I and II: digital media technology
+springfield-high-school,142,Advanced Manufacturing and Engineering I,River Valley Technical Center,TECH,1,Advanced manufacturing and engineering I: engineering technology
+springfield-high-school,143,Advanced Manufacturing and Engineering II,River Valley Technical Center,TECH,1,Advanced manufacturing and engineering II: engineering technology
+springfield-high-school,152,Information Technology I - Technology Essentials,River Valley Technical Center,TECH,1,IT technology essentials: computer and digital literacy
+springfield-high-school,153,Information Technology II - Hands-On-Computer Systems,River Valley Technical Center,TECH,1,IT hands-on computer systems: computer systems and repair
+stowe-high-school,9,2D Graphic Design I,Fine Arts,TECH,1,"Graphic design is digital media, not programming"
+stowe-high-school,10,2D Graphic Design II,Fine Arts,TECH,1,"Graphic design is digital media, not programming"
+stowe-high-school,11,2D Graphic Design III,Fine Arts,TECH,1,"Graphic design is digital media, not programming"
+stowe-high-school,12,2D Graphic Design IV,Fine Arts,TECH,1,"Graphic design is digital media, not programming"
+stowe-high-school,58,Intro to Music Production,Performing Arts,TECH,1,Music production is digital audio production
+stowe-high-school,76,S.T.E.A.M. I,Technology Education,TECH,1,STEM/maker course: engineering and design
+stowe-high-school,77,S.T.E.A.M. II,Technology Education,TECH,1,STEM/maker course: engineering and design
+stowe-high-school,78,S.T.E.A.M. III,Technology Education,TECH,1,STEM/maker course: engineering and design
+stowe-high-school,79,S.T.E.A.M. IV,Technology Education,TECH,1,STEM/maker course: engineering and design
+stowe-high-school,80,Introduction to Coding Part 1,Technology Education,CS,1,Introductory coding course
+stowe-high-school,81,Introduction to Coding Part 2,Technology Education,CS,1,Introductory coding course
+stowe-high-school,82,Introduction to Robotics,Technology Education,CS,2,Robotics with programming as a core component
+stowe-high-school,96,Exploratory Pre-Technology,Student Learning Opportunities & Flexible Pathways,TECH,1,Exploratory pre-technology course
+stowe-high-school,100,Computer Networking Technology,Green Mountain Technology and Career Center,TECH,1,Computer networking and IT
+stowe-high-school,102,Creative Media Art & Design,Green Mountain Technology and Career Center,TECH,1,Digital media art and design
+stowe-high-school,104,Electrical Technology,Green Mountain Technology and Career Center,MORE_INFO,2,no description
+stowe-high-school,105,Engineering,Green Mountain Technology and Career Center,TECH,1,Engineering and design course
+twin-valley-middle-high-school,32,Engineering & Design,Science,TECH,1,Engineering and design course; not primarily programming
+twin-valley-middle-high-school,55,Digital Photography - CCV Dual Enrollment,Fine Arts,TECH,1,Digital photography is digital media production
+twin-valley-middle-high-school,59,Manufacturing,Industrial Arts,TECH,2,"Design, prototype and test products; engineering design focus"
+twin-valley-middle-high-school,67,Sound and Stagecraft,Music,TECH,2,"Audio recording, mixing and video editing; digital media production"
+twin-valley-middle-high-school,100,Manufacturing I,Manufacturing,TECH,2,"Fabrication, CAD/CAM and 3D printing; CNC programming is one topic"
+twin-valley-middle-high-school,101,Manufacturing II,Manufacturing,TECH,2,SolidWorks CAD and CAM toolpath fabrication training
+twinfield-union-school,35,"Photo, Film and Animation",Visual & Performing Arts,TECH,1,digital media: video and animation production
+twinfield-union-school,54,Robotics,Design Technology,CS,2,robotics course explicitly includes coding
+u-32-middle-high-school,3,Music & Technology,Artistic Expression,TECH,1,music technology; likely digital recording or production
+u-32-middle-high-school,21,Digital Arts,Artistic Expression,TECH,2,"digital media: video, image editing, electronics"
+u-32-middle-high-school,30,Introduction to Computer Science,Computer Science,CS,1,introductory computer science; programming
+u-32-middle-high-school,31,AP Computer Science A,Computer Science,CS,1,AP Computer Science A; programming
+u-32-middle-high-school,32,Architecture,Design and Technology Education,TECH,1,architectural design and drafting
+u-32-middle-high-school,33,Engineering I,Design and Technology Education,TECH,1,introductory engineering and design
+u-32-middle-high-school,34,Computer Aided Drafting & Design I (CADDI),Design and Technology Education,TECH,1,computer-aided drafting and design (CAD)
+u-32-middle-high-school,66,Branching Out- Media Lab,Personalized Learning,TECH,2,"multimedia production: filmmaking, audio, photography"
+u-32-middle-high-school,88,Applied Physics & Engineering,Science,TECH,1,applied engineering course; engineering technology focus
+vergennes-union-high-school,66,Design with CAD I,Technology,TECH,1,"CAD design, engineering drafting"
+vergennes-union-high-school,67,Design with CAD II,Technology,TECH,1,"CAD design, engineering drafting"
+vergennes-union-high-school,68,Design with CAD III,Technology,TECH,1,"CAD design, engineering drafting"
+vergennes-union-high-school,69,Digital Applications,Technology,TECH,1,Computer applications and digital literacy
+vergennes-union-high-school,70,Intro to Robotics,Technology,CS,2,LEGO robots programmed autonomously; coding central
+vergennes-union-high-school,72,STEM (Science Technology Engineering Math),Technology,TECH,1,STEM engineering and maker course
+vergennes-union-high-school,76,Digital Media,Visual Arts,TECH,1,Digital media production
+vergennes-union-high-school,77,Digital Media 2,Visual Arts,TECH,1,Digital media production
+west-rutland-school,41,Broadcast Tech,Electives,TECH,1,"Broadcast production: digital media, not programming"
+white-river-valley-high-school,69,Pixel and Vector: Introduction to Digital Illustration and Graphic Design,Fine Arts,TECH,1,Digital illustration and graphic design
+white-river-valley-high-school,71,Capture This! A Look at Digital Photography and Video Production,Fine Arts,TECH,1,Digital photography and video production
+white-river-valley-high-school,74,Sketch to Screen: Exploration of Illustration and Animation,Fine Arts,TECH,2,Digital and traditional animation and illustration tools
+white-river-valley-high-school,79,Computer-Aided Design and Modeling,Design & Technology,TECH,1,Computer-aided design and modeling
+white-river-valley-high-school,80,Introduction to Mechanical Technologies,Design & Technology,TECH,1,Introduction to mechanical technologies
+white-river-valley-high-school,96,Pre-Tech,Flexible Pathways,TECH,2,General STEM and career exploration; technology pathway
+windsor-school,49,Design & Technology,Computer & Technology,TECH,2,"Hands-on design, CAD, 3D printing and engineering design course"
+windsor-school,63,Photography,Fine Arts,TECH,2,Digital photography course: camera settings and digital imaging
+windsor-school,85,Career and Technology Exploration (CTE),Career & Technical Education (HACTC),MORE_INFO,2,no description
+windsor-school,88,"Design, Illustration & Media Arts (DIMA) I/II",Career & Technical Education (HACTC),TECH,1,Digital media arts course: illustration and digital media production
+windsor-school,91,Information Technology 1 year,Career & Technical Education (HACTC),TECH,1,"IT course: computer applications, networking, and repair"
+windsor-school,92,Software Engineering 1 year,Career & Technical Education (HACTC),CS,1,Software engineering course: writing software code
+windsor-school,94,Introduction to Engineering Design (IED) 1 year (STEM),Career & Technical Education (HACTC),TECH,1,Introduction to engineering design (CAD and design process)
+windsor-school,95,Principles of Engineering 1 year (STEM),Career & Technical Education (HACTC),TECH,1,Principles of engineering: engineering design and technology
+winooski-high-school,64,Technology & Community,Technology,TECH,2,Teaches digital/technology skills to community members; digital literacy
+woodstock-union-middle-high-school,8,CAD (Computer-Aided Design),Math,TECH,1,"CAD design software, engineering and design"
+woodstock-union-middle-high-school,9,Data Science I,Math,CS,1,"Data science coursework, computing and analytics"
+woodstock-union-middle-high-school,10,Data Science II,Math,CS,1,"Data science coursework, computing and analytics"
+woodstock-union-middle-high-school,12,Computer Programming: Game Design,Computer Science,CS,1,Computer programming via game design
+woodstock-union-middle-high-school,13,Computer Programming: Robotics,Computer Science,CS,1,Computer programming with robotics
+woodstock-union-middle-high-school,14,AP Computer Science A,Computer Science,CS,1,AP Computer Science A programming
+woodstock-union-middle-high-school,15,AP Computer Science Principles,Computer Science,CS,1,AP Computer Science Principles
+woodstock-union-middle-high-school,16,Artificial Intelligence I,Computer Science,CS,1,Artificial intelligence coursework
+woodstock-union-middle-high-school,17,Artificial Intelligence II,Computer Science,CS,1,Artificial intelligence coursework
+woodstock-union-middle-high-school,27,Skill-Building for Innovation,Science,TECH,2,"Intro design: drawing, fabrication, some Arduino work"
+woodstock-union-middle-high-school,69,Digital Art and Design,Visual Arts,TECH,1,"Digital art and design, digital media"
+woodstock-union-middle-high-school,70,Digital Photography,Visual Arts,TECH,1,"Digital photography, digital media"
+woodstock-union-middle-high-school,75,Advanced Digital Photography and Design,Visual Arts,TECH,1,Advanced digital photography and design
+woodstock-union-middle-high-school,125,"Design, Illustration and Media Arts (DIMA)",Flexible Pathways,TECH,1,"Design, illustration and digital media arts"
+woodstock-union-middle-high-school,128,Information Technology,Flexible Pathways,TECH,1,"Information technology, IT and networking"
+woodstock-union-middle-high-school,129,Advanced Information Technology,Flexible Pathways,TECH,1,Advanced information technology
+woodstock-union-middle-high-school,131,Science Technology Engineering and Math (STEM): Introduction to Engineering Design,Flexible Pathways,TECH,1,Engineering design (STEM)
+woodstock-union-middle-high-school,132,Science Technology Engineering and Math (STEM): Principles of Engineering,Flexible Pathways,TECH,1,Principles of engineering (STEM)

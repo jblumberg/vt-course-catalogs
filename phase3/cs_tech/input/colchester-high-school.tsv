@@ -1,0 +1,76 @@
+0	3D-Art	Fine Arts	standard
+1	Advanced Studio Art	Fine Arts	standard
+2	Drawing	Fine Arts	standard
+3	Painting	Fine Arts	standard
+4	Photography	Fine Arts	standard
+5	Pottery I	Fine Arts	standard
+6	Pottery II	Fine Arts	standard
+7	Beginner Guitar	Fine Arts	standard
+8	Beginner Piano	Fine Arts	standard
+9	Chamber Singers	Fine Arts	standard
+10	Chorus	Fine Arts	standard
+11	Chorale	Fine Arts	standard
+12	Colchester Concert Band	Fine Arts	standard
+13	Colchester Jazz Band	Fine Arts	standard
+14	Colchester Wind Ensemble	Fine Arts	standard
+15	Concert Choir	Fine Arts	standard
+16	Intermediate Piano	Fine Arts	standard
+17	Modern Music Ensemble	Fine Arts	standard
+18	Music Technology	Fine Arts	standard
+28	The Regimes & Revolutions of the Modern World	Humanities	standard
+29	The American Experience	Humanities	standard
+32	Seminar	Humanities	standard
+44	Philosophy	Humanities	standard
+52	Algebra I	Mathematics	standard
+53	Algebra II in Depth	Mathematics	standard
+54	Algebra III	Mathematics	standard
+55	Algebra Extended	Mathematics	standard
+56	Consumer Math	Mathematics	standard
+57	Geometry	Mathematics	standard
+58	Math in Finance	Mathematics	standard
+59	Math Mentoring	Mathematics	standard
+60	Math of Sports	Mathematics	standard
+61	Math Prep	Mathematics	standard
+62	Pre-Calculus	Mathematics	standard
+63	Statistics	Mathematics	standard
+64	Strategic Algebra	Mathematics	standard
+65	Strategic Geometry	Mathematics	standard
+66	AP Calculus	Mathematics	AP
+67	AP Statistics	Mathematics	AP
+68	Earth Systems Science	Science	standard
+69	Experimental Biology 9	Science	standard
+70	Experimental Chemistry	Science	standard
+71	Introduction to Physics	Science	standard
+72	Lab Chemistry	Science	standard
+73	Anatomy and Physiology	Science	standard
+74	Breaking into Coding	Science	standard
+75	Engineering Lab	Science	standard
+76	Forensic Science	Science	standard
+77	Science of Survival	Science	standard
+78	AP Biology	Science	AP
+79	AP Chemistry	Science	AP
+80	AP Environmental Science	Science	AP
+81	AP Physics 1	Science	AP
+82	DI Literacy	Support Services	special_program
+83	DI Math	Support Services	special_program
+84	DI Mixed House	Support Services	special_program
+85	English Language Learners - ELL	Support Services	special_program
+86	Level I- ML English	Support Services	special_program
+87	Newcomer ELL	Support Services	special_program
+88	Strategic Study	Support Services	special_program
+89	Supported Study	Support Services	special_program
+102	Andros Adventure	Additional Academic Opportunities	special_program
+103	Laker Learning Lab (L3)	Additional Academic Opportunities	special_program
+104	TIPS (Training Internships Partnering for Success)	Additional Academic Opportunities	standard
+105	Driver Education	Additional Academic Opportunities	standard
+106	Dual Enrollment	Flexible Pathways	dual_enrollment
+107	Introduction to College & Careers	Flexible Pathways	other
+108	Community Service	Flexible Pathways	other
+109	School Aide	Flexible Pathways	other
+110	Work Study	Flexible Pathways	other
+111	External Credits	Flexible Pathways	other
+112	Independent Study	Flexible Pathways	other
+113	Virtual High School	Flexible Pathways	online
+114	CHAMP	Support Services	special_program
+115	CAP (Colchester Alternative Program)	Support Services	special_program
+116	Crossroads	Support Services	special_program
