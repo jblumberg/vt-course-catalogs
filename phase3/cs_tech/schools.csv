@@ -1,0 +1,55 @@
+school_id,school_name,courses_scanned,scanned,cs_courses,tech_courses,unresolved
+arlington-memorial,Arlington Memorial,43,yes,0,3,2
+bellows-falls-union-high-school,Bellows Falls Union High School,93,yes,0,4,1
+bellows-free-academy-middle-high-school-fairfax,Bellows Free Academy Middle/High School (Fairfax),82,yes,4,3,0
+bellows-free-academy-st-albans,Bellows Free Academy (St. Albans),92,yes,0,9,0
+blue-mountain-union-school,Blue Mountain Union School,51,yes,2,4,0
+brattleboro-union-high-school,Brattleboro Union High School,102,yes,1,9,2
+burlington-high-school,Burlington High School,130,yes,5,7,0
+cabot-school,Cabot School,8,yes,0,1,1
+canaan-schools,Canaan Schools,58,yes,0,5,0
+champlain-valley-union-high-school,Champlain Valley Union High School,99,yes,6,10,0
+colchester-high-school,Colchester High School,76,yes,1,2,0
+craftsbury-schools,Craftsbury Schools,28,yes,0,0,0
+danville-school,Danville School,40,yes,0,4,0
+essex-high-school,Essex High School,105,yes,3,9,0
+fair-haven-union-middle-and-high-school,Fair Haven Union Middle and High School,93,yes,0,8,0
+green-mountain-union-high-school,Green Mountain Union High School,60,yes,0,8,4
+hartford-high-school,Hartford High School,95,yes,2,10,0
+harwood-union-middle-high-school,Harwood Union Middle/High School,84,yes,3,11,0
+hazen-union-high-school,Hazen Union High School,49,yes,0,8,0
+lake-region-union-high-school,Lake Region Union High School,94,yes,7,14,2
+lamoille-union-high-school,Lamoille Union High School,85,yes,2,7,0
+leland-gray-union-middle-high-school,Leland & Gray Union Middle & High School,47,yes,0,3,2
+middlebury-union-high-school,Middlebury Union High School,110,yes,0,11,6
+mill-river-union-high-school,Mill River Union High School,70,yes,0,3,8
+milton-senior-high-school,Milton Senior High School,126,yes,5,22,2
+missisquoi-valley-union-high-school,Missisquoi Valley Union High School,71,yes,0,2,0
+montpelier-high-school,Montpelier High School,81,yes,3,7,1
+mt-abraham-union-high-school,Mt. Abraham Union High School,75,yes,1,4,0
+mt-anthony-senior-union-high-school,Mt. Anthony Senior Union High School,83,yes,2,2,0
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,124,yes,3,18,4
+north-country-union-high-school,North Country Union High School,93,yes,3,5,3
+northfield-middle-high-school,Northfield Middle/High School,59,yes,1,3,1
+otter-valley-union-high-school,Otter Valley Union High School,93,yes,0,4,3
+oxbow-union-high-school,Oxbow Union High School,0,yes,0,0,0
+peoples-academy,Peoples Academy,45,yes,0,7,0
+poultney-high-school,Poultney High School,38,yes,0,4,0
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,37,yes,0,4,0
+randolph-union-high-school,Randolph Union High School,64,yes,1,11,0
+richford-junior-senior-high-school,Richford Junior/Senior High School,49,yes,4,7,0
+rivendell-academy,Rivendell Academy,17,yes,0,0,1
+rutland-senior-high-school,Rutland Senior High School,114,NO,0,0,114
+south-burlington-high-school,South Burlington High School,116,yes,5,11,2
+spaulding-union-high-school,Spaulding Union High School,72,yes,2,6,0
+springfield-high-school,Springfield High School,114,yes,1,9,4
+stowe-high-school,Stowe High School,78,NO,0,0,78
+twin-valley-middle-high-school,Twin Valley Middle High School,76,NO,0,0,76
+twinfield-union-school,Twinfield Union School,30,yes,1,1,0
+u-32-middle-high-school,U-32 Middle & High School,87,NO,0,0,87
+vergennes-union-high-school,Vergennes Union High School,64,NO,0,0,64
+west-rutland-school,West Rutland School,31,NO,0,0,31
+white-river-valley-high-school,White River Valley High School,56,NO,0,0,56
+windsor-school,Windsor School,61,NO,0,0,61
+winooski-high-school,Winooski High School,39,NO,0,0,39
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,94,NO,0,0,94
