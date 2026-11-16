@@ -1,0 +1,93 @@
+0	Humanities 9 (Formerly English 9)	English	standard
+3	American Studies	English	standard
+4	Advanced American Studies	English	honors
+23	Transitional Math	Mathematics	standard
+24	Algebra 1A	Mathematics	standard
+25	Algebra 1B	Mathematics	standard
+26	Algebra 1	Mathematics	standard
+27	Geometry	Mathematics	standard
+28	Algebra 2	Mathematics	standard
+29	Trigonometry	Mathematics	standard
+30	Business Math	Mathematics	standard
+31	Pre-Calculus	Mathematics	standard
+32	Calculus	Mathematics	standard
+33	Geophysics	Science	standard
+34	Biological Science	Science	standard
+35	Principles of Biology	Science	standard
+36	Principles of Chemistry	Science	standard
+37	Chemistry	Science	standard
+38	Environmental Science	Science	standard
+39	Physics	Science	standard
+40	Advanced Anatomy & Physiology	Science	standard
+41	Advanced Placement Biology	Science	AP
+42	Advanced Placement Chemistry	Science	AP
+45	Physical Education Through Athletics Or Theater	Physical Education	standard
+47	Introduction To Studio Art	Fine Arts	standard
+48	Art Workshop Type 1	Fine Arts	standard
+49	Art Workshop Type 2	Fine Arts	standard
+50	Media Art	Fine Arts	standard
+51	Advanced Studio	Fine Arts	standard
+52	Portfolio	Fine Arts	standard
+53	Independent Art Studies	Fine Arts	standard
+54	High School Band	Fine Arts	standard
+55	High School Chorus	Fine Arts	standard
+56	American Music History	Fine Arts	standard
+57	Music Theory	Fine Arts	standard
+58	Piano And Keyboard Workshop	Fine Arts	standard
+59	Fine Arts Credit Through High School Jazz Band	Fine Arts	standard
+60	Fine Arts Credit Through Chamber Singers	Fine Arts	standard
+61	Fine Arts Credit Through Wind Ensemble	Fine Arts	standard
+62	Fine Arts Credit Through Musical Theater Pit Orchestra	Fine Arts	standard
+63	Theater Arts 1&2	Fine Arts	standard
+64	Media Production 1&2	Fine Arts	standard
+65	Technical Theater Workshop 1&2	Fine Arts	standard
+66	Theater And Film Appreciation	Fine Arts	standard
+68	Fine Arts Credit Through Theatrical Production	Fine Arts	standard
+69	Physical Education Credit Through Theatrical Production	Fine Arts	standard
+70	Fine Arts Credit Through Directing	Fine Arts	standard
+71	Woodworking	Design & Technology Education	standard
+72	Construction and Design	Design & Technology Education	standard
+73	Small Engines	Design & Technology Education	standard
+74	Welding Basics	Design & Technology Education	standard
+75	Introduction to Manufacturing	Design & Technology Education	standard
+76	Career Prep Pathway Year 1	Design & Technology Education	standard
+77	Career Prep Pathway Year 2	Design & Technology Education	standard
+89	Personal Finance	Business	standard
+90	21st Century Computer Applications	Business	standard
+91	Entrepreneurship and Marketing	Business	standard
+92	Driver & Traffic Education	Driver & Traffic Safety Education	standard
+93	Drivers Education with Otter Valley Cooperative	Driver & Traffic Safety Education	standard
+94	Drivers Education with Music	Driver & Traffic Safety Education	standard
+95	Drivers Education with HS Learning Center	Driver & Traffic Safety Education	standard
+96	Drivers Education with ARC	Driver & Traffic Safety Education	standard
+97	High School Learning Center	Personal Learning Opportunities	special_program
+98	High School Academic Resource Center	Personal Learning Opportunities	special_program
+99	Life Skills	Personal Learning Opportunities	special_program
+100	Foothills Program	Personal Learning Opportunities	special_program
+101	Extended Learning Opportunities	Personal Learning Opportunities	other
+102	Internship Program	Personal Learning Opportunities	other
+103	Work-Based Learning	Personal Learning Opportunities	other
+104	Paid Work Experience	Personal Learning Opportunities	other
+105	Otter Valley Teaching Assistant	Personal Learning Opportunities	other
+106	Senior Partial Day Schedule	Personal Learning Opportunities	other
+107	Lower Moosalamoo	Moosalamoo Center - Wilderness Education	other
+108	Upper Moosalamoo Outdoor Education	Moosalamoo Center - Wilderness Education	other
+109	Automotive Body Repair	Technical Programs	CTE
+110	Automotive Technology	Technical Programs	CTE
+111	Construction Technology	Technical Programs	CTE
+112	Culinary Arts	Technical Programs	CTE
+113	Cosmetology	Technical Programs	CTE
+114	Digital Arts	Technical Programs	CTE
+115	Electrical/Plumbing	Technical Programs	CTE
+116	Engineering/Stem Academy	Technical Programs	CTE
+117	Health Careers	Technical Programs	CTE
+118	Human Services	Technical Programs	CTE
+119	Natural Resources & Horticulture	Technical Programs	CTE
+120	Public Safety/Criminal Justice	Technical Programs	CTE
+121	Video Communications	Technical Programs	CTE
+122	Welding & Metal Fabrication	Technical Programs	CTE
+123	Addison Repertory Theater	Technical Programs	CTE
+124	Diesel Power Technology	Technical Programs	CTE
+125	Sustainable Agriculture	Technical Programs	CTE
+126	Dual Enrollment (Community College of Vermont, Vermont State University, UVM)	Dual Enrollments and Online Coursework	dual_enrollment
+127	Vermont Virtual Learning Cooperative (VTVLC) Online Courses	Dual Enrollments and Online Coursework	online

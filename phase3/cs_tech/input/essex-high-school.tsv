@@ -1,0 +1,105 @@
+0	Discovery	Flexible Pathways Credit Options	special_program
+1	Community Service and Work Experience	Flexible Pathways Credit Options	special_program
+2	Independent Study	Flexible Pathways Credit Options	special_program
+3	Dual Enrollment	College Courses	dual_enrollment
+4	Early College	College Courses	early_college
+5	Online Learning	Online Learning	online
+6	Vermont Virtual Learning Cooperative (VTVLC)	Online Learning	online
+7	The Virtual High School Collaborative (VHS)	Online Learning	online
+8	The Alternative Center for Education (ACE) Program	Online Learning	special_program
+9	Supportive Study Skills	Learning Strategies and Study Skills Support	special_program
+10	Learning Strategies	Learning Strategies and Study Skills Support	special_program
+11	English Language (EL)	English	special_program
+12	Content Support Labs	English	special_program
+13	Introduction to Core Content	English	special_program
+14	AVPA Internship	Academy Pathways	standard
+15	AVPA Capstone Project	Academy Pathways	standard
+16	STEM Internship	Academy Pathways	standard
+17	Accounting I	Business Education	standard
+18	Business and Personal Law	Business Education	standard
+20	Entrepreneurship	Business Education	standard
+21	Internship	Business Education	standard
+22	Personal Finance	Business Education	standard
+23	Computers and Careers	Business Education	standard
+24	Driver and Traffic Safety Education	Driver Education	standard
+27	Grade 9 Honors Humanities	English	honors
+28	Literacy	English	standard
+44	On the Path . . .	English	standard
+50	Orchestra	Fine Arts	standard
+51	Concert Choir	Fine Arts	standard
+52	Chamber Choir	Fine Arts	standard
+53	Band 100: Symphonic Band	Fine Arts	standard
+54	Band 200: Wind Ensemble	Fine Arts	standard
+55	Jazz Band: Essex Jazz Collective	Fine Arts	standard
+56	Guitar	Fine Arts	standard
+57	Piano	Fine Arts	standard
+58	Unified Adaptive Music	Fine Arts	special_program
+59	Media Communications	Fine Arts	standard
+60	Movie Production	Fine Arts	standard
+61	Unified Adaptive Visual Arts	Fine Arts	special_program
+62	Art I: Half Year	Fine Arts	standard
+63	Art II: Half Year	Fine Arts	standard
+64	Art III	Fine Arts	standard
+65	Art IV - AP Art	Fine Arts	AP
+66	Clay I	Fine Arts	standard
+67	Studio Clay	Fine Arts	standard
+68	Wheel Throwing	Fine Arts	standard
+69	Photography	Fine Arts	standard
+70	Metal Sculpture and Design	Fine Arts	standard
+71	Computer Animation I or II	Fine Arts	standard
+72	Digital and Graphic Design	Fine Arts	standard
+79	Independent Study in Physical Education	Health & Physical Education	standard
+83	Elements of Math	Mathematics	standard
+84	Algebra Prep	Mathematics	standard
+85	Algebra I 100	Mathematics	standard
+86	Algebra I 200	Mathematics	standard
+87	Algebra I 200 Part II	Mathematics	standard
+88	Geometry 100	Mathematics	standard
+89	Geometry 200	Mathematics	standard
+90	Algebra II 100	Mathematics	standard
+91	Algebra II 200	Mathematics	standard
+92	Algebra II Honors 300	Mathematics	honors
+93	Math of Financial Literacy	Mathematics	standard
+94	Pre-Calculus 100	Mathematics	standard
+95	AP Pre-Calculus	Mathematics	AP
+96	Honors Pre-Calculus 300	Mathematics	honors
+97	Probability & Statistics	Mathematics	standard
+98	AP Statistics 300	Mathematics	AP
+99	Introduction to Programming	Mathematics	standard
+100	AP Computer Science A 300	Mathematics	AP
+101	Calculus 200	Mathematics	standard
+102	AP Calculus (AB) 300	Mathematics	AP
+103	AP Calculus (BC) Honors 300	Mathematics	AP
+104	Foods I	Practical Arts	standard
+105	Foods II: International Foods	Practical Arts	standard
+106	Unified Adapted Foods	Practical Arts	special_program
+107	Sewing and Fiber Arts I, II, III	Practical Arts	standard
+108	Child Development	Practical Arts	standard
+109	Interior Design	Practical Arts	standard
+110	Building Design	Practical Arts	standard
+111	Electronics	Practical Arts	standard
+113	Jewelry	Practical Arts	standard
+114	How Things Work	Practical Arts	standard
+115	Earth and Space Science 100	Science	standard
+116	Earth and Space Science 200	Science	standard
+117	Biology 100	Science	standard
+118	Biology 200	Science	standard
+119	Advanced Biology	Science	standard
+120	Chemistry 100	Science	standard
+121	Chemistry 200	Science	standard
+122	Organic Chemistry	Science	standard
+123	AP Chemistry	Science	AP
+124	Physics 100	Science	standard
+125	Physics 200	Science	standard
+126	AP Physics	Science	AP
+127	Anatomy and Physiology	Science	standard
+128	Botany	Science	standard
+129	Designing Solutions	Science	standard
+130	AP Environmental Science	Science	AP
+131	Forensics	Science	standard
+132	Marine Biology	Science	standard
+133	Neuroscience	Science	standard
+134	Planetary Astronomy	Science	standard
+135	Stellar Astronomy & Beyond	Science	standard
+136	Robotics	Science	standard
+137	Wildlife Ecology	Science	standard

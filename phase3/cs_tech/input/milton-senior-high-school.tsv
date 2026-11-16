@@ -1,0 +1,126 @@
+14	Literacy Lab (Grade 9)	English	special_program
+15	Literacy Lab (Grades 10-12)	English	special_program
+16	Strategic Reading	English	special_program
+30	Personal Finance	Social Studies	standard
+32	Algebra I	Mathematics	standard
+33	Algebra I Lab or Strategic Algebra	Mathematics	special_program
+34	Geometry	Mathematics	standard
+35	Geometry Lab or Strategic Geometry	Mathematics	special_program
+36	Algebra II	Mathematics	standard
+37	Algebra II Lab	Mathematics	special_program
+38	AP Calculus	Mathematics	AP
+39	AP Statistics	Mathematics	AP
+40	Calculus	Mathematics	standard
+41	Principles of Mathematics	Mathematics	dual_enrollment
+42	Statistics	Mathematics	standard
+43	Statistics & Data Science	Mathematics	standard
+44	Pre-Calculus	Mathematics	standard
+45	EMC^2 (Essential Math for College and Careers)	Mathematics	standard
+46	Strategic Math (Algebra / Geometry)	Mathematics	special_program
+47	Life Skills Math	Mathematics	special_program
+48	Fundamental Statistics	Mathematics	special_program
+49	Biology	Science	standard
+50	Physical & Earth Science	Science	standard
+51	Chemistry	Science	standard
+52	AP Biology	Science	AP
+53	AP Physics I	Science	AP
+54	Advanced Chemistry	Science	standard
+55	Engineering	Science	standard
+56	Human Anatomy & Physiology I	Science	standard
+57	Human Anatomy & Physiology II	Science	standard
+58	Physics I	Science	standard
+59	Food Science	Science	standard
+60	Food Systems	Science	standard
+61	Introduction to Forensic Science I	Science	standard
+62	Introduction to Forensic Science II	Science	standard
+63	Natural Resources	Science	standard
+64	Introduction to Neuroscience	Science	standard
+65	Introduction to Neuroscience II	Science	standard
+72	French Internship	World Languages	standard
+81	German Internship	World Languages	standard
+88	Spanish Internship	World Languages	standard
+89	Computer Literacy	Computer Science / Technology	standard
+90	AP Computer Science A	Computer Science / Technology	AP
+91	Computer Animation	Computer Science / Technology	standard
+92	Electronics & Robotics	Computer Science / Technology	standard
+93	Video Game Design	Computer Science / Technology	standard
+94	Introduction to Programming	Computer Science / Technology	standard
+95	Student Internship	Computer Science / Technology	standard
+96	Web & Graphic Design	Computer Science / Technology	standard
+97	Documentary Filmmaking	Creative Media	standard
+98	Filmmaking 1	Creative Media	standard
+99	Filmmaking 2	Creative Media	standard
+100	Gold Records and Glory: Audio Engineering Technique	Creative Media	standard
+101	Yellow Jacket Television	Creative Media	standard
+102	Art 1	Visual Arts	standard
+103	Art 2	Visual Arts	standard
+104	AP Studio Art	Visual Arts	AP
+105	Art History	Visual Arts	standard
+106	Clay and Pottery	Visual Arts	standard
+107	Advanced Clay and Pottery	Visual Arts	standard
+108	Drawing	Visual Arts	standard
+109	Jewelry	Visual Arts	standard
+110	Sculpture	Visual Arts	standard
+111	Painting	Visual Arts	standard
+112	Studio Art (Independent Study)	Visual Arts	standard
+113	Guitar 1	Performing Arts	standard
+114	Guitar 2	Performing Arts	standard
+115	Music Theory and Composition	Performing Arts	standard
+116	Modern Band: Piano, Guitar, Bass, Drums and Vocals	Performing Arts	standard
+117	Piano 1	Performing Arts	standard
+118	Select Chorus	Performing Arts	standard
+119	Senior High Band	Performing Arts	standard
+120	Senior High Chorus	Performing Arts	standard
+121	Stage Band	Performing Arts	standard
+123	Driver Education	Driver Education	standard
+124	Driver Education Clinic	Driver Education	special_program
+132	Varsity Sport Participation PE Credit	Physical Education	standard
+133	3D Design & Innovation Studio	Milton Innovation Center	standard
+134	Wearable Design & Innovation Studio	Milton Innovation Center	standard
+135	Intro to Wood and Metal Fabrication	Milton Innovation Center	standard
+136	Entrepreneurship & Innovation	Milton Innovation Center	standard
+137	Photography and Visual Storytelling	Milton Innovation Center	standard
+138	Transportation & Independence	Work-Based Learning	special_program
+139	My Future and Career Readiness	Work-Based Learning	standard
+140	Work After Education	Work-Based Learning	standard
+141	Guided Work-Based Learning Experience	Work-Based Learning	standard
+142	Independent Work-Based Learning Experience	Work-Based Learning	standard
+143	Internship/Service-Learning Program	Service Learning / Internships	standard
+144	Hive Time (Teacher Advisory Program)	Teacher Advisory Program	standard
+145	Dual Enrollment (Juniors & Seniors)	Dual Enrollment	dual_enrollment
+146	Introduction to College & Careers (ICC)	Dual Enrollment	other
+147	Early College (Seniors)	Dual Enrollment	early_college
+148	Virtual Learning (Online Courses)	Virtual Learning	online
+149	Advanced Manufacturing, Innovation and Design	BTC Program of Studies	CTE
+150	Auto Body Repair	BTC Program of Studies	CTE
+151	Automotive Science and Technology	BTC Program of Studies	CTE
+152	Aviation and Aerospace	BTC Program of Studies	CTE
+153	Design and Illustration	BTC Program of Studies	CTE
+154	Digital Media Lab	BTC Program of Studies	CTE
+155	Educational Training and Leadership	BTC Program of Studies	CTE
+156	Health Sciences Academy	BTC Program of Studies	CTE
+157	Homeland Security & Criminal Justice	BTC Program of Studies	CTE
+158	Introduction to Health Care	BTC Program of Studies	CTE
+159	Pre-Tech Innovation, Technology and Design	BTC Program of Studies	CTE
+160	Automotive Technology I & II	CTE Program of Studies	CTE
+161	Building Technology: Residential	CTE Program of Studies	CTE
+162	Building Technology: Systems	CTE Program of Studies	CTE
+163	Childhood Education/Human Services I & II	CTE Program of Studies	CTE
+164	Computer Animation & Web Page Design I & II	CTE Program of Studies	CTE
+165	Computer Systems Technology I & II	CTE Program of Studies	CTE
+166	Cosmetology Arts and Sciences I & II	CTE Program of Studies	CTE
+167	Dental Assisting	CTE Program of Studies	CTE
+168	Design & Creative Media I & II	CTE Program of Studies	CTE
+169	Engineering/Architectural Design I & II	CTE Program of Studies	CTE
+170	Health Informatics	CTE Program of Studies	CTE
+171	Natural Resources and Agri-science Technology: Mechanical Science	CTE Program of Studies	CTE
+172	Natural Resources and Agri-science Technology: Forestry	CTE Program of Studies	CTE
+173	Professional Food Services I & II	CTE Program of Studies	CTE
+174	Apprenticeship Training / Internship	CTE Program of Studies	CTE
+175	Pre-Tech Explorations: Foods, Health, and Human Development	CTE Program of Studies	CTE
+176	Pre-Tech Explorations: BASES - Building Arts and Small Engine Systems	CTE Program of Studies	CTE
+177	Pre-Tech Explorations: IDEA – Information Technology, Design, Engineering, and Arts	CTE Program of Studies	CTE
+178	Pre-Tech Explorations: Natural Resources	CTE Program of Studies	CTE
+179	Pre-Tech Explorations: Culinary, Hospitality and Tourism	CTE Program of Studies	CTE
+180	Pre-Tech Foundations: Intro to Engineering	CTE Program of Studies	CTE
+181	Pre-Tech Foundations: Intro to Automotive Technology	CTE Program of Studies	CTE

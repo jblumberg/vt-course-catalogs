@@ -1,0 +1,64 @@
+0	Animal and Plant Science	Agricultural Science	standard
+1	Power Equipment	Agricultural Science	standard
+2	Trades Skills	Agricultural Science	standard
+3	Driver Education	Driver Education	standard
+4	Community Based Learning	Electives and Extended Learning Opportunities	other
+5	Expanded Learning Opportunities	Electives and Extended Learning Opportunities	other
+6	Personal Finance	Electives and Extended Learning Opportunities	standard
+7	Project Workshop	Electives and Extended Learning Opportunities	other
+8	STRIVE - Strategies To Reinforce Individualized Visions of Education	Electives and Extended Learning Opportunities	special_program
+16	Humanities	English Language Arts	honors
+24	Skills in Math	Mathematics	standard
+25	Bridge to Math 1	Mathematics	standard
+26	Math 1	Mathematics	standard
+27	Math 2	Mathematics	standard
+28	Geometry	Mathematics	standard
+29	Problem-Solving	Mathematics	standard
+30	Math 3	Mathematics	standard
+31	Advanced Mathematical Topics	Mathematics	standard
+32	Pre-Calculus	Mathematics	standard
+33	Statistics	Mathematics	standard
+34	Calculus	Mathematics	standard
+35	Advanced Placement Calculus I AB	Mathematics	AP
+36	Theatre Arts	Performing Arts	standard
+37	Symphonic Band	Performing Arts	standard
+38	Concert Choir	Performing Arts	standard
+39	Guitar Class	Performing Arts	standard
+40	Instrumental Class	Performing Arts	standard
+41	Music History	Performing Arts	standard
+42	Music Theory and Composition	Performing Arts	standard
+43	Piano Class I	Performing Arts	standard
+44	Piano Class II	Performing Arts	standard
+45	Rock Band	Performing Arts	standard
+46	Voice Class	Performing Arts	standard
+47	World Drumming	Performing Arts	standard
+48	Introduction to Life and Physical Science	Science	standard
+49	Biology: Anatomy and Physiology (formerly Human Biology)	Science	standard
+50	Biology: Ecology (formally Wildlife Biology)	Science	standard
+51	Biology: Genetics and Evolution	Science	standard
+52	Earth and Environmental Science	Science	standard
+53	Introduction to Physics (formerly Physical Science)	Science	standard
+54	Introduction to Chemistry (formerly Physical Science)	Science	standard
+55	Chemistry	Science	standard
+56	Physics	Science	standard
+57	Advanced Placement Biology	Science	AP
+58	Advanced Placement Physics	Science	AP
+66	Design with CAD I	Technology	standard
+67	Design with CAD II	Technology	standard
+68	Design with CAD III	Technology	standard
+69	Digital Applications	Technology	standard
+70	Intro to Robotics	Technology	standard
+71	Small Business & Entrepreneurship	Technology	standard
+72	STEM (Science Technology Engineering Math)	Technology	standard
+73	Art Essentials	Visual Arts	standard
+74	Intermediate Drawing and Painting	Visual Arts	standard
+75	Advanced Painting & Color Theory	Visual Arts	standard
+76	Digital Media	Visual Arts	standard
+77	Digital Media 2	Visual Arts	standard
+78	Sculpture	Visual Arts	standard
+79	Sculpture 2	Visual Arts	standard
+80	Advanced Placement Studio Art	Visual Arts	AP
+92	Dual Enrollment	Flexible Pathways Options	dual_enrollment
+93	Early College	Flexible Pathways Options	early_college
+94	Middlebury College	Flexible Pathways Options	other
+95	Walden Year	Flexible Pathways Options	other

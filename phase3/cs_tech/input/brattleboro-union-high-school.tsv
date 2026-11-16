@@ -1,0 +1,102 @@
+0	Virtual High School	Special Programs	online
+1	Social Studies & English Fund	Special Education	special_program
+2	Executive Functioning	Special Education	special_program
+3	Math Fundamentals	Special Education	special_program
+4	The Science of Food	Special Education	special_program
+5	Career Education 1	Special Education	special_program
+6	Career Education 2	Special Education	special_program
+7	Work Study (Work Based Learning)	Special Education	special_program
+20	Community Based Learning English 1 (CBL)	English	standard
+21	Community Based Learning English 2 (CBL 2)	English	standard
+22	Community Based Learning Adv. (CBL Advanced)	English	standard
+24	Independent Study English	English	standard
+28	Performing Arts: Acting	English	standard
+29	Performing Arts: Directing	English	standard
+30	VPA Capstone Audition Prep	English	standard
+31	VPA Capstone Directing Showcase	English	standard
+35	Television Production	English	standard
+36	Television Production 2	English	standard
+41	Content Support	Multilingual - English Language Learning	special_program
+42	Entering	Multilingual - English Language Learning	special_program
+43	Emerging	Multilingual - English Language Learning	special_program
+44	Developing	Multilingual - English Language Learning	special_program
+45	Expanding	Multilingual - English Language Learning	special_program
+46	Bridging	Multilingual - English Language Learning	special_program
+47	Accelerated Algebra I	Mathematics	other
+48	Accelerated Geometry	Mathematics	other
+49	Accelerated Algebra II	Mathematics	other
+50	Accelerated Pre-Calculus	Mathematics	other
+51	Statistics (including Probability)	Mathematics	standard
+52	AP Calculus – AB	Mathematics	AP
+53	Algebra 1	Mathematics	standard
+54	Geometry	Mathematics	standard
+55	Algebra 2	Mathematics	standard
+56	Pre-Calculus	Mathematics	standard
+57	Pre-Algebra	Mathematics	standard
+58	Personal Finance	Mathematics	standard
+59	Intro to Coding and Computer Science	Mathematics	standard
+60	Techniques in Problem Solving	Mathematics	standard
+61	Mathematics Independent Study	Mathematics	standard
+62	Earth and Space Science (ESS)	Science	standard
+63	Biology	Science	standard
+64	Introduction to Chemistry and Physics	Science	standard
+65	Physics	Science	standard
+66	Chemistry	Science	standard
+67	Advanced Placement Physics	Science	AP
+68	Wildlife Ecology and Management	Science	standard
+70	Environmental Science 1	Science	standard
+71	Astronomy	Science	standard
+72	Advanced Biology	Science	standard
+73	Independent Study	Science	standard
+74	Environmental Science and Policy	Science	standard
+85	Mentoring & Leadership	Social Studies	dual_enrollment
+107	Foundations in Art	Fine, Digital and Practical Arts	standard
+108	The Art of Craft	Fine, Digital and Practical Arts	standard
+109	Studio Art 1 (Drawing and Design)	Fine, Digital and Practical Arts	standard
+110	Studio Art 2 (Painting and Color Exploration)	Fine, Digital and Practical Arts	dual_enrollment
+111	Ceramics 1	Fine, Digital and Practical Arts	standard
+112	Ceramics 2	Fine, Digital and Practical Arts	dual_enrollment
+113	Ceramics 3	Fine, Digital and Practical Arts	dual_enrollment
+114	Sculpture	Fine, Digital and Practical Arts	standard
+115	Sculpture II	Fine, Digital and Practical Arts	dual_enrollment
+116	Sewing & Fiber Arts	Fine, Digital and Practical Arts	standard
+117	Inter. Sewing & Fashion Design	Fine, Digital and Practical Arts	standard
+118	Interior Design	Fine, Digital and Practical Arts	standard
+119	Advanced Studio Art	Fine, Digital and Practical Arts	standard
+120	AP Art 2D and 3D	Fine, Digital and Practical Arts	AP
+121	Computer Graphic Design	Fine, Digital and Practical Arts	standard
+122	Computer Graphic Design II	Fine, Digital and Practical Arts	standard
+123	Photography I	Fine, Digital and Practical Arts	standard
+124	Photography II	Fine, Digital and Practical Arts	standard
+125	Photography III	Fine, Digital and Practical Arts	standard
+126	Independent Study in Art	Fine, Digital and Practical Arts	standard
+127	Food Fundamentals	Fine, Digital and Practical Arts	standard
+128	Foods Advanced	Fine, Digital and Practical Arts	standard
+129	Music Production & Sound Recording	Music	standard
+130	Rock & Modern Band	Music	standard
+131	Songwriting	Music	standard
+132	Chorus	Music	standard
+133	Voice and Piano Studio	Music	standard
+134	Honors Chorus	Music	honors
+135	Madrigals - A Cappella Ensemble	Music	standard
+136	High School Band	Music	standard
+137	Band Lab & Solo Works	Music	standard
+138	Honors Band	Music	honors
+139	Jazz Ensemble	Music	standard
+140	V.P.A. Music Capstone: Audition Preparation	Music	standard
+141	V.P.A. Music Capstone: Senior Recital	Music	standard
+142	Fundamentals of Music	Music	standard
+143	Jazz Theory and Performance	Music	standard
+144	World Music	Music	standard
+145	History of Rock	Music	standard
+146	Music Theory	Music	standard
+156	Driver Training	Driver Education	standard
+157	Social Studies Independent Study	Social Studies	standard
+158	FLEX Program	Flexible Pathways & Educational Options	special_program
+159	Independent Study (Flexible Pathways)	Flexible Pathways & Educational Options	special_program
+160	Community Based Learning (CBL)	Flexible Pathways & Educational Options	special_program
+161	College Courses (outside courses)	Flexible Pathways & Educational Options	special_program
+162	Dual Enrollment (Windham Regional Collegiate High School)	Dual Enrollment Programs	dual_enrollment
+163	STEM Academy	Academies	special_program
+164	Visual and Performing Arts Academy (VPA)	Academies	special_program
+165	International Studies Academy (ISA)	Academies	special_program

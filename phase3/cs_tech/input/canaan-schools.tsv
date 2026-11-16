@@ -1,0 +1,58 @@
+0	Ancient Roots of Modern Art	Art	standard
+1	Art Illuminates the Dark	Art	standard
+2	Art of World Cultures	Art	standard
+3	Domination of the Idea	Art	standard
+4	Ceramics	Art	standard
+5	Painting	Art	standard
+6	Photography	Art	standard
+7	Sculpture	Art	standard
+8	Advanced Studio	Art	honors
+9	EC Accounting I	Business	early_college
+10	EC Business Computer Applications	Business	early_college
+11	Computer Applications	Business	standard
+12	EC Comprehensive Presentation Methods	Business	early_college
+13	EC Intro to Business Administration	Business	early_college
+14	EC Intro to Business Logic & Ethics	Business	early_college
+15	Intro to Technology & Digital Media	Business	standard
+16	EC Marketing	Business	early_college
+17	Publication Design	Business	standard
+25	Algebra I	Mathematics	standard
+26	Algebra II	Mathematics	standard
+27	EC Calculus	Mathematics	early_college
+28	Geometry	Mathematics	standard
+29	Life Skills Math	Mathematics	standard
+30	Personal Finance	Mathematics	standard
+31	Pre-Algebra	Mathematics	standard
+32	EC Pre-Calculus	Mathematics	early_college
+33	EC Quantitative Reasoning	Mathematics	early_college
+34	EC Statistics	Mathematics	early_college
+35	High School Music	Music	standard
+40	PE Independent Study	Physical Education	standard
+42	Biology	Science	standard
+43	Conceptual Chemistry	Science	standard
+44	Practical Chemistry	Science	standard
+45	Conceptual Physics	Science	standard
+46	Practical Physics	Science	standard
+47	EC Dendrology & Introduction to Tree and Shrub Identification	Science	early_college
+48	EC Forestry Resources	Science	early_college
+55	Driver's Education	Other Offerings	standard
+56	Licensed Nursing Assistant (LNA)	Other Offerings	honors
+57	Construction and Design	Career & Technical Education (CTE) Offerings	standard
+58	Home Repair and Maintenance	Career & Technical Education (CTE) Offerings	standard
+59	Woodworking I	Career & Technical Education (CTE) Offerings	standard
+60	Woodworking II	Career & Technical Education (CTE) Offerings	standard
+61	Woodworking III	Career & Technical Education (CTE) Offerings	standard
+62	Intro to Fire & Emergency Services	Career & Technical Education (CTE) Offerings	standard
+63	Business Administration & Technology (BAT) Program	Career & Technical Education (CTE) Offerings	CTE
+64	Emergency Services (EMS) Program	Career & Technical Education (CTE) Offerings	CTE
+65	Fire Program	Career & Technical Education (CTE) Offerings	CTE
+66	Integrated Trades (IT) Program	Career & Technical Education (CTE) Offerings	CTE
+67	Vermont's Dual Enrollment Program	Flexible Pathways	dual_enrollment
+68	Early College at Your High School (EC)	Flexible Pathways	early_college
+69	Fast Forward Program (For Vermont Residents)	Flexible Pathways	dual_enrollment
+70	Early College Program (ECP) (For Vermont Residents)	Flexible Pathways	early_college
+71	Virtual Learning Academy Charter School (VLACS) (For New Hampshire Residents)	Flexible Pathways	online
+72	Early College Online (formerly known as eStart) (For New Hampshire Residents)	Flexible Pathways	early_college
+73	Work-Based Learning	Flexible Pathways	special_program
+74	Virtual High School (VHS) and Vermont Virtual Learning Cooperative (VtVLC)	Flexible Pathways	online
+75	Northeast Kingdom Learning Services (NEKLS) & the High School Completion Program (HSCP)	Flexible Pathways	special_program

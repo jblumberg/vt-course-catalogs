@@ -1,0 +1,87 @@
+0	Jazz Band	Artistic Expression	standard
+1	Modern Band	Artistic Expression	standard
+2	HS Chorus	Artistic Expression	standard
+3	Music & Technology	Artistic Expression	standard
+4	Music Theory	Artistic Expression	standard
+5	Songwriting & Composition	Artistic Expression	standard
+6	String Ensemble	Artistic Expression	standard
+7	Guitar Class	Artistic Expression	standard
+8	HS Band	Artistic Expression	standard
+9	Theater Studies	Artistic Expression	standard
+10	Art Plus	Artistic Expression	standard
+11	Drawing I	Artistic Expression	standard
+12	Drawing II	Artistic Expression	standard
+13	Advanced Art	Artistic Expression	standard
+14	Jewelry I	Artistic Expression	standard
+15	Jewelry II	Artistic Expression	standard
+16	Painting	Artistic Expression	standard
+17	Pottery I	Artistic Expression	standard
+18	Pottery II	Artistic Expression	standard
+19	Photography I	Artistic Expression	standard
+20	Photography II	Artistic Expression	standard
+21	Digital Arts	Artistic Expression	standard
+22	Printmaking	Artistic Expression	standard
+23	Sculpture & Installation	Artistic Expression	standard
+24	Advance Projects in Painting	Artistic Expression	standard
+25	Business Accounting and Management I/II	Business and Information Technology	standard
+26	Community Based Learning (CBL)	Business and Information Technology	special_program
+27	Sports & Entertainment	Business and Information Technology	standard
+28	Financial Literacy	Business and Information Technology	standard
+29	“Inc”	Business and Information Technology	standard
+30	Introduction to Computer Science	Computer Science	standard
+31	AP Computer Science A	Computer Science	AP
+32	Architecture	Design and Technology Education	standard
+33	Engineering I	Design and Technology Education	standard
+34	Computer Aided Drafting & Design I (CADDI)	Design and Technology Education	standard
+35	Materials & Machines I: Wood Technology I	Design and Technology Education	standard
+36	Materials & Machines II: Wood Technology II	Design and Technology Education	standard
+37	Materials and Machines: Metal Technology I	Design and Technology Education	standard
+38	Materials and Machines: Advanced Metal Technology	Design and Technology Education	standard
+39	Furniture Design	Design and Technology Education	standard
+40	Driver Education	Driver Education	standard
+42	Academic HS Literacy Support	English/ Literacy	other
+43	Humanities 10 Part 1 & Part 2	English/ Literacy	standard
+44	Academic Support (formerly called Structured HS Literacy Support)	English/ Literacy	other
+52	Algebra I	Mathematics	standard
+53	Algebra II	Mathematics	standard
+54	Algebra II STEM	Mathematics	standard
+55	Academic Math Support	Mathematics	other
+56	Geometry	Mathematics	standard
+57	Pre-Calculus	Mathematics	standard
+58	AP Pre-Calculus	Mathematics	AP
+59	AP Calculus	Mathematics	AP
+60	Mathematics Modeling	Mathematics	standard
+61	Statistics (Dual enrollment via Norwich Univ)	Mathematics	dual_enrollment
+62	Statistics in Sports	Mathematics	standard
+63	Branching Out	Personalized Learning	special_program
+64	Branching Out World Language	Personalized Learning	special_program
+65	Changemakers / Service Learning	Personalized Learning	standard
+66	Branching Out- Media Lab	Personalized Learning	standard
+67	Branching Out- U-32 / Nepal Community Partnership	Personalized Learning	standard
+68	The Pilot Program	Personalized Learning	special_program
+69	Co-Pilot	Personalized Learning	special_program
+77	9th Grade Earth/Physical Science	Science	standard
+78	Biology	Science	standard
+79	College Prep Chemistry	Science	standard
+80	Advanced Chemistry	Science	standard
+81	AP Chemistry	Science	AP
+82	AP Physics 1	Science	AP
+83	AP Physics 2	Science	AP
+84	AP Biology	Science	AP
+85	Environmental/Horticultural Science	Science	standard
+86	Forest Ecology	Science	standard
+87	Anatomy & Physiology	Science	standard
+88	Applied Physics & Engineering	Science	standard
+89	Forensic Science	Science	standard
+110	Blue Table	Special Education	special_program
+111	Literacy Learning	Special Education	special_program
+112	Math Skills	Special Education	special_program
+113	Speech and Language Skills	Special Education	special_program
+114	Enhanced Employment Skills	Special Education	special_program
+115	Transition Academy	Special Education	special_program
+116	Independent Living Skills	Special Education	special_program
+117	Dual Enrollment	Flexible Pathways	dual_enrollment
+118	Concurrent Dual Enrollment (Community College of Vermont)	Flexible Pathways	dual_enrollment
+119	Early College Program (ECP)	Flexible Pathways	early_college
+120	Vermont Virtual Learning Cooperative (VTVLC)	Flexible Pathways	online
+121	Independent Study	Flexible Pathways	other
