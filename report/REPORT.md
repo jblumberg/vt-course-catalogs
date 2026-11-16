@@ -21,7 +21,7 @@ This report is not a compliance review, and it does not argue for any particular
 1. **Health at 1.0 credit.** Today, 22 schools offer a single half-credit Health course, and Craftsbury offers a quarter credit. Of the 42 schools whose local requirements name Health, 33 require less than a full credit. The Transitional model's combined 1.5 credits of PE and Health would resolve this for every school except Blue Mountain, Craftsbury and Woodstock.
 2. **Whether Environmental Science counts as Earth and Space Science.** Thirteen schools offer Earth and Space Science only through Environmental Science, AP Environmental Science, integrated science, ecology, forestry or agriculture courses. Whether those count depends on which Next Generation Science Standards (NGSS) the Earth and Space credit will require, which is still to be defined. Spaulding has no Earth and Space course at all; its ninth-grade Physical Science course teaches "chemistry, earth science, and climate sciences" together. Champlain Valley, Missisquoi Valley and Woodstock offer only a single semester.
 3. **Whether Integrated Math counts as Algebra I and Geometry.** Thirteen schools do not offer a stand-alone, one-year Algebra I course. Eleven of them (Arlington, BFA Fairfax, Burlington, Champlain Valley, Harwood, Mt. Abraham, Randolph, Richford, Rutland, South Burlington and Vergennes) teach an integrated or "Math 1 and Math 2" sequence instead. Hartford and Leland & Gray spread Algebra I over two courses. Until AOE publishes an equivalency rule, these schools cannot tell students and families whether their math courses meet the requirement.
-4. **Room for electives, especially for career and technical education (CTE) students.** The Complete Recommendation leaves 3.0 credits for open electives, while the typical school requires 7.0 elective credits today. A two-year CTE program usually earns 6 to 8 high school credits. CTE students will be able to finish on time only if the credits embedded in their programs are mapped to the new requirement categories, for example to Physical, Life or Earth and Space Science rather than to "science" in general.
+4. **Room for electives, especially for career and technical education (CTE) students.** The Complete Recommendation leaves 3.0 credits for open electives, while the typical school requires 7.0 elective credits today. A two-year CTE program usually earns 6 to 8 high school credits. CTE students will be able to finish on time only if the credits embedded in their programs are mapped to the new requirement categories, for example to Physical, Life or Earth and Space Science rather than to "science" in general. Computer science has no credit of its own in either proposal. Twenty-one of the 50 fully reviewed schools list no computer science course, and where it is offered it counts mainly if accepted as the Math Pathway course.
 5. **Whether Civics must be its own course.** Montpelier, Hartford, Middlebury, Otter Valley and Springfield offer Civics content only within other courses, such as social movements, law, IB Global Politics or combined history and civics. South Burlington and Stowe offer one semester.
 6. **What a credit means.** Five schools award diplomas based on proficiency alone (BFA Fairfax, Harwood, Mt. Mansfield, Twinfield and U-32). On the block schedules used at Brattleboro and the three Quarry Valley schools, a one-semester course earns a full credit. As a result, 22.5 credits does not represent the same amount of learning or class time in every building.
 
@@ -37,7 +37,7 @@ The Transitional model is easier to meet for three reasons. It combines PE and H
 
 ### What course catalogs can and cannot tell us
 
-A course catalog shows what a school **offers**. It does not show whether a course actually runs in a given year, how many sections run, or how many students enroll. A course offered every other year to a handful of students looks the same in a catalog as a core course with eight sections. Every count in this report is a count of offerings. Joining this work with **Ed-Fi** section and enrollment data is the natural next step, and until then "offers" should be read as "lists in its catalog."
+A course catalog shows what a school **offers**. It does not show whether a course actually runs in a given year, how many sections run, or how many students enroll. A course offered every other year to a handful of students looks the same in a catalog as a core course with eight sections. Every count in this report is a count of offerings. Joining this work with **Ed-Fi** section and enrollment data is the natural next step, and until then "offers" should be read as "lists in its catalog." Two further cautions apply throughout. A listed course may not run at all if, for example, its teacher has left. And catalogs describe career and technical education (CTE) center programs very unevenly, so any figure that involves CTE reflects how each catalog is written as much as what students can reach.
 
 ## Purpose, audience and sources
 
@@ -273,6 +273,25 @@ The Complete Recommendation leaves 3.0 credits for electives that students choos
 
 **Courses beyond what a requirement asks for.** Every course a student takes after meeting a requirement also uses elective room, such as a fifth English course, a second world language, a third arts course, or AP Physics after Chemistry. These are often the courses that give each school its character. Examples include Lake Region's wide range of half-credit English electives and Montpelier's place-based courses, such as *La Bonne Crêpe* (a student-run food cart) and *Manufacturing & Student Entrepreneurship*.
 
+### Computer science and technology courses
+
+A separate review of every elective, math, arts, science and CTE course in the catalogs identified 80 computer science courses and 242 technology courses offered by the schools themselves. Another 8 computer science and 111 technology programs are offered through CTE centers. In this review, computer science includes programming, AP Computer Science, data science, cybersecurity and programming-centered robotics. Technology includes engineering and design, digital media, computer applications and maker courses.
+
+Neither proposal includes a computer science or technology credit, so these courses count toward graduation only when they fit another requirement:
+
+| Type of course | Offered in school catalogs | Where the courses could count today |
+| --- | --- | --- |
+| Computer science | 80 courses at 29 schools, including AP Computer Science at 9 schools | 53 clearly or possibly count as the Math Pathway course; 6 data science courses count toward Statistics and Data Science; 20 count toward no requirement |
+| Technology | 242 courses at 49 schools | 135, mostly digital media and design, count toward Arts; 73 count toward no requirement; the rest are possible matches for science or math |
+
+Three points stand out.
+
+- **Access to computer science is uneven.** Twenty-one of the 50 fully reviewed schools list no computer science course in their own catalog. They include some larger schools: BFA St. Albans (905 students), Missisquoi Valley (759), Windsor (572) and Middlebury (525). Windsor students can take Software Engineering at the Hartford Area Career & Technology Center. Students at other schools may reach computer science through a CTE center, dual enrollment or a virtual course, but catalogs list these options inconsistently. If computer science counts mainly as a Math Pathway option, students at these schools would not have that option.
+- **Course descriptions have limits.** Courses titled *Computer Science Principles*, at Champlain Valley, Rutland and Randolph for example, are very likely the AP Computer Science Principles course or a course built on its curriculum. Our ratings still place them differently, simply because the schools describe them differently. This is a reminder that course descriptions are a limited tool for judging what a course actually teaches. A statewide rule tied to a named curriculum or set of standards would let the same course count the same way at every school.
+- **Local technology requirements would compete for elective room.** Ten schools require a technology or computer science credit today: Canaan, Essex, Lake Region, Milton, Mt. Anthony, Richford, Rutland, South Burlington, Vergennes and Windsor (see Theme 2). Under the Complete Recommendation, these credits, along with the 93 computer science and technology courses that count toward no requirement, would all come out of 3.0 elective credits.
+
+**What to keep in mind:** this review sorted courses mainly by their titles and read descriptions only when a title was unclear. Three things limit what these counts can show. First, every school offers dual enrollment and virtual courses (such as VTVLC), but only some catalogs mention them, so they are left out. Second, a course in the catalog is not always a course being taught; a staffing change can stop it from running. For example, Champlain Valley lists several programming courses that we understand are not being taught this year. Third, programs at CTE centers are counted separately because high school catalogs list them so unevenly. Milton, Montpelier and Mt. Mansfield describe their CTE centers' technology programs in detail, while many schools whose students attend the same kinds of programs do not mention them, so a school can appear to offer less than its students can actually reach.
+
 ### The effect on career and technical education students
 
 This is one of the clearest implementation challenges in the report. Where catalogs list a credit value, CTE programs typically earn 3 to 4 high school credits a year (83 of the 100 listings that show a value). Most of that credit is recorded as elective credit today, as these examples show:
@@ -441,7 +460,7 @@ In each subject, a small number of definitions will largely decide which schools
 | **Do Integrated Math and two-year Algebra I courses count as Algebra I and Geometry?** (See Theme 6.) | Thirteen schools |
 | **Does Algebra II always count toward the Statistics or Algebra II requirement?** The requirement notes say it counts only "if it covers statistics & probability," but this report counts every Algebra II course. | All 50 schools. Only 22 of 63 Algebra II descriptions mention statistics, probability or data. |
 | **Are Consumer, Essentials and Applied Math courses below high school level, and may they serve as the Math Pathway elective?** | Thirty-seven schools offer 62 such courses; Lake Region has a three-year sequence |
-| **Does computer science or robotics count as a Math Pathway course, and must it follow computer science standards to do so?** | 166 applied and technical courses rated "possible," such as Essex's *Robotics* and Lake Region's web programming courses |
+| **Does computer science or robotics count as a Math Pathway course, and must it follow computer science standards to do so?** | 53 of the 80 computer science courses in school catalogs are rated as clearly or possibly counting as the Math Pathway; 20 count toward no requirement. Similar courses are rated differently from school to school (see Theme 4), and 21 schools list no computer science course of their own |
 | **Can Financial Literacy also count as a math credit?** | West Rutland, Windsor and Woodstock list Financial Literacy or Personal Finance as a math course |
 
 ### English language arts
@@ -461,7 +480,7 @@ In each subject, a small number of definitions will largely decide which schools
 | **For PE at 1.5 credits, do athletics, JROTC and dance count?** | Nine schools offer less than 1.5 credits of PE: Bellows Falls, BFA St. Albans, Blue Mountain, Craftsbury, Hazen, Otter Valley, Rivendell, Twin Valley and Woodstock |
 | **Must Financial Literacy be its own course, or can it be part of a broader course?** | Fair Haven (*Adulting 101* and *Business Math*), Mt. Mansfield (*Economics*) and Randolph (*Introduction to Economics*) |
 | **Can students meet the World Language requirement through VTVLC or other online courses? Do culture courses taught in English, such as *French Cultures*, count?** | Canaan, which offers no language, and small schools that offer only one |
-| **Do design, digital media and CTE courses count toward Arts?** | Lake Region (web programming courses for fine arts credit), Milton (creative media courses), and woodworking and furniture courses at several schools |
+| **Do design, digital media and CTE courses count toward Arts?** | Lake Region (web programming courses for fine arts credit), Milton (creative media courses), and woodworking and furniture courses at several schools. In all, 135 technology courses, mostly digital media and design, are rated as counting toward Arts today |
 
 ## Where implementation is likely to be hardest
 
@@ -551,6 +570,7 @@ Every number in this report counts courses that schools list in their catalogs, 
   - how many students take courses below Algebra I;
   - how many additional sections of Health or Civics would be needed;
   - which electives actually run.
+- **CTE programs are listed unevenly.** Some high schools, such as Milton, Montpelier and Mt. Mansfield, describe their CTE centers' programs in full, including the credits they earn, while others name them briefly or not at all. This report never uses a CTE program to fill a gap, so the coverage results are not affected. But every count that involves CTE reflects catalog style rather than student access. That includes embedded credits (Themes 4 and 5), catalog claims not supported by descriptions (Theme 3, where many of the 77 courses are CTE programs), and computer science and technology programs (Theme 4).
 - **Descriptions are brief.** Most are two to five sentences. A course rated "possible" may fully meet the standard in practice, and teachers can add or drop a unit in any year.
 - **Requirement definitions are still provisional.** Credit amounts follow the memo of October 20, 2026. We assumed one credit each for Civics, U.S. History and World Studies, and "lab" and "stand-alone" financial literacy are not yet defined.
 - **Some catalogs are incomplete.**
@@ -1339,6 +1359,8 @@ Every number in this report can be reproduced from the project's repository (`jb
 | `phase4/integrated_math.csv` | Schools using integrated math (Theme 6) |
 | `phase4/claims_disputed.csv` | The 77 courses whose catalog claims are not supported by the course description |
 | `report/appendix_schools.md` | The automatically generated first draft of Appendix A |
+
+The computer science and technology figures in Theme 4 come from a separate review stored in `phase3/cs_tech/` (`courses.csv` lists each labeled course; `schools.csv` gives counts by school). That review is described in `.claude/skills/cs-tech-scan/SKILL.md`.
 
 **Recommended next steps**
 
