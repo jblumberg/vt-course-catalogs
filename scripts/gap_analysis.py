@@ -14,7 +14,10 @@ Status per requirement (content-based mappings only; catalog_claims, FLEX-ANY an
   unknown       - the school has no extracted course list (Oxbow) or titles only (catalog lacks descriptions)
 Special rules (PLAN.md 4a): PE-HEALTH-COMBINED = PE + HEALTH credits; MATH-PATHWAY may also be filled by courses mapped
 to MATH-STATS-ALG2 that are not needed for that requirement (transitional plan needs 0 STATS-ALG2 credits).
-Courses whose offering_note says they are not offered in 2026-27 are excluded.
+Alternate-year courses (offering_note says not offered 2026-27 / next offered 2027-28) are COUNTED, because a student
+can take them within four years; a requirement met only by such courses is flagged alt_year_only = yes. (Before
+2026-11-16 they were excluded, which wrongly made Winooski's Environmental Science a gap.)
+PARTIAL schools (Cabot: a 16-course partial catalog) report 'unknown' instead of 'gap' / 'possible_only'.
 
 Run:  python3 -I scripts/gap_analysis.py
 """
@@ -25,6 +28,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PLANS = {"complete_2033": "Complete (Class of 2033+)", "transitional_2031_32": "Transitional (2031-32)"}
 TITLES_ONLY = {"mill-river-union-high-school", "rivendell-academy"}   # catalogs without descriptions
+PARTIAL = {"cabot-school"}   # partial catalog: absence of a course is not evidence of a gap
 
 
 def not_offered(s):
@@ -44,14 +48,14 @@ def main():
         by = defaultdict(list)
         if cl:
             for s, c in zip(src["courses"], cl):
-                if s.get("level") == "CTE" or c.get("other_type") in ("CTE program",) or not_offered(s):
+                if s.get("level") == "CTE" or c.get("other_type") in ("CTE program",):
                     continue
                 for m in c.get("credit_mappings") or []:
                     rid = m.get("requirement_id")
                     if rid == "FLEX-ANY":
                         continue
                     cr = s.get("credits") if isinstance(s.get("credits"), (int, float)) else None
-                    by[rid].append((m.get("strength"), cr, s.get("course_name")))
+                    by[rid].append((m.get("strength"), cr, s.get("course_name"), not_offered(s)))
         for plan, label in PLANS.items():
             for r in reqs:
                 rid = r["requirement_id"]
@@ -69,7 +73,7 @@ def main():
                 known = [x[1] for x in strong if x[1] is not None]
                 credits_known = len(known) == len(strong)
                 offered = sum(known) if known else None
-                if cl is None or (sid in TITLES_ONLY and not strong):
+                if cl is None or (sid in TITLES_ONLY and not strong) or (sid in PARTIAL and not strong):
                     status = "unknown"
                 elif strong:
                     if credits_known:
@@ -85,6 +89,7 @@ def main():
                             "required_credits": need, "status": status, "strong_courses": len(strong),
                             "strong_credits_offered": offered, "credits_known": "yes" if credits_known else "no",
                             "possible_courses": len(possible),
+                            "alt_year_only": "yes" if (strong or possible) and all(x[3] for x in (strong or possible)) else "no",
                             "examples": "; ".join(x[2] for x in (strong or possible)[:4])})
     (ROOT / "phase4").mkdir(exist_ok=True)
     with (ROOT / "phase4/gap_by_school.csv").open("w", newline="") as fh:

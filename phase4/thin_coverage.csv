@@ -1,0 +1,186 @@
+school_id,school_name,requirement_id,only_course
+arlington-memorial,Arlington Memorial,MATH-STATS-ALG2,Advanced Placement Statistics
+arlington-memorial,Arlington Memorial,SCI-EARTH,Earth Science
+arlington-memorial,Arlington Memorial,SS-CIVICS,Civics
+arlington-memorial,Arlington Memorial,FINLIT,Financial Literacy
+arlington-memorial,Arlington Memorial,HEALTH,Wellness
+bellows-falls-union-high-school,Bellows Falls Union High School,MATH-ALG1,Fast Paced Algebra I
+bellows-falls-union-high-school,Bellows Falls Union High School,MATH-GEOM,Fast Paced Geometry
+bellows-falls-union-high-school,Bellows Falls Union High School,SS-CIVICS,Senior Seminar
+bellows-falls-union-high-school,Bellows Falls Union High School,FINLIT,Financial Literacy
+bellows-falls-union-high-school,Bellows Falls Union High School,HEALTH,Health
+bellows-free-academy-middle-high-school-fairfax,Bellows Free Academy Middle/High School (Fairfax),MATH-GEOM,Geometry Applications
+bellows-free-academy-st-albans,Bellows Free Academy (St. Albans),SCI-EARTH,Earth Science
+blue-mountain-union-school,Blue Mountain Union School,MATH-ALG1,Algebra I
+blue-mountain-union-school,Blue Mountain Union School,MATH-GEOM,Geometry
+blue-mountain-union-school,Blue Mountain Union School,MATH-STATS-ALG2,Algebra II
+blue-mountain-union-school,Blue Mountain Union School,SS-USHIST,U.S. History
+blue-mountain-union-school,Blue Mountain Union School,SS-CIVICS,Civics
+blue-mountain-union-school,Blue Mountain Union School,SS-WORLD,World History I
+blue-mountain-union-school,Blue Mountain Union School,FINLIT,Financial Literacy
+brattleboro-union-high-school,Brattleboro Union High School,SS-CIVICS,Elections and Government
+brattleboro-union-high-school,Brattleboro Union High School,FINLIT,Personal Finance
+burlington-high-school,Burlington High School,MATH-GEOM,Geometry
+burlington-high-school,Burlington High School,SCI-EARTH,Earth Systems Science
+cabot-school,Cabot School,MATH-STATS-ALG2,ALGEBRA II
+cabot-school,Cabot School,SCI-PHYS,Chemistry of Color
+cabot-school,Cabot School,SCI-LIFE,AP Biology
+cabot-school,Cabot School,SS-USHIST,American Military History
+cabot-school,Cabot School,SS-WORLD,World Religions & Belief
+cabot-school,Cabot School,WL,Spanish
+canaan-schools,Canaan Schools,MATH-ALG1,Algebra I
+canaan-schools,Canaan Schools,MATH-GEOM,Geometry
+canaan-schools,Canaan Schools,SS-CIVICS,Civics and Economics
+canaan-schools,Canaan Schools,FINLIT,Personal Finance
+champlain-valley-union-high-school,Champlain Valley Union High School,FINLIT,Personal Finance
+colchester-high-school,Colchester High School,MATH-ALG1,Algebra I
+colchester-high-school,Colchester High School,MATH-GEOM,Geometry
+colchester-high-school,Colchester High School,SCI-EARTH,Earth Systems Science
+colchester-high-school,Colchester High School,SS-CIVICS,AP U.S. Government & Politics
+colchester-high-school,Colchester High School,FINLIT,Math in Finance
+craftsbury-schools,Craftsbury Schools,MATH-ALG1,Algebra 1
+craftsbury-schools,Craftsbury Schools,MATH-GEOM,Geometry
+craftsbury-schools,Craftsbury Schools,SS-CIVICS,AP U.S. Government
+craftsbury-schools,Craftsbury Schools,FINLIT,Financial Literacy
+danville-school,Danville School,MATH-ALG1,Algebra 1
+danville-school,Danville School,MATH-GEOM,Geometry
+danville-school,Danville School,SCI-EARTH,Earth Science
+danville-school,Danville School,SS-CIVICS,Civics
+danville-school,Danville School,FINLIT,Financial Literacy
+danville-school,Danville School,HEALTH,Teen Health
+fair-haven-union-middle-and-high-school,Fair Haven Union Middle and High School,SS-CIVICS,Life Skills US History
+green-mountain-union-high-school,Green Mountain Union High School,MATH-ALG1,Algebra I
+green-mountain-union-high-school,Green Mountain Union High School,MATH-GEOM,Geometry
+green-mountain-union-high-school,Green Mountain Union High School,SS-CIVICS,Civics
+green-mountain-union-high-school,Green Mountain Union High School,FINLIT,Personal Finance
+hartford-high-school,Hartford High School,SCI-EARTH,Earth & Space Science
+hartford-high-school,Hartford High School,FINLIT,Dollars and Sense: The Mathematics of Personal Finance
+harwood-union-middle-high-school,Harwood Union Middle/High School,SS-USHIST,U.S. History
+harwood-union-middle-high-school,Harwood Union Middle/High School,FINLIT,Personal Finance
+harwood-union-middle-high-school,Harwood Union Middle/High School,HEALTH,Personal Wellness
+hazen-union-high-school,Hazen Union High School,MATH-ALG1,Algebra I
+hazen-union-high-school,Hazen Union High School,MATH-GEOM,Geometry
+hazen-union-high-school,Hazen Union High School,SCI-LIFE,Biology/Environmental Science
+hazen-union-high-school,Hazen Union High School,SCI-EARTH,Astronomy and Rocket Science
+hazen-union-high-school,Hazen Union High School,FINLIT,Personal Finance
+lake-region-union-high-school,Lake Region Union High School,SS-CIVICS,Advanced Placement (AP) US Government and Politics
+lake-region-union-high-school,Lake Region Union High School,FINLIT,Business Mathematics
+lamoille-union-high-school,Lamoille Union High School,SS-CIVICS,Civics
+lamoille-union-high-school,Lamoille Union High School,FINLIT,Financial Independence
+lamoille-union-high-school,Lamoille Union High School,HEALTH,Health
+leland-gray-union-middle-high-school,Leland & Gray Union Middle & High School,SS-CIVICS,"Civics, Government, and Society"
+leland-gray-union-middle-high-school,Leland & Gray Union Middle & High School,FINLIT,Financial Literacy
+middlebury-union-high-school,Middlebury Union High School,MATH-ALG1,MYP4 Algebra 1
+middlebury-union-high-school,Middlebury Union High School,MATH-GEOM,"MYP5 Geometry, Probability, and Statistics (GPS)"
+middlebury-union-high-school,Middlebury Union High School,FINLIT,Personal Finance
+mill-river-union-high-school,Mill River Union High School,MATH-STATS-ALG2,AP Statistics
+mill-river-union-high-school,Mill River Union High School,FINLIT,Personal Finance
+milton-senior-high-school,Milton Senior High School,MATH-ALG1,Algebra I
+milton-senior-high-school,Milton Senior High School,MATH-GEOM,Geometry
+milton-senior-high-school,Milton Senior High School,FINLIT,Personal Finance
+missisquoi-valley-union-high-school,Missisquoi Valley Union High School,MATH-ALG1,ALGEBRA
+missisquoi-valley-union-high-school,Missisquoi Valley Union High School,MATH-GEOM,GEOMETRY
+missisquoi-valley-union-high-school,Missisquoi Valley Union High School,SS-WORLD,GLOBAL STUDIES
+missisquoi-valley-union-high-school,Missisquoi Valley Union High School,FINLIT,PERSONAL FINANCE
+montpelier-high-school,Montpelier High School,MATH-ALG1,Algebra I
+montpelier-high-school,Montpelier High School,MATH-GEOM,Geometry
+mt-abraham-union-high-school,Mt. Abraham Union High School,SS-CIVICS,U.S. Government and Politics
+mt-abraham-union-high-school,Mt. Abraham Union High School,HEALTH,Health and Wellness
+mt-anthony-senior-union-high-school,Mt. Anthony Senior Union High School,MATH-ALG1,Algebra 1
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,SCI-EARTH,Integrated Earth Systems
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,SS-CIVICS,Advanced Placement US Government and Politics
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,HEALTH,Healthy Living
+north-country-union-high-school,North Country Union High School,MATH-ALG1,Algebra 1
+northfield-middle-high-school,Northfield Middle/High School,MATH-ALG1,Algebra 1
+northfield-middle-high-school,Northfield Middle/High School,MATH-GEOM,Geometry
+northfield-middle-high-school,Northfield Middle/High School,SCI-EARTH,Earth Science
+northfield-middle-high-school,Northfield Middle/High School,FINLIT,Mathematics of Personal Finance
+otter-valley-union-high-school,Otter Valley Union High School,MATH-ALG1,Algebra 1
+otter-valley-union-high-school,Otter Valley Union High School,MATH-GEOM,Geometry
+otter-valley-union-high-school,Otter Valley Union High School,MATH-STATS-ALG2,Algebra 2
+otter-valley-union-high-school,Otter Valley Union High School,SCI-EARTH,Geophysics
+peoples-academy,Peoples Academy,MATH-ALG1,Common Core Algebra
+peoples-academy,Peoples Academy,MATH-GEOM,Common Core Geometry
+peoples-academy,Peoples Academy,SCI-EARTH,Astronomy
+peoples-academy,Peoples Academy,SS-CIVICS,Civics
+peoples-academy,Peoples Academy,FINLIT,Next Steps: Career Readiness & Financial Literacy
+peoples-academy,Peoples Academy,HEALTH,Health and Wellness
+poultney-high-school,Poultney High School,MATH-ALG1,Algebra I
+poultney-high-school,Poultney High School,MATH-GEOM,Geometry
+poultney-high-school,Poultney High School,SCI-LIFE,Biology
+poultney-high-school,Poultney High School,SCI-EARTH,Earth Science
+poultney-high-school,Poultney High School,SS-CIVICS,Civics
+poultney-high-school,Poultney High School,SS-WORLD,Global Studies
+poultney-high-school,Poultney High School,FINLIT,Personal Finance
+poultney-high-school,Poultney High School,HEALTH,Health
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,MATH-ALG1,Algebra I
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,MATH-GEOM,Geometry
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,MATH-PATHWAY,Pre-Calculus
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,MATH-STATS-ALG2,Algebra II
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,SS-CIVICS,Civics
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,SS-WORLD,Global Studies
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,FINLIT,Financial Literacy
+randolph-union-high-school,Randolph Union High School,MATH-GEOM,"AGS 2 (Algebra, Geometry & Statistics 2)"
+randolph-union-high-school,Randolph Union High School,SCI-EARTH,Integrated Science III: Space Physics
+randolph-union-high-school,Randolph Union High School,SS-CIVICS,RU Youth Policy Lab- Rock the Vote
+randolph-union-high-school,Randolph Union High School,HEALTH,Health Education
+richford-junior-senior-high-school,Richford Junior/Senior High School,SS-CIVICS,Civics / Criminal & Civil Law
+richford-junior-senior-high-school,Richford Junior/Senior High School,SS-WORLD,Global Citizenship
+richford-junior-senior-high-school,Richford Junior/Senior High School,FINLIT,Consumer Economics
+richford-junior-senior-high-school,Richford Junior/Senior High School,HEALTH,Health
+rivendell-academy,Rivendell Academy,SS-USHIST,Grade 9 American Studies
+rivendell-academy,Rivendell Academy,HEALTH,High School Social and Emotional Health
+rutland-senior-high-school,Rutland Senior High School,FINLIT,Applied Math - Finance College Prep
+south-burlington-high-school,South Burlington High School,FINLIT,Personal Finance
+spaulding-union-high-school,Spaulding Union High School,MATH-ALG1,Algebra I Honors
+spaulding-union-high-school,Spaulding Union High School,FINLIT,Financial Literacy
+springfield-high-school,Springfield High School,SCI-EARTH,Earth & Space Science
+stowe-high-school,Stowe High School,MATH-ALG1,Algebra I
+stowe-high-school,Stowe High School,MATH-GEOM,Geometry
+stowe-high-school,Stowe High School,SCI-EARTH,Earth Science
+stowe-high-school,Stowe High School,FINLIT,Financial Literacy
+twin-valley-middle-high-school,Twin Valley Middle High School,MATH-ALG1,Algebra 1
+twin-valley-middle-high-school,Twin Valley Middle High School,MATH-GEOM,Geometry
+twin-valley-middle-high-school,Twin Valley Middle High School,SCI-EARTH,Earth/Space Science
+twin-valley-middle-high-school,Twin Valley Middle High School,FINLIT,Pipelines & Pathways
+twinfield-union-school,Twinfield Union School,MATH-ALG1,Algebra 1
+twinfield-union-school,Twinfield Union School,MATH-GEOM,Geometry
+twinfield-union-school,Twinfield Union School,SCI-EARTH,Honors Geology
+twinfield-union-school,Twinfield Union School,SS-CIVICS,Civics
+twinfield-union-school,Twinfield Union School,FINLIT,Financial Literacy
+twinfield-union-school,Twinfield Union School,HEALTH,Health
+u-32-middle-high-school,U-32 Middle & High School,MATH-ALG1,Algebra I
+u-32-middle-high-school,U-32 Middle & High School,MATH-GEOM,Geometry
+u-32-middle-high-school,U-32 Middle & High School,SS-CIVICS,Democratic Roots
+u-32-middle-high-school,U-32 Middle & High School,FINLIT,Financial Literacy
+u-32-middle-high-school,U-32 Middle & High School,HEALTH,Health
+vergennes-union-high-school,Vergennes Union High School,MATH-GEOM,Geometry
+vergennes-union-high-school,Vergennes Union High School,MATH-STATS-ALG2,Statistics
+vergennes-union-high-school,Vergennes Union High School,SCI-EARTH,Earth and Environmental Science
+vergennes-union-high-school,Vergennes Union High School,SS-USHIST,United States History
+vergennes-union-high-school,Vergennes Union High School,SS-WORLD,World Geography and Cultures
+vergennes-union-high-school,Vergennes Union High School,FINLIT,Personal Finance
+west-rutland-school,West Rutland School,MATH-ALG1,Algebra I
+west-rutland-school,West Rutland School,MATH-GEOM,Geometry
+west-rutland-school,West Rutland School,SCI-PHYS,Chemistry
+west-rutland-school,West Rutland School,SCI-LIFE,Biology
+west-rutland-school,West Rutland School,SCI-EARTH,Earth Science
+west-rutland-school,West Rutland School,SS-CIVICS,Civics
+west-rutland-school,West Rutland School,SS-WORLD,Global Studies
+west-rutland-school,West Rutland School,FINLIT,Financial Literacy
+west-rutland-school,West Rutland School,HEALTH,Health
+white-river-valley-high-school,White River Valley High School,SS-CIVICS,Introduction to Civics
+white-river-valley-high-school,White River Valley High School,FINLIT,Financial Literacy
+windsor-school,Windsor School,MATH-ALG1,Algebra I
+windsor-school,Windsor School,SS-USHIST,U.S. History
+windsor-school,Windsor School,SS-CIVICS,Civics
+windsor-school,Windsor School,FINLIT,Financial Literacy
+winooski-high-school,Winooski High School,MATH-ALG1,Algebra 1
+winooski-high-school,Winooski High School,MATH-GEOM,Geometry
+winooski-high-school,Winooski High School,SCI-LIFE,Biology
+winooski-high-school,Winooski High School,SS-CIVICS,Civics
+winooski-high-school,Winooski High School,FINLIT,Personal Finance
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,MATH-ALG1,Algebra I
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,MATH-GEOM,Geometry
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,SS-WORLD,Modern World History
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,FINLIT,Personal Finance

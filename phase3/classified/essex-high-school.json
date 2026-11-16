@@ -1691,8 +1691,8 @@
    "credit_mappings": [
     {
      "requirement_id": "MATH-ALG1",
-     "strength": "possible",
-     "rationale": "Algebra I 100 (part of sequence); each part possible."
+     "strength": "strong",
+     "rationale": "Full-year Algebra I; 100/200 are levels, not parts (manual correction 2026-11-16, REPORT_PLAN §5.1)."
     }
    ],
    "science_domain": null,
@@ -1710,8 +1710,8 @@
    "credit_mappings": [
     {
      "requirement_id": "MATH-ALG1",
-     "strength": "possible",
-     "rationale": "Algebra I 200 (part of sequence); each part possible."
+     "strength": "strong",
+     "rationale": "Full-year Algebra I; 100/200 are levels, not parts (manual correction 2026-11-16, REPORT_PLAN §5.1)."
     }
    ],
    "science_domain": null,

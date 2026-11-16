@@ -1,0 +1,18 @@
+school_id,school_name,integrated_courses,alg1_status,geom_status,also_offers_traditional_alg1,also_offers_traditional_geom
+arlington-memorial,Arlington Memorial,Math A Honors; Math B Honors; Math 1; Math 2,possible_only,possible_only,False,False
+bellows-free-academy-middle-high-school-fairfax,Bellows Free Academy Middle/High School (Fairfax),Math 1: Linear and Exponential Functions; Math 1: Linear and Exponential Functions - Two Trimesters; Math 2: Quadratic Functions,possible_only,covered,False,True
+burlington-high-school,Burlington High School,Integrated Math 1; Integrated Math 2; Integrated Math 3B; Integrated Math 3,possible_only,covered,False,True
+champlain-valley-union-high-school,Champlain Valley Union High School,Core Math 1 Foundations; Core Math 1; Core Math 2; Math 2 Extended Study; Math 2,possible_only,covered,False,False
+fair-haven-union-middle-and-high-school,Fair Haven Union Middle and High School,Integrated Math 1; Integrated Math 2,covered,covered,True,True
+harwood-union-middle-high-school,Harwood Union Middle/High School,Integrated Math 1; Integrated Math 1 Online; Integrated Math 2; Integrated Math 3 Online; Integrated Math 3,possible_only,possible_only,False,False
+leland-gray-union-middle-high-school,Leland & Gray Union Middle & High School,Core Mathematics,possible_only,covered,True,False
+mill-river-union-high-school,Mill River Union High School,Int. Math 1A; Int. Math 1B; Integrated Math 1; Integrated Math 1/2 Honor; Integrated Math 2; Integrated Math 3,covered,unknown,False,False
+montpelier-high-school,Montpelier High School,Integrated Algebra/Geometry,covered,covered,True,True
+mt-abraham-union-high-school,Mt. Abraham Union High School,Bridge to Integrated Math; Integrated Math 1; Integrated Math 2; Integrated Math 3,possible_only,possible_only,False,False
+mt-mansfield-union-high-school,Mt. Mansfield Union High School,Math 2; Math 2 Honors; Math 1; Math 1 A/B; Math 1 Honors; Exploration of Common Core Math Concepts,covered,covered,False,True
+poultney-high-school,Poultney High School,Integrated Math I; Integrated Math II; Integrated Math III; Integrated Math IV,covered,covered,True,True
+randolph-union-high-school,Randolph Union High School,"AGS 1 (Algebra, Geometry & Statistics 1); AGS 2 (Algebra, Geometry & Statistics 2); AGS 3 (Algebra, Geometry & Statistics 3)",possible_only,covered,False,False
+richford-junior-senior-high-school,Richford Junior/Senior High School,Integrated Math I; Integrated Math II,possible_only,possible_only,False,False
+rutland-senior-high-school,Rutland Senior High School,Integrated Math 1 College Prep; Integrated Math 2 College Prep; Integrated Math 1 Honors; Integrated Math 2 Honors; Integrated Math Foundations; Integrated Math 3 College Prep,possible_only,possible_only,False,False
+south-burlington-high-school,South Burlington High School,Math 1 by 2 Years; Math 1; Math 2,possible_only,possible_only,False,False
+vergennes-union-high-school,Vergennes Union High School,Math 1; Math 2,possible_only,covered,False,True

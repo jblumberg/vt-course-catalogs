@@ -1,0 +1,48 @@
+school_id,school_name,local_total_stated,local_total_std_credits,unit_factor,unit_note,grading,local_only_requirements,local_ELA,local_MATH,local_SCI,local_SS,local_ARTS,local_WL,local_FINLIT,local_PE,local_HEALTH,local_PEH,local_ELECTIVE
+arlington-memorial,Arlington Memorial,26.0,26.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,10.0
+bellows-falls-union-high-school,Bellows Falls Union High School,28.0,28.0,1.0,,hybrid,,4.0,4.0,3.0,3.0,1.0,1.0,,1.5,1.0,2.5,9.5
+bellows-free-academy-st-albans,Bellows Free Academy (St. Albans),24.0,24.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,,0.5,1.5,0.5,2.0,7.5
+blue-mountain-union-school,Blue Mountain Union School,26.0,26.0,1.0,,hybrid,Capstone 1,4.0,4.0,3.0,3.0,1.5,,1.0,1.5,1.0,2.5,5.0
+brattleboro-union-high-school,Brattleboro Union High School,96.0,24.0,0.25,BUHS units / 4,hybrid,,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,8.0
+burlington-high-school,Burlington High School,24.0,24.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,2.0,,1.5,0.5,2.0,6.0
+canaan-schools,Canaan Schools,28.5,28.5,1.0,,hybrid,Computer Applications 0.5,4.0,4.0,3.0,3.0,2.0,,,1.5,0.5,2.0,10.0
+champlain-valley-union-high-school,Champlain Valley Union High School,22.0,22.0,1.0,,hybrid,Senior Exit Experience 0.5; RISE 2.0,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,3.5
+colchester-high-school,Colchester High School,24.5,24.5,1.0,,hybrid,,4.0,3.5,3.5,3.5,1.0,,,1.5,0.5,2.0,7.0
+craftsbury-schools,Craftsbury Schools,22.0,22.0,1.0,,hybrid,Senior Capstone 0.5,4.0,3.0,3.0,3.0,1.0,2.0,,1.5,,1.5,4.0
+essex-high-school,Essex High School,24.0,24.0,1.0,,hybrid,Computer Applications 0.5,4.0,3.0,3.0,3.0,1.5,1.0,,1.5,0.5,2.0,6.0
+fair-haven-union-middle-and-high-school,Fair Haven Union Middle and High School,24.0,24.0,1.0,,hybrid,Additional Core Flex Credit 1,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,7.0
+green-mountain-union-high-school,Green Mountain Union High School,22.5,22.5,1.0,,hybrid,,4.0,3.5,3.5,3.5,1.0,1.0,,,,2.0,5.0
+hartford-high-school,Hartford High School,26.0,26.0,1.0,,hybrid,Required Courses (subtotal as printed) 16.5,4.0,3.0,3.0,3.0,1.0,,,2.0,0.5,2.5,9.5
+harwood-union-middle-high-school,Harwood Union Middle/High School,,,1.0,,proficiency,,4.0,3.0,3.0,3.0,,,,,,,
+hazen-union-high-school,Hazen Union High School,22.0,22.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.5,,,1.5,0.5,2.0,
+lake-region-union-high-school,Lake Region Union High School,23.0,23.0,1.0,,hybrid,Technology Applications 0.5; Community Service 0.5,4.0,4.0,3.0,3.5,1.0,,,1.5,0.5,2.0,4.5
+lamoille-union-high-school,Lamoille Union High School,24.0,24.0,1.0,,hybrid,Capstone Project 0.5,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,7.5
+leland-gray-union-middle-high-school,Leland & Gray Union Middle & High School,26.0,26.0,1.0,,hybrid,,4.0,4.0,4.0,3.0,1.0,,,2.0,0.5,2.5,7.5
+middlebury-union-high-school,Middlebury Union High School,22.5,22.5,1.0,,hybrid,Theory of Knowledge 0.5,4.0,3.0,3.0,3.0,2.0,1.0,,1.5,1.0,2.5,3.5
+mill-river-union-high-school,Mill River Union High School,26.0,26.0,1.0,,hybrid,,4.0,3.0,3.0,3.5,1.0,1.0,,1.5,0.5,2.0,8.5
+milton-senior-high-school,Milton Senior High School,24.0,24.0,1.0,,hybrid,Service Learning/Internships 0.5; Technology 0.5,4.0,3.5,3.0,4.0,1.0,1.0,,1.5,0.5,2.0,
+missisquoi-valley-union-high-school,Missisquoi Valley Union High School,25.0,25.0,1.0,,hybrid,Business Education 1,4.0,3.0,3.0,3.5,1.0,,,1.5,0.5,2.0,7.5
+montpelier-high-school,Montpelier High School,23.0,23.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,7.0
+mt-abraham-union-high-school,Mt. Abraham Union High School,24.0,24.0,1.0,,hybrid,,4.0,3.0,3.0,3.5,1.0,,,1.5,0.5,2.0,7.5
+mt-anthony-senior-union-high-school,Mt. Anthony Senior Union High School,24.0,24.0,1.0,,hybrid,Technology 0.5,4.0,3.0,3.0,3.0,1.0,,1.0,1.5,0.5,2.0,6.5
+north-country-union-high-school,North Country Union High School,25.0,25.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,9.0
+northfield-middle-high-school,Northfield Middle/High School,21.5,21.5,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,5.5
+otter-valley-union-high-school,Otter Valley Union High School,26.5,26.5,1.0,,credit,,5.0,3.0,3.0,4.0,2.0,,0.5,1.5,0.5,2.0,7.0
+oxbow-union-high-school,Oxbow Union High School,23.0,23.0,1.0,,credit,,4.0,3.0,3.0,4.0,1.0,,,1.5,0.5,2.0,
+peoples-academy,Peoples Academy,34.0,34.0,1.0,semester class = 1 credit; unit unclear,credit,,6.0,6.0,6.0,6.0,1.0,,,2.0,1.0,3.0,6.0
+poultney-high-school,Poultney High School,28.0,28.0,1.0,semester block course = 1 credit,hybrid,,4.0,4.0,4.0,4.0,1.0,1.0,,2.0,1.0,3.0,7.0
+proctor-junior-senior-high-school,Proctor Junior/Senior High School,28.0,28.0,1.0,semester block course = 1 credit,hybrid,,4.0,4.0,4.0,4.0,1.0,1.0,,2.0,1.0,3.0,7.0
+randolph-union-high-school,Randolph Union High School,,,1.0,,hybrid,Life Skills 0.5,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,
+richford-junior-senior-high-school,Richford Junior/Senior High School,24.0,24.0,1.0,,hybrid,Computer Science 1; Consumer Economics 0.5,4.0,3.0,3.0,3.0,2.0,,,1.5,0.5,2.0,5.5
+rutland-senior-high-school,Rutland Senior High School,26.0,26.0,1.0,,hybrid,Life Skills 0.5; Information Technology 1.0,4.0,3.0,3.0,3.0,1.0,,,2.0,,2.0,8.5
+south-burlington-high-school,South Burlington High School,,,1.0,,hybrid,Information Technology 0.5,4.0,3.0,3.0,3.5,1.0,,0.5,1.5,0.5,2.0,
+spaulding-union-high-school,Spaulding Union High School,24.0,24.0,1.0,,hybrid,,4.0,3.0,3.0,3.5,1.0,,0.5,1.5,0.5,2.0,7.0
+springfield-high-school,Springfield High School,27.0,27.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,1.0,0.5,1.5,1.0,2.5,9.0
+stowe-high-school,Stowe High School,24.0,24.0,1.0,,credit,,4.0,3.0,3.0,3.5,1.0,,,1.0,0.5,1.5,8.0
+twin-valley-middle-high-school,Twin Valley Middle High School,22.0,22.0,1.0,,hybrid,Pipelines & Pathways 0.5,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,5.5
+vergennes-union-high-school,Vergennes Union High School,22.5,22.5,1.0,,hybrid,Technology 0.5,4.0,3.0,3.0,4.5,1.0,,0.5,1.5,0.5,2.0,5.5
+west-rutland-school,West Rutland School,28.0,28.0,1.0,semester block course = 1 credit,hybrid,,4.0,4.0,4.0,4.0,1.0,1.0,,2.0,1.0,3.0,7.0
+white-river-valley-high-school,White River Valley High School,24.0,24.0,1.0,,hybrid,,4.0,3.0,3.0,3.0,1.0,,,1.5,0.5,2.0,8.0
+windsor-school,Windsor School,24.0,24.0,1.0,,hybrid,Computer Science/Technology 0.5; Jr. Seminar / Capstone 2,4.0,3.0,3.5,3.0,1.0,1.0,,1.5,0.5,2.0,5.0
+winooski-high-school,Winooski High School,,,1.0,,hybrid,,4.0,3.0,3.0,3.0,2.0,1.0,1.0,2.0,1.0,3.0,
+woodstock-union-middle-high-school,Woodstock Union Middle/High School,,,1.0,,hybrid,,,3.0,3.0,,,,,,,2.0,

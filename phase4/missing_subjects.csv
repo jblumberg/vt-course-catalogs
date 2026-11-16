@@ -1,0 +1,9 @@
+school_id,school_name,area,requirement_id,enrollment_2024,size_band,data_confidence,nearest_substitutes
+cabot-school,Cabot School,Financial Literacy,FINLIT,150,under 200,low,Business Algebra I
+cabot-school,Cabot School,Civics,SS-CIVICS,150,under 200,low,American Military History; American Horror Story
+cabot-school,Cabot School,Earth/Space Science,SCI-EARTH,150,under 200,low,
+canaan-schools,Canaan Schools,World Language,WL,184,under 200,normal,Art of World Cultures; Intro to Technology & Digital Media; American Literature; Media and Technical Writing; Health
+rivendell-academy,Rivendell Academy,Financial Literacy,FINLIT,209,200-399,low,
+rivendell-academy,Rivendell Academy,Civics,SS-CIVICS,209,200-399,low,Grade 9 American Studies
+rivendell-academy,Rivendell Academy,Earth/Space Science,SCI-EARTH,209,200-399,low,
+spaulding-union-high-school,Spaulding Union High School,Earth/Space Science,SCI-EARTH,610,400-799,normal,Geometry Honors; Geometry; Physical Science; Marine Biology; Wildlife Ecology
